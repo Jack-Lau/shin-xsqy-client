@@ -1,0 +1,155 @@
+{
+  "3102000" : {
+    "id" : 3102000,
+    "name" : "万蛊噬心",
+    "iconId" : 103100,
+    "description" : "封印并持续伤害",
+    "effectId" : 3102000,
+    "effectLocation" : 1,
+    "effectFrameRate" : 24
+  },
+  "3102001" : {
+    "id" : 3102001,
+    "name" : "六脉血逆",
+    "iconId" : 103200,
+    "description" : "免疫封印",
+    "effectId" : 3102001,
+    "effectLocation" : 1,
+    "effectFrameRate" : 30
+  },
+  "3102002" : {
+    "id" : 3102002,
+    "name" : "封魂咒",
+    "iconId" : 103300,
+    "description" : "封印并持续伤害",
+    "effectId" : 3102000,
+    "effectLocation" : 1,
+    "effectFrameRate" : 24
+  },
+  "3102003" : {
+    "id" : 3102003,
+    "name" : "七煞诀",
+    "iconId" : 103500,
+    "description" : "提升攻击和防御",
+    "effectId" : 3102003,
+    "effectLocation" : 0,
+    "effectFrameRate" : 15
+  },
+  "3102004" : {
+    "id" : 3102004,
+    "name" : "风驰",
+    "iconId" : 3101220,
+    "description" : "降低速度",
+    "effectId" : 3102004,
+    "effectLocation" : 1,
+    "effectFrameRate" : 15
+  },
+  "3102005" : {
+    "id" : 3102005,
+    "name" : "七煞诀强化",
+    "iconId" : 103501,
+    "description" : "减伤",
+    "effectId" : 3102005,
+    "effectLocation" : 0,
+    "effectFrameRate" : 24
+  },
+  "3102006" : {
+    "id" : 3102006,
+    "name" : "风驰强化",
+    "iconId" : 3101220,
+    "description" : "降低速度",
+    "effectId" : 0,
+    "effectLocation" : 1,
+    "effectFrameRate" : 15
+  },
+  "3102007" : {
+    "id" : 3102007,
+    "name" : "减速",
+    "iconId" : 3102007,
+    "description" : "降低速度",
+    "effectId" : 3102007,
+    "effectLocation" : 1,
+    "effectFrameRate" : 15
+  },
+  "3102008" : {
+    "id" : 3102008,
+    "name" : "神速",
+    "iconId" : 3102008,
+    "description" : "提升速度",
+    "effectId" : 3102008,
+    "effectLocation" : 1,
+    "effectFrameRate" : 13
+  },
+  "3102009" : {
+    "id" : 3102009,
+    "name" : "混元",
+    "iconId" : 3102009,
+    "description" : "提升法伤",
+    "effectId" : 3102009,
+    "effectLocation" : 0,
+    "effectFrameRate" : 16
+  },
+  "3102010" : {
+    "id" : 3102010,
+    "name" : "慈悲",
+    "iconId" : 3102010,
+    "description" : "持续回复生命",
+    "effectId" : 3102010,
+    "effectLocation" : 0,
+    "effectFrameRate" : 20
+  },
+  "3102011" : {
+    "id" : 3102011,
+    "name" : "护佑",
+    "iconId" : 3102011,
+    "description" : "降低受到的伤害",
+    "effectId" : 3102011,
+    "effectLocation" : 0,
+    "effectFrameRate" : 24
+  },
+  "3102012" : {
+    "id" : 3102012,
+    "name" : "眩光",
+    "iconId" : 3102012,
+    "description" : "降低生命回复效果",
+    "effectId" : 3102012,
+    "effectLocation" : 0,
+    "effectFrameRate" : 16
+  },
+  "3102013" : {
+    "id" : 3102013,
+    "name" : "再生",
+    "iconId" : 3102013,
+    "description" : "持续回复生命",
+    "effectId" : 3102013,
+    "effectLocation" : 0,
+    "effectFrameRate" : 20
+  },
+  "3102014" : {
+    "id" : 3102014,
+    "name" : "再临",
+    "iconId" : 3102014,
+    "description" : "提升神佑率",
+    "effectId" : 3102014,
+    "effectLocation" : 0,
+    "effectFrameRate" : 16
+  },
+  "3102015" : {
+    "id" : 3102015,
+    "name" : "妙手",
+    "iconId" : 3102015,
+    "description" : "提升治疗效果",
+    "effectId" : 3102015,
+    "effectLocation" : 0,
+    "effectFrameRate" : 16
+  },
+  "3102016" : {
+    "id" : 3102016,
+    "name" : "虚弱",
+    "iconId" : 3101220,
+    "description" : "免疫死亡被触发了",
+    "effectId" : 0,
+    "effectLocation" : 1,
+    "effectFrameRate" : 15
+  }
+}

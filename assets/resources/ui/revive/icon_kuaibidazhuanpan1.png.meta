@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2c93dd38-a64e-4da6-834f-82928611aae4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 86,
+  "height": 84,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_kuaibidazhuanpan1": {
+      "ver": "1.0.6",
+      "uuid": "474818dc-33c6-4f91-b8a5-54323c1f5236",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2c93dd38-a64e-4da6-834f-82928611aae4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 80,
+      "height": 80,
+      "rawWidth": 86,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

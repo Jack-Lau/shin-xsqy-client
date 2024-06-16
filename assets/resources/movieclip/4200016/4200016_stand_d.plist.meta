@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "4ff03615-c2b1-4d14-8e42-8c444c95a4b3",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "735f2ca2-b936-40ad-8486-4b79c19f714e",
+  "size": {
+    "width": 114,
+    "height": 143
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "木桶2.png": {
+      "ver": "1.0.6",
+      "uuid": "bd019e8a-4616-4437-8f3b-dae49b3f085f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "735f2ca2-b936-40ad-8486-4b79c19f714e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -33,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 112,
+      "height": 141,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

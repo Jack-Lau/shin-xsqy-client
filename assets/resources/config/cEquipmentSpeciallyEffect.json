@@ -1,0 +1,432 @@
+{
+  "600" : {
+    "id" : 600,
+    "name" : "狂怒",
+    "parameter" : [ {
+      "name" : "行动获得怒气",
+      "value" : 5.0
+    } ],
+    "fc" : 2000,
+    "blueRecast" : 0.0035000000000000005,
+    "purpleRecast" : 0.0035000000000000005,
+    "recommendedPrice" : 0,
+    "description" : "战斗内人物每次行动后获得5点怒气"
+  },
+  "601" : {
+    "id" : 601,
+    "name" : "暴怒",
+    "parameter" : [ {
+      "name" : "受伤怒气回复率",
+      "value" : 0.2
+    } ],
+    "fc" : 2000,
+    "blueRecast" : 0.0035000000000000005,
+    "purpleRecast" : 0.0035000000000000005,
+    "recommendedPrice" : 0,
+    "description" : "受到伤害时获得的怒气提升20%"
+  },
+  "602" : {
+    "id" : 602,
+    "name" : "破天",
+    "parameter" : [ {
+      "name" : "无视反震",
+      "value" : 1.0
+    }, {
+      "name" : "无视反击",
+      "value" : 1.0
+    } ],
+    "fc" : 2000,
+    "blueRecast" : 0.0035000000000000005,
+    "purpleRecast" : 0.0035000000000000005,
+    "recommendedPrice" : 0,
+    "description" : "无视目标的反击、反震效果"
+  },
+  "603" : {
+    "id" : 603,
+    "name" : "俊足",
+    "parameter" : [ {
+      "name" : "移动速度百分比",
+      "value" : 0.2
+    } ],
+    "fc" : 2000,
+    "blueRecast" : 0.0035000000000000005,
+    "purpleRecast" : 0.0035000000000000005,
+    "recommendedPrice" : 0,
+    "description" : "人物在地图上的移动速度提升20%"
+  },
+  "604" : {
+    "id" : 604,
+    "name" : "愤怒",
+    "parameter" : [ {
+      "name" : "怒气消耗率",
+      "value" : -0.15
+    } ],
+    "fc" : 2000,
+    "blueRecast" : 0.0035000000000000005,
+    "purpleRecast" : 0.0035000000000000005,
+    "recommendedPrice" : 0,
+    "description" : "使用怒气技能时消耗降低15%"
+  },
+  "605" : {
+    "id" : 605,
+    "name" : "再临",
+    "parameter" : [ {
+      "name" : "神佑率",
+      "value" : 0.05
+    } ],
+    "fc" : 2000,
+    "blueRecast" : 0.0035000000000000005,
+    "purpleRecast" : 0.0035000000000000005,
+    "recommendedPrice" : 0,
+    "description" : "受到致死伤害时5%几率神佑，回复100%气血"
+  },
+  "606" : {
+    "id" : 606,
+    "name" : "气血",
+    "parameter" : [ {
+      "name" : "最大生命",
+      "value" : 1350.0
+    } ],
+    "fc" : 210,
+    "blueRecast" : 0.034999999999999996,
+    "purpleRecast" : 0.034999999999999996,
+    "recommendedPrice" : 0,
+    "description" : "气血提升1350点"
+  },
+  "607" : {
+    "id" : 607,
+    "name" : "外伤",
+    "parameter" : [ {
+      "name" : "物伤",
+      "value" : 260.0
+    } ],
+    "fc" : 210,
+    "blueRecast" : 0.034999999999999996,
+    "purpleRecast" : 0.034999999999999996,
+    "recommendedPrice" : 0,
+    "description" : "外功伤害提升260点"
+  },
+  "608" : {
+    "id" : 608,
+    "name" : "内伤",
+    "parameter" : [ {
+      "name" : "法伤",
+      "value" : 260.0
+    } ],
+    "fc" : 210,
+    "blueRecast" : 0.034999999999999996,
+    "purpleRecast" : 0.034999999999999996,
+    "recommendedPrice" : 0,
+    "description" : "内功伤害提升260点"
+  },
+  "609" : {
+    "id" : 609,
+    "name" : "外防",
+    "parameter" : [ {
+      "name" : "物防",
+      "value" : 170.0
+    } ],
+    "fc" : 210,
+    "blueRecast" : 0.034999999999999996,
+    "purpleRecast" : 0.034999999999999996,
+    "recommendedPrice" : 0,
+    "description" : "外功防御提升170点"
+  },
+  "610" : {
+    "id" : 610,
+    "name" : "内防",
+    "parameter" : [ {
+      "name" : "法防",
+      "value" : 170.0
+    } ],
+    "fc" : 210,
+    "blueRecast" : 0.034999999999999996,
+    "purpleRecast" : 0.034999999999999996,
+    "recommendedPrice" : 0,
+    "description" : "内功防御提升170点"
+  },
+  "611" : {
+    "id" : 611,
+    "name" : "神速",
+    "parameter" : [ {
+      "name" : "速度",
+      "value" : 80.0
+    } ],
+    "fc" : 210,
+    "blueRecast" : 0.034999999999999996,
+    "purpleRecast" : 0.034999999999999996,
+    "recommendedPrice" : 0,
+    "description" : "速度提升80点"
+  },
+  "612" : {
+    "id" : 612,
+    "name" : "强运",
+    "parameter" : [ {
+      "name" : "幸运",
+      "value" : 150.0
+    } ],
+    "fc" : 210,
+    "blueRecast" : 0.034999999999999996,
+    "purpleRecast" : 0.034999999999999996,
+    "recommendedPrice" : 0,
+    "description" : "幸运提升150点"
+  },
+  "613" : {
+    "id" : 613,
+    "name" : "连击",
+    "parameter" : [ {
+      "name" : "连击率",
+      "value" : 0.025
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "连击率提升2.5%"
+  },
+  "614" : {
+    "id" : 614,
+    "name" : "吸血",
+    "parameter" : [ {
+      "name" : "吸血率",
+      "value" : 0.02
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "吸血率提升2%"
+  },
+  "615" : {
+    "id" : 615,
+    "name" : "暴击",
+    "parameter" : [ {
+      "name" : "暴击率",
+      "value" : 0.015
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "暴击率提升1.5%"
+  },
+  "616" : {
+    "id" : 616,
+    "name" : "暴伤",
+    "parameter" : [ {
+      "name" : "暴击效果",
+      "value" : 0.05
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "暴击效果提升5%"
+  },
+  "617" : {
+    "id" : 617,
+    "name" : "招架",
+    "parameter" : [ {
+      "name" : "格挡率",
+      "value" : 0.02
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "招架率提升2%"
+  },
+  "618" : {
+    "id" : 618,
+    "name" : "猛攻",
+    "parameter" : [ {
+      "name" : "招式力",
+      "value" : 0.02
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "招式力提升2%"
+  },
+  "619" : {
+    "id" : 619,
+    "name" : "不屈",
+    "parameter" : [ {
+      "name" : "抵抗力",
+      "value" : 0.02
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "抵抗力提升2%"
+  },
+  "620" : {
+    "id" : 620,
+    "name" : "激怒",
+    "parameter" : [ {
+      "name" : "额外初始怒气",
+      "value" : 6.0
+    } ],
+    "fc" : 1000,
+    "blueRecast" : 0.007000000000000001,
+    "purpleRecast" : 0.007000000000000001,
+    "recommendedPrice" : 0,
+    "description" : "战斗初始怒气+6"
+  },
+  "621" : {
+    "id" : 621,
+    "name" : "真眼",
+    "parameter" : [ {
+      "name" : "额外命中率",
+      "value" : 0.02
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "所有伤害与封印的命中率+2%"
+  },
+  "622" : {
+    "id" : 622,
+    "name" : "旋回",
+    "parameter" : [ {
+      "name" : "额外闪避率",
+      "value" : 0.02
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "所有受到伤害与封印的命中率-2%"
+  },
+  "623" : {
+    "id" : 623,
+    "name" : "迅闪",
+    "parameter" : [ {
+      "name" : "最大生命",
+      "value" : 1200.0
+    }, {
+      "name" : "速度",
+      "value" : 70.0
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "气血提升1200点，速度提升70点"
+  },
+  "624" : {
+    "id" : 624,
+    "name" : "天阵",
+    "parameter" : [ {
+      "name" : "物防",
+      "value" : 150.0
+    }, {
+      "name" : "法防",
+      "value" : 150.0
+    } ],
+    "fc" : 365,
+    "blueRecast" : 0.02,
+    "purpleRecast" : 0.02,
+    "recommendedPrice" : 0,
+    "description" : "外防与内防提升150点"
+  },
+  "625" : {
+    "id" : 625,
+    "name" : "天舞",
+    "parameter" : [ {
+      "name" : "招式力",
+      "value" : 0.01
+    }, {
+      "name" : "抵抗力",
+      "value" : 0.01
+    } ],
+    "fc" : 500,
+    "blueRecast" : 0.01,
+    "purpleRecast" : 0.01,
+    "recommendedPrice" : 0,
+    "description" : "招式力与抵抗力提升1%"
+  },
+  "626" : {
+    "id" : 626,
+    "name" : "无双",
+    "parameter" : [ {
+      "name" : "暴击率",
+      "value" : 0.01
+    }, {
+      "name" : "暴击效果",
+      "value" : 0.05
+    } ],
+    "fc" : 500,
+    "blueRecast" : 0.01,
+    "purpleRecast" : 0.01,
+    "recommendedPrice" : 0,
+    "description" : "暴击率提升1%，暴击效果提升5%"
+  },
+  "627" : {
+    "id" : 627,
+    "name" : "分身",
+    "parameter" : [ {
+      "name" : "法伤",
+      "value" : 300.0
+    }, {
+      "name" : "连击率",
+      "value" : 0.025
+    } ],
+    "fc" : 500,
+    "blueRecast" : 0.01,
+    "purpleRecast" : 0.01,
+    "recommendedPrice" : 0,
+    "description" : "内伤提升300点，连击率提升2.5%"
+  },
+  "628" : {
+    "id" : 628,
+    "name" : "旋风",
+    "parameter" : [ {
+      "name" : "法伤",
+      "value" : 300.0
+    }, {
+      "name" : "格挡率",
+      "value" : 0.015
+    } ],
+    "fc" : 500,
+    "blueRecast" : 0.01,
+    "purpleRecast" : 0.01,
+    "recommendedPrice" : 0,
+    "description" : "内伤提升300点，招架率提升1.5%"
+  },
+  "629" : {
+    "id" : 629,
+    "name" : "勇猛",
+    "parameter" : [ {
+      "name" : "物伤",
+      "value" : 300.0
+    }, {
+      "name" : "暴击率",
+      "value" : 0.01
+    } ],
+    "fc" : 500,
+    "blueRecast" : 0.01,
+    "purpleRecast" : 0.01,
+    "recommendedPrice" : 0,
+    "description" : "外伤提升300点，暴击率提升1%"
+  },
+  "630" : {
+    "id" : 630,
+    "name" : "极意",
+    "parameter" : [ {
+      "name" : "物伤",
+      "value" : 300.0
+    }, {
+      "name" : "吸血率",
+      "value" : 0.015
+    } ],
+    "fc" : 500,
+    "blueRecast" : 0.01,
+    "purpleRecast" : 0.01,
+    "recommendedPrice" : 0,
+    "description" : "外伤提升300点，吸血率提升1.5%"
+  }
+}

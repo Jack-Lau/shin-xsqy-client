@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2465e95a-f596-4c77-ba74-49896ba41aa0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1824,
+  "height": 1046,
+  "platformSettings": {},
+  "subMetas": {
+    "casino_map_welcome": {
+      "ver": "1.0.6",
+      "uuid": "a367906e-985e-46c6-88a1-47aff35fe0af",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2465e95a-f596-4c77-ba74-49896ba41aa0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1820,
+      "height": 1042,
+      "rawWidth": 1824,
+      "rawHeight": 1046,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

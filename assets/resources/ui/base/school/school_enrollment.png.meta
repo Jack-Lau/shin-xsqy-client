@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f902becc-1307-4b06-b55b-2d786abf3202",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2021,
+  "height": 738,
+  "platformSettings": {},
+  "subMetas": {
+    "school_enrollment": {
+      "ver": "1.0.6",
+      "uuid": "a2c4bca8-c8de-4614-9f6e-5f59e0848f15",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f902becc-1307-4b06-b55b-2d786abf3202",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2021,
+      "height": 738,
+      "rawWidth": 2021,
+      "rawHeight": 738,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

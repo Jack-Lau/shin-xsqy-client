@@ -1,0 +1,262 @@
+{
+  "157001" : {
+    "id" : 157001,
+    "name" : "门派任务",
+    "level" : 20,
+    "responseType" : 2,
+    "responseParameter" : "602",
+    "livenessRequirement" : "次数${time}/20",
+    "livenessAward" : 20,
+    "livenessReset" : 1
+  },
+  "157007" : {
+    "id" : 157007,
+    "name" : "藏宝图",
+    "level" : 30,
+    "responseType" : 1,
+    "responseParameter" : "藏宝图",
+    "livenessRequirement" : "挖宝${treasureTime}/1",
+    "livenessAward" : 20,
+    "livenessReset" : 1
+  },
+  "157002" : {
+    "id" : 157002,
+    "name" : "金光塔",
+    "level" : 40,
+    "responseType" : 1,
+    "responseParameter" : "金光塔",
+    "livenessRequirement" : "通关${layer}/20",
+    "livenessAward" : 20,
+    "livenessReset" : 1
+  },
+  "157006" : {
+    "id" : 157006,
+    "name" : "抢占摇钱树",
+    "level" : 45,
+    "responseType" : 2,
+    "responseParameter" : "288",
+    "livenessRequirement" : "次数${partakeTime}/5",
+    "livenessAward" : 20,
+    "livenessReset" : 1
+  },
+  "157008" : {
+    "id" : 157008,
+    "name" : "乱斗大会",
+    "level" : 50,
+    "responseType" : 1,
+    "responseParameter" : "乱斗大会",
+    "livenessRequirement" : "完成${brawlStage}/1",
+    "livenessAward" : 20,
+    "livenessReset" : 1
+  },
+  "157009" : {
+    "id" : 157009,
+    "name" : "钓鱼",
+    "level" : 60,
+    "responseType" : 2,
+    "responseParameter" : "428",
+    "livenessRequirement" : "钓鱼${fishing}/10",
+    "livenessAward" : 20,
+    "livenessReset" : 1
+  },
+  "157005" : {
+    "id" : 157005,
+    "name" : "邀请分享",
+    "level" : 0,
+    "responseType" : 1,
+    "responseParameter" : "邀请与分享",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "157004" : {
+    "id" : 157004,
+    "name" : "欢乐大转盘",
+    "level" : 0,
+    "responseType" : 1,
+    "responseParameter" : "块币大转盘",
+    "livenessRequirement" : "转动${turn}/10",
+    "livenessAward" : 25,
+    "livenessReset" : 1
+  },
+  "158003" : {
+    "id" : 158003,
+    "name" : "王者决战",
+    "level" : 50,
+    "responseType" : 1,
+    "responseParameter" : "王者决战",
+    "livenessRequirement" : "决战次数${battleTime}/10",
+    "livenessAward" : 25,
+    "livenessReset" : 1
+  },
+  "158006" : {
+    "id" : 158006,
+    "name" : "在线有礼",
+    "level" : 50,
+    "responseType" : 1,
+    "responseParameter" : "在线奖励",
+    "livenessRequirement" : "领取奖励${award}/5",
+    "livenessAward" : 50,
+    "livenessReset" : 1
+  },
+  "158005" : {
+    "id" : 158005,
+    "name" : "周末佳肴",
+    "level" : 50,
+    "responseType" : 1,
+    "responseParameter" : "元宵佳肴",
+    "livenessRequirement" : "邀请人数${eat}/3",
+    "livenessAward" : 50,
+    "livenessReset" : 1
+  },
+  "158007" : {
+    "id" : 158007,
+    "name" : "福星降临",
+    "level" : 50,
+    "responseType" : 1,
+    "responseParameter" : "福星降临",
+    "livenessRequirement" : "挑战福星${luckyStar}/3",
+    "livenessAward" : 50,
+    "livenessReset" : 1
+  },
+  "159001" : {
+    "id" : 159001,
+    "name" : "序章",
+    "level" : 0,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159002" : {
+    "id" : 159002,
+    "name" : "第二章",
+    "level" : 9,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159003" : {
+    "id" : 159003,
+    "name" : "第三章",
+    "level" : 19,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159004" : {
+    "id" : 159004,
+    "name" : "夫少传",
+    "level" : 25,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159005" : {
+    "id" : 159005,
+    "name" : "第四章",
+    "level" : 29,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159006" : {
+    "id" : 159006,
+    "name" : "牛河传",
+    "level" : 35,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159007" : {
+    "id" : 159007,
+    "name" : "第五章",
+    "level" : 39,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159008" : {
+    "id" : 159008,
+    "name" : "冯达传",
+    "level" : 45,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159009" : {
+    "id" : 159009,
+    "name" : "第六章",
+    "level" : 49,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159010" : {
+    "id" : 159010,
+    "name" : "小六传",
+    "level" : 55,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159011" : {
+    "id" : 159011,
+    "name" : "第七章",
+    "level" : 59,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159012" : {
+    "id" : 159012,
+    "name" : "锦鲤传",
+    "level" : 65,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159013" : {
+    "id" : 159013,
+    "name" : "第八章",
+    "level" : 69,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  },
+  "159014" : {
+    "id" : 159014,
+    "name" : "迎庭传 上",
+    "level" : 75,
+    "responseType" : 4,
+    "responseParameter" : "0",
+    "livenessRequirement" : "0",
+    "livenessAward" : 0,
+    "livenessReset" : 0
+  }
+}

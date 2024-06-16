@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f2bf0f46-c29a-471d-9bc7-e798eb9481fa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 79,
+  "height": 79,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_batiji": {
+      "ver": "1.0.6",
+      "uuid": "95c42fdb-c60f-41ed-ae25-02402e1c52dc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f2bf0f46-c29a-471d-9bc7-e798eb9481fa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 79,
+      "height": 79,
+      "rawWidth": 79,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

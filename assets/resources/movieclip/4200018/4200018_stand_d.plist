@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>卷轴NPC2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>anchor</key>
+                <string>{0.612903,0.414063}</string>
+                <key>spriteOffset</key>
+                <string>{7,0}</string>
+                <key>spriteSize</key>
+                <string>{78,48}</string>
+                <key>spriteSourceSize</key>
+                <string>{124,128}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{78,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>4200018_stand_d.png</string>
+            <key>size</key>
+            <string>{80,50}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:a82db9ef22c3b5f94ac1dbc1b5a0ec77:badb8925b862c735faea8a6b4acca609:3c8134f8366b55d4b57c059e741b2ff9$</string>
+            <key>textureFileName</key>
+            <string>4200018_stand_d.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,1464 @@
+{
+  "1" : {
+    "id" : 1,
+    "rank" : "青铜游侠5阶1星",
+    "cRank" : "1_5_1",
+    "nextRank" : 3,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 1250
+    }, {
+      "id" : 150,
+      "amount" : 500
+    } ],
+    "mail" : 52
+  },
+  "2" : {
+    "id" : 2,
+    "rank" : "青铜游侠5阶2星",
+    "cRank" : "1_5_2",
+    "nextRank" : 3,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 1500
+    }, {
+      "id" : 150,
+      "amount" : 1000
+    } ],
+    "mail" : 52
+  },
+  "3" : {
+    "id" : 3,
+    "rank" : "青铜游侠4阶1星",
+    "cRank" : "1_4_1",
+    "nextRank" : 5,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 1750
+    }, {
+      "id" : 150,
+      "amount" : 1500
+    } ],
+    "mail" : 52
+  },
+  "4" : {
+    "id" : 4,
+    "rank" : "青铜游侠4阶2星",
+    "cRank" : "1_4_2",
+    "nextRank" : 5,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 2000
+    }, {
+      "id" : 150,
+      "amount" : 2000
+    } ],
+    "mail" : 52
+  },
+  "5" : {
+    "id" : 5,
+    "rank" : "青铜游侠3阶1星",
+    "cRank" : "1_3_1",
+    "nextRank" : 7,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 2250
+    }, {
+      "id" : 150,
+      "amount" : 2500
+    } ],
+    "mail" : 52
+  },
+  "6" : {
+    "id" : 6,
+    "rank" : "青铜游侠3阶2星",
+    "cRank" : "1_3_2",
+    "nextRank" : 7,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 2500
+    }, {
+      "id" : 150,
+      "amount" : 3000
+    } ],
+    "mail" : 52
+  },
+  "7" : {
+    "id" : 7,
+    "rank" : "青铜游侠2阶1星",
+    "cRank" : "1_2_1",
+    "nextRank" : 9,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 2750
+    }, {
+      "id" : 150,
+      "amount" : 3500
+    } ],
+    "mail" : 52
+  },
+  "8" : {
+    "id" : 8,
+    "rank" : "青铜游侠2阶2星",
+    "cRank" : "1_2_2",
+    "nextRank" : 9,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 3000
+    }, {
+      "id" : 150,
+      "amount" : 4000
+    } ],
+    "mail" : 52
+  },
+  "9" : {
+    "id" : 9,
+    "rank" : "青铜游侠1阶1星",
+    "cRank" : "1_1_1",
+    "nextRank" : 11,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 3250
+    }, {
+      "id" : 150,
+      "amount" : 4500
+    } ],
+    "mail" : 52
+  },
+  "10" : {
+    "id" : 10,
+    "rank" : "青铜游侠1阶2星",
+    "cRank" : "1_1_2",
+    "nextRank" : 11,
+    "protectRank" : 1,
+    "broadcast" : 0,
+    "newSeasonRank" : 1,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 3500
+    }, {
+      "id" : 150,
+      "amount" : 5000
+    } ],
+    "mail" : 52
+  },
+  "11" : {
+    "id" : 11,
+    "rank" : "白银勇士5阶1星",
+    "cRank" : "2_5_1",
+    "nextRank" : 15,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 3,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 3750
+    }, {
+      "id" : 150,
+      "amount" : 5500
+    } ],
+    "mail" : 52
+  },
+  "12" : {
+    "id" : 12,
+    "rank" : "白银勇士5阶2星",
+    "cRank" : "2_5_2",
+    "nextRank" : 15,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 3,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 4000
+    }, {
+      "id" : 150,
+      "amount" : 6000
+    } ],
+    "mail" : 52
+  },
+  "13" : {
+    "id" : 13,
+    "rank" : "白银勇士5阶3星",
+    "cRank" : "2_5_3",
+    "nextRank" : 15,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 3,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 4250
+    }, {
+      "id" : 150,
+      "amount" : 6500
+    } ],
+    "mail" : 52
+  },
+  "14" : {
+    "id" : 14,
+    "rank" : "白银勇士5阶4星",
+    "cRank" : "2_5_4",
+    "nextRank" : 15,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 3,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 4500
+    }, {
+      "id" : 150,
+      "amount" : 7000
+    } ],
+    "mail" : 52
+  },
+  "15" : {
+    "id" : 15,
+    "rank" : "白银勇士4阶1星",
+    "cRank" : "2_4_1",
+    "nextRank" : 19,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 3,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 4750
+    }, {
+      "id" : 150,
+      "amount" : 7500
+    } ],
+    "mail" : 52
+  },
+  "16" : {
+    "id" : 16,
+    "rank" : "白银勇士4阶2星",
+    "cRank" : "2_4_2",
+    "nextRank" : 19,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 3,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 5000
+    }, {
+      "id" : 150,
+      "amount" : 8000
+    } ],
+    "mail" : 52
+  },
+  "17" : {
+    "id" : 17,
+    "rank" : "白银勇士4阶3星",
+    "cRank" : "2_4_3",
+    "nextRank" : 19,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 3,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 5250
+    }, {
+      "id" : 150,
+      "amount" : 8500
+    } ],
+    "mail" : 52
+  },
+  "18" : {
+    "id" : 18,
+    "rank" : "白银勇士4阶4星",
+    "cRank" : "2_4_4",
+    "nextRank" : 19,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 3,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 5500
+    }, {
+      "id" : 150,
+      "amount" : 9000
+    } ],
+    "mail" : 52
+  },
+  "19" : {
+    "id" : 19,
+    "rank" : "白银勇士3阶1星",
+    "cRank" : "2_3_1",
+    "nextRank" : 23,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 5,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 5750
+    }, {
+      "id" : 150,
+      "amount" : 9500
+    } ],
+    "mail" : 52
+  },
+  "20" : {
+    "id" : 20,
+    "rank" : "白银勇士3阶2星",
+    "cRank" : "2_3_2",
+    "nextRank" : 23,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 5,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 6000
+    }, {
+      "id" : 150,
+      "amount" : 10000
+    } ],
+    "mail" : 52
+  },
+  "21" : {
+    "id" : 21,
+    "rank" : "白银勇士3阶3星",
+    "cRank" : "2_3_3",
+    "nextRank" : 23,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 5,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 6250
+    }, {
+      "id" : 150,
+      "amount" : 10500
+    } ],
+    "mail" : 52
+  },
+  "22" : {
+    "id" : 22,
+    "rank" : "白银勇士3阶4星",
+    "cRank" : "2_3_4",
+    "nextRank" : 23,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 5,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 6500
+    }, {
+      "id" : 150,
+      "amount" : 11000
+    } ],
+    "mail" : 52
+  },
+  "23" : {
+    "id" : 23,
+    "rank" : "白银勇士2阶1星",
+    "cRank" : "2_2_1",
+    "nextRank" : 27,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 5,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 6750
+    }, {
+      "id" : 150,
+      "amount" : 11500
+    } ],
+    "mail" : 52
+  },
+  "24" : {
+    "id" : 24,
+    "rank" : "白银勇士2阶2星",
+    "cRank" : "2_2_2",
+    "nextRank" : 27,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 5,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 7000
+    }, {
+      "id" : 150,
+      "amount" : 12000
+    } ],
+    "mail" : 52
+  },
+  "25" : {
+    "id" : 25,
+    "rank" : "白银勇士2阶3星",
+    "cRank" : "2_2_3",
+    "nextRank" : 27,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 5,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 7250
+    }, {
+      "id" : 150,
+      "amount" : 12500
+    } ],
+    "mail" : 52
+  },
+  "26" : {
+    "id" : 26,
+    "rank" : "白银勇士2阶4星",
+    "cRank" : "2_2_4",
+    "nextRank" : 27,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 5,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 7500
+    }, {
+      "id" : 150,
+      "amount" : 13000
+    } ],
+    "mail" : 52
+  },
+  "27" : {
+    "id" : 27,
+    "rank" : "白银勇士1阶1星",
+    "cRank" : "2_1_1",
+    "nextRank" : 31,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 7750
+    }, {
+      "id" : 150,
+      "amount" : 13500
+    } ],
+    "mail" : 52
+  },
+  "28" : {
+    "id" : 28,
+    "rank" : "白银勇士1阶2星",
+    "cRank" : "2_1_2",
+    "nextRank" : 31,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 8000
+    }, {
+      "id" : 150,
+      "amount" : 14000
+    } ],
+    "mail" : 52
+  },
+  "29" : {
+    "id" : 29,
+    "rank" : "白银勇士1阶3星",
+    "cRank" : "2_1_3",
+    "nextRank" : 31,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 8250
+    }, {
+      "id" : 150,
+      "amount" : 14500
+    } ],
+    "mail" : 52
+  },
+  "30" : {
+    "id" : 30,
+    "rank" : "白银勇士1阶4星",
+    "cRank" : "2_1_4",
+    "nextRank" : 31,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 8500
+    }, {
+      "id" : 150,
+      "amount" : 15000
+    } ],
+    "mail" : 52
+  },
+  "31" : {
+    "id" : 31,
+    "rank" : "黄金战将5阶1星",
+    "cRank" : "3_5_1",
+    "nextRank" : 36,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 8750
+    }, {
+      "id" : 150,
+      "amount" : 16000
+    } ],
+    "mail" : 52
+  },
+  "32" : {
+    "id" : 32,
+    "rank" : "黄金战将5阶2星",
+    "cRank" : "3_5_2",
+    "nextRank" : 36,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 9000
+    }, {
+      "id" : 150,
+      "amount" : 17000
+    } ],
+    "mail" : 52
+  },
+  "33" : {
+    "id" : 33,
+    "rank" : "黄金战将5阶3星",
+    "cRank" : "3_5_3",
+    "nextRank" : 36,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 9250
+    }, {
+      "id" : 150,
+      "amount" : 18000
+    } ],
+    "mail" : 52
+  },
+  "34" : {
+    "id" : 34,
+    "rank" : "黄金战将5阶4星",
+    "cRank" : "3_5_4",
+    "nextRank" : 36,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 9500
+    }, {
+      "id" : 150,
+      "amount" : 19000
+    } ],
+    "mail" : 52
+  },
+  "35" : {
+    "id" : 35,
+    "rank" : "黄金战将5阶5星",
+    "cRank" : "3_5_5",
+    "nextRank" : 36,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 7,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 9750
+    }, {
+      "id" : 150,
+      "amount" : 20000
+    } ],
+    "mail" : 52
+  },
+  "36" : {
+    "id" : 36,
+    "rank" : "黄金战将4阶1星",
+    "cRank" : "3_4_1",
+    "nextRank" : 41,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 10000
+    }, {
+      "id" : 150,
+      "amount" : 21000
+    } ],
+    "mail" : 52
+  },
+  "37" : {
+    "id" : 37,
+    "rank" : "黄金战将4阶2星",
+    "cRank" : "3_4_2",
+    "nextRank" : 41,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 10250
+    }, {
+      "id" : 150,
+      "amount" : 22000
+    } ],
+    "mail" : 52
+  },
+  "38" : {
+    "id" : 38,
+    "rank" : "黄金战将4阶3星",
+    "cRank" : "3_4_3",
+    "nextRank" : 41,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 10500
+    }, {
+      "id" : 150,
+      "amount" : 23000
+    } ],
+    "mail" : 52
+  },
+  "39" : {
+    "id" : 39,
+    "rank" : "黄金战将4阶4星",
+    "cRank" : "3_4_4",
+    "nextRank" : 41,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 10750
+    }, {
+      "id" : 150,
+      "amount" : 24000
+    } ],
+    "mail" : 52
+  },
+  "40" : {
+    "id" : 40,
+    "rank" : "黄金战将4阶5星",
+    "cRank" : "3_4_5",
+    "nextRank" : 41,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 11000
+    }, {
+      "id" : 150,
+      "amount" : 25000
+    } ],
+    "mail" : 52
+  },
+  "41" : {
+    "id" : 41,
+    "rank" : "黄金战将3阶1星",
+    "cRank" : "3_3_1",
+    "nextRank" : 46,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 11250
+    }, {
+      "id" : 150,
+      "amount" : 26000
+    } ],
+    "mail" : 52
+  },
+  "42" : {
+    "id" : 42,
+    "rank" : "黄金战将3阶2星",
+    "cRank" : "3_3_2",
+    "nextRank" : 46,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 11500
+    }, {
+      "id" : 150,
+      "amount" : 27000
+    } ],
+    "mail" : 52
+  },
+  "43" : {
+    "id" : 43,
+    "rank" : "黄金战将3阶3星",
+    "cRank" : "3_3_3",
+    "nextRank" : 46,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 11750
+    }, {
+      "id" : 150,
+      "amount" : 28000
+    } ],
+    "mail" : 52
+  },
+  "44" : {
+    "id" : 44,
+    "rank" : "黄金战将3阶4星",
+    "cRank" : "3_3_4",
+    "nextRank" : 46,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 12000
+    }, {
+      "id" : 150,
+      "amount" : 29000
+    } ],
+    "mail" : 52
+  },
+  "45" : {
+    "id" : 45,
+    "rank" : "黄金战将3阶5星",
+    "cRank" : "3_3_5",
+    "nextRank" : 46,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 9,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 12250
+    }, {
+      "id" : 150,
+      "amount" : 30000
+    } ],
+    "mail" : 52
+  },
+  "46" : {
+    "id" : 46,
+    "rank" : "黄金战将2阶1星",
+    "cRank" : "3_2_1",
+    "nextRank" : 51,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 12500
+    }, {
+      "id" : 150,
+      "amount" : 31000
+    } ],
+    "mail" : 52
+  },
+  "47" : {
+    "id" : 47,
+    "rank" : "黄金战将2阶2星",
+    "cRank" : "3_2_2",
+    "nextRank" : 51,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 12750
+    }, {
+      "id" : 150,
+      "amount" : 32000
+    } ],
+    "mail" : 52
+  },
+  "48" : {
+    "id" : 48,
+    "rank" : "黄金战将2阶3星",
+    "cRank" : "3_2_3",
+    "nextRank" : 51,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 13000
+    }, {
+      "id" : 150,
+      "amount" : 33000
+    } ],
+    "mail" : 52
+  },
+  "49" : {
+    "id" : 49,
+    "rank" : "黄金战将2阶4星",
+    "cRank" : "3_2_4",
+    "nextRank" : 51,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 13250
+    }, {
+      "id" : 150,
+      "amount" : 34000
+    } ],
+    "mail" : 52
+  },
+  "50" : {
+    "id" : 50,
+    "rank" : "黄金战将2阶5星",
+    "cRank" : "3_2_5",
+    "nextRank" : 51,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 13500
+    }, {
+      "id" : 150,
+      "amount" : 35000
+    } ],
+    "mail" : 52
+  },
+  "51" : {
+    "id" : 51,
+    "rank" : "黄金战将1阶1星",
+    "cRank" : "3_1_1",
+    "nextRank" : 56,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 13750
+    }, {
+      "id" : 150,
+      "amount" : 36000
+    } ],
+    "mail" : 52
+  },
+  "52" : {
+    "id" : 52,
+    "rank" : "黄金战将1阶2星",
+    "cRank" : "3_1_2",
+    "nextRank" : 56,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 14000
+    }, {
+      "id" : 150,
+      "amount" : 37000
+    } ],
+    "mail" : 52
+  },
+  "53" : {
+    "id" : 53,
+    "rank" : "黄金战将1阶3星",
+    "cRank" : "3_1_3",
+    "nextRank" : 56,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 14250
+    }, {
+      "id" : 150,
+      "amount" : 38000
+    } ],
+    "mail" : 52
+  },
+  "54" : {
+    "id" : 54,
+    "rank" : "黄金战将1阶4星",
+    "cRank" : "3_1_4",
+    "nextRank" : 56,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 14500
+    }, {
+      "id" : 150,
+      "amount" : 39000
+    } ],
+    "mail" : 52
+  },
+  "55" : {
+    "id" : 55,
+    "rank" : "黄金战将1阶5星",
+    "cRank" : "3_1_5",
+    "nextRank" : 56,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 11,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 14750
+    }, {
+      "id" : 150,
+      "amount" : 40000
+    } ],
+    "mail" : 52
+  },
+  "56" : {
+    "id" : 56,
+    "rank" : "史诗英雄5阶1星",
+    "cRank" : "4_5_1",
+    "nextRank" : 62,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 15000
+    }, {
+      "id" : 150,
+      "amount" : 41000
+    } ],
+    "mail" : 52
+  },
+  "57" : {
+    "id" : 57,
+    "rank" : "史诗英雄5阶2星",
+    "cRank" : "4_5_2",
+    "nextRank" : 62,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 15500
+    }, {
+      "id" : 150,
+      "amount" : 42000
+    } ],
+    "mail" : 52
+  },
+  "58" : {
+    "id" : 58,
+    "rank" : "史诗英雄5阶3星",
+    "cRank" : "4_5_3",
+    "nextRank" : 62,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 16000
+    }, {
+      "id" : 150,
+      "amount" : 43000
+    } ],
+    "mail" : 52
+  },
+  "59" : {
+    "id" : 59,
+    "rank" : "史诗英雄5阶4星",
+    "cRank" : "4_5_4",
+    "nextRank" : 62,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 16500
+    }, {
+      "id" : 150,
+      "amount" : 44000
+    } ],
+    "mail" : 52
+  },
+  "60" : {
+    "id" : 60,
+    "rank" : "史诗英雄5阶5星",
+    "cRank" : "4_5_5",
+    "nextRank" : 62,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 17000
+    }, {
+      "id" : 150,
+      "amount" : 45000
+    } ],
+    "mail" : 52
+  },
+  "61" : {
+    "id" : 61,
+    "rank" : "史诗英雄5阶6星",
+    "cRank" : "4_5_6",
+    "nextRank" : 62,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 17500
+    }, {
+      "id" : 150,
+      "amount" : 46000
+    } ],
+    "mail" : 52
+  },
+  "62" : {
+    "id" : 62,
+    "rank" : "史诗英雄4阶1星",
+    "cRank" : "4_4_1",
+    "nextRank" : 68,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 18000
+    }, {
+      "id" : 150,
+      "amount" : 47000
+    } ],
+    "mail" : 52
+  },
+  "63" : {
+    "id" : 63,
+    "rank" : "史诗英雄4阶2星",
+    "cRank" : "4_4_2",
+    "nextRank" : 68,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 18500
+    }, {
+      "id" : 150,
+      "amount" : 48000
+    } ],
+    "mail" : 52
+  },
+  "64" : {
+    "id" : 64,
+    "rank" : "史诗英雄4阶3星",
+    "cRank" : "4_4_3",
+    "nextRank" : 68,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 19000
+    }, {
+      "id" : 150,
+      "amount" : 49000
+    } ],
+    "mail" : 52
+  },
+  "65" : {
+    "id" : 65,
+    "rank" : "史诗英雄4阶4星",
+    "cRank" : "4_4_4",
+    "nextRank" : 68,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 19500
+    }, {
+      "id" : 150,
+      "amount" : 50000
+    } ],
+    "mail" : 52
+  },
+  "66" : {
+    "id" : 66,
+    "rank" : "史诗英雄4阶5星",
+    "cRank" : "4_4_5",
+    "nextRank" : 68,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 20000
+    }, {
+      "id" : 150,
+      "amount" : 51000
+    } ],
+    "mail" : 52
+  },
+  "67" : {
+    "id" : 67,
+    "rank" : "史诗英雄4阶6星",
+    "cRank" : "4_4_6",
+    "nextRank" : 68,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 15,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 20500
+    }, {
+      "id" : 150,
+      "amount" : 52000
+    } ],
+    "mail" : 52
+  },
+  "68" : {
+    "id" : 68,
+    "rank" : "史诗英雄3阶1星",
+    "cRank" : "4_3_1",
+    "nextRank" : 74,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 19,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 21000
+    }, {
+      "id" : 150,
+      "amount" : 53000
+    } ],
+    "mail" : 52
+  },
+  "69" : {
+    "id" : 69,
+    "rank" : "史诗英雄3阶2星",
+    "cRank" : "4_3_2",
+    "nextRank" : 74,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 19,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 21500
+    }, {
+      "id" : 150,
+      "amount" : 54000
+    } ],
+    "mail" : 52
+  },
+  "70" : {
+    "id" : 70,
+    "rank" : "史诗英雄3阶3星",
+    "cRank" : "4_3_3",
+    "nextRank" : 74,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 19,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 22000
+    }, {
+      "id" : 150,
+      "amount" : 55000
+    } ],
+    "mail" : 52
+  },
+  "71" : {
+    "id" : 71,
+    "rank" : "史诗英雄3阶4星",
+    "cRank" : "4_3_4",
+    "nextRank" : 74,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 19,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 22500
+    }, {
+      "id" : 150,
+      "amount" : 56000
+    } ],
+    "mail" : 52
+  },
+  "72" : {
+    "id" : 72,
+    "rank" : "史诗英雄3阶5星",
+    "cRank" : "4_3_5",
+    "nextRank" : 74,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 19,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 23000
+    }, {
+      "id" : 150,
+      "amount" : 57000
+    } ],
+    "mail" : 52
+  },
+  "73" : {
+    "id" : 73,
+    "rank" : "史诗英雄3阶6星",
+    "cRank" : "4_3_6",
+    "nextRank" : 74,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 19,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 23500
+    }, {
+      "id" : 150,
+      "amount" : 58000
+    } ],
+    "mail" : 52
+  },
+  "74" : {
+    "id" : 74,
+    "rank" : "史诗英雄2阶1星",
+    "cRank" : "4_2_1",
+    "nextRank" : 80,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 23,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 24000
+    }, {
+      "id" : 150,
+      "amount" : 59000
+    } ],
+    "mail" : 52
+  },
+  "75" : {
+    "id" : 75,
+    "rank" : "史诗英雄2阶2星",
+    "cRank" : "4_2_2",
+    "nextRank" : 80,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 23,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 24500
+    }, {
+      "id" : 150,
+      "amount" : 60000
+    } ],
+    "mail" : 52
+  },
+  "76" : {
+    "id" : 76,
+    "rank" : "史诗英雄2阶3星",
+    "cRank" : "4_2_3",
+    "nextRank" : 80,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 23,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 25000
+    }, {
+      "id" : 150,
+      "amount" : 61000
+    } ],
+    "mail" : 52
+  },
+  "77" : {
+    "id" : 77,
+    "rank" : "史诗英雄2阶4星",
+    "cRank" : "4_2_4",
+    "nextRank" : 80,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 23,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 25500
+    }, {
+      "id" : 150,
+      "amount" : 62000
+    } ],
+    "mail" : 52
+  },
+  "78" : {
+    "id" : 78,
+    "rank" : "史诗英雄2阶5星",
+    "cRank" : "4_2_5",
+    "nextRank" : 80,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 23,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 26000
+    }, {
+      "id" : 150,
+      "amount" : 63000
+    } ],
+    "mail" : 52
+  },
+  "79" : {
+    "id" : 79,
+    "rank" : "史诗英雄2阶6星",
+    "cRank" : "4_2_6",
+    "nextRank" : 80,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 23,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 26500
+    }, {
+      "id" : 150,
+      "amount" : 64000
+    } ],
+    "mail" : 52
+  },
+  "80" : {
+    "id" : 80,
+    "rank" : "史诗英雄1阶1星",
+    "cRank" : "4_1_1",
+    "nextRank" : 86,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 27,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 27000
+    }, {
+      "id" : 150,
+      "amount" : 65000
+    } ],
+    "mail" : 52
+  },
+  "81" : {
+    "id" : 81,
+    "rank" : "史诗英雄1阶2星",
+    "cRank" : "4_1_2",
+    "nextRank" : 86,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 27,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 27500
+    }, {
+      "id" : 150,
+      "amount" : 66000
+    } ],
+    "mail" : 52
+  },
+  "82" : {
+    "id" : 82,
+    "rank" : "史诗英雄1阶3星",
+    "cRank" : "4_1_3",
+    "nextRank" : 86,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 27,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 28000
+    }, {
+      "id" : 150,
+      "amount" : 67000
+    } ],
+    "mail" : 52
+  },
+  "83" : {
+    "id" : 83,
+    "rank" : "史诗英雄1阶4星",
+    "cRank" : "4_1_4",
+    "nextRank" : 86,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 27,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 28500
+    }, {
+      "id" : 150,
+      "amount" : 68000
+    } ],
+    "mail" : 52
+  },
+  "84" : {
+    "id" : 84,
+    "rank" : "史诗英雄1阶5星",
+    "cRank" : "4_1_5",
+    "nextRank" : 86,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 27,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 29000
+    }, {
+      "id" : 150,
+      "amount" : 69000
+    } ],
+    "mail" : 52
+  },
+  "85" : {
+    "id" : 85,
+    "rank" : "史诗英雄1阶6星",
+    "cRank" : "4_1_6",
+    "nextRank" : 86,
+    "protectRank" : 0,
+    "broadcast" : 0,
+    "newSeasonRank" : 27,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 29500
+    }, {
+      "id" : 150,
+      "amount" : 70000
+    } ],
+    "mail" : 52
+  },
+  "86" : {
+    "id" : 86,
+    "rank" : "传说王者",
+    "cRank" : "5_1_1",
+    "nextRank" : 0,
+    "protectRank" : 1,
+    "broadcast" : 3200037,
+    "newSeasonRank" : 31,
+    "award" : [ {
+      "id" : 165,
+      "amount" : 30000
+    }, {
+      "id" : 150,
+      "amount" : 100000
+    } ],
+    "mail" : 52
+  }
+}

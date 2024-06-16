@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "material_map_3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.5,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 373
+        },
+        {
+          "frame": 0.75,
+          "value": 393
+        },
+        {
+          "frame": 1.5,
+          "value": 373
+        }
+      ]
+    }
+  },
+  "events": []
+}

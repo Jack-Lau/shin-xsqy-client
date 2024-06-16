@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>preview</title>
+  <style type="text/css">
+    #container {
+      width: 3584px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="container">
+  </div>
+
+  <script>
+    function prefix(num) {
+      if (num < 10) {
+        return `0${num}`
+      } else {
+        return `${num}`
+      }
+    }
+
+    window.onload = function () {
+      var container = document.getElementById("container");
+      for (var i = 0; i < 14; ++i) {
+        var div = document.createElement("div");
+        div.setAttribute("style", "height: 256px;")
+        for (var j = 0; j < 12; ++j) {
+          var image = document.createElement("img");
+          image.src = `original_map_11_${prefix(i)}x${prefix(j)}.jpg`
+          image.width = 256;
+          image.height = 256;
+          div.appendChild(image)
+        }
+        container.appendChild(div)
+      }
+    }
+  </script>
+</body>
+
+</html>

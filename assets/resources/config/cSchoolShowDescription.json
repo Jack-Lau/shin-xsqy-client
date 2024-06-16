@@ -1,0 +1,98 @@
+{
+  "1" : {
+    "id" : 1,
+    "ability" : "四边静",
+    "type" : "怒气技能",
+    "description" : "对[26df21]敌方4个[ffffff]目标造成强力外功伤害"
+  },
+  "2" : {
+    "id" : 2,
+    "ability" : "千钧击",
+    "type" : "普通技能",
+    "description" : "对敌方单体造成[26df21]2次[ffffff]外功伤害"
+  },
+  "3" : {
+    "id" : 3,
+    "ability" : "藏龙剑气",
+    "type" : "被动技能",
+    "description" : "凌霄殿门派特色，提升[26df21]自身暴击率[ffffff]"
+  },
+  "4" : {
+    "id" : 4,
+    "ability" : "鬼神泣",
+    "type" : "终极技能",
+    "description" : "对敌方单体进行[26df21]5段[ffffff]攻击"
+  },
+  "5" : {
+    "id" : 5,
+    "ability" : "大慈心光渡",
+    "type" : "怒气技能",
+    "description" : "[26df21]复活[ffffff]友方单体，或对敌方单体造成大量[26df21]内功伤害[ffffff]"
+  },
+  "6" : {
+    "id" : 6,
+    "ability" : "回风饮露",
+    "type" : "普通技能",
+    "description" : "为友方[26df21]3个目标[ffffff]回复气血"
+  },
+  "7" : {
+    "id" : 7,
+    "ability" : "返璞归真",
+    "type" : "被动技能",
+    "description" : "普陀山门派特色，回合结束时[26df21]回复自身[ffffff]气血"
+  },
+  "8" : {
+    "id" : 8,
+    "ability" : "莲华妙法",
+    "type" : "终极技能",
+    "description" : "回复[26df21]友方全体[ffffff]大量气血"
+  },
+  "9" : {
+    "id" : 9,
+    "ability" : "七煞诀",
+    "type" : "怒气技能",
+    "description" : "大幅提升友方全体的[26df21]攻击与防御[ffffff]，持续3回合"
+  },
+  "10" : {
+    "id" : 10,
+    "ability" : "封魂咒",
+    "type" : "普通技能",
+    "description" : "对敌方单体释放[26df21]封印[ffffff]并造成持续伤害，持续3回合"
+  },
+  "11" : {
+    "id" : 11,
+    "ability" : "勾魂丝",
+    "type" : "被动技能",
+    "description" : "盘丝洞门派特色，提升[26df21]自身吸血率[ffffff]"
+  },
+  "12" : {
+    "id" : 12,
+    "ability" : "万蛊噬心",
+    "type" : "终极技能",
+    "description" : "对敌方[26df21]3个目标[ffffff]释放[26df21]封印并造成持续伤害[ffffff]，持续2回合"
+  },
+  "13" : {
+    "id" : 13,
+    "ability" : "万化归一诀",
+    "type" : "怒气技能",
+    "description" : "连续[26df21]4次[ffffff]随机选择敌方单个目标造成高额内功伤害"
+  },
+  "14" : {
+    "id" : 14,
+    "ability" : "剑雨藏锋",
+    "type" : "普通技能",
+    "description" : "对敌方最多[26df21]4个目标[ffffff]造成内功伤害"
+  },
+  "15" : {
+    "id" : 15,
+    "ability" : "上善若水",
+    "type" : "被动技能",
+    "description" : "五庄观门派特色，提升[26df21]自身连击率[ffffff]"
+  },
+  "16" : {
+    "id" : 16,
+    "ability" : "八方湮灭",
+    "type" : "终极技能",
+    "description" : "对敌方[26df21]全体[ffffff]造成大量内功伤害"
+  }
+}

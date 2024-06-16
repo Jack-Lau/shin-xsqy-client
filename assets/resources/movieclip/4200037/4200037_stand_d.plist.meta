@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "a2a93259-79eb-4e95-9887-5c2d3bb1120f",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "62b99bfe-8700-46cd-a89a-51d08db18654",
+  "size": {
+    "width": 375,
+    "height": 385
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "一本万利改1660、536.png": {
+      "ver": "1.0.6",
+      "uuid": "d724b542-7d0b-4453-902e-febd7c581492",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "62b99bfe-8700-46cd-a89a-51d08db18654",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 373,
+      "height": 383,
+      "rawWidth": 373,
+      "rawHeight": 383,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

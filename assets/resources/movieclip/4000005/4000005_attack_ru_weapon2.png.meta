@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9fb61287-6e63-450b-bdeb-2930d94be9e8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 442,
+  "height": 1378,
+  "platformSettings": {},
+  "subMetas": {
+    "4000005_attack_ru_weapon2": {
+      "ver": "1.0.6",
+      "uuid": "71c4d6fc-5e0b-4b29-9991-a7583a7e443f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9fb61287-6e63-450b-bdeb-2930d94be9e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 440,
+      "height": 1376,
+      "rawWidth": 442,
+      "rawHeight": 1378,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

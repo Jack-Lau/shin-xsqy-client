@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "d4de48e9-10bd-4b1b-89ba-fe0892f7ca60",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "c73ab73a-9a6a-483f-b5b6-a1b915d70848",
+  "size": {
+    "width": 194,
+    "height": 241
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "猴子石头.png": {
+      "ver": "1.0.6",
+      "uuid": "e84e2b5d-72d0-406a-a8c3-5dccca0a66de",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c73ab73a-9a6a-483f-b5b6-a1b915d70848",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": -10,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 192,
+      "height": 239,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

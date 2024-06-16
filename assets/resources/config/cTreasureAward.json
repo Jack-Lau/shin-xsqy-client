@@ -1,0 +1,196 @@
+{
+  "1" : {
+    "id" : 1,
+    "name" : "挖穿地球",
+    "currencyId" : 20008,
+    "amount" : 1
+  },
+  "2" : {
+    "id" : 2,
+    "name" : "元宝1",
+    "currencyId" : 150,
+    "amount" : 1000,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "3" : {
+    "id" : 3,
+    "name" : "元宝2",
+    "currencyId" : 150,
+    "amount" : 2000,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "4" : {
+    "id" : 4,
+    "name" : "元宝3",
+    "currencyId" : 150,
+    "amount" : 3000,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "5" : {
+    "id" : 5,
+    "name" : "元宝4",
+    "currencyId" : 150,
+    "amount" : 10000,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "6" : {
+    "id" : 6,
+    "name" : "强化石1",
+    "currencyId" : 154,
+    "amount" : 250
+  },
+  "7" : {
+    "id" : 7,
+    "name" : "强化石2",
+    "currencyId" : 154,
+    "amount" : 500
+  },
+  "8" : {
+    "id" : 8,
+    "name" : "强化石3",
+    "currencyId" : 154,
+    "amount" : 1000
+  },
+  "9" : {
+    "id" : 9,
+    "name" : "强化石4",
+    "currencyId" : 154,
+    "amount" : 2500,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "10" : {
+    "id" : 10,
+    "name" : "冲星灵丹1",
+    "currencyId" : 158,
+    "amount" : 1000
+  },
+  "11" : {
+    "id" : 11,
+    "name" : "冲星灵丹2",
+    "currencyId" : 158,
+    "amount" : 2000
+  },
+  "12" : {
+    "id" : 12,
+    "name" : "冲星灵丹3",
+    "currencyId" : 158,
+    "amount" : 4000
+  },
+  "13" : {
+    "id" : 13,
+    "name" : "冲星灵丹4",
+    "currencyId" : 158,
+    "amount" : 10000,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "14" : {
+    "id" : 14,
+    "name" : "灵宠要诀1",
+    "currencyId" : 160,
+    "amount" : 500
+  },
+  "15" : {
+    "id" : 15,
+    "name" : "灵宠要诀2",
+    "currencyId" : 160,
+    "amount" : 1000
+  },
+  "16" : {
+    "id" : 16,
+    "name" : "灵宠要诀3",
+    "currencyId" : 160,
+    "amount" : 2000
+  },
+  "17" : {
+    "id" : 17,
+    "name" : "灵宠要诀4",
+    "currencyId" : 160,
+    "amount" : 5000,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "18" : {
+    "id" : 18,
+    "name" : "九灵仙丹1",
+    "currencyId" : 168,
+    "amount" : 250
+  },
+  "19" : {
+    "id" : 19,
+    "name" : "九灵仙丹2",
+    "currencyId" : 168,
+    "amount" : 500
+  },
+  "20" : {
+    "id" : 20,
+    "name" : "九灵仙丹3",
+    "currencyId" : 168,
+    "amount" : 1000
+  },
+  "21" : {
+    "id" : 21,
+    "name" : "九灵仙丹4",
+    "currencyId" : 168,
+    "amount" : 2500,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "22" : {
+    "id" : 22,
+    "name" : "魂晶1",
+    "currencyId" : 195,
+    "amount" : 50
+  },
+  "23" : {
+    "id" : 23,
+    "name" : "魂晶2",
+    "currencyId" : 195,
+    "amount" : 100
+  },
+  "24" : {
+    "id" : 24,
+    "name" : "魂晶3",
+    "currencyId" : 195,
+    "amount" : 200
+  },
+  "25" : {
+    "id" : 25,
+    "name" : "魂晶4",
+    "currencyId" : 195,
+    "amount" : 500,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  },
+  "26" : {
+    "id" : 26,
+    "name" : "金坷垃1",
+    "currencyId" : 185,
+    "amount" : 125
+  },
+  "27" : {
+    "id" : 27,
+    "name" : "金坷垃2",
+    "currencyId" : 185,
+    "amount" : 250
+  },
+  "28" : {
+    "id" : 28,
+    "name" : "金坷垃3",
+    "currencyId" : 185,
+    "amount" : 500
+  },
+  "29" : {
+    "id" : 29,
+    "name" : "金坷垃4",
+    "currencyId" : 185,
+    "amount" : 1250,
+    "broadcastId" : 3200018,
+    "interfaceBroadcastId" : 3290001
+  }
+}

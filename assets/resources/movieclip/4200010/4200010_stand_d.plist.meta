@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "4d5c9353-c021-403a-af1b-ef203702c124",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "0639951e-b3cf-4eb8-8a5a-a236093ab7d2",
+  "size": {
+    "width": 214,
+    "height": 293
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "stand_model-sprite_4000025.png": {
+      "ver": "1.0.6",
+      "uuid": "91341d9c-ebc9-48b5-8d8e-b69346041bdc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0639951e-b3cf-4eb8-8a5a-a236093ab7d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": 3,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 212,
+      "height": 291,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

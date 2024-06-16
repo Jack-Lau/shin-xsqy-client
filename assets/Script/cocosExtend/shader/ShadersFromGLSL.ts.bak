@@ -1,0 +1,206 @@
+import { Shaders } from "./Shaders";
+
+/**
+ * Copyright  : (C) Chenglin Huang 2018
+ * Maintainer : Chenglin Huang <ustchcl@gmail.com>
+ */
+
+interface GLSL_Vec {
+    x: number,
+    y: number,
+    z: number,
+    w?: number
+}
+
+interface Parameter {
+    startTime: number,
+    time: number,
+    mouse: GLSL_Vec,
+    resolution: GLSL_Vec,
+    date: GLSL_Vec,
+    isMouseDown: boolean,
+}
+
+const ZERO_Vec: GLSL_Vec = { x: 0.0, y: 0.0, z: 0.0, w: 0.0 }
+
+const { ccclass, property } = cc._decorator;
+
+@ccclass
+export default class ShadersFromGLSL extends cc.Component {
+    @property(Number)
+    glassFactor: number = 1.0;
+    @property(String)
+    flagShader: string = "Effect38.fs.glsl";
+    fragGLSL: string = "";
+    parameters: Parameter = null;
+
+    program: any = null;
+    resolution: GLSL_Vec = ZERO_Vec;
+    time: number = 0.0;
+    mouse: GLSL_Vec = ZERO_Vec;
+    date: number = Date.now();
+
+    onLoad() {
+        let _this = this;
+        let now = new Date();
+        this.parameters = {
+            startTime: Date.now()
+            , time: 0.0
+            , mouse: ZERO_Vec
+            , resolution: ZERO_Vec
+            , date: {
+                x: now.getFullYear()
+                , y: now.getMonth()
+                , z: now.getDate()
+                , w: now.getTime() + now.getMilliseconds() / 100
+            }
+            , isMouseDown: false
+        };
+        this.node.on(cc.Node.EventType.MOUSE_DOWN, function (event) {
+            _this.parameters.isMouseDown = true;
+        });
+        this.node.on(cc.Node.EventType.MOUSE_UP, function (event) {
+            _this.parameters.isMouseDown = false;
+        });
+        this.node.on(cc.Node.EventType.MOUSE_LEAVE, function (event) {
+            _this.parameters.isMouseDown = false;
+        });
+        this.node.on(cc.Node.EventType.TOUCH_START, function (event) {
+            _this.parameters.isMouseDown = true;
+        });
+        this.node.on(cc.Node.EventType.TOUCH_END, function (event) {
+            _this.parameters.isMouseDown = false;
+        });
+        this.node.on(cc.Node.EventType.TOUCH_CANCEL, function (event) {
+            _this.parameters.isMouseDown = false;
+        });
+
+        this.node.on(cc.Node.EventType.MOUSE_MOVE, function (event: cc.Event.EventMouse) {
+            if (_this.parameters.isMouseDown) {
+                _this.parameters.mouse.x = event.getLocationX();
+                _this.parameters.mouse.y = event.getLocationY();
+            }
+        });
+        this.node.on(cc.Node.EventType.MOUSE_MOVE, function (event: cc.Event.EventMouse) {
+            if (_this.parameters.isMouseDown) {
+                _this.parameters.mouse.x = event.getLocationX();
+                _this.parameters.mouse.y = event.getLocationY();
+            }
+        });
+
+
+        this.node.on(cc.Node.EventType.TOUCH_MOVE, function (event: cc.Event.EventMouse) {
+            if (_this.parameters.isMouseDown) {
+                _this.parameters.mouse.x = event.getLocationX();
+                _this.parameters.mouse.y = event.getLocationY();
+            }
+        }, this);
+
+        cc.loader.loadRes(this.flagShader, function (err, txt) {
+            if (err) {
+                cc.log(err)
+            } else {
+                _this.fragGLSL = txt;
+                _this.use();
+            }
+        });
+    }
+
+    update(dt) {
+        if (this.glassFactor >= 40) {
+            this.glassFactor = 0;
+        }
+        this.glassFactor += dt * 3;
+
+        if (this.program) {
+            this.program.use();
+            this.updateGLParameters();
+            if (cc.sys.isNative) {
+                let glProgram_state = cc['GLProgramState'].getOrCreateWithGLProgram(this.program);
+                glProgram_state.setUniformVec3("iResolution", this.parameters.resolution);
+                glProgram_state.setUniformFloat("iGlobalTime", this.parameters.time);
+                glProgram_state.setUniformVec4("iMouse", this.parameters.mouse);
+                glProgram_state.setUniformVec4("iDate", this.parameters.date);
+            } else {
+                this.program.setUniformLocationWith3f(this.resolution, this.parameters.resolution.x, this.parameters.resolution.y, this.parameters.resolution.z);
+                this.program.setUniformLocationWith1f(this.time, this.parameters.time);
+                this.program.setUniformLocationWith4f(this.mouse, this.parameters.mouse.x, this.parameters.mouse.y, this.parameters.mouse.z, this.parameters.mouse.w);
+                this.program.setUniformLocationWith4f(null, this.parameters.date.x, this.parameters.date.y, this.parameters.date.z, this.parameters.date.w);
+            }
+        }
+    }
+
+    updateGLParameters() {
+        this.parameters.time = (Date.now() - this.parameters.startTime) / 1000;
+        this.parameters.resolution.x = (this.node.getContentSize().width);
+        this.parameters.resolution.y = (this.node.getContentSize().height);
+        let now = new Date();
+        this.parameters.date = {
+            x: now.getFullYear(),
+            y: now.getMonth(),
+            z: now.getDate(),
+            w: now.getTime() + now.getMilliseconds() / 1000,
+        };
+    }
+
+    use() {
+        // if (cc.sys.isNative) {
+        //     cc.log("use native GLProgram");
+        //     this.program = new cc['GLProgram']();
+        //     this.program.initWithString(Shaders._default_vert_no_mvp, this.fragGLSL);
+        //     this.program.addAttribute(cc.macro.ATTRIBUTE_NAME_POSITION, cc.macro.VERTEX_ATTRIB_POSITION);
+        //     this.program.addAttribute(cc.macro.ATTRIBUTE_NAME_COLOR, cc.macro.VERTEX_ATTRIB_COLOR);
+        //     this.program.addAttribute(cc.macro.ATTRIBUTE_NAME_TEX_COORD, cc.macro.VERTEX_ATTRIB_TEX_COORDS);
+        //     this.program.link();
+        //     this.program.updateUniforms();
+        //     this.updateGLParameters();
+        // } else {
+        //     this.program = new cc['GLProgram']();
+        //     this.program.initWithVertexShaderByteArray(Shaders._default_vert, this.fragGLSL);
+        //     this.program.addAttribute(cc.macro.ATTRIBUTE_NAME_POSITION, cc.macro.VERTEX_ATTRIB_POSITION);
+        //     this.program.addAttribute(cc.macro.ATTRIBUTE_NAME_COLOR, cc.macro.VERTEX_ATTRIB_COLOR);
+        //     this.program.addAttribute(cc.macro.ATTRIBUTE_NAME_TEX_COORD, cc.macro.VERTEX_ATTRIB_TEX_COORDS);
+        //     this.program.link();
+        //     this.program.updateUniforms();
+        //     this.program.use();
+        //     this.updateGLParameters();
+        //     this.program.setUniformLocationWith3f(this.program.getUniformLocationForName('iResolution'), this.parameters.resolution.x, this.parameters.resolution.y, this.parameters.resolution.z);
+        //     this.program.setUniformLocationWith1f(this.program.getUniformLocationForName('iGlobalTime'), this.parameters.time);
+        //     this.program.setUniformLocationWith4f(this.program.getUniformLocationForName('iMouse'), this.parameters.mouse.x, this.parameters.mouse.y, this.parameters.mouse.z, this.parameters.mouse.w);
+        //     this.program.setUniformLocationWith4f(this.program.getUniformLocationForName('iDate'), this.parameters.date.x, this.parameters.date.y, this.parameters.date.z, this.parameters.date.w);
+        // }
+
+        if (cc.sys.isNative) {
+            var glProgram_state = cc['GLProgramState'].getOrCreateWithGLProgram(this.program);
+            glProgram_state.setUniformVec3("iResolution", this.parameters.resolution);
+            glProgram_state.setUniformFloat("iGlobalTime", this.parameters.time);
+            glProgram_state.setUniformVec4("iMouse", this.parameters.mouse);
+        } else {
+            this.resolution = this.program.getUniformLocationForName("iResolution");
+            this.time = this.program.getUniformLocationForName("iGlobalTime");
+            this.mouse = this.program.getUniformLocationForName("iMouse");
+            this.date = this.program.getUniformLocationForName('iDate'); 
+            this.program.setUniformLocationWith3f(this.resolution, this.parameters.resolution.x, this.parameters.resolution.y, this.parameters.resolution.z);
+            this.program.setUniformLocationWith1f(this.time, this.parameters.time);
+            this.program.setUniformLocationWith4f(this.mouse, this.parameters.mouse.x, this.parameters.mouse.y, this.parameters.mouse.z, this.parameters.mouse.w);
+            this.program.setUniformLocationWith4f(this.date, this.parameters.date.x, this.parameters.date.y, this.parameters.date.z, this.parameters.date.w);
+        }
+        this.setProgram(this.node['_sgNode'], this.program);
+    }
+
+    setProgram(node, program) {
+        if (cc.sys.isNative) {
+            var glProgram_state = cc['GLProgramState'].getOrCreateWithGLProgram(program);
+            node.setGLProgramState(glProgram_state);
+        } else {
+            node.setShaderProgram(program);
+        }
+        let children = node.children;
+        if (!children) {
+            return;
+        }
+        for (var i = 0; i < children.length; i++) {
+            this.setProgram(children[i], program);
+        }
+    }
+}

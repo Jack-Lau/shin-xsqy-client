@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6f0bf4e7-6d98-4c2c-9b2e-6b14cbfbe0c4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 971,
+  "height": 428,
+  "platformSettings": {},
+  "subMetas": {
+    "godBeastDebris": {
+      "ver": "1.0.6",
+      "uuid": "8c55add3-1edb-4da7-a337-5e0423c07539",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6f0bf4e7-6d98-4c2c-9b2e-6b14cbfbe0c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 971,
+      "height": 428,
+      "rawWidth": 971,
+      "rawHeight": 428,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "1000" : {
+    "id" : 1000,
+    "description" : "《静夜思》的作者是谁？",
+    "selectionDesc_1" : "白居易",
+    "selectionDesc_2" : "李白",
+    "selectionDesc_3" : "孟浩然"
+  },
+  "1001" : {
+    "id" : 1001,
+    "description" : "下面哪个字与“廷”字同音？",
+    "selectionDesc_1" : "言",
+    "selectionDesc_2" : "庭",
+    "selectionDesc_3" : "延"
+  },
+  "1002" : {
+    "id" : 1002,
+    "description" : "老虎属于哪个科的动物？",
+    "selectionDesc_1" : "猫科",
+    "selectionDesc_2" : "犬科",
+    "selectionDesc_3" : "雉科"
+  },
+  "1003" : {
+    "id" : 1003,
+    "description" : "《西游记》中“大闹天宫”的是谁？",
+    "selectionDesc_1" : "猪八戒",
+    "selectionDesc_2" : "玉皇大帝",
+    "selectionDesc_3" : "孙悟空"
+  },
+  "1004" : {
+    "id" : 1004,
+    "description" : "“而立之年”是指多少岁？",
+    "selectionDesc_1" : "20",
+    "selectionDesc_2" : "30",
+    "selectionDesc_3" : "40"
+  },
+  "1005" : {
+    "id" : 1005,
+    "description" : "“但愿人长久，千里共婵娟”是哪位作家的作品？",
+    "selectionDesc_1" : "苏轼",
+    "selectionDesc_2" : "苏辙",
+    "selectionDesc_3" : "苏洵"
+  },
+  "1006" : {
+    "id" : 1006,
+    "description" : "补充诗句：“黄沙百战穿金甲，不破__终不还。”",
+    "selectionDesc_1" : "伽蓝",
+    "selectionDesc_2" : "楼兰",
+    "selectionDesc_3" : "波罗"
+  },
+  "1007" : {
+    "id" : 1007,
+    "description" : "“随君直到夜郎西”的前一句是？",
+    "selectionDesc_1" : "我寄愁心与明月",
+    "selectionDesc_2" : "二十四桥明月夜",
+    "selectionDesc_3" : "独将凉意伴流萤"
+  },
+  "1008" : {
+    "id" : 1008,
+    "description" : "补充古文： “故_________，必先苦其心志，劳其筋骨，饿其体肤，空乏其身……”",
+    "selectionDesc_1" : "天将降大任于斯人也",
+    "selectionDesc_2" : "天赐大任于斯人也",
+    "selectionDesc_3" : "天将纵大任于斯人也"
+  },
+  "1009" : {
+    "id" : 1009,
+    "description" : "我们常说哪个器官是“心灵的窗户”？",
+    "selectionDesc_1" : "鼻子",
+    "selectionDesc_2" : "嘴巴",
+    "selectionDesc_3" : "眼睛"
+  },
+  "1010" : {
+    "id" : 1010,
+    "description" : "“霜落荆门江树空”的下一句是？",
+    "selectionDesc_1" : "布帆无恙挂秋风",
+    "selectionDesc_2" : "上天入地寒鸦号",
+    "selectionDesc_3" : "今年装逼被雷劈"
+  },
+  "1011" : {
+    "id" : 1011,
+    "description" : "“世间无限丹青手”的下一句是？",
+    "selectionDesc_1" : "可怜山水无数声",
+    "selectionDesc_2" : "傲骨寒梅扑鼻香",
+    "selectionDesc_3" : "一片伤心画不成"
+  },
+  "1012" : {
+    "id" : 1012,
+    "description" : "法家思想的集大成者所著的书篇名《孤愤》的作者是？",
+    "selectionDesc_1" : "墨子",
+    "selectionDesc_2" : "墨非",
+    "selectionDesc_3" : "韩非"
+  },
+  "1013" : {
+    "id" : 1013,
+    "description" : "以下哪样东西不是菌类？",
+    "selectionDesc_1" : "蘑菇",
+    "selectionDesc_2" : "黄瓜",
+    "selectionDesc_3" : "木耳"
+  },
+  "1014" : {
+    "id" : 1014,
+    "description" : "升级门派技能需要消耗什么？",
+    "selectionDesc_1" : "仙石",
+    "selectionDesc_2" : "门贡",
+    "selectionDesc_3" : "元宝"
+  },
+  "1015" : {
+    "id" : 1015,
+    "description" : "“此恨绵绵无绝期。”的前一句是？",
+    "selectionDesc_1" : "岁岁青年话五月",
+    "selectionDesc_2" : "今夜清光似往年",
+    "selectionDesc_3" : "天长地久有时尽"
+  },
+  "1016" : {
+    "id" : 1016,
+    "description" : "打造装备需要消耗什么？",
+    "selectionDesc_1" : "仙石+元宝",
+    "selectionDesc_2" : "元宝+魂晶",
+    "selectionDesc_3" : "强化石+金坷垃"
+  },
+  "1017" : {
+    "id" : 1017,
+    "description" : "以下哪个地图常年白雪皑皑？",
+    "selectionDesc_1" : "北俱芦洲",
+    "selectionDesc_2" : "建邺城",
+    "selectionDesc_3" : "地府"
+  },
+  "1018" : {
+    "id" : 1018,
+    "description" : "门派普陀山的师父是谁？",
+    "selectionDesc_1" : "九天玄女",
+    "selectionDesc_2" : "镇元子",
+    "selectionDesc_3" : "观音姐姐"
+  },
+  "1019" : {
+    "id" : 1019,
+    "description" : "完成每日门派任务可以获得什么？",
+    "selectionDesc_1" : "门贡",
+    "selectionDesc_2" : "仙石",
+    "selectionDesc_3" : "藏宝图"
+  },
+  "1020" : {
+    "id" : 1020,
+    "description" : "以下哪个不是门派怒气技能？",
+    "selectionDesc_1" : "万蛊噬心",
+    "selectionDesc_2" : "莲华妙法",
+    "selectionDesc_3" : "封魂咒"
+  },
+  "1021" : {
+    "id" : 1021,
+    "description" : "最早的扇子是用什么做的？",
+    "selectionDesc_1" : "羽毛",
+    "selectionDesc_2" : "竹子",
+    "selectionDesc_3" : "贝壳"
+  },
+  "1022" : {
+    "id" : 1022,
+    "description" : "“沉鱼落雁，闭月羞花”中的“闭月”是指？",
+    "selectionDesc_1" : "貂蝉",
+    "selectionDesc_2" : "王昭君",
+    "selectionDesc_3" : "杨贵妃"
+  },
+  "1023" : {
+    "id" : 1023,
+    "description" : "中国最大的淡水湖是？",
+    "selectionDesc_1" : "青海湖",
+    "selectionDesc_2" : "鄱阳湖",
+    "selectionDesc_3" : "太湖"
+  },
+  "1024" : {
+    "id" : 1024,
+    "description" : "以下哪一位是接取门派任务的NPC？",
+    "selectionDesc_1" : "上官韩卢",
+    "selectionDesc_2" : "烟扬",
+    "selectionDesc_3" : "肥修"
+  },
+  "1025" : {
+    "id" : 1025,
+    "description" : "以下哪个角色不是男性？",
+    "selectionDesc_1" : "包子",
+    "selectionDesc_2" : "凌香",
+    "selectionDesc_3" : "五毒大仙"
+  },
+  "1026" : {
+    "id" : 1026,
+    "description" : "凌香的师父是谁？",
+    "selectionDesc_1" : "龙傲天",
+    "selectionDesc_2" : "包子",
+    "selectionDesc_3" : "敖君来"
+  },
+  "1027" : {
+    "id" : 1027,
+    "description" : "真仙石奇缘的logo主体没有以下哪种颜色？",
+    "selectionDesc_1" : "红色",
+    "selectionDesc_2" : "黄色",
+    "selectionDesc_3" : "绿色"
+  },
+  "1028" : {
+    "id" : 1028,
+    "description" : "哪个门派以“群体法术”为特色？",
+    "selectionDesc_1" : "普陀山",
+    "selectionDesc_2" : "五庄观",
+    "selectionDesc_3" : "盘丝洞"
+  },
+  "1029" : {
+    "id" : 1029,
+    "description" : "仙石的产出的总量是多少？",
+    "selectionDesc_1" : "捌壹零亿",
+    "selectionDesc_2" : "壹亿",
+    "selectionDesc_3" : "壹壹肆伍壹肆亿"
+  },
+  "1030" : {
+    "id" : 1030,
+    "description" : "神经系统最高级部分是？",
+    "selectionDesc_1" : "大脑",
+    "selectionDesc_2" : "心脏",
+    "selectionDesc_3" : "神经质"
+  },
+  "1031" : {
+    "id" : 1031,
+    "description" : "踏雪猫妖常年居住在哪个地图？",
+    "selectionDesc_1" : "北俱芦洲",
+    "selectionDesc_2" : "地府",
+    "selectionDesc_3" : "蓬莱"
+  },
+  "1032" : {
+    "id" : 1032,
+    "description" : "迎庭传是谁一生中最宝贵的遗产？",
+    "selectionDesc_1" : "叶铭",
+    "selectionDesc_2" : "叶迎延",
+    "selectionDesc_3" : "烟扬"
+  },
+  "1033" : {
+    "id" : 1033,
+    "description" : "“五岳”中的“中岳”是指？",
+    "selectionDesc_1" : "泰山",
+    "selectionDesc_2" : "华山",
+    "selectionDesc_3" : "嵩山"
+  },
+  "1034" : {
+    "id" : 1034,
+    "description" : "南宋都城临安，是现今何处？",
+    "selectionDesc_1" : "北京",
+    "selectionDesc_2" : "杭州",
+    "selectionDesc_3" : "洛阳"
+  },
+  "1035" : {
+    "id" : 1035,
+    "description" : "澳大利亚的首都是哪里？",
+    "selectionDesc_1" : "悉尼",
+    "selectionDesc_2" : "墨尔本",
+    "selectionDesc_3" : "堪培拉"
+  },
+  "1036" : {
+    "id" : 1036,
+    "description" : "以下哪位不是《三国演义》“三英战吕布”中的“三英”？",
+    "selectionDesc_1" : "刘备",
+    "selectionDesc_2" : "关羽",
+    "selectionDesc_3" : "赵云"
+  },
+  "1037" : {
+    "id" : 1037,
+    "description" : "“破釜沉舟”这个成语出自哪次战争？",
+    "selectionDesc_1" : "巨鹿之战",
+    "selectionDesc_2" : "赤壁之战",
+    "selectionDesc_3" : "长平之战"
+  },
+  "1038" : {
+    "id" : 1038,
+    "description" : "以下哪一部不是国产的动画？",
+    "selectionDesc_1" : "秦时明月",
+    "selectionDesc_2" : "风中奇缘",
+    "selectionDesc_3" : "大圣归来"
+  },
+  "1039" : {
+    "id" : 1039,
+    "description" : "以下哪种动物的眼睛最多？",
+    "selectionDesc_1" : "哮天犬",
+    "selectionDesc_2" : "屎壳郎",
+    "selectionDesc_3" : "蜻蜓"
+  },
+  "1040" : {
+    "id" : 1040,
+    "description" : "我有个问题，你地听日系咪要____啊？",
+    "selectionDesc_1" : "迎庭",
+    "selectionDesc_2" : "迎廷",
+    "selectionDesc_3" : "迎延"
+  },
+  "1041" : {
+    "id" : 1041,
+    "description" : "以下哪个地名不存在于现实世界？",
+    "selectionDesc_1" : "池袋",
+    "selectionDesc_2" : "新日暮里",
+    "selectionDesc_3" : "下北泽"
+  },
+  "1042" : {
+    "id" : 1042,
+    "description" : "哲学家拉康提出了以下哪个概念？",
+    "selectionDesc_1" : "对象a",
+    "selectionDesc_2" : "对象b",
+    "selectionDesc_3" : "对象c"
+  },
+  "1043" : {
+    "id" : 1043,
+    "description" : "柬埔寨又称？",
+    "selectionDesc_1" : "班步",
+    "selectionDesc_2" : "高棉",
+    "selectionDesc_3" : "格兰斯洛伐克"
+  },
+  "1044" : {
+    "id" : 1044,
+    "description" : "一公斤金坷垃的原料价值多少美元？",
+    "selectionDesc_1" : "10万",
+    "selectionDesc_2" : "100万",
+    "selectionDesc_3" : "500万"
+  },
+  "1045" : {
+    "id" : 1045,
+    "description" : "音乐的四个基本要素是旋律、和声、音色和什么？",
+    "selectionDesc_1" : "节奏",
+    "selectionDesc_2" : "速度",
+    "selectionDesc_3" : "力度"
+  },
+  "1046" : {
+    "id" : 1046,
+    "description" : "“南服只今歼小丑，北辕何日返神州？”是谁的诗句？",
+    "selectionDesc_1" : "嵇康",
+    "selectionDesc_2" : "岳飞",
+    "selectionDesc_3" : "李白"
+  },
+  "1047" : {
+    "id" : 1047,
+    "description" : "坦克是哪个国家发明的？",
+    "selectionDesc_1" : "中国",
+    "selectionDesc_2" : "法国",
+    "selectionDesc_3" : "英国"
+  },
+  "1048" : {
+    "id" : 1048,
+    "description" : "通常高级龙井茶的采制时间多在何时之前？",
+    "selectionDesc_1" : "清明",
+    "selectionDesc_2" : "谷雨",
+    "selectionDesc_3" : "春分"
+  },
+  "1049" : {
+    "id" : 1049,
+    "description" : "被称为“命运交响曲”的是贝多芬的：",
+    "selectionDesc_1" : "第四交响曲",
+    "selectionDesc_2" : "第五交响曲",
+    "selectionDesc_3" : "第六交响曲"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hspm_nonempty",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -18
+        },
+        {
+          "frame": 0.25,
+          "value": 12
+        },
+        {
+          "frame": 0.5,
+          "value": -18
+        }
+      ]
+    }
+  },
+  "events": []
+}

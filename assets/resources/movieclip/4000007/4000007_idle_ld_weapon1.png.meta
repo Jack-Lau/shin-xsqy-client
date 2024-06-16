@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bffda4b8-fc43-44d4-a08f-9a61f0cd53cf",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 426,
+  "height": 1406,
+  "platformSettings": {},
+  "subMetas": {
+    "4000007_idle_ld_weapon1": {
+      "ver": "1.0.6",
+      "uuid": "39d8598f-99ce-4ade-893f-fc51886d1123",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bffda4b8-fc43-44d4-a08f-9a61f0cd53cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 424,
+      "height": 1404,
+      "rawWidth": 426,
+      "rawHeight": 1406,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

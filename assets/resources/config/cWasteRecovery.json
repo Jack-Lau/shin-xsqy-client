@@ -1,0 +1,128 @@
+{
+  "1" : {
+    "id" : 1,
+    "type" : 1,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 10,
+    "weight" : 8,
+    "highRate" : 0
+  },
+  "2" : {
+    "id" : 2,
+    "type" : 1,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 20,
+    "weight" : 10,
+    "highRate" : 0
+  },
+  "3" : {
+    "id" : 3,
+    "type" : 1,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 40,
+    "weight" : 18,
+    "highRate" : 0
+  },
+  "4" : {
+    "id" : 4,
+    "type" : 1,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 60,
+    "weight" : 21,
+    "highRate" : 0
+  },
+  "5" : {
+    "id" : 5,
+    "type" : 1,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 120,
+    "weight" : 25,
+    "highRate" : 0
+  },
+  "6" : {
+    "id" : 6,
+    "type" : 1,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 240,
+    "weight" : 15,
+    "highRate" : 0
+  },
+  "7" : {
+    "id" : 7,
+    "type" : 1,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 480,
+    "weight" : 3,
+    "highRate" : 1
+  },
+  "101" : {
+    "id" : 101,
+    "type" : 2,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 10,
+    "weight" : 6,
+    "highRate" : 0
+  },
+  "102" : {
+    "id" : 102,
+    "type" : 2,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 20,
+    "weight" : 9,
+    "highRate" : 0
+  },
+  "103" : {
+    "id" : 103,
+    "type" : 2,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 40,
+    "weight" : 16,
+    "highRate" : 0
+  },
+  "104" : {
+    "id" : 104,
+    "type" : 2,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 80,
+    "weight" : 21,
+    "highRate" : 0
+  },
+  "105" : {
+    "id" : 105,
+    "type" : 2,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 100,
+    "weight" : 27,
+    "highRate" : 0
+  },
+  "106" : {
+    "id" : 106,
+    "type" : 2,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 180,
+    "weight" : 18,
+    "highRate" : 0
+  },
+  "107" : {
+    "id" : 107,
+    "type" : 2,
+    "recoveryId" : 195,
+    "name" : "魂晶",
+    "amount" : 750,
+    "weight" : 3,
+    "highRate" : 1
+  }
+}

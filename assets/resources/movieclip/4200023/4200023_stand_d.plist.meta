@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "ff6c67e2-0c7a-410b-ae8d-aa5beb3c0103",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "0ee690b5-d6c5-49d4-b1ca-afb63d6b85a5",
+  "size": {
+    "width": 188,
+    "height": 213
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "法阵.png": {
+      "ver": "1.0.6",
+      "uuid": "059240b6-b475-4c7c-9261-444e70dc49ef",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0ee690b5-d6c5-49d4-b1ca-afb63d6b85a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 6,
+      "offsetY": -1,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 186,
+      "height": 211,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "41754713-acd9-4d37-b4f0-caf7b4d82e60",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1707,
+  "height": 1008,
+  "platformSettings": {},
+  "subMetas": {
+    "kings_fight_panel": {
+      "ver": "1.0.6",
+      "uuid": "5b948ee3-cf70-4158-9bb0-5f994f7b149c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "41754713-acd9-4d37-b4f0-caf7b4d82e60",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 1705,
+      "height": 1005,
+      "rawWidth": 1707,
+      "rawHeight": 1008,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

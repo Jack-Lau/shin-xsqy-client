@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "c3c7e596-182e-48e8-946c-b1c1b4e04574",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "264edebd-65c0-4a81-94fc-145e17a20521",
+  "size": {
+    "width": 164,
+    "height": 157
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "矿石1.png": {
+      "ver": "1.0.6",
+      "uuid": "94f0fe38-1d70-4f53-a9fc-f4b2d65cb621",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "264edebd-65c0-4a81-94fc-145e17a20521",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": -42,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 162,
+      "height": 155,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "69bbf282-da91-4948-b3a3-f3c525b97925",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "280d2c8f-fcbe-4b87-8457-1af76c8074d9",
+  "size": {
+    "width": 108,
+    "height": 173
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "逍遥石2.png": {
+      "ver": "1.0.6",
+      "uuid": "a6a4eeb7-6cc2-42db-832e-c30c5627a920",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "280d2c8f-fcbe-4b87-8457-1af76c8074d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": 2,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 106,
+      "height": 171,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5a1f6789-c897-475e-92e1-b1fea659ec84",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 922,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "4000008_stand_r_weapon1": {
+      "ver": "1.0.6",
+      "uuid": "a5359955-5b28-4e38-9f0a-e48450fa7bb8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5a1f6789-c897-475e-92e1-b1fea659ec84",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 919,
+      "height": 70,
+      "rawWidth": 922,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

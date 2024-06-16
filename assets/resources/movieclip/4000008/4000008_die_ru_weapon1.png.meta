@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d3e1a5c2-9b9a-4e7f-bdc5-85eff22f9ba2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 1058,
+  "platformSettings": {},
+  "subMetas": {
+    "4000008_die_ru_weapon1": {
+      "ver": "1.0.6",
+      "uuid": "e76c660d-ae52-4c40-a11e-ad2a0516852f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d3e1a5c2-9b9a-4e7f-bdc5-85eff22f9ba2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 510,
+      "height": 1056,
+      "rawWidth": 512,
+      "rawHeight": 1058,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

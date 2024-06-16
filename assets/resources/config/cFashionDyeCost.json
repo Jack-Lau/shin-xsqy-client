@@ -1,0 +1,21 @@
+{
+  "1" : {
+    "id" : 1,
+    "dyeCost" : [ {
+      "part" : 1,
+      "colorCost" : 30,
+      "saturationCost" : 15,
+      "brightnessCost" : 15
+    }, {
+      "part" : 2,
+      "colorCost" : 20,
+      "saturationCost" : 10,
+      "brightnessCost" : 10
+    }, {
+      "part" : 3,
+      "colorCost" : 20,
+      "saturationCost" : 10,
+      "brightnessCost" : 10
+    } ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1789f948-fbc7-4580-86d7-acdb8cda25d0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1080,
+  "height": 510,
+  "platformSettings": {},
+  "subMetas": {
+    "4000006_attack_ld_weapon2": {
+      "ver": "1.0.6",
+      "uuid": "a8beeb0d-9c4d-4af1-825a-7f9fb31962a0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1789f948-fbc7-4580-86d7-acdb8cda25d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1076,
+      "height": 506,
+      "rawWidth": 1080,
+      "rawHeight": 510,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "4465000" : {
+    "id" : 4465000,
+    "prefabName" : "盛世华服",
+    "modelOne" : 4000005,
+    "modelTwo" : 4000006,
+    "modelThree" : 4000007,
+    "modelFour" : 4000008,
+    "limitedQuantity" : 1000000,
+    "dyeCostModel" : 1,
+    "changeDyeCost" : 1
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "310401" : {
+    "id" : 310401,
+    "abilityAmount" : 0,
+    "successRate" : "1.0",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 100
+  },
+  "310402" : {
+    "id" : 310402,
+    "abilityAmount" : 1,
+    "successRate" : "1.0",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 100
+  },
+  "310403" : {
+    "id" : 310403,
+    "abilityAmount" : 2,
+    "successRate" : "1.0",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 100
+  },
+  "310404" : {
+    "id" : 310404,
+    "abilityAmount" : 3,
+    "successRate" : "1.0",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 200
+  },
+  "310405" : {
+    "id" : 310405,
+    "abilityAmount" : 4,
+    "successRate" : "0.65",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 400
+  },
+  "310406" : {
+    "id" : 310406,
+    "abilityAmount" : 5,
+    "successRate" : "0.35",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 800
+  },
+  "310407" : {
+    "id" : 310407,
+    "abilityAmount" : 6,
+    "successRate" : "0.2",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 1600
+  },
+  "310408" : {
+    "id" : 310408,
+    "abilityAmount" : 7,
+    "successRate" : "0.1",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 3200
+  },
+  "310409" : {
+    "id" : 310409,
+    "abilityAmount" : 8,
+    "successRate" : "0.08",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 6400
+  },
+  "310410" : {
+    "id" : 310410,
+    "abilityAmount" : 9,
+    "successRate" : "0.06",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 12800
+  },
+  "310411" : {
+    "id" : 310411,
+    "abilityAmount" : 10,
+    "successRate" : "0.052",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 25600
+  },
+  "310412" : {
+    "id" : 310412,
+    "abilityAmount" : 11,
+    "successRate" : "0.035",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 51200
+  },
+  "310413" : {
+    "id" : 310413,
+    "abilityAmount" : 12,
+    "successRate" : "0.021",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 102400
+  },
+  "310414" : {
+    "id" : 310414,
+    "abilityAmount" : 13,
+    "successRate" : "0.015",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 204800
+  },
+  "310415" : {
+    "id" : 310415,
+    "abilityAmount" : 14,
+    "successRate" : "0.01",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 409600
+  },
+  "310416" : {
+    "id" : 310416,
+    "abilityAmount" : 15,
+    "successRate" : "0.0",
+    "currencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "amount" : 0
+  }
+}

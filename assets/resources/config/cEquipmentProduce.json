@@ -1,0 +1,434 @@
+{
+  "10002" : {
+    "id" : 10002,
+    "name" : "武器原型【绿】",
+    "color" : 2,
+    "part" : 10,
+    "attr" : [ {
+      "outputAttribute" : "物伤",
+      "attrId" : 3,
+      "outputMin" : 446,
+      "outputMax" : 717
+    }, {
+      "outputAttribute" : "法伤",
+      "attrId" : 5,
+      "outputMin" : 446,
+      "outputMax" : 717
+    } ],
+    "recommendedPrice" : 0
+  },
+  "21002" : {
+    "id" : 21002,
+    "name" : "帽子原型【绿】",
+    "color" : 2,
+    "part" : 21,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "attrId" : 4,
+      "outputMin" : 101,
+      "outputMax" : 162
+    }, {
+      "outputAttribute" : "法防",
+      "attrId" : 6,
+      "outputMin" : 116,
+      "outputMax" : 185
+    } ],
+    "recommendedPrice" : 0
+  },
+  "22002" : {
+    "id" : 22002,
+    "name" : "衣服原型【绿】",
+    "color" : 2,
+    "part" : 22,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "attrId" : 4,
+      "outputMin" : 188,
+      "outputMax" : 302
+    }, {
+      "outputAttribute" : "最大生命",
+      "attrId" : 1,
+      "outputMin" : 1004,
+      "outputMax" : 1616
+    } ],
+    "recommendedPrice" : 0
+  },
+  "23002" : {
+    "id" : 23002,
+    "name" : "鞋子原型【绿】",
+    "color" : 2,
+    "part" : 23,
+    "attr" : [ {
+      "outputAttribute" : "速度",
+      "attrId" : 7,
+      "outputMin" : 93,
+      "outputMax" : 149
+    }, {
+      "outputAttribute" : "幸运",
+      "attrId" : 8,
+      "outputMin" : 26,
+      "outputMax" : 42
+    } ],
+    "recommendedPrice" : 0
+  },
+  "24002" : {
+    "id" : 24002,
+    "name" : "腰带原型【绿】",
+    "color" : 2,
+    "part" : 24,
+    "attr" : [ {
+      "outputAttribute" : "最大生命",
+      "attrId" : 1,
+      "outputMin" : 1227,
+      "outputMax" : 1975
+    }, {
+      "outputAttribute" : "幸运",
+      "attrId" : 8,
+      "outputMin" : 26,
+      "outputMax" : 42
+    } ],
+    "recommendedPrice" : 0
+  },
+  "25002" : {
+    "id" : 25002,
+    "name" : "项链原型【绿】",
+    "color" : 2,
+    "part" : 25,
+    "attr" : [ {
+      "outputAttribute" : "法防",
+      "attrId" : 6,
+      "outputMin" : 174,
+      "outputMax" : 279
+    }, {
+      "outputAttribute" : "速度",
+      "attrId" : 7,
+      "outputMin" : 40,
+      "outputMax" : 63
+    } ],
+    "recommendedPrice" : 0
+  },
+  "10003" : {
+    "id" : 10003,
+    "name" : "武器原型【蓝】",
+    "color" : 3,
+    "part" : 10,
+    "attr" : [ {
+      "outputAttribute" : "物伤",
+      "attrId" : 3,
+      "outputMin" : 718,
+      "outputMax" : 1156
+    }, {
+      "outputAttribute" : "法伤",
+      "attrId" : 5,
+      "outputMin" : 718,
+      "outputMax" : 1156
+    } ],
+    "recommendedPrice" : 40000
+  },
+  "21003" : {
+    "id" : 21003,
+    "name" : "帽子原型【蓝】",
+    "color" : 3,
+    "part" : 21,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "attrId" : 4,
+      "outputMin" : 163,
+      "outputMax" : 262
+    }, {
+      "outputAttribute" : "法防",
+      "attrId" : 6,
+      "outputMin" : 186,
+      "outputMax" : 299
+    } ],
+    "recommendedPrice" : 40000
+  },
+  "22003" : {
+    "id" : 22003,
+    "name" : "衣服原型【蓝】",
+    "color" : 3,
+    "part" : 22,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "attrId" : 4,
+      "outputMin" : 303,
+      "outputMax" : 487
+    }, {
+      "outputAttribute" : "最大生命",
+      "attrId" : 1,
+      "outputMin" : 1617,
+      "outputMax" : 2603
+    } ],
+    "recommendedPrice" : 40000
+  },
+  "23003" : {
+    "id" : 23003,
+    "name" : "鞋子原型【蓝】",
+    "color" : 3,
+    "part" : 23,
+    "attr" : [ {
+      "outputAttribute" : "速度",
+      "attrId" : 7,
+      "outputMin" : 150,
+      "outputMax" : 242
+    }, {
+      "outputAttribute" : "幸运",
+      "attrId" : 8,
+      "outputMin" : 43,
+      "outputMax" : 68
+    } ],
+    "recommendedPrice" : 40000
+  },
+  "24003" : {
+    "id" : 24003,
+    "name" : "腰带原型【蓝】",
+    "color" : 3,
+    "part" : 24,
+    "attr" : [ {
+      "outputAttribute" : "最大生命",
+      "attrId" : 1,
+      "outputMin" : 1976,
+      "outputMax" : 3181
+    }, {
+      "outputAttribute" : "幸运",
+      "attrId" : 8,
+      "outputMin" : 43,
+      "outputMax" : 68
+    } ],
+    "recommendedPrice" : 40000
+  },
+  "25003" : {
+    "id" : 25003,
+    "name" : "项链原型【蓝】",
+    "color" : 3,
+    "part" : 25,
+    "attr" : [ {
+      "outputAttribute" : "法防",
+      "attrId" : 6,
+      "outputMin" : 280,
+      "outputMax" : 450
+    }, {
+      "outputAttribute" : "速度",
+      "attrId" : 7,
+      "outputMin" : 64,
+      "outputMax" : 103
+    } ],
+    "recommendedPrice" : 40000
+  },
+  "10004" : {
+    "id" : 10004,
+    "name" : "武器原型【紫】",
+    "color" : 4,
+    "part" : 10,
+    "attr" : [ {
+      "outputAttribute" : "物伤",
+      "attrId" : 3,
+      "outputMin" : 1157,
+      "outputMax" : 1862
+    }, {
+      "outputAttribute" : "法伤",
+      "attrId" : 5,
+      "outputMin" : 1157,
+      "outputMax" : 1862
+    } ],
+    "recommendedPrice" : 100000
+  },
+  "21004" : {
+    "id" : 21004,
+    "name" : "帽子原型【紫】",
+    "color" : 4,
+    "part" : 21,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "attrId" : 4,
+      "outputMin" : 263,
+      "outputMax" : 422
+    }, {
+      "outputAttribute" : "法防",
+      "attrId" : 6,
+      "outputMin" : 300,
+      "outputMax" : 483
+    } ],
+    "recommendedPrice" : 100000
+  },
+  "22004" : {
+    "id" : 22004,
+    "name" : "衣服原型【紫】",
+    "color" : 4,
+    "part" : 22,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "attrId" : 4,
+      "outputMin" : 488,
+      "outputMax" : 786
+    }, {
+      "outputAttribute" : "最大生命",
+      "attrId" : 1,
+      "outputMin" : 2604,
+      "outputMax" : 4191
+    } ],
+    "recommendedPrice" : 100000
+  },
+  "23004" : {
+    "id" : 23004,
+    "name" : "鞋子原型【紫】",
+    "color" : 4,
+    "part" : 23,
+    "attr" : [ {
+      "outputAttribute" : "速度",
+      "attrId" : 7,
+      "outputMin" : 243,
+      "outputMax" : 390
+    }, {
+      "outputAttribute" : "幸运",
+      "attrId" : 8,
+      "outputMin" : 69,
+      "outputMax" : 110
+    } ],
+    "recommendedPrice" : 100000
+  },
+  "24004" : {
+    "id" : 24004,
+    "name" : "腰带原型【紫】",
+    "color" : 4,
+    "part" : 24,
+    "attr" : [ {
+      "outputAttribute" : "最大生命",
+      "attrId" : 1,
+      "outputMin" : 3182,
+      "outputMax" : 5123
+    }, {
+      "outputAttribute" : "幸运",
+      "attrId" : 8,
+      "outputMin" : 69,
+      "outputMax" : 110
+    } ],
+    "recommendedPrice" : 100000
+  },
+  "25004" : {
+    "id" : 25004,
+    "name" : "项链原型【紫】",
+    "color" : 4,
+    "part" : 25,
+    "attr" : [ {
+      "outputAttribute" : "法防",
+      "attrId" : 6,
+      "outputMin" : 451,
+      "outputMax" : 725
+    }, {
+      "outputAttribute" : "速度",
+      "attrId" : 7,
+      "outputMin" : 104,
+      "outputMax" : 166
+    } ],
+    "recommendedPrice" : 100000
+  },
+  "10005" : {
+    "id" : 10005,
+    "name" : "武器原型【橙】",
+    "color" : 5,
+    "part" : 10,
+    "attr" : [ {
+      "outputAttribute" : "物伤",
+      "attrId" : 3,
+      "outputMin" : 1863,
+      "outputMax" : 2999
+    }, {
+      "outputAttribute" : "法伤",
+      "attrId" : 5,
+      "outputMin" : 1863,
+      "outputMax" : 2999
+    } ],
+    "recommendedPrice" : 3000000
+  },
+  "21005" : {
+    "id" : 21005,
+    "name" : "帽子原型【橙】",
+    "color" : 5,
+    "part" : 21,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "attrId" : 4,
+      "outputMin" : 423,
+      "outputMax" : 681
+    }, {
+      "outputAttribute" : "法防",
+      "attrId" : 6,
+      "outputMin" : 484,
+      "outputMax" : 779
+    } ],
+    "recommendedPrice" : 3000000
+  },
+  "22005" : {
+    "id" : 22005,
+    "name" : "衣服原型【橙】",
+    "color" : 5,
+    "part" : 22,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "attrId" : 4,
+      "outputMin" : 787,
+      "outputMax" : 1266
+    }, {
+      "outputAttribute" : "最大生命",
+      "attrId" : 1,
+      "outputMin" : 4192,
+      "outputMax" : 6749
+    } ],
+    "recommendedPrice" : 3000000
+  },
+  "23005" : {
+    "id" : 23005,
+    "name" : "鞋子原型【橙】",
+    "color" : 5,
+    "part" : 23,
+    "attr" : [ {
+      "outputAttribute" : "速度",
+      "attrId" : 7,
+      "outputMin" : 391,
+      "outputMax" : 629
+    }, {
+      "outputAttribute" : "幸运",
+      "attrId" : 8,
+      "outputMin" : 111,
+      "outputMax" : 179
+    } ],
+    "recommendedPrice" : 3000000
+  },
+  "24005" : {
+    "id" : 24005,
+    "name" : "腰带原型【橙】",
+    "color" : 5,
+    "part" : 24,
+    "attr" : [ {
+      "outputAttribute" : "最大生命",
+      "attrId" : 1,
+      "outputMin" : 5124,
+      "outputMax" : 8249
+    }, {
+      "outputAttribute" : "幸运",
+      "attrId" : 8,
+      "outputMin" : 111,
+      "outputMax" : 179
+    } ],
+    "recommendedPrice" : 3000000
+  },
+  "25005" : {
+    "id" : 25005,
+    "name" : "项链原型【橙】",
+    "color" : 5,
+    "part" : 25,
+    "attr" : [ {
+      "outputAttribute" : "法防",
+      "attrId" : 6,
+      "outputMin" : 726,
+      "outputMax" : 1169
+    }, {
+      "outputAttribute" : "速度",
+      "attrId" : 7,
+      "outputMin" : 167,
+      "outputMax" : 269
+    } ],
+    "recommendedPrice" : 3000000
+  }
+}

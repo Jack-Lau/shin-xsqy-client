@@ -1,0 +1,2002 @@
+{
+  "0" : {
+    "id" : 0,
+    "player_atk_exp" : 400,
+    "player_def_exp" : 200,
+    "pet_atk_exp" : 1200,
+    "pet_def_exp" : 600,
+    "player_revive_exp" : 2400
+  },
+  "1" : {
+    "id" : 1,
+    "player_atk_exp" : 420,
+    "player_def_exp" : 210,
+    "pet_atk_exp" : 1260,
+    "pet_def_exp" : 630,
+    "player_revive_exp" : 2520
+  },
+  "2" : {
+    "id" : 2,
+    "player_atk_exp" : 440,
+    "player_def_exp" : 220,
+    "pet_atk_exp" : 1320,
+    "pet_def_exp" : 660,
+    "player_revive_exp" : 2640
+  },
+  "3" : {
+    "id" : 3,
+    "player_atk_exp" : 460,
+    "player_def_exp" : 230,
+    "pet_atk_exp" : 1380,
+    "pet_def_exp" : 690,
+    "player_revive_exp" : 2760
+  },
+  "4" : {
+    "id" : 4,
+    "player_atk_exp" : 480,
+    "player_def_exp" : 240,
+    "pet_atk_exp" : 1440,
+    "pet_def_exp" : 720,
+    "player_revive_exp" : 2880
+  },
+  "5" : {
+    "id" : 5,
+    "player_atk_exp" : 500,
+    "player_def_exp" : 250,
+    "pet_atk_exp" : 1500,
+    "pet_def_exp" : 750,
+    "player_revive_exp" : 3000
+  },
+  "6" : {
+    "id" : 6,
+    "player_atk_exp" : 520,
+    "player_def_exp" : 260,
+    "pet_atk_exp" : 1560,
+    "pet_def_exp" : 780,
+    "player_revive_exp" : 3120
+  },
+  "7" : {
+    "id" : 7,
+    "player_atk_exp" : 540,
+    "player_def_exp" : 270,
+    "pet_atk_exp" : 1620,
+    "pet_def_exp" : 810,
+    "player_revive_exp" : 3240
+  },
+  "8" : {
+    "id" : 8,
+    "player_atk_exp" : 560,
+    "player_def_exp" : 280,
+    "pet_atk_exp" : 1680,
+    "pet_def_exp" : 840,
+    "player_revive_exp" : 3360
+  },
+  "9" : {
+    "id" : 9,
+    "player_atk_exp" : 580,
+    "player_def_exp" : 290,
+    "pet_atk_exp" : 1740,
+    "pet_def_exp" : 870,
+    "player_revive_exp" : 3480
+  },
+  "10" : {
+    "id" : 10,
+    "player_atk_exp" : 600,
+    "player_def_exp" : 300,
+    "pet_atk_exp" : 1800,
+    "pet_def_exp" : 900,
+    "player_revive_exp" : 3600
+  },
+  "11" : {
+    "id" : 11,
+    "player_atk_exp" : 620,
+    "player_def_exp" : 310,
+    "pet_atk_exp" : 1860,
+    "pet_def_exp" : 930,
+    "player_revive_exp" : 3720
+  },
+  "12" : {
+    "id" : 12,
+    "player_atk_exp" : 640,
+    "player_def_exp" : 320,
+    "pet_atk_exp" : 1920,
+    "pet_def_exp" : 960,
+    "player_revive_exp" : 3840
+  },
+  "13" : {
+    "id" : 13,
+    "player_atk_exp" : 660,
+    "player_def_exp" : 330,
+    "pet_atk_exp" : 1980,
+    "pet_def_exp" : 990,
+    "player_revive_exp" : 3960
+  },
+  "14" : {
+    "id" : 14,
+    "player_atk_exp" : 680,
+    "player_def_exp" : 340,
+    "pet_atk_exp" : 2040,
+    "pet_def_exp" : 1020,
+    "player_revive_exp" : 4080
+  },
+  "15" : {
+    "id" : 15,
+    "player_atk_exp" : 700,
+    "player_def_exp" : 350,
+    "pet_atk_exp" : 2100,
+    "pet_def_exp" : 1050,
+    "player_revive_exp" : 4200
+  },
+  "16" : {
+    "id" : 16,
+    "player_atk_exp" : 720,
+    "player_def_exp" : 360,
+    "pet_atk_exp" : 2160,
+    "pet_def_exp" : 1080,
+    "player_revive_exp" : 4320
+  },
+  "17" : {
+    "id" : 17,
+    "player_atk_exp" : 740,
+    "player_def_exp" : 370,
+    "pet_atk_exp" : 2220,
+    "pet_def_exp" : 1110,
+    "player_revive_exp" : 4440
+  },
+  "18" : {
+    "id" : 18,
+    "player_atk_exp" : 760,
+    "player_def_exp" : 380,
+    "pet_atk_exp" : 2280,
+    "pet_def_exp" : 1140,
+    "player_revive_exp" : 4560
+  },
+  "19" : {
+    "id" : 19,
+    "player_atk_exp" : 780,
+    "player_def_exp" : 390,
+    "pet_atk_exp" : 2340,
+    "pet_def_exp" : 1170,
+    "player_revive_exp" : 4680
+  },
+  "20" : {
+    "id" : 20,
+    "player_atk_exp" : 800,
+    "player_def_exp" : 400,
+    "pet_atk_exp" : 2400,
+    "pet_def_exp" : 1200,
+    "player_revive_exp" : 4800
+  },
+  "21" : {
+    "id" : 21,
+    "player_atk_exp" : 820,
+    "player_def_exp" : 410,
+    "pet_atk_exp" : 2460,
+    "pet_def_exp" : 1230,
+    "player_revive_exp" : 4920
+  },
+  "22" : {
+    "id" : 22,
+    "player_atk_exp" : 840,
+    "player_def_exp" : 420,
+    "pet_atk_exp" : 2520,
+    "pet_def_exp" : 1260,
+    "player_revive_exp" : 5040
+  },
+  "23" : {
+    "id" : 23,
+    "player_atk_exp" : 860,
+    "player_def_exp" : 430,
+    "pet_atk_exp" : 2580,
+    "pet_def_exp" : 1290,
+    "player_revive_exp" : 5160
+  },
+  "24" : {
+    "id" : 24,
+    "player_atk_exp" : 880,
+    "player_def_exp" : 440,
+    "pet_atk_exp" : 2640,
+    "pet_def_exp" : 1320,
+    "player_revive_exp" : 5280
+  },
+  "25" : {
+    "id" : 25,
+    "player_atk_exp" : 900,
+    "player_def_exp" : 450,
+    "pet_atk_exp" : 2700,
+    "pet_def_exp" : 1350,
+    "player_revive_exp" : 5400
+  },
+  "26" : {
+    "id" : 26,
+    "player_atk_exp" : 920,
+    "player_def_exp" : 460,
+    "pet_atk_exp" : 2760,
+    "pet_def_exp" : 1380,
+    "player_revive_exp" : 5520
+  },
+  "27" : {
+    "id" : 27,
+    "player_atk_exp" : 940,
+    "player_def_exp" : 470,
+    "pet_atk_exp" : 2820,
+    "pet_def_exp" : 1410,
+    "player_revive_exp" : 5640
+  },
+  "28" : {
+    "id" : 28,
+    "player_atk_exp" : 960,
+    "player_def_exp" : 480,
+    "pet_atk_exp" : 2880,
+    "pet_def_exp" : 1440,
+    "player_revive_exp" : 5760
+  },
+  "29" : {
+    "id" : 29,
+    "player_atk_exp" : 980,
+    "player_def_exp" : 490,
+    "pet_atk_exp" : 2940,
+    "pet_def_exp" : 1470,
+    "player_revive_exp" : 5880
+  },
+  "30" : {
+    "id" : 30,
+    "player_atk_exp" : 1000,
+    "player_def_exp" : 500,
+    "pet_atk_exp" : 3000,
+    "pet_def_exp" : 1500,
+    "player_revive_exp" : 6000
+  },
+  "31" : {
+    "id" : 31,
+    "player_atk_exp" : 1020,
+    "player_def_exp" : 510,
+    "pet_atk_exp" : 3060,
+    "pet_def_exp" : 1530,
+    "player_revive_exp" : 6120
+  },
+  "32" : {
+    "id" : 32,
+    "player_atk_exp" : 1040,
+    "player_def_exp" : 520,
+    "pet_atk_exp" : 3120,
+    "pet_def_exp" : 1560,
+    "player_revive_exp" : 6240
+  },
+  "33" : {
+    "id" : 33,
+    "player_atk_exp" : 1060,
+    "player_def_exp" : 530,
+    "pet_atk_exp" : 3180,
+    "pet_def_exp" : 1590,
+    "player_revive_exp" : 6360
+  },
+  "34" : {
+    "id" : 34,
+    "player_atk_exp" : 1080,
+    "player_def_exp" : 540,
+    "pet_atk_exp" : 3240,
+    "pet_def_exp" : 1620,
+    "player_revive_exp" : 6480
+  },
+  "35" : {
+    "id" : 35,
+    "player_atk_exp" : 1100,
+    "player_def_exp" : 550,
+    "pet_atk_exp" : 3300,
+    "pet_def_exp" : 1650,
+    "player_revive_exp" : 6600
+  },
+  "36" : {
+    "id" : 36,
+    "player_atk_exp" : 1120,
+    "player_def_exp" : 560,
+    "pet_atk_exp" : 3360,
+    "pet_def_exp" : 1680,
+    "player_revive_exp" : 6720
+  },
+  "37" : {
+    "id" : 37,
+    "player_atk_exp" : 1140,
+    "player_def_exp" : 570,
+    "pet_atk_exp" : 3420,
+    "pet_def_exp" : 1710,
+    "player_revive_exp" : 6840
+  },
+  "38" : {
+    "id" : 38,
+    "player_atk_exp" : 1160,
+    "player_def_exp" : 580,
+    "pet_atk_exp" : 3480,
+    "pet_def_exp" : 1740,
+    "player_revive_exp" : 6960
+  },
+  "39" : {
+    "id" : 39,
+    "player_atk_exp" : 1180,
+    "player_def_exp" : 590,
+    "pet_atk_exp" : 3540,
+    "pet_def_exp" : 1770,
+    "player_revive_exp" : 7080
+  },
+  "40" : {
+    "id" : 40,
+    "player_atk_exp" : 1200,
+    "player_def_exp" : 600,
+    "pet_atk_exp" : 3600,
+    "pet_def_exp" : 1800,
+    "player_revive_exp" : 7200
+  },
+  "41" : {
+    "id" : 41,
+    "player_atk_exp" : 1220,
+    "player_def_exp" : 610,
+    "pet_atk_exp" : 3660,
+    "pet_def_exp" : 1830,
+    "player_revive_exp" : 7320
+  },
+  "42" : {
+    "id" : 42,
+    "player_atk_exp" : 1240,
+    "player_def_exp" : 620,
+    "pet_atk_exp" : 3720,
+    "pet_def_exp" : 1860,
+    "player_revive_exp" : 7440
+  },
+  "43" : {
+    "id" : 43,
+    "player_atk_exp" : 1260,
+    "player_def_exp" : 630,
+    "pet_atk_exp" : 3780,
+    "pet_def_exp" : 1890,
+    "player_revive_exp" : 7560
+  },
+  "44" : {
+    "id" : 44,
+    "player_atk_exp" : 1280,
+    "player_def_exp" : 640,
+    "pet_atk_exp" : 3840,
+    "pet_def_exp" : 1920,
+    "player_revive_exp" : 7680
+  },
+  "45" : {
+    "id" : 45,
+    "player_atk_exp" : 1300,
+    "player_def_exp" : 650,
+    "pet_atk_exp" : 3900,
+    "pet_def_exp" : 1950,
+    "player_revive_exp" : 7800
+  },
+  "46" : {
+    "id" : 46,
+    "player_atk_exp" : 1320,
+    "player_def_exp" : 660,
+    "pet_atk_exp" : 3960,
+    "pet_def_exp" : 1980,
+    "player_revive_exp" : 7920
+  },
+  "47" : {
+    "id" : 47,
+    "player_atk_exp" : 1340,
+    "player_def_exp" : 670,
+    "pet_atk_exp" : 4020,
+    "pet_def_exp" : 2010,
+    "player_revive_exp" : 8040
+  },
+  "48" : {
+    "id" : 48,
+    "player_atk_exp" : 1360,
+    "player_def_exp" : 680,
+    "pet_atk_exp" : 4080,
+    "pet_def_exp" : 2040,
+    "player_revive_exp" : 8160
+  },
+  "49" : {
+    "id" : 49,
+    "player_atk_exp" : 1380,
+    "player_def_exp" : 690,
+    "pet_atk_exp" : 4140,
+    "pet_def_exp" : 2070,
+    "player_revive_exp" : 8280
+  },
+  "50" : {
+    "id" : 50,
+    "player_atk_exp" : 1400,
+    "player_def_exp" : 700,
+    "pet_atk_exp" : 4200,
+    "pet_def_exp" : 2100,
+    "player_revive_exp" : 8400
+  },
+  "51" : {
+    "id" : 51,
+    "player_atk_exp" : 1420,
+    "player_def_exp" : 710,
+    "pet_atk_exp" : 4260,
+    "pet_def_exp" : 2130,
+    "player_revive_exp" : 8520
+  },
+  "52" : {
+    "id" : 52,
+    "player_atk_exp" : 1440,
+    "player_def_exp" : 720,
+    "pet_atk_exp" : 4320,
+    "pet_def_exp" : 2160,
+    "player_revive_exp" : 8640
+  },
+  "53" : {
+    "id" : 53,
+    "player_atk_exp" : 1460,
+    "player_def_exp" : 730,
+    "pet_atk_exp" : 4380,
+    "pet_def_exp" : 2190,
+    "player_revive_exp" : 8760
+  },
+  "54" : {
+    "id" : 54,
+    "player_atk_exp" : 1480,
+    "player_def_exp" : 740,
+    "pet_atk_exp" : 4440,
+    "pet_def_exp" : 2220,
+    "player_revive_exp" : 8880
+  },
+  "55" : {
+    "id" : 55,
+    "player_atk_exp" : 1500,
+    "player_def_exp" : 750,
+    "pet_atk_exp" : 4500,
+    "pet_def_exp" : 2250,
+    "player_revive_exp" : 9000
+  },
+  "56" : {
+    "id" : 56,
+    "player_atk_exp" : 1520,
+    "player_def_exp" : 760,
+    "pet_atk_exp" : 4560,
+    "pet_def_exp" : 2280,
+    "player_revive_exp" : 9120
+  },
+  "57" : {
+    "id" : 57,
+    "player_atk_exp" : 1540,
+    "player_def_exp" : 770,
+    "pet_atk_exp" : 4620,
+    "pet_def_exp" : 2310,
+    "player_revive_exp" : 9240
+  },
+  "58" : {
+    "id" : 58,
+    "player_atk_exp" : 1560,
+    "player_def_exp" : 780,
+    "pet_atk_exp" : 4680,
+    "pet_def_exp" : 2340,
+    "player_revive_exp" : 9360
+  },
+  "59" : {
+    "id" : 59,
+    "player_atk_exp" : 1580,
+    "player_def_exp" : 790,
+    "pet_atk_exp" : 4740,
+    "pet_def_exp" : 2370,
+    "player_revive_exp" : 9480
+  },
+  "60" : {
+    "id" : 60,
+    "player_atk_exp" : 1600,
+    "player_def_exp" : 800,
+    "pet_atk_exp" : 4800,
+    "pet_def_exp" : 2400,
+    "player_revive_exp" : 9600
+  },
+  "61" : {
+    "id" : 61,
+    "player_atk_exp" : 1620,
+    "player_def_exp" : 810,
+    "pet_atk_exp" : 4860,
+    "pet_def_exp" : 2430,
+    "player_revive_exp" : 9720
+  },
+  "62" : {
+    "id" : 62,
+    "player_atk_exp" : 1640,
+    "player_def_exp" : 820,
+    "pet_atk_exp" : 4920,
+    "pet_def_exp" : 2460,
+    "player_revive_exp" : 9840
+  },
+  "63" : {
+    "id" : 63,
+    "player_atk_exp" : 1660,
+    "player_def_exp" : 830,
+    "pet_atk_exp" : 4980,
+    "pet_def_exp" : 2490,
+    "player_revive_exp" : 9960
+  },
+  "64" : {
+    "id" : 64,
+    "player_atk_exp" : 1680,
+    "player_def_exp" : 840,
+    "pet_atk_exp" : 5040,
+    "pet_def_exp" : 2520,
+    "player_revive_exp" : 10080
+  },
+  "65" : {
+    "id" : 65,
+    "player_atk_exp" : 1700,
+    "player_def_exp" : 850,
+    "pet_atk_exp" : 5100,
+    "pet_def_exp" : 2550,
+    "player_revive_exp" : 10200
+  },
+  "66" : {
+    "id" : 66,
+    "player_atk_exp" : 1720,
+    "player_def_exp" : 860,
+    "pet_atk_exp" : 5160,
+    "pet_def_exp" : 2580,
+    "player_revive_exp" : 10320
+  },
+  "67" : {
+    "id" : 67,
+    "player_atk_exp" : 1740,
+    "player_def_exp" : 870,
+    "pet_atk_exp" : 5220,
+    "pet_def_exp" : 2610,
+    "player_revive_exp" : 10440
+  },
+  "68" : {
+    "id" : 68,
+    "player_atk_exp" : 1760,
+    "player_def_exp" : 880,
+    "pet_atk_exp" : 5280,
+    "pet_def_exp" : 2640,
+    "player_revive_exp" : 10560
+  },
+  "69" : {
+    "id" : 69,
+    "player_atk_exp" : 1780,
+    "player_def_exp" : 890,
+    "pet_atk_exp" : 5340,
+    "pet_def_exp" : 2670,
+    "player_revive_exp" : 10680
+  },
+  "70" : {
+    "id" : 70,
+    "player_atk_exp" : 1800,
+    "player_def_exp" : 900,
+    "pet_atk_exp" : 5400,
+    "pet_def_exp" : 2700,
+    "player_revive_exp" : 10800
+  },
+  "71" : {
+    "id" : 71,
+    "player_atk_exp" : 1820,
+    "player_def_exp" : 910,
+    "pet_atk_exp" : 5460,
+    "pet_def_exp" : 2730,
+    "player_revive_exp" : 10920
+  },
+  "72" : {
+    "id" : 72,
+    "player_atk_exp" : 1840,
+    "player_def_exp" : 920,
+    "pet_atk_exp" : 5520,
+    "pet_def_exp" : 2760,
+    "player_revive_exp" : 11040
+  },
+  "73" : {
+    "id" : 73,
+    "player_atk_exp" : 1860,
+    "player_def_exp" : 930,
+    "pet_atk_exp" : 5580,
+    "pet_def_exp" : 2790,
+    "player_revive_exp" : 11160
+  },
+  "74" : {
+    "id" : 74,
+    "player_atk_exp" : 1880,
+    "player_def_exp" : 940,
+    "pet_atk_exp" : 5640,
+    "pet_def_exp" : 2820,
+    "player_revive_exp" : 11280
+  },
+  "75" : {
+    "id" : 75,
+    "player_atk_exp" : 1900,
+    "player_def_exp" : 950,
+    "pet_atk_exp" : 5700,
+    "pet_def_exp" : 2850,
+    "player_revive_exp" : 11400
+  },
+  "76" : {
+    "id" : 76,
+    "player_atk_exp" : 1920,
+    "player_def_exp" : 960,
+    "pet_atk_exp" : 5760,
+    "pet_def_exp" : 2880,
+    "player_revive_exp" : 11520
+  },
+  "77" : {
+    "id" : 77,
+    "player_atk_exp" : 1940,
+    "player_def_exp" : 970,
+    "pet_atk_exp" : 5820,
+    "pet_def_exp" : 2910,
+    "player_revive_exp" : 11640
+  },
+  "78" : {
+    "id" : 78,
+    "player_atk_exp" : 1960,
+    "player_def_exp" : 980,
+    "pet_atk_exp" : 5880,
+    "pet_def_exp" : 2940,
+    "player_revive_exp" : 11760
+  },
+  "79" : {
+    "id" : 79,
+    "player_atk_exp" : 1980,
+    "player_def_exp" : 990,
+    "pet_atk_exp" : 5940,
+    "pet_def_exp" : 2970,
+    "player_revive_exp" : 11880
+  },
+  "80" : {
+    "id" : 80,
+    "player_atk_exp" : 2000,
+    "player_def_exp" : 1000,
+    "pet_atk_exp" : 6000,
+    "pet_def_exp" : 3000,
+    "player_revive_exp" : 12000
+  },
+  "81" : {
+    "id" : 81,
+    "player_atk_exp" : 2020,
+    "player_def_exp" : 1010,
+    "pet_atk_exp" : 6060,
+    "pet_def_exp" : 3030,
+    "player_revive_exp" : 12120
+  },
+  "82" : {
+    "id" : 82,
+    "player_atk_exp" : 2040,
+    "player_def_exp" : 1020,
+    "pet_atk_exp" : 6120,
+    "pet_def_exp" : 3060,
+    "player_revive_exp" : 12240
+  },
+  "83" : {
+    "id" : 83,
+    "player_atk_exp" : 2060,
+    "player_def_exp" : 1030,
+    "pet_atk_exp" : 6180,
+    "pet_def_exp" : 3090,
+    "player_revive_exp" : 12360
+  },
+  "84" : {
+    "id" : 84,
+    "player_atk_exp" : 2080,
+    "player_def_exp" : 1040,
+    "pet_atk_exp" : 6240,
+    "pet_def_exp" : 3120,
+    "player_revive_exp" : 12480
+  },
+  "85" : {
+    "id" : 85,
+    "player_atk_exp" : 2100,
+    "player_def_exp" : 1050,
+    "pet_atk_exp" : 6300,
+    "pet_def_exp" : 3150,
+    "player_revive_exp" : 12600
+  },
+  "86" : {
+    "id" : 86,
+    "player_atk_exp" : 2120,
+    "player_def_exp" : 1060,
+    "pet_atk_exp" : 6360,
+    "pet_def_exp" : 3180,
+    "player_revive_exp" : 12720
+  },
+  "87" : {
+    "id" : 87,
+    "player_atk_exp" : 2140,
+    "player_def_exp" : 1070,
+    "pet_atk_exp" : 6420,
+    "pet_def_exp" : 3210,
+    "player_revive_exp" : 12840
+  },
+  "88" : {
+    "id" : 88,
+    "player_atk_exp" : 2160,
+    "player_def_exp" : 1080,
+    "pet_atk_exp" : 6480,
+    "pet_def_exp" : 3240,
+    "player_revive_exp" : 12960
+  },
+  "89" : {
+    "id" : 89,
+    "player_atk_exp" : 2180,
+    "player_def_exp" : 1090,
+    "pet_atk_exp" : 6540,
+    "pet_def_exp" : 3270,
+    "player_revive_exp" : 13080
+  },
+  "90" : {
+    "id" : 90,
+    "player_atk_exp" : 2200,
+    "player_def_exp" : 1100,
+    "pet_atk_exp" : 6600,
+    "pet_def_exp" : 3300,
+    "player_revive_exp" : 13200
+  },
+  "91" : {
+    "id" : 91,
+    "player_atk_exp" : 2220,
+    "player_def_exp" : 1110,
+    "pet_atk_exp" : 6660,
+    "pet_def_exp" : 3330,
+    "player_revive_exp" : 13320
+  },
+  "92" : {
+    "id" : 92,
+    "player_atk_exp" : 2240,
+    "player_def_exp" : 1120,
+    "pet_atk_exp" : 6720,
+    "pet_def_exp" : 3360,
+    "player_revive_exp" : 13440
+  },
+  "93" : {
+    "id" : 93,
+    "player_atk_exp" : 2260,
+    "player_def_exp" : 1130,
+    "pet_atk_exp" : 6780,
+    "pet_def_exp" : 3390,
+    "player_revive_exp" : 13560
+  },
+  "94" : {
+    "id" : 94,
+    "player_atk_exp" : 2280,
+    "player_def_exp" : 1140,
+    "pet_atk_exp" : 6840,
+    "pet_def_exp" : 3420,
+    "player_revive_exp" : 13680
+  },
+  "95" : {
+    "id" : 95,
+    "player_atk_exp" : 2300,
+    "player_def_exp" : 1150,
+    "pet_atk_exp" : 6900,
+    "pet_def_exp" : 3450,
+    "player_revive_exp" : 13800
+  },
+  "96" : {
+    "id" : 96,
+    "player_atk_exp" : 2320,
+    "player_def_exp" : 1160,
+    "pet_atk_exp" : 6960,
+    "pet_def_exp" : 3480,
+    "player_revive_exp" : 13920
+  },
+  "97" : {
+    "id" : 97,
+    "player_atk_exp" : 2340,
+    "player_def_exp" : 1170,
+    "pet_atk_exp" : 7020,
+    "pet_def_exp" : 3510,
+    "player_revive_exp" : 14040
+  },
+  "98" : {
+    "id" : 98,
+    "player_atk_exp" : 2360,
+    "player_def_exp" : 1180,
+    "pet_atk_exp" : 7080,
+    "pet_def_exp" : 3540,
+    "player_revive_exp" : 14160
+  },
+  "99" : {
+    "id" : 99,
+    "player_atk_exp" : 2380,
+    "player_def_exp" : 1190,
+    "pet_atk_exp" : 7140,
+    "pet_def_exp" : 3570,
+    "player_revive_exp" : 14280
+  },
+  "100" : {
+    "id" : 100,
+    "player_atk_exp" : 2400,
+    "player_def_exp" : 1200,
+    "pet_atk_exp" : 7200,
+    "pet_def_exp" : 3600,
+    "player_revive_exp" : 14400
+  },
+  "101" : {
+    "id" : 101,
+    "player_atk_exp" : 2420,
+    "player_def_exp" : 1210,
+    "pet_atk_exp" : 7260,
+    "pet_def_exp" : 3630,
+    "player_revive_exp" : 14520
+  },
+  "102" : {
+    "id" : 102,
+    "player_atk_exp" : 2440,
+    "player_def_exp" : 1220,
+    "pet_atk_exp" : 7320,
+    "pet_def_exp" : 3660,
+    "player_revive_exp" : 14640
+  },
+  "103" : {
+    "id" : 103,
+    "player_atk_exp" : 2460,
+    "player_def_exp" : 1230,
+    "pet_atk_exp" : 7380,
+    "pet_def_exp" : 3690,
+    "player_revive_exp" : 14760
+  },
+  "104" : {
+    "id" : 104,
+    "player_atk_exp" : 2480,
+    "player_def_exp" : 1240,
+    "pet_atk_exp" : 7440,
+    "pet_def_exp" : 3720,
+    "player_revive_exp" : 14880
+  },
+  "105" : {
+    "id" : 105,
+    "player_atk_exp" : 2500,
+    "player_def_exp" : 1250,
+    "pet_atk_exp" : 7500,
+    "pet_def_exp" : 3750,
+    "player_revive_exp" : 15000
+  },
+  "106" : {
+    "id" : 106,
+    "player_atk_exp" : 2520,
+    "player_def_exp" : 1260,
+    "pet_atk_exp" : 7560,
+    "pet_def_exp" : 3780,
+    "player_revive_exp" : 15120
+  },
+  "107" : {
+    "id" : 107,
+    "player_atk_exp" : 2540,
+    "player_def_exp" : 1270,
+    "pet_atk_exp" : 7620,
+    "pet_def_exp" : 3810,
+    "player_revive_exp" : 15240
+  },
+  "108" : {
+    "id" : 108,
+    "player_atk_exp" : 2560,
+    "player_def_exp" : 1280,
+    "pet_atk_exp" : 7680,
+    "pet_def_exp" : 3840,
+    "player_revive_exp" : 15360
+  },
+  "109" : {
+    "id" : 109,
+    "player_atk_exp" : 2580,
+    "player_def_exp" : 1290,
+    "pet_atk_exp" : 7740,
+    "pet_def_exp" : 3870,
+    "player_revive_exp" : 15480
+  },
+  "110" : {
+    "id" : 110,
+    "player_atk_exp" : 2600,
+    "player_def_exp" : 1300,
+    "pet_atk_exp" : 7800,
+    "pet_def_exp" : 3900,
+    "player_revive_exp" : 15600
+  },
+  "111" : {
+    "id" : 111,
+    "player_atk_exp" : 2620,
+    "player_def_exp" : 1310,
+    "pet_atk_exp" : 7860,
+    "pet_def_exp" : 3930,
+    "player_revive_exp" : 15720
+  },
+  "112" : {
+    "id" : 112,
+    "player_atk_exp" : 2640,
+    "player_def_exp" : 1320,
+    "pet_atk_exp" : 7920,
+    "pet_def_exp" : 3960,
+    "player_revive_exp" : 15840
+  },
+  "113" : {
+    "id" : 113,
+    "player_atk_exp" : 2660,
+    "player_def_exp" : 1330,
+    "pet_atk_exp" : 7980,
+    "pet_def_exp" : 3990,
+    "player_revive_exp" : 15960
+  },
+  "114" : {
+    "id" : 114,
+    "player_atk_exp" : 2680,
+    "player_def_exp" : 1340,
+    "pet_atk_exp" : 8040,
+    "pet_def_exp" : 4020,
+    "player_revive_exp" : 16080
+  },
+  "115" : {
+    "id" : 115,
+    "player_atk_exp" : 2700,
+    "player_def_exp" : 1350,
+    "pet_atk_exp" : 8100,
+    "pet_def_exp" : 4050,
+    "player_revive_exp" : 16200
+  },
+  "116" : {
+    "id" : 116,
+    "player_atk_exp" : 2720,
+    "player_def_exp" : 1360,
+    "pet_atk_exp" : 8160,
+    "pet_def_exp" : 4080,
+    "player_revive_exp" : 16320
+  },
+  "117" : {
+    "id" : 117,
+    "player_atk_exp" : 2740,
+    "player_def_exp" : 1370,
+    "pet_atk_exp" : 8220,
+    "pet_def_exp" : 4110,
+    "player_revive_exp" : 16440
+  },
+  "118" : {
+    "id" : 118,
+    "player_atk_exp" : 2760,
+    "player_def_exp" : 1380,
+    "pet_atk_exp" : 8280,
+    "pet_def_exp" : 4140,
+    "player_revive_exp" : 16560
+  },
+  "119" : {
+    "id" : 119,
+    "player_atk_exp" : 2780,
+    "player_def_exp" : 1390,
+    "pet_atk_exp" : 8340,
+    "pet_def_exp" : 4170,
+    "player_revive_exp" : 16680
+  },
+  "120" : {
+    "id" : 120,
+    "player_atk_exp" : 2800,
+    "player_def_exp" : 1400,
+    "pet_atk_exp" : 8400,
+    "pet_def_exp" : 4200,
+    "player_revive_exp" : 16800
+  },
+  "121" : {
+    "id" : 121,
+    "player_atk_exp" : 2820,
+    "player_def_exp" : 1410,
+    "pet_atk_exp" : 8460,
+    "pet_def_exp" : 4230,
+    "player_revive_exp" : 16920
+  },
+  "122" : {
+    "id" : 122,
+    "player_atk_exp" : 2840,
+    "player_def_exp" : 1420,
+    "pet_atk_exp" : 8520,
+    "pet_def_exp" : 4260,
+    "player_revive_exp" : 17040
+  },
+  "123" : {
+    "id" : 123,
+    "player_atk_exp" : 2860,
+    "player_def_exp" : 1430,
+    "pet_atk_exp" : 8580,
+    "pet_def_exp" : 4290,
+    "player_revive_exp" : 17160
+  },
+  "124" : {
+    "id" : 124,
+    "player_atk_exp" : 2880,
+    "player_def_exp" : 1440,
+    "pet_atk_exp" : 8640,
+    "pet_def_exp" : 4320,
+    "player_revive_exp" : 17280
+  },
+  "125" : {
+    "id" : 125,
+    "player_atk_exp" : 2900,
+    "player_def_exp" : 1450,
+    "pet_atk_exp" : 8700,
+    "pet_def_exp" : 4350,
+    "player_revive_exp" : 17400
+  },
+  "126" : {
+    "id" : 126,
+    "player_atk_exp" : 2920,
+    "player_def_exp" : 1460,
+    "pet_atk_exp" : 8760,
+    "pet_def_exp" : 4380,
+    "player_revive_exp" : 17520
+  },
+  "127" : {
+    "id" : 127,
+    "player_atk_exp" : 2940,
+    "player_def_exp" : 1470,
+    "pet_atk_exp" : 8820,
+    "pet_def_exp" : 4410,
+    "player_revive_exp" : 17640
+  },
+  "128" : {
+    "id" : 128,
+    "player_atk_exp" : 2960,
+    "player_def_exp" : 1480,
+    "pet_atk_exp" : 8880,
+    "pet_def_exp" : 4440,
+    "player_revive_exp" : 17760
+  },
+  "129" : {
+    "id" : 129,
+    "player_atk_exp" : 2980,
+    "player_def_exp" : 1490,
+    "pet_atk_exp" : 8940,
+    "pet_def_exp" : 4470,
+    "player_revive_exp" : 17880
+  },
+  "130" : {
+    "id" : 130,
+    "player_atk_exp" : 3000,
+    "player_def_exp" : 1500,
+    "pet_atk_exp" : 9000,
+    "pet_def_exp" : 4500,
+    "player_revive_exp" : 18000
+  },
+  "131" : {
+    "id" : 131,
+    "player_atk_exp" : 3020,
+    "player_def_exp" : 1510,
+    "pet_atk_exp" : 9060,
+    "pet_def_exp" : 4530,
+    "player_revive_exp" : 18120
+  },
+  "132" : {
+    "id" : 132,
+    "player_atk_exp" : 3040,
+    "player_def_exp" : 1520,
+    "pet_atk_exp" : 9120,
+    "pet_def_exp" : 4560,
+    "player_revive_exp" : 18240
+  },
+  "133" : {
+    "id" : 133,
+    "player_atk_exp" : 3060,
+    "player_def_exp" : 1530,
+    "pet_atk_exp" : 9180,
+    "pet_def_exp" : 4590,
+    "player_revive_exp" : 18360
+  },
+  "134" : {
+    "id" : 134,
+    "player_atk_exp" : 3080,
+    "player_def_exp" : 1540,
+    "pet_atk_exp" : 9240,
+    "pet_def_exp" : 4620,
+    "player_revive_exp" : 18480
+  },
+  "135" : {
+    "id" : 135,
+    "player_atk_exp" : 3100,
+    "player_def_exp" : 1550,
+    "pet_atk_exp" : 9300,
+    "pet_def_exp" : 4650,
+    "player_revive_exp" : 18600
+  },
+  "136" : {
+    "id" : 136,
+    "player_atk_exp" : 3120,
+    "player_def_exp" : 1560,
+    "pet_atk_exp" : 9360,
+    "pet_def_exp" : 4680,
+    "player_revive_exp" : 18720
+  },
+  "137" : {
+    "id" : 137,
+    "player_atk_exp" : 3140,
+    "player_def_exp" : 1570,
+    "pet_atk_exp" : 9420,
+    "pet_def_exp" : 4710,
+    "player_revive_exp" : 18840
+  },
+  "138" : {
+    "id" : 138,
+    "player_atk_exp" : 3160,
+    "player_def_exp" : 1580,
+    "pet_atk_exp" : 9480,
+    "pet_def_exp" : 4740,
+    "player_revive_exp" : 18960
+  },
+  "139" : {
+    "id" : 139,
+    "player_atk_exp" : 3180,
+    "player_def_exp" : 1590,
+    "pet_atk_exp" : 9540,
+    "pet_def_exp" : 4770,
+    "player_revive_exp" : 19080
+  },
+  "140" : {
+    "id" : 140,
+    "player_atk_exp" : 3200,
+    "player_def_exp" : 1600,
+    "pet_atk_exp" : 9600,
+    "pet_def_exp" : 4800,
+    "player_revive_exp" : 19200
+  },
+  "141" : {
+    "id" : 141,
+    "player_atk_exp" : 3220,
+    "player_def_exp" : 1610,
+    "pet_atk_exp" : 9660,
+    "pet_def_exp" : 4830,
+    "player_revive_exp" : 19320
+  },
+  "142" : {
+    "id" : 142,
+    "player_atk_exp" : 3240,
+    "player_def_exp" : 1620,
+    "pet_atk_exp" : 9720,
+    "pet_def_exp" : 4860,
+    "player_revive_exp" : 19440
+  },
+  "143" : {
+    "id" : 143,
+    "player_atk_exp" : 3260,
+    "player_def_exp" : 1630,
+    "pet_atk_exp" : 9780,
+    "pet_def_exp" : 4890,
+    "player_revive_exp" : 19560
+  },
+  "144" : {
+    "id" : 144,
+    "player_atk_exp" : 3280,
+    "player_def_exp" : 1640,
+    "pet_atk_exp" : 9840,
+    "pet_def_exp" : 4920,
+    "player_revive_exp" : 19680
+  },
+  "145" : {
+    "id" : 145,
+    "player_atk_exp" : 3300,
+    "player_def_exp" : 1650,
+    "pet_atk_exp" : 9900,
+    "pet_def_exp" : 4950,
+    "player_revive_exp" : 19800
+  },
+  "146" : {
+    "id" : 146,
+    "player_atk_exp" : 3320,
+    "player_def_exp" : 1660,
+    "pet_atk_exp" : 9960,
+    "pet_def_exp" : 4980,
+    "player_revive_exp" : 19920
+  },
+  "147" : {
+    "id" : 147,
+    "player_atk_exp" : 3340,
+    "player_def_exp" : 1670,
+    "pet_atk_exp" : 10020,
+    "pet_def_exp" : 5010,
+    "player_revive_exp" : 20040
+  },
+  "148" : {
+    "id" : 148,
+    "player_atk_exp" : 3360,
+    "player_def_exp" : 1680,
+    "pet_atk_exp" : 10080,
+    "pet_def_exp" : 5040,
+    "player_revive_exp" : 20160
+  },
+  "149" : {
+    "id" : 149,
+    "player_atk_exp" : 3380,
+    "player_def_exp" : 1690,
+    "pet_atk_exp" : 10140,
+    "pet_def_exp" : 5070,
+    "player_revive_exp" : 20280
+  },
+  "150" : {
+    "id" : 150,
+    "player_atk_exp" : 3400,
+    "player_def_exp" : 1700,
+    "pet_atk_exp" : 10200,
+    "pet_def_exp" : 5100,
+    "player_revive_exp" : 20400
+  },
+  "151" : {
+    "id" : 151,
+    "player_atk_exp" : 3420,
+    "player_def_exp" : 1710,
+    "pet_atk_exp" : 10260,
+    "pet_def_exp" : 5130,
+    "player_revive_exp" : 20520
+  },
+  "152" : {
+    "id" : 152,
+    "player_atk_exp" : 3440,
+    "player_def_exp" : 1720,
+    "pet_atk_exp" : 10320,
+    "pet_def_exp" : 5160,
+    "player_revive_exp" : 20640
+  },
+  "153" : {
+    "id" : 153,
+    "player_atk_exp" : 3460,
+    "player_def_exp" : 1730,
+    "pet_atk_exp" : 10380,
+    "pet_def_exp" : 5190,
+    "player_revive_exp" : 20760
+  },
+  "154" : {
+    "id" : 154,
+    "player_atk_exp" : 3480,
+    "player_def_exp" : 1740,
+    "pet_atk_exp" : 10440,
+    "pet_def_exp" : 5220,
+    "player_revive_exp" : 20880
+  },
+  "155" : {
+    "id" : 155,
+    "player_atk_exp" : 3500,
+    "player_def_exp" : 1750,
+    "pet_atk_exp" : 10500,
+    "pet_def_exp" : 5250,
+    "player_revive_exp" : 21000
+  },
+  "156" : {
+    "id" : 156,
+    "player_atk_exp" : 3520,
+    "player_def_exp" : 1760,
+    "pet_atk_exp" : 10560,
+    "pet_def_exp" : 5280,
+    "player_revive_exp" : 21120
+  },
+  "157" : {
+    "id" : 157,
+    "player_atk_exp" : 3540,
+    "player_def_exp" : 1770,
+    "pet_atk_exp" : 10620,
+    "pet_def_exp" : 5310,
+    "player_revive_exp" : 21240
+  },
+  "158" : {
+    "id" : 158,
+    "player_atk_exp" : 3560,
+    "player_def_exp" : 1780,
+    "pet_atk_exp" : 10680,
+    "pet_def_exp" : 5340,
+    "player_revive_exp" : 21360
+  },
+  "159" : {
+    "id" : 159,
+    "player_atk_exp" : 3580,
+    "player_def_exp" : 1790,
+    "pet_atk_exp" : 10740,
+    "pet_def_exp" : 5370,
+    "player_revive_exp" : 21480
+  },
+  "160" : {
+    "id" : 160,
+    "player_atk_exp" : 3600,
+    "player_def_exp" : 1800,
+    "pet_atk_exp" : 10800,
+    "pet_def_exp" : 5400,
+    "player_revive_exp" : 21600
+  },
+  "161" : {
+    "id" : 161,
+    "player_atk_exp" : 3620,
+    "player_def_exp" : 1810,
+    "pet_atk_exp" : 10860,
+    "pet_def_exp" : 5430,
+    "player_revive_exp" : 21720
+  },
+  "162" : {
+    "id" : 162,
+    "player_atk_exp" : 3640,
+    "player_def_exp" : 1820,
+    "pet_atk_exp" : 10920,
+    "pet_def_exp" : 5460,
+    "player_revive_exp" : 21840
+  },
+  "163" : {
+    "id" : 163,
+    "player_atk_exp" : 3660,
+    "player_def_exp" : 1830,
+    "pet_atk_exp" : 10980,
+    "pet_def_exp" : 5490,
+    "player_revive_exp" : 21960
+  },
+  "164" : {
+    "id" : 164,
+    "player_atk_exp" : 3680,
+    "player_def_exp" : 1840,
+    "pet_atk_exp" : 11040,
+    "pet_def_exp" : 5520,
+    "player_revive_exp" : 22080
+  },
+  "165" : {
+    "id" : 165,
+    "player_atk_exp" : 3700,
+    "player_def_exp" : 1850,
+    "pet_atk_exp" : 11100,
+    "pet_def_exp" : 5550,
+    "player_revive_exp" : 22200
+  },
+  "166" : {
+    "id" : 166,
+    "player_atk_exp" : 3720,
+    "player_def_exp" : 1860,
+    "pet_atk_exp" : 11160,
+    "pet_def_exp" : 5580,
+    "player_revive_exp" : 22320
+  },
+  "167" : {
+    "id" : 167,
+    "player_atk_exp" : 3740,
+    "player_def_exp" : 1870,
+    "pet_atk_exp" : 11220,
+    "pet_def_exp" : 5610,
+    "player_revive_exp" : 22440
+  },
+  "168" : {
+    "id" : 168,
+    "player_atk_exp" : 3760,
+    "player_def_exp" : 1880,
+    "pet_atk_exp" : 11280,
+    "pet_def_exp" : 5640,
+    "player_revive_exp" : 22560
+  },
+  "169" : {
+    "id" : 169,
+    "player_atk_exp" : 3780,
+    "player_def_exp" : 1890,
+    "pet_atk_exp" : 11340,
+    "pet_def_exp" : 5670,
+    "player_revive_exp" : 22680
+  },
+  "170" : {
+    "id" : 170,
+    "player_atk_exp" : 3800,
+    "player_def_exp" : 1900,
+    "pet_atk_exp" : 11400,
+    "pet_def_exp" : 5700,
+    "player_revive_exp" : 22800
+  },
+  "171" : {
+    "id" : 171,
+    "player_atk_exp" : 3820,
+    "player_def_exp" : 1910,
+    "pet_atk_exp" : 11460,
+    "pet_def_exp" : 5730,
+    "player_revive_exp" : 22920
+  },
+  "172" : {
+    "id" : 172,
+    "player_atk_exp" : 3840,
+    "player_def_exp" : 1920,
+    "pet_atk_exp" : 11520,
+    "pet_def_exp" : 5760,
+    "player_revive_exp" : 23040
+  },
+  "173" : {
+    "id" : 173,
+    "player_atk_exp" : 3860,
+    "player_def_exp" : 1930,
+    "pet_atk_exp" : 11580,
+    "pet_def_exp" : 5790,
+    "player_revive_exp" : 23160
+  },
+  "174" : {
+    "id" : 174,
+    "player_atk_exp" : 3880,
+    "player_def_exp" : 1940,
+    "pet_atk_exp" : 11640,
+    "pet_def_exp" : 5820,
+    "player_revive_exp" : 23280
+  },
+  "175" : {
+    "id" : 175,
+    "player_atk_exp" : 3900,
+    "player_def_exp" : 1950,
+    "pet_atk_exp" : 11700,
+    "pet_def_exp" : 5850,
+    "player_revive_exp" : 23400
+  },
+  "176" : {
+    "id" : 176,
+    "player_atk_exp" : 3920,
+    "player_def_exp" : 1960,
+    "pet_atk_exp" : 11760,
+    "pet_def_exp" : 5880,
+    "player_revive_exp" : 23520
+  },
+  "177" : {
+    "id" : 177,
+    "player_atk_exp" : 3940,
+    "player_def_exp" : 1970,
+    "pet_atk_exp" : 11820,
+    "pet_def_exp" : 5910,
+    "player_revive_exp" : 23640
+  },
+  "178" : {
+    "id" : 178,
+    "player_atk_exp" : 3960,
+    "player_def_exp" : 1980,
+    "pet_atk_exp" : 11880,
+    "pet_def_exp" : 5940,
+    "player_revive_exp" : 23760
+  },
+  "179" : {
+    "id" : 179,
+    "player_atk_exp" : 3980,
+    "player_def_exp" : 1990,
+    "pet_atk_exp" : 11940,
+    "pet_def_exp" : 5970,
+    "player_revive_exp" : 23880
+  },
+  "180" : {
+    "id" : 180,
+    "player_atk_exp" : 4000,
+    "player_def_exp" : 2000,
+    "pet_atk_exp" : 12000,
+    "pet_def_exp" : 6000,
+    "player_revive_exp" : 24000
+  },
+  "181" : {
+    "id" : 181,
+    "player_atk_exp" : 4020,
+    "player_def_exp" : 2010,
+    "pet_atk_exp" : 12060,
+    "pet_def_exp" : 6030,
+    "player_revive_exp" : 24120
+  },
+  "182" : {
+    "id" : 182,
+    "player_atk_exp" : 4040,
+    "player_def_exp" : 2020,
+    "pet_atk_exp" : 12120,
+    "pet_def_exp" : 6060,
+    "player_revive_exp" : 24240
+  },
+  "183" : {
+    "id" : 183,
+    "player_atk_exp" : 4060,
+    "player_def_exp" : 2030,
+    "pet_atk_exp" : 12180,
+    "pet_def_exp" : 6090,
+    "player_revive_exp" : 24360
+  },
+  "184" : {
+    "id" : 184,
+    "player_atk_exp" : 4080,
+    "player_def_exp" : 2040,
+    "pet_atk_exp" : 12240,
+    "pet_def_exp" : 6120,
+    "player_revive_exp" : 24480
+  },
+  "185" : {
+    "id" : 185,
+    "player_atk_exp" : 4100,
+    "player_def_exp" : 2050,
+    "pet_atk_exp" : 12300,
+    "pet_def_exp" : 6150,
+    "player_revive_exp" : 24600
+  },
+  "186" : {
+    "id" : 186,
+    "player_atk_exp" : 4120,
+    "player_def_exp" : 2060,
+    "pet_atk_exp" : 12360,
+    "pet_def_exp" : 6180,
+    "player_revive_exp" : 24720
+  },
+  "187" : {
+    "id" : 187,
+    "player_atk_exp" : 4140,
+    "player_def_exp" : 2070,
+    "pet_atk_exp" : 12420,
+    "pet_def_exp" : 6210,
+    "player_revive_exp" : 24840
+  },
+  "188" : {
+    "id" : 188,
+    "player_atk_exp" : 4160,
+    "player_def_exp" : 2080,
+    "pet_atk_exp" : 12480,
+    "pet_def_exp" : 6240,
+    "player_revive_exp" : 24960
+  },
+  "189" : {
+    "id" : 189,
+    "player_atk_exp" : 4180,
+    "player_def_exp" : 2090,
+    "pet_atk_exp" : 12540,
+    "pet_def_exp" : 6270,
+    "player_revive_exp" : 25080
+  },
+  "190" : {
+    "id" : 190,
+    "player_atk_exp" : 4200,
+    "player_def_exp" : 2100,
+    "pet_atk_exp" : 12600,
+    "pet_def_exp" : 6300,
+    "player_revive_exp" : 25200
+  },
+  "191" : {
+    "id" : 191,
+    "player_atk_exp" : 4220,
+    "player_def_exp" : 2110,
+    "pet_atk_exp" : 12660,
+    "pet_def_exp" : 6330,
+    "player_revive_exp" : 25320
+  },
+  "192" : {
+    "id" : 192,
+    "player_atk_exp" : 4240,
+    "player_def_exp" : 2120,
+    "pet_atk_exp" : 12720,
+    "pet_def_exp" : 6360,
+    "player_revive_exp" : 25440
+  },
+  "193" : {
+    "id" : 193,
+    "player_atk_exp" : 4260,
+    "player_def_exp" : 2130,
+    "pet_atk_exp" : 12780,
+    "pet_def_exp" : 6390,
+    "player_revive_exp" : 25560
+  },
+  "194" : {
+    "id" : 194,
+    "player_atk_exp" : 4280,
+    "player_def_exp" : 2140,
+    "pet_atk_exp" : 12840,
+    "pet_def_exp" : 6420,
+    "player_revive_exp" : 25680
+  },
+  "195" : {
+    "id" : 195,
+    "player_atk_exp" : 4300,
+    "player_def_exp" : 2150,
+    "pet_atk_exp" : 12900,
+    "pet_def_exp" : 6450,
+    "player_revive_exp" : 25800
+  },
+  "196" : {
+    "id" : 196,
+    "player_atk_exp" : 4320,
+    "player_def_exp" : 2160,
+    "pet_atk_exp" : 12960,
+    "pet_def_exp" : 6480,
+    "player_revive_exp" : 25920
+  },
+  "197" : {
+    "id" : 197,
+    "player_atk_exp" : 4340,
+    "player_def_exp" : 2170,
+    "pet_atk_exp" : 13020,
+    "pet_def_exp" : 6510,
+    "player_revive_exp" : 26040
+  },
+  "198" : {
+    "id" : 198,
+    "player_atk_exp" : 4360,
+    "player_def_exp" : 2180,
+    "pet_atk_exp" : 13080,
+    "pet_def_exp" : 6540,
+    "player_revive_exp" : 26160
+  },
+  "199" : {
+    "id" : 199,
+    "player_atk_exp" : 4380,
+    "player_def_exp" : 2190,
+    "pet_atk_exp" : 13140,
+    "pet_def_exp" : 6570,
+    "player_revive_exp" : 26280
+  },
+  "200" : {
+    "id" : 200,
+    "player_atk_exp" : 4400,
+    "player_def_exp" : 2200,
+    "pet_atk_exp" : 13200,
+    "pet_def_exp" : 6600,
+    "player_revive_exp" : 26400
+  },
+  "201" : {
+    "id" : 201,
+    "player_atk_exp" : 4420,
+    "player_def_exp" : 2210,
+    "pet_atk_exp" : 13260,
+    "pet_def_exp" : 6630,
+    "player_revive_exp" : 26520
+  },
+  "202" : {
+    "id" : 202,
+    "player_atk_exp" : 4440,
+    "player_def_exp" : 2220,
+    "pet_atk_exp" : 13320,
+    "pet_def_exp" : 6660,
+    "player_revive_exp" : 26640
+  },
+  "203" : {
+    "id" : 203,
+    "player_atk_exp" : 4460,
+    "player_def_exp" : 2230,
+    "pet_atk_exp" : 13380,
+    "pet_def_exp" : 6690,
+    "player_revive_exp" : 26760
+  },
+  "204" : {
+    "id" : 204,
+    "player_atk_exp" : 4480,
+    "player_def_exp" : 2240,
+    "pet_atk_exp" : 13440,
+    "pet_def_exp" : 6720,
+    "player_revive_exp" : 26880
+  },
+  "205" : {
+    "id" : 205,
+    "player_atk_exp" : 4500,
+    "player_def_exp" : 2250,
+    "pet_atk_exp" : 13500,
+    "pet_def_exp" : 6750,
+    "player_revive_exp" : 27000
+  },
+  "206" : {
+    "id" : 206,
+    "player_atk_exp" : 4520,
+    "player_def_exp" : 2260,
+    "pet_atk_exp" : 13560,
+    "pet_def_exp" : 6780,
+    "player_revive_exp" : 27120
+  },
+  "207" : {
+    "id" : 207,
+    "player_atk_exp" : 4540,
+    "player_def_exp" : 2270,
+    "pet_atk_exp" : 13620,
+    "pet_def_exp" : 6810,
+    "player_revive_exp" : 27240
+  },
+  "208" : {
+    "id" : 208,
+    "player_atk_exp" : 4560,
+    "player_def_exp" : 2280,
+    "pet_atk_exp" : 13680,
+    "pet_def_exp" : 6840,
+    "player_revive_exp" : 27360
+  },
+  "209" : {
+    "id" : 209,
+    "player_atk_exp" : 4580,
+    "player_def_exp" : 2290,
+    "pet_atk_exp" : 13740,
+    "pet_def_exp" : 6870,
+    "player_revive_exp" : 27480
+  },
+  "210" : {
+    "id" : 210,
+    "player_atk_exp" : 4600,
+    "player_def_exp" : 2300,
+    "pet_atk_exp" : 13800,
+    "pet_def_exp" : 6900,
+    "player_revive_exp" : 27600
+  },
+  "211" : {
+    "id" : 211,
+    "player_atk_exp" : 4620,
+    "player_def_exp" : 2310,
+    "pet_atk_exp" : 13860,
+    "pet_def_exp" : 6930,
+    "player_revive_exp" : 27720
+  },
+  "212" : {
+    "id" : 212,
+    "player_atk_exp" : 4640,
+    "player_def_exp" : 2320,
+    "pet_atk_exp" : 13920,
+    "pet_def_exp" : 6960,
+    "player_revive_exp" : 27840
+  },
+  "213" : {
+    "id" : 213,
+    "player_atk_exp" : 4660,
+    "player_def_exp" : 2330,
+    "pet_atk_exp" : 13980,
+    "pet_def_exp" : 6990,
+    "player_revive_exp" : 27960
+  },
+  "214" : {
+    "id" : 214,
+    "player_atk_exp" : 4680,
+    "player_def_exp" : 2340,
+    "pet_atk_exp" : 14040,
+    "pet_def_exp" : 7020,
+    "player_revive_exp" : 28080
+  },
+  "215" : {
+    "id" : 215,
+    "player_atk_exp" : 4700,
+    "player_def_exp" : 2350,
+    "pet_atk_exp" : 14100,
+    "pet_def_exp" : 7050,
+    "player_revive_exp" : 28200
+  },
+  "216" : {
+    "id" : 216,
+    "player_atk_exp" : 4720,
+    "player_def_exp" : 2360,
+    "pet_atk_exp" : 14160,
+    "pet_def_exp" : 7080,
+    "player_revive_exp" : 28320
+  },
+  "217" : {
+    "id" : 217,
+    "player_atk_exp" : 4740,
+    "player_def_exp" : 2370,
+    "pet_atk_exp" : 14220,
+    "pet_def_exp" : 7110,
+    "player_revive_exp" : 28440
+  },
+  "218" : {
+    "id" : 218,
+    "player_atk_exp" : 4760,
+    "player_def_exp" : 2380,
+    "pet_atk_exp" : 14280,
+    "pet_def_exp" : 7140,
+    "player_revive_exp" : 28560
+  },
+  "219" : {
+    "id" : 219,
+    "player_atk_exp" : 4780,
+    "player_def_exp" : 2390,
+    "pet_atk_exp" : 14340,
+    "pet_def_exp" : 7170,
+    "player_revive_exp" : 28680
+  },
+  "220" : {
+    "id" : 220,
+    "player_atk_exp" : 4800,
+    "player_def_exp" : 2400,
+    "pet_atk_exp" : 14400,
+    "pet_def_exp" : 7200,
+    "player_revive_exp" : 28800
+  },
+  "221" : {
+    "id" : 221,
+    "player_atk_exp" : 4820,
+    "player_def_exp" : 2410,
+    "pet_atk_exp" : 14460,
+    "pet_def_exp" : 7230,
+    "player_revive_exp" : 28920
+  },
+  "222" : {
+    "id" : 222,
+    "player_atk_exp" : 4840,
+    "player_def_exp" : 2420,
+    "pet_atk_exp" : 14520,
+    "pet_def_exp" : 7260,
+    "player_revive_exp" : 29040
+  },
+  "223" : {
+    "id" : 223,
+    "player_atk_exp" : 4860,
+    "player_def_exp" : 2430,
+    "pet_atk_exp" : 14580,
+    "pet_def_exp" : 7290,
+    "player_revive_exp" : 29160
+  },
+  "224" : {
+    "id" : 224,
+    "player_atk_exp" : 4880,
+    "player_def_exp" : 2440,
+    "pet_atk_exp" : 14640,
+    "pet_def_exp" : 7320,
+    "player_revive_exp" : 29280
+  },
+  "225" : {
+    "id" : 225,
+    "player_atk_exp" : 4900,
+    "player_def_exp" : 2450,
+    "pet_atk_exp" : 14700,
+    "pet_def_exp" : 7350,
+    "player_revive_exp" : 29400
+  },
+  "226" : {
+    "id" : 226,
+    "player_atk_exp" : 4920,
+    "player_def_exp" : 2460,
+    "pet_atk_exp" : 14760,
+    "pet_def_exp" : 7380,
+    "player_revive_exp" : 29520
+  },
+  "227" : {
+    "id" : 227,
+    "player_atk_exp" : 4940,
+    "player_def_exp" : 2470,
+    "pet_atk_exp" : 14820,
+    "pet_def_exp" : 7410,
+    "player_revive_exp" : 29640
+  },
+  "228" : {
+    "id" : 228,
+    "player_atk_exp" : 4960,
+    "player_def_exp" : 2480,
+    "pet_atk_exp" : 14880,
+    "pet_def_exp" : 7440,
+    "player_revive_exp" : 29760
+  },
+  "229" : {
+    "id" : 229,
+    "player_atk_exp" : 4980,
+    "player_def_exp" : 2490,
+    "pet_atk_exp" : 14940,
+    "pet_def_exp" : 7470,
+    "player_revive_exp" : 29880
+  },
+  "230" : {
+    "id" : 230,
+    "player_atk_exp" : 5000,
+    "player_def_exp" : 2500,
+    "pet_atk_exp" : 15000,
+    "pet_def_exp" : 7500,
+    "player_revive_exp" : 30000
+  },
+  "231" : {
+    "id" : 231,
+    "player_atk_exp" : 5020,
+    "player_def_exp" : 2510,
+    "pet_atk_exp" : 15060,
+    "pet_def_exp" : 7530,
+    "player_revive_exp" : 30120
+  },
+  "232" : {
+    "id" : 232,
+    "player_atk_exp" : 5040,
+    "player_def_exp" : 2520,
+    "pet_atk_exp" : 15120,
+    "pet_def_exp" : 7560,
+    "player_revive_exp" : 30240
+  },
+  "233" : {
+    "id" : 233,
+    "player_atk_exp" : 5060,
+    "player_def_exp" : 2530,
+    "pet_atk_exp" : 15180,
+    "pet_def_exp" : 7590,
+    "player_revive_exp" : 30360
+  },
+  "234" : {
+    "id" : 234,
+    "player_atk_exp" : 5080,
+    "player_def_exp" : 2540,
+    "pet_atk_exp" : 15240,
+    "pet_def_exp" : 7620,
+    "player_revive_exp" : 30480
+  },
+  "235" : {
+    "id" : 235,
+    "player_atk_exp" : 5100,
+    "player_def_exp" : 2550,
+    "pet_atk_exp" : 15300,
+    "pet_def_exp" : 7650,
+    "player_revive_exp" : 30600
+  },
+  "236" : {
+    "id" : 236,
+    "player_atk_exp" : 5120,
+    "player_def_exp" : 2560,
+    "pet_atk_exp" : 15360,
+    "pet_def_exp" : 7680,
+    "player_revive_exp" : 30720
+  },
+  "237" : {
+    "id" : 237,
+    "player_atk_exp" : 5140,
+    "player_def_exp" : 2570,
+    "pet_atk_exp" : 15420,
+    "pet_def_exp" : 7710,
+    "player_revive_exp" : 30840
+  },
+  "238" : {
+    "id" : 238,
+    "player_atk_exp" : 5160,
+    "player_def_exp" : 2580,
+    "pet_atk_exp" : 15480,
+    "pet_def_exp" : 7740,
+    "player_revive_exp" : 30960
+  },
+  "239" : {
+    "id" : 239,
+    "player_atk_exp" : 5180,
+    "player_def_exp" : 2590,
+    "pet_atk_exp" : 15540,
+    "pet_def_exp" : 7770,
+    "player_revive_exp" : 31080
+  },
+  "240" : {
+    "id" : 240,
+    "player_atk_exp" : 5200,
+    "player_def_exp" : 2600,
+    "pet_atk_exp" : 15600,
+    "pet_def_exp" : 7800,
+    "player_revive_exp" : 31200
+  },
+  "241" : {
+    "id" : 241,
+    "player_atk_exp" : 5220,
+    "player_def_exp" : 2610,
+    "pet_atk_exp" : 15660,
+    "pet_def_exp" : 7830,
+    "player_revive_exp" : 31320
+  },
+  "242" : {
+    "id" : 242,
+    "player_atk_exp" : 5240,
+    "player_def_exp" : 2620,
+    "pet_atk_exp" : 15720,
+    "pet_def_exp" : 7860,
+    "player_revive_exp" : 31440
+  },
+  "243" : {
+    "id" : 243,
+    "player_atk_exp" : 5260,
+    "player_def_exp" : 2630,
+    "pet_atk_exp" : 15780,
+    "pet_def_exp" : 7890,
+    "player_revive_exp" : 31560
+  },
+  "244" : {
+    "id" : 244,
+    "player_atk_exp" : 5280,
+    "player_def_exp" : 2640,
+    "pet_atk_exp" : 15840,
+    "pet_def_exp" : 7920,
+    "player_revive_exp" : 31680
+  },
+  "245" : {
+    "id" : 245,
+    "player_atk_exp" : 5300,
+    "player_def_exp" : 2650,
+    "pet_atk_exp" : 15900,
+    "pet_def_exp" : 7950,
+    "player_revive_exp" : 31800
+  },
+  "246" : {
+    "id" : 246,
+    "player_atk_exp" : 5320,
+    "player_def_exp" : 2660,
+    "pet_atk_exp" : 15960,
+    "pet_def_exp" : 7980,
+    "player_revive_exp" : 31920
+  },
+  "247" : {
+    "id" : 247,
+    "player_atk_exp" : 5340,
+    "player_def_exp" : 2670,
+    "pet_atk_exp" : 16020,
+    "pet_def_exp" : 8010,
+    "player_revive_exp" : 32040
+  },
+  "248" : {
+    "id" : 248,
+    "player_atk_exp" : 5360,
+    "player_def_exp" : 2680,
+    "pet_atk_exp" : 16080,
+    "pet_def_exp" : 8040,
+    "player_revive_exp" : 32160
+  },
+  "249" : {
+    "id" : 249,
+    "player_atk_exp" : 5380,
+    "player_def_exp" : 2690,
+    "pet_atk_exp" : 16140,
+    "pet_def_exp" : 8070,
+    "player_revive_exp" : 32280
+  }
+}

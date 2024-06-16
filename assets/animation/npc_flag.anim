@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "npc_flag",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 201.4
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 189
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 201.4
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 1.3
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4e0fb2db-c3ee-4f4f-80c0-05925ec0f994",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 768,
+  "height": 1090,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_tudijiemiandi": {
+      "ver": "1.0.6",
+      "uuid": "b2fd6b7c-0b52-4c7c-9f9f-b84646261bd6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4e0fb2db-c3ee-4f4f-80c0-05925ec0f994",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7,
+      "offsetY": 16,
+      "trimX": 14,
+      "trimY": 6,
+      "width": 754,
+      "height": 1046,
+      "rawWidth": 768,
+      "rawHeight": 1090,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

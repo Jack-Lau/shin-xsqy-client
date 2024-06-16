@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "66745400-b918-4f47-8091-a727ffcfba6d",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "70bb8b9f-9567-4add-abe7-79b74e378742",
+  "size": {
+    "width": 497,
+    "height": 400
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "bg_hongbaoshu.png": {
+      "ver": "1.0.6",
+      "uuid": "b7d051cb-045e-4fae-aa16-3eab0d5b2f0c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "70bb8b9f-9567-4add-abe7-79b74e378742",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 495,
+      "height": 398,
+      "rawWidth": 495,
+      "rawHeight": 398,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

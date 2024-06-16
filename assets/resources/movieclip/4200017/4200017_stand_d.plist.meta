@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "a233fdec-a6fb-4005-bc07-c1dc7d337a2c",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "07a2ec19-4d76-4c60-91e7-4948d1bc177a",
+  "size": {
+    "width": 98,
+    "height": 108
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "酒桶NPC2.png": {
+      "ver": "1.0.6",
+      "uuid": "fd42337c-426f-4a7c-a316-8d117d26688b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "07a2ec19-4d76-4c60-91e7-4948d1bc177a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 96,
+      "height": 106,
+      "rawWidth": 124,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "157001" : {
+    "id" : 157001,
+    "name" : "门派任务",
+    "type" : 1,
+    "description" : "完成每日门派任务，肩负大任，历练自我！",
+    "unPlaytipsDescription" : "20级开启",
+    "canPlaytipsDescription" : "每日必做",
+    "priority" : "20000",
+    "showAward" : [ {
+      "id" : 20137,
+      "name" : "门派·嘉奖礼盒",
+      "amount" : 1
+    }, {
+      "id" : 20136,
+      "name" : "门派·门贡礼盒",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "157007" : {
+    "id" : 157007,
+    "name" : "藏宝图",
+    "type" : 1,
+    "description" : "使用宝图，跟随罗盘，挖掘宝藏。",
+    "unPlaytipsDescription" : "30级开启",
+    "canPlaytipsDescription" : "每日必做",
+    "priority" : "19999",
+    "showAward" : [ {
+      "id" : 20001,
+      "name" : "藏宝图",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "157002" : {
+    "id" : 157002,
+    "name" : "金光塔",
+    "type" : 1,
+    "description" : "每日挑战金光塔，累积奖池，获得分红！",
+    "unPlaytipsDescription" : "40级开启",
+    "canPlaytipsDescription" : "每日必做",
+    "priority" : "19998",
+    "showAward" : [ {
+      "id" : 20138,
+      "name" : "金光·探秘礼盒",
+      "amount" : 1
+    }, {
+      "id" : 185,
+      "name" : "金坷垃",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "157006" : {
+    "id" : 157006,
+    "name" : "抢占摇钱树",
+    "type" : 1,
+    "description" : "人手一树，挂机摇钱；前排大树，更多财富！",
+    "unPlaytipsDescription" : "45级开启",
+    "canPlaytipsDescription" : "每日必做",
+    "priority" : "19997",
+    "showAward" : [ {
+      "id" : 151,
+      "name" : "仙石",
+      "amount" : 1
+    }, {
+      "id" : 150,
+      "name" : "元宝",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "157008" : {
+    "id" : 157008,
+    "name" : "乱斗大会",
+    "type" : 1,
+    "description" : "参与每日乱斗大会，证明自己的斗战实力！",
+    "unPlaytipsDescription" : "50级开启",
+    "canPlaytipsDescription" : "每日必做",
+    "priority" : "19996",
+    "showAward" : [ {
+      "id" : 152,
+      "name" : "能量",
+      "amount" : 1
+    }, {
+      "id" : 164,
+      "name" : "斗战券",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "157009" : {
+    "id" : 157009,
+    "name" : "钓鱼",
+    "type" : 1,
+    "description" : "今天 我绝不空军！",
+    "unPlaytipsDescription" : "60级开启",
+    "canPlaytipsDescription" : "每日必做",
+    "priority" : "19995",
+    "showAward" : [ {
+      "id" : 150,
+      "name" : "元宝",
+      "amount" : 1
+    }, {
+      "id" : 191,
+      "name" : "钓鱼点",
+      "amount" : 1
+    } ]
+  },
+  "157005" : {
+    "id" : 157005,
+    "name" : "邀请分享",
+    "type" : 2,
+    "description" : "做咁多都无用噶咧！老细唔锡你噶咧！",
+    "unPlaytipsDescription" : "敬请期待",
+    "canPlaytipsDescription" : "火热进行中",
+    "priority" : "20000",
+    "showAward" : [ {
+      "id" : 151,
+      "name" : "仙石",
+      "amount" : 1
+    }, {
+      "id" : 152,
+      "name" : "能量",
+      "amount" : 1
+    } ]
+  },
+  "157004" : {
+    "id" : 157004,
+    "name" : "欢乐大转盘",
+    "type" : 2,
+    "description" : "喂！三点几咧！请我地饮杯喜茶如何！",
+    "unPlaytipsDescription" : "敬请期待",
+    "canPlaytipsDescription" : "火热进行中",
+    "priority" : "19999",
+    "showAward" : [ {
+      "id" : 20058,
+      "name" : "未鉴定装备",
+      "amount" : 1
+    }, {
+      "id" : 20057,
+      "name" : "未鉴定宠物",
+      "amount" : 1
+    } ]
+  },
+  "158003" : {
+    "id" : 158003,
+    "name" : "王者决战",
+    "type" : 2,
+    "description" : "实时PVP，决战巅峰，进击传说王者！",
+    "unPlaytipsDescription" : "每日午时酉时",
+    "canPlaytipsDescription" : "火热进行中",
+    "priority" : "19998",
+    "showAward" : [ {
+      "id" : 165,
+      "name" : "荣誉",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "158006" : {
+    "id" : 158006,
+    "name" : "在线有礼",
+    "type" : 2,
+    "description" : "躺着得奖，简单粗暴",
+    "unPlaytipsDescription" : "每逢周六周日",
+    "canPlaytipsDescription" : "火热进行中",
+    "priority" : "19997",
+    "showAward" : [ {
+      "id" : 172,
+      "name" : "神兽精魄",
+      "amount" : 1
+    }, {
+      "id" : 20059,
+      "name" : "周末福袋",
+      "amount" : 1
+    } ]
+  },
+  "158005" : {
+    "id" : 158005,
+    "name" : "周末佳肴",
+    "type" : 2,
+    "description" : "大吉大利，今晚吃鸡",
+    "unPlaytipsDescription" : "每逢周六周日",
+    "canPlaytipsDescription" : "火热进行中",
+    "priority" : "19996",
+    "showAward" : [ {
+      "id" : 172,
+      "name" : "神兽精魄",
+      "amount" : 1
+    }, {
+      "id" : 20059,
+      "name" : "周末福袋",
+      "amount" : 1
+    } ]
+  },
+  "158007" : {
+    "id" : 158007,
+    "name" : "福星降临",
+    "type" : 2,
+    "description" : "快快去打爆福星的狗头",
+    "unPlaytipsDescription" : "每逢周六周日",
+    "canPlaytipsDescription" : "火热进行中",
+    "priority" : "19995",
+    "showAward" : [ {
+      "id" : 172,
+      "name" : "神兽精魄",
+      "amount" : 1
+    }, {
+      "id" : 20059,
+      "name" : "周末福袋",
+      "amount" : 1
+    } ]
+  },
+  "159001" : {
+    "id" : 159001,
+    "name" : "第一章",
+    "type" : 3,
+    "description" : "欢迎来到仙石奇缘，在此开始你的故事吧。",
+    "unPlaytipsDescription" : "主线剧情",
+    "canPlaytipsDescription" : "主线剧情",
+    "priority" : "10100",
+    "showAward" : [ {
+      "id" : 20122,
+      "name" : "剧情礼盒·序章",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159002" : {
+    "id" : 159002,
+    "name" : "第二章",
+    "type" : 3,
+    "description" : "选择门派拜入，学习强劲的门派技能！",
+    "unPlaytipsDescription" : "主线剧情",
+    "canPlaytipsDescription" : "主线剧情",
+    "priority" : "10101",
+    "showAward" : [ {
+      "id" : 20123,
+      "name" : "剧情礼盒·贰章",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159003" : {
+    "id" : 159003,
+    "name" : "第三章",
+    "type" : 3,
+    "description" : "在凌霄殿，会遇到神仙吗？",
+    "unPlaytipsDescription" : "主线剧情",
+    "canPlaytipsDescription" : "主线剧情",
+    "priority" : "10102",
+    "showAward" : [ {
+      "id" : 20124,
+      "name" : "剧情礼盒·叁章",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159004" : {
+    "id" : 159004,
+    "name" : "夫少传",
+    "type" : 3,
+    "description" : "这年代男子汉大丈夫居然也时兴逃婚了？",
+    "unPlaytipsDescription" : "支线剧情",
+    "canPlaytipsDescription" : "支线剧情",
+    "priority" : "10000",
+    "showAward" : [ {
+      "id" : 20130,
+      "name" : "剧情礼盒·夫少传",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159005" : {
+    "id" : 159005,
+    "name" : "第四章",
+    "type" : 3,
+    "description" : "盘丝洞没成为七个蜘蛛精的地盘前是怎样的？",
+    "unPlaytipsDescription" : "主线剧情",
+    "canPlaytipsDescription" : "主线剧情",
+    "priority" : "10103",
+    "showAward" : [ {
+      "id" : 20125,
+      "name" : "剧情礼盒·肆章",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159006" : {
+    "id" : 159006,
+    "name" : "牛河传",
+    "type" : 3,
+    "description" : "门派接引人居然也有一段不可思议的往事。",
+    "unPlaytipsDescription" : "支线剧情",
+    "canPlaytipsDescription" : "支线剧情",
+    "priority" : "10000",
+    "showAward" : [ {
+      "id" : 20131,
+      "name" : "剧情礼盒·牛河传",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159007" : {
+    "id" : 159007,
+    "name" : "第五章",
+    "type" : 3,
+    "description" : "男主角身世之谜揭晓！",
+    "unPlaytipsDescription" : "主线剧情",
+    "canPlaytipsDescription" : "主线剧情",
+    "priority" : "10104",
+    "showAward" : [ {
+      "id" : 20126,
+      "name" : "剧情礼盒·伍章",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159008" : {
+    "id" : 159008,
+    "name" : "冯达传",
+    "type" : 3,
+    "description" : "杂货商人与本朝叛国状元究竟是何关系？",
+    "unPlaytipsDescription" : "支线剧情",
+    "canPlaytipsDescription" : "支线剧情",
+    "priority" : "10000",
+    "showAward" : [ {
+      "id" : 20132,
+      "name" : "剧情礼盒·冯达传",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159009" : {
+    "id" : 159009,
+    "name" : "第六章",
+    "type" : 3,
+    "description" : "潜入五庄观，竟是为了一块毫无作用的奇石？",
+    "unPlaytipsDescription" : "主线剧情",
+    "canPlaytipsDescription" : "主线剧情",
+    "priority" : "10105",
+    "showAward" : [ {
+      "id" : 20127,
+      "name" : "剧情礼盒·陆章",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159010" : {
+    "id" : 159010,
+    "name" : "小六传",
+    "type" : 3,
+    "description" : "它有多口是心非，就有多爱这个世界。",
+    "unPlaytipsDescription" : "支线剧情",
+    "canPlaytipsDescription" : "支线剧情",
+    "priority" : "10000",
+    "showAward" : [ {
+      "id" : 20133,
+      "name" : "剧情礼盒·小六传",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159011" : {
+    "id" : 159011,
+    "name" : "第七章",
+    "type" : 3,
+    "description" : "导致三界异变的元凶露出真面目！",
+    "unPlaytipsDescription" : "主线剧情",
+    "canPlaytipsDescription" : "主线剧情",
+    "priority" : "10106",
+    "showAward" : [ {
+      "id" : 20128,
+      "name" : "剧情礼盒·柒章",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159012" : {
+    "id" : 159012,
+    "name" : "锦鲤传",
+    "type" : 3,
+    "description" : "西游锦鲤专属传记，通关接受锦鲤祝福吧！",
+    "unPlaytipsDescription" : "支线剧情",
+    "canPlaytipsDescription" : "支线剧情",
+    "priority" : "10000",
+    "showAward" : [ {
+      "id" : 20134,
+      "name" : "剧情礼盒·锦鲤传",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159013" : {
+    "id" : 159013,
+    "name" : "第八章",
+    "type" : 3,
+    "description" : "避免百人为祭的惨剧发生，努力寻找线索！",
+    "unPlaytipsDescription" : "主线剧情",
+    "canPlaytipsDescription" : "主线剧情",
+    "priority" : "10107",
+    "showAward" : [ {
+      "id" : 20129,
+      "name" : "剧情礼盒·捌章",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  },
+  "159014" : {
+    "id" : 159014,
+    "name" : "迎庭传 上",
+    "type" : 3,
+    "description" : "一个背井离乡，无影浪迹的人的故事。",
+    "unPlaytipsDescription" : "支线剧情",
+    "canPlaytipsDescription" : "支线剧情",
+    "priority" : "10000",
+    "showAward" : [ {
+      "id" : 20135,
+      "name" : "剧情礼盒·迎庭传上",
+      "amount" : 1
+    }, {
+      "id" : 196,
+      "name" : "门贡",
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "name" : "经验",
+      "amount" : 1
+    } ]
+  }
+}

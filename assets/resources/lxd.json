@@ -1,0 +1,2985 @@
+{
+  "unitInitInfo" : [ {
+    "id" : 1,
+    "name" : "大唐官府",
+    "type" : "TYPE_PLAYER",
+    "stance" : "STANCE_PLAYER",
+    "characterPrefabId" : 4000001,
+    "weaponPrefabId" : 0,
+    "modelScale" : 1.0,
+    "position" : 1,
+    "maxHp" : 15000,
+    "maxSp" : 100,
+    "hp" : 15000,
+    "sp" : 50,
+    "isShowHp" : true,
+    "skillIds" : [ 100001, 101201, 101301, 101501, 101101, 101401 ],
+    "unitDescriptorId" : 0
+  }, {
+    "id" : 2,
+    "name" : "泡泡",
+    "type" : "TYPE_PET",
+    "stance" : "STANCE_PLAYER",
+    "characterPrefabId" : 4000001,
+    "weaponPrefabId" : 0,
+    "modelScale" : 1.0,
+    "position" : 4,
+    "maxHp" : 6000,
+    "maxSp" : 100,
+    "hp" : 6000,
+    "sp" : 50,
+    "isShowHp" : true,
+    "skillIds" : [ 100001 ],
+    "unitDescriptorId" : 0
+  }, {
+    "id" : 5,
+    "name" : "巨蛙",
+    "type" : "TYPE_MONSTER",
+    "stance" : "STANCE_ENEMY",
+    "characterPrefabId" : 4000001,
+    "weaponPrefabId" : 0,
+    "modelScale" : 1.0,
+    "position" : 1,
+    "maxHp" : 812,
+    "maxSp" : 100,
+    "hp" : 812,
+    "sp" : 50,
+    "isShowHp" : true,
+    "skillIds" : [ 100001 ],
+    "unitDescriptorId" : 0
+  }, {
+    "id" : 6,
+    "name" : "海毛虫",
+    "type" : "TYPE_MONSTER",
+    "stance" : "STANCE_ENEMY",
+    "characterPrefabId" : 4000001,
+    "weaponPrefabId" : 0,
+    "modelScale" : 1.0,
+    "position" : 2,
+    "maxHp" : 752,
+    "maxSp" : 100,
+    "hp" : 752,
+    "sp" : 50,
+    "isShowHp" : true,
+    "skillIds" : [ 100001 ],
+    "unitDescriptorId" : 0
+  }, {
+    "id" : 7,
+    "name" : "大海龟",
+    "type" : "TYPE_MONSTER",
+    "stance" : "STANCE_ENEMY",
+    "characterPrefabId" : 4000001,
+    "weaponPrefabId" : 0,
+    "modelScale" : 1.0,
+    "position" : 3,
+    "maxHp" : 688,
+    "maxSp" : 100,
+    "hp" : 688,
+    "sp" : 50,
+    "isShowHp" : true,
+    "skillIds" : [ 100001 ],
+    "unitDescriptorId" : 0
+  }, {
+    "id" : 8,
+    "name" : "野猪",
+    "type" : "TYPE_MONSTER",
+    "stance" : "STANCE_ENEMY",
+    "characterPrefabId" : 4000001,
+    "weaponPrefabId" : 0,
+    "modelScale" : 1.0,
+    "position" : 4,
+    "maxHp" : 688,
+    "maxSp" : 100,
+    "hp" : 688,
+    "sp" : 50,
+    "isShowHp" : true,
+    "skillIds" : [ 100001 ],
+    "unitDescriptorId" : 0
+  }, {
+    "id" : 9,
+    "name" : "树怪",
+    "type" : "TYPE_MONSTER",
+    "stance" : "STANCE_ENEMY",
+    "characterPrefabId" : 4000001,
+    "weaponPrefabId" : 0,
+    "modelScale" : 1.0,
+    "position" : 5,
+    "maxHp" : 688,
+    "maxSp" : 100,
+    "hp" : 688,
+    "sp" : 50,
+    "isShowHp" : true,
+    "skillIds" : [ 100001 ],
+    "unitDescriptorId" : 0
+  }, {
+    "id" : 10,
+    "name" : "老虎",
+    "type" : "TYPE_MONSTER",
+    "stance" : "STANCE_ENEMY",
+    "characterPrefabId" : 4000001,
+    "weaponPrefabId" : 0,
+    "modelScale" : 1.0,
+    "position" : 6,
+    "maxHp" : 688,
+    "maxSp" : 100,
+    "hp" : 688,
+    "sp" : 50,
+    "isShowHp" : true,
+    "skillIds" : [ 100001 ],
+    "unitDescriptorId" : 0
+  } ],
+  "battleStartAction" : [ ],
+  "turnInfo" : [ {
+    "turnCount" : 1,
+    "isBattleEnd" : false,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 15000,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 6000,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 752,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 7,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 8,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 9,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 11818,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 4854,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 5,
+      "currHp" : 168,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 752,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 644,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "sourceId" : 1,
+        "isHit" : false,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 732,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 7,
+          "name" : "大海龟"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 716,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 8,
+          "name" : "野猪"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DIE",
+        "value" : {
+          "hp" : 0,
+          "sp" : -25
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 7,
+          "name" : "大海龟"
+        },
+        "sourceId" : 0,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DIE",
+        "value" : {
+          "hp" : 0,
+          "sp" : -25
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 8,
+          "name" : "野猪"
+        },
+        "sourceId" : 0,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101101,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1035,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1051,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 6,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 6
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "sourceId" : 2,
+        "isHit" : false,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 2
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1096,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 9,
+          "name" : "树怪"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 9,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 9
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1146,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 10,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 10
+    } ],
+    "furyLevel" : 0
+  }, {
+    "turnCount" : 2,
+    "isBattleEnd" : false,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 11818,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 4854,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 5,
+      "currHp" : 168,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 752,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 11818,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 246,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 212,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 461,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 463,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 540,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 812,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 16,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : true,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101301,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1129,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1106,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 6,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 6
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 227,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 9,
+          "name" : "树怪"
+        },
+        "sourceId" : 2,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 9,
+          "name" : "树怪"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 2
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1178,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 9,
+          "name" : "树怪"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 9,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 9
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1195,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 10,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 10
+    } ],
+    "furyLevel" : 0
+  }, {
+    "turnCount" : 3,
+    "isBattleEnd" : false,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 11818,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 246,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 212,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 461,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 9587,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 322,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 461,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 501,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 490,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DIE",
+        "value" : {
+          "hp" : 0,
+          "sp" : -25
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "sourceId" : 0,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101301,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1054,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DIE",
+        "value" : {
+          "hp" : 0,
+          "sp" : -25
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 2,
+          "name" : "泡泡"
+        },
+        "sourceId" : 0,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1072,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 9,
+          "name" : "树怪"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 9,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 9
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1159,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 10,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 10
+    } ],
+    "furyLevel" : 0
+  }, {
+    "turnCount" : 4,
+    "isBattleEnd" : false,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 9587,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 322,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 461,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 7411,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 322,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : false,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 506,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 9,
+          "name" : "树怪"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DIE",
+        "value" : {
+          "hp" : 0,
+          "sp" : -25
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 9,
+          "name" : "树怪"
+        },
+        "sourceId" : 0,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101301,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1064,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1112,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 10,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 10
+    } ],
+    "furyLevel" : 0
+  }, {
+    "turnCount" : 5,
+    "isBattleEnd" : false,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 7411,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 322,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 5297,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 5,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 477,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 505,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 523,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : false,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 559,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 812,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 16,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : true,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101401,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1030,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1084,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 10,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 10
+    } ],
+    "furyLevel" : 0
+  }, {
+    "turnCount" : 6,
+    "isBattleEnd" : false,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 5297,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 3103,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 5,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 471,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 502,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 492,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 524,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 546,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 812,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 16,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : true,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101401,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1047,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1147,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 10,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 10
+    } ],
+    "furyLevel" : 0
+  }, {
+    "turnCount" : 7,
+    "isBattleEnd" : false,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 3103,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 688,
+      "currMp" : 0,
+      "currSp" : 50
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 2118,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 2,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 403,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 407,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DIE",
+        "value" : {
+          "hp" : 0,
+          "sp" : -25
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 10,
+          "name" : "老虎"
+        },
+        "sourceId" : 0,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101501,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 985,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    } ],
+    "furyLevel" : 0
+  }, {
+    "turnCount" : 8,
+    "isBattleEnd" : false,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 2118,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 1034,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 183,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 629,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101101,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1084,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 0,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 19,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    } ],
+    "furyLevel" : 0
+  }, {
+    "turnCount" : 9,
+    "isBattleEnd" : true,
+    "unitStatus" : [ {
+      "id" : 1,
+      "currHp" : 1034,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 183,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    } ],
+    "endOfTurnUnitStatus" : [ {
+      "id" : 1,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 2,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 5,
+      "currHp" : 812,
+      "currMp" : 0,
+      "currSp" : 50
+    }, {
+      "id" : 6,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 7,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 8,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 9,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    }, {
+      "id" : 10,
+      "currHp" : 0,
+      "currMp" : 0,
+      "currSp" : 25
+    } ],
+    "actionRecord" : [ {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 5,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 480,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 485,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 521,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 546,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      } ], [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 522,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 1,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : true
+      }, {
+        "type" : "RECOVER",
+        "value" : {
+          "hp" : 812,
+          "sp" : 0
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "sourceId" : 16,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : true,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 101401,
+      "actorId" : 1
+    }, {
+      "type" : "USE_SKILL",
+      "cost" : {
+        "sp" : 0
+      },
+      "executeResult" : "SUCCESS",
+      "processCount" : 1,
+      "affectRecordPack" : [ [ {
+        "type" : "DAMAGE",
+        "damageType" : "PHYSICS",
+        "value" : {
+          "hp" : 1034,
+          "sp" : 0
+        },
+        "actor" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 5,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ], [ {
+        "type" : "DIE",
+        "value" : {
+          "hp" : 0,
+          "sp" : -25
+        },
+        "buffs" : [ ],
+        "target" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "sourceId" : 0,
+        "isHit" : true,
+        "isCritcal" : false,
+        "isBlock" : false,
+        "isBless" : false,
+        "isOverKill" : false
+      } ] ],
+      "actionId" : 100001,
+      "actorId" : 5
+    } ],
+    "furyLevel" : 0
+  } ],
+  "statistics" : {
+    "playerWin" : false,
+    "escaped" : false,
+    "turnCount" : 9,
+    "playerParty" : {
+      "unitMap" : {
+        "1" : {
+          "id" : 1,
+          "name" : "大唐官府"
+        },
+        "4" : {
+          "id" : 2,
+          "name" : "泡泡"
+        }
+      },
+      "anyoneAlive" : false
+    },
+    "enemyParty" : {
+      "unitMap" : {
+        "1" : {
+          "id" : 5,
+          "name" : "巨蛙"
+        },
+        "2" : {
+          "id" : 6,
+          "name" : "海毛虫"
+        },
+        "3" : {
+          "id" : 7,
+          "name" : "大海龟"
+        },
+        "4" : {
+          "id" : 8,
+          "name" : "野猪"
+        },
+        "5" : {
+          "id" : 9,
+          "name" : "树怪"
+        },
+        "6" : {
+          "id" : 10,
+          "name" : "老虎"
+        }
+      },
+      "anyoneAlive" : true
+    }
+  }
+}

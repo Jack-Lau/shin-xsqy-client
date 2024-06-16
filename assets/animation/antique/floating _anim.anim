@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "floating _anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 154
+        },
+        {
+          "frame": 1,
+          "value": 165
+        },
+        {
+          "frame": 2,
+          "value": 154
+        }
+      ]
+    }
+  },
+  "events": []
+}

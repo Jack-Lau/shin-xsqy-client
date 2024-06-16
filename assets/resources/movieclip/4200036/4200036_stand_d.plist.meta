@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "df2ea847-70d9-4cc0-998f-0d2503e10da0",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "4c34f44c-bca8-4eb3-b8e3-818b7ac643c3",
+  "size": {
+    "width": 191,
+    "height": 201
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "长乐坊坊主1026、781.png": {
+      "ver": "1.0.6",
+      "uuid": "ab9e86ea-4972-4fc6-8ab6-6c27f525262c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4c34f44c-bca8-4eb3-b8e3-818b7ac643c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 189,
+      "height": 199,
+      "rawWidth": 201,
+      "rawHeight": 199,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

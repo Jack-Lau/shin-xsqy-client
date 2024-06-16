@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "93e6789c-adb2-4a8e-beab-9bf18bceadf3",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "98c8e5a7-ff0f-4a59-a9a4-9d00f8a5c535",
+  "size": {
+    "width": 382,
+    "height": 330
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "西域商人改接引2375、121.png": {
+      "ver": "1.0.6",
+      "uuid": "e72b560d-8980-47c4-9bdf-0b9c1f12a2f4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "98c8e5a7-ff0f-4a59-a9a4-9d00f8a5c535",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 380,
+      "height": 328,
+      "rawWidth": 380,
+      "rawHeight": 328,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "4440000" : {
+    "id" : 4440000,
+    "name" : "武器原型【绿】",
+    "prototypeId" : 10002,
+    "attr" : [ {
+      "outputAttribute" : "物伤",
+      "value" : 717
+    }, {
+      "outputAttribute" : "法伤",
+      "value" : 717
+    } ],
+    "upperLimitEnhancementLevel" : 1,
+    "nowEnhancementLevel" : 1,
+    "limitedQuantity" : 500,
+    "nowNumber" : 1
+  },
+  "4440001" : {
+    "id" : 4440001,
+    "name" : "武器原型【绿】",
+    "prototypeId" : 10002,
+    "attr" : [ {
+      "outputAttribute" : "物伤",
+      "value" : 446
+    }, {
+      "outputAttribute" : "法伤",
+      "value" : 446
+    } ],
+    "upperLimitEnhancementLevel" : 3,
+    "nowEnhancementLevel" : 0
+  },
+  "4440002" : {
+    "id" : 4440002,
+    "name" : "帽子原型【绿】",
+    "prototypeId" : 21002,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "value" : 101
+    }, {
+      "outputAttribute" : "法防",
+      "value" : 116
+    } ],
+    "upperLimitEnhancementLevel" : 3,
+    "nowEnhancementLevel" : 0
+  },
+  "4440003" : {
+    "id" : 4440003,
+    "name" : "衣服原型【绿】",
+    "prototypeId" : 22002,
+    "attr" : [ {
+      "outputAttribute" : "物防",
+      "value" : 188
+    }, {
+      "outputAttribute" : "最大生命",
+      "value" : 1004
+    } ],
+    "upperLimitEnhancementLevel" : 3,
+    "nowEnhancementLevel" : 0
+  },
+  "4440004" : {
+    "id" : 4440004,
+    "name" : "鞋子原型【绿】",
+    "prototypeId" : 23002,
+    "attr" : [ {
+      "outputAttribute" : "速度",
+      "value" : 93
+    }, {
+      "outputAttribute" : "幸运",
+      "value" : 26
+    } ],
+    "upperLimitEnhancementLevel" : 3,
+    "nowEnhancementLevel" : 0
+  },
+  "4440005" : {
+    "id" : 4440005,
+    "name" : "腰带原型【绿】",
+    "prototypeId" : 24002,
+    "attr" : [ {
+      "outputAttribute" : "最大生命",
+      "value" : 1227
+    }, {
+      "outputAttribute" : "幸运",
+      "value" : 26
+    } ],
+    "upperLimitEnhancementLevel" : 3,
+    "nowEnhancementLevel" : 0
+  },
+  "4440006" : {
+    "id" : 4440006,
+    "name" : "项链原型【绿】",
+    "prototypeId" : 25002,
+    "attr" : [ {
+      "outputAttribute" : "法防",
+      "value" : 174
+    }, {
+      "outputAttribute" : "速度",
+      "value" : 40
+    } ],
+    "upperLimitEnhancementLevel" : 3,
+    "nowEnhancementLevel" : 0
+  }
+}

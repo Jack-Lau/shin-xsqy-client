@@ -1,0 +1,114 @@
+{
+  "1" : {
+    "id" : 1,
+    "type" : 1,
+    "currencyId" : 194,
+    "name" : "长乐贡牌",
+    "amount" : 10,
+    "weight" : 2
+  },
+  "2" : {
+    "id" : 2,
+    "type" : 1,
+    "currencyId" : 167,
+    "name" : "改名卡",
+    "amount" : 1,
+    "weight" : 3
+  },
+  "3" : {
+    "id" : 3,
+    "type" : 1,
+    "currencyId" : 168,
+    "name" : "九灵仙丹",
+    "amount" : 275,
+    "weight" : 18
+  },
+  "4" : {
+    "id" : 4,
+    "type" : 1,
+    "currencyId" : 161,
+    "name" : "强化保护卡",
+    "amount" : 1,
+    "weight" : 1
+  },
+  "5" : {
+    "id" : 5,
+    "type" : 1,
+    "currencyId" : 20086,
+    "name" : "五三秘诀",
+    "amount" : 1,
+    "weight" : 2
+  },
+  "6" : {
+    "id" : 6,
+    "type" : 1,
+    "currencyId" : 195,
+    "name" : "魂晶",
+    "amount" : 50,
+    "weight" : 18
+  },
+  "7" : {
+    "id" : 7,
+    "type" : 1,
+    "currencyId" : 158,
+    "name" : "冲星灵丹",
+    "amount" : 1100,
+    "weight" : 18
+  },
+  "8" : {
+    "id" : 8,
+    "type" : 1,
+    "currencyId" : 185,
+    "name" : "金坷垃",
+    "amount" : 135,
+    "weight" : 19
+  },
+  "9" : {
+    "id" : 9,
+    "type" : 1,
+    "currencyId" : 153,
+    "name" : "经验",
+    "amount" : 2750000,
+    "weight" : 19
+  },
+  "10" : {
+    "id" : 10,
+    "type" : 3,
+    "currencyId" : 154,
+    "name" : "强化石",
+    "amount" : 5,
+    "weight" : 20
+  },
+  "11" : {
+    "id" : 11,
+    "type" : 3,
+    "currencyId" : 153,
+    "name" : "经验",
+    "amount" : 50000,
+    "weight" : 20
+  },
+  "12" : {
+    "id" : 12,
+    "type" : 3,
+    "currencyId" : 168,
+    "name" : "九灵仙丹",
+    "amount" : 5,
+    "weight" : 20
+  },
+  "13" : {
+    "id" : 13,
+    "type" : 3,
+    "currencyId" : 158,
+    "name" : "冲星灵丹",
+    "amount" : 20,
+    "weight" : 20
+  },
+  "14" : {
+    "id" : 14,
+    "type" : 3,
+    "currencyId" : 160,
+    "name" : "灵宠要诀",
+    "amount" : 10,
+    "weight" : 20
+  }
+}

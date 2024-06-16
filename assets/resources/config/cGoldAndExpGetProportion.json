@@ -1,0 +1,507 @@
+{
+  "0" : {
+    "id" : 0,
+    "expProportion" : 0.01,
+    "goldProportion" : 0.01
+  },
+  "1" : {
+    "id" : 1,
+    "expProportion" : 0.01,
+    "goldProportion" : 0.01
+  },
+  "2" : {
+    "id" : 2,
+    "expProportion" : 0.01,
+    "goldProportion" : 0.01
+  },
+  "3" : {
+    "id" : 3,
+    "expProportion" : 0.01,
+    "goldProportion" : 0.01
+  },
+  "4" : {
+    "id" : 4,
+    "expProportion" : 0.01,
+    "goldProportion" : 0.01
+  },
+  "5" : {
+    "id" : 5,
+    "expProportion" : 0.01,
+    "goldProportion" : 0.01
+  },
+  "6" : {
+    "id" : 6,
+    "expProportion" : 0.01,
+    "goldProportion" : 0.01
+  },
+  "7" : {
+    "id" : 7,
+    "expProportion" : 0.01,
+    "goldProportion" : 0.01
+  },
+  "8" : {
+    "id" : 8,
+    "expProportion" : 0.02,
+    "goldProportion" : 0.02
+  },
+  "9" : {
+    "id" : 9,
+    "expProportion" : 0.02,
+    "goldProportion" : 0.02
+  },
+  "10" : {
+    "id" : 10,
+    "expProportion" : 0.02,
+    "goldProportion" : 0.02
+  },
+  "11" : {
+    "id" : 11,
+    "expProportion" : 0.05,
+    "goldProportion" : 0.05
+  },
+  "12" : {
+    "id" : 12,
+    "expProportion" : 0.05,
+    "goldProportion" : 0.05
+  },
+  "13" : {
+    "id" : 13,
+    "expProportion" : 0.05,
+    "goldProportion" : 0.05
+  },
+  "14" : {
+    "id" : 14,
+    "expProportion" : 0.05,
+    "goldProportion" : 0.05
+  },
+  "15" : {
+    "id" : 15,
+    "expProportion" : 0.05,
+    "goldProportion" : 0.05
+  },
+  "16" : {
+    "id" : 16,
+    "expProportion" : 0.1,
+    "goldProportion" : 0.1
+  },
+  "17" : {
+    "id" : 17,
+    "expProportion" : 0.1,
+    "goldProportion" : 0.1
+  },
+  "18" : {
+    "id" : 18,
+    "expProportion" : 0.1,
+    "goldProportion" : 0.1
+  },
+  "19" : {
+    "id" : 19,
+    "expProportion" : 0.1,
+    "goldProportion" : 0.1
+  },
+  "20" : {
+    "id" : 20,
+    "expProportion" : 0.1,
+    "goldProportion" : 0.1
+  },
+  "21" : {
+    "id" : 21,
+    "expProportion" : 0.1,
+    "goldProportion" : 0.1
+  },
+  "22" : {
+    "id" : 22,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "23" : {
+    "id" : 23,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "24" : {
+    "id" : 24,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "25" : {
+    "id" : 25,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "26" : {
+    "id" : 26,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "27" : {
+    "id" : 27,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "28" : {
+    "id" : 28,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "29" : {
+    "id" : 29,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "30" : {
+    "id" : 30,
+    "expProportion" : 0.2,
+    "goldProportion" : 0.2
+  },
+  "31" : {
+    "id" : 31,
+    "expProportion" : 0.3,
+    "goldProportion" : 0.3
+  },
+  "32" : {
+    "id" : 32,
+    "expProportion" : 0.3,
+    "goldProportion" : 0.3
+  },
+  "33" : {
+    "id" : 33,
+    "expProportion" : 0.3,
+    "goldProportion" : 0.3
+  },
+  "34" : {
+    "id" : 34,
+    "expProportion" : 0.3,
+    "goldProportion" : 0.3
+  },
+  "35" : {
+    "id" : 35,
+    "expProportion" : 0.4,
+    "goldProportion" : 0.4
+  },
+  "36" : {
+    "id" : 36,
+    "expProportion" : 0.4,
+    "goldProportion" : 0.4
+  },
+  "37" : {
+    "id" : 37,
+    "expProportion" : 0.4,
+    "goldProportion" : 0.4
+  },
+  "38" : {
+    "id" : 38,
+    "expProportion" : 0.5,
+    "goldProportion" : 0.5
+  },
+  "39" : {
+    "id" : 39,
+    "expProportion" : 0.5,
+    "goldProportion" : 0.5
+  },
+  "40" : {
+    "id" : 40,
+    "expProportion" : 0.6,
+    "goldProportion" : 0.6
+  },
+  "41" : {
+    "id" : 41,
+    "expProportion" : 0.63,
+    "goldProportion" : 0.63
+  },
+  "42" : {
+    "id" : 42,
+    "expProportion" : 0.66,
+    "goldProportion" : 0.66
+  },
+  "43" : {
+    "id" : 43,
+    "expProportion" : 0.69,
+    "goldProportion" : 0.69
+  },
+  "44" : {
+    "id" : 44,
+    "expProportion" : 0.72,
+    "goldProportion" : 0.72
+  },
+  "45" : {
+    "id" : 45,
+    "expProportion" : 0.75,
+    "goldProportion" : 0.75
+  },
+  "46" : {
+    "id" : 46,
+    "expProportion" : 0.78,
+    "goldProportion" : 0.78
+  },
+  "47" : {
+    "id" : 47,
+    "expProportion" : 0.81,
+    "goldProportion" : 0.81
+  },
+  "48" : {
+    "id" : 48,
+    "expProportion" : 0.84,
+    "goldProportion" : 0.84
+  },
+  "49" : {
+    "id" : 49,
+    "expProportion" : 0.87,
+    "goldProportion" : 0.87
+  },
+  "50" : {
+    "id" : 50,
+    "expProportion" : 0.9,
+    "goldProportion" : 0.9
+  },
+  "51" : {
+    "id" : 51,
+    "expProportion" : 0.93,
+    "goldProportion" : 0.93
+  },
+  "52" : {
+    "id" : 52,
+    "expProportion" : 0.96,
+    "goldProportion" : 0.96
+  },
+  "53" : {
+    "id" : 53,
+    "expProportion" : 0.99,
+    "goldProportion" : 0.99
+  },
+  "54" : {
+    "id" : 54,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "55" : {
+    "id" : 55,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "56" : {
+    "id" : 56,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "57" : {
+    "id" : 57,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "58" : {
+    "id" : 58,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "59" : {
+    "id" : 59,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "60" : {
+    "id" : 60,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "61" : {
+    "id" : 61,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "62" : {
+    "id" : 62,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "63" : {
+    "id" : 63,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "64" : {
+    "id" : 64,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "65" : {
+    "id" : 65,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "66" : {
+    "id" : 66,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "67" : {
+    "id" : 67,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "68" : {
+    "id" : 68,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "69" : {
+    "id" : 69,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "70" : {
+    "id" : 70,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "71" : {
+    "id" : 71,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "72" : {
+    "id" : 72,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "73" : {
+    "id" : 73,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "74" : {
+    "id" : 74,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "75" : {
+    "id" : 75,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "76" : {
+    "id" : 76,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "77" : {
+    "id" : 77,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "78" : {
+    "id" : 78,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "79" : {
+    "id" : 79,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "80" : {
+    "id" : 80,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "81" : {
+    "id" : 81,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "82" : {
+    "id" : 82,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "83" : {
+    "id" : 83,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "84" : {
+    "id" : 84,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "85" : {
+    "id" : 85,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "86" : {
+    "id" : 86,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "87" : {
+    "id" : 87,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "88" : {
+    "id" : 88,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "89" : {
+    "id" : 89,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "90" : {
+    "id" : 90,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "91" : {
+    "id" : 91,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "92" : {
+    "id" : 92,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "93" : {
+    "id" : 93,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "94" : {
+    "id" : 94,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "95" : {
+    "id" : 95,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "96" : {
+    "id" : 96,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "97" : {
+    "id" : 97,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "98" : {
+    "id" : 98,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "99" : {
+    "id" : 99,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  },
+  "100" : {
+    "id" : 100,
+    "expProportion" : 1.0,
+    "goldProportion" : 1.0
+  }
+}

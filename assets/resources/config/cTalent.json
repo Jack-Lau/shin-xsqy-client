@@ -1,0 +1,686 @@
+{
+  "4490001" : {
+    "id" : 4490001,
+    "schoolId" : "101",
+    "position" : 1,
+    "incrParam" : "最大生命",
+    "oneCoefficient" : 17.8,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "最大生命",
+      "oneCoefficient" : 217.0,
+      "constant" : 0.0,
+      "description" : "气血提升[217*LV]"
+    }, {
+      "name" : "速度",
+      "oneCoefficient" : 13.0,
+      "constant" : 0.0,
+      "description" : "速度提升[13*LV]"
+    } ]
+  },
+  "4490002" : {
+    "id" : 4490002,
+    "schoolId" : "101",
+    "position" : 2,
+    "incrParam" : "物伤",
+    "oneCoefficient" : 7.8,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "物防",
+      "oneCoefficient" : 39.0,
+      "constant" : 0.0,
+      "description" : "外防提升[39*LV]"
+    }, {
+      "name" : "法防",
+      "oneCoefficient" : 39.0,
+      "constant" : 0.0,
+      "description" : "内防提升[39*LV]"
+    } ]
+  },
+  "4490003" : {
+    "id" : 4490003,
+    "schoolId" : "101",
+    "position" : 3,
+    "incrParam" : "物防",
+    "oneCoefficient" : 3.9,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "凌霄奇穴3_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【凌霄剑】时[10+LV]%几率额外攻击1个目标"
+    }, {
+      "name" : "凌霄奇穴3_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【凌霄剑】时额外提升[5+0.5*LV]%暴击率"
+    } ]
+  },
+  "4490004" : {
+    "id" : 4490004,
+    "schoolId" : "101",
+    "position" : 4,
+    "incrParam" : "法防",
+    "oneCoefficient" : 3.9,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "凌霄奇穴4_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【千钧击】时额外提升自身最大气血 [0.6+0.075*LV]%的外伤"
+    }, {
+      "name" : "凌霄奇穴4_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【千钧击】时[12+1.4*LV]%几率额外攻击1次"
+    } ]
+  },
+  "4490005" : {
+    "id" : 4490005,
+    "schoolId" : "101",
+    "position" : 5,
+    "incrParam" : "速度",
+    "oneCoefficient" : 1.0,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "凌霄奇穴5_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【凝血刃】击杀目标时回复自身[9+0.3*LV]%的气血"
+    }, {
+      "name" : "凌霄奇穴5_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【凝血刃】时无视目标的招架率和神佑率，且击杀目标时[0.625*LV]%几率额外释放1次凝血刃"
+    } ]
+  },
+  "4490006" : {
+    "id" : 4490006,
+    "schoolId" : "101",
+    "position" : 6,
+    "incrParam" : "招式力",
+    "oneCoefficient" : 3.0E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "凌霄奇穴6_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【四边静】使首选目标获得“减速”效果，持续3回合，不可叠加：速度降低[5+0.5*LV]%"
+    }, {
+      "name" : "凌霄奇穴6_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【四边静】技能伤害提升[20+0.65*LV]%，但作用目标数变为3"
+    } ]
+  },
+  "4490007" : {
+    "id" : 4490007,
+    "schoolId" : "101",
+    "position" : 7,
+    "incrParam" : "抵抗力",
+    "oneCoefficient" : 3.0E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "凌霄奇穴7_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【鬼神泣】时提升自身[36+0.7*LV]%吸血率，但造成的伤害降低35%"
+    }, {
+      "name" : "凌霄奇穴7_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【鬼神泣】击杀目标时[10+2*LV]%几率回复自身20点怒气"
+    } ]
+  },
+  "4490008" : {
+    "id" : 4490008,
+    "schoolId" : "101",
+    "position" : 8,
+    "incrParam" : "暴击率",
+    "oneCoefficient" : 7.5E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "凌霄奇穴8_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "受到伤害时[5+0.5*LV]%几率使用普通攻击进行反击"
+    }, {
+      "name" : "凌霄奇穴8_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "击杀目标时自身获得“神速”效果，持续2回合，不可叠加：速度提升[18+1.1*LV]%"
+    } ]
+  },
+  "4490009" : {
+    "id" : 4490009,
+    "schoolId" : "101",
+    "position" : 9,
+    "incrParam" : "幸运",
+    "oneCoefficient" : 2.3,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "凌霄奇穴9_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "受到伤害时[15+1.5*LV]%几率额外回复3点怒气"
+    }, {
+      "name" : "凌霄奇穴9_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "自身死亡时降低[20+1.5*LV]%的怒气损失"
+    } ]
+  },
+  "4490010" : {
+    "id" : 4490010,
+    "schoolId" : "102",
+    "position" : 1,
+    "incrParam" : "最大生命",
+    "oneCoefficient" : 17.8,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "最大生命",
+      "oneCoefficient" : 217.0,
+      "constant" : 0.0,
+      "description" : "气血提升[217*LV]"
+    }, {
+      "name" : "速度",
+      "oneCoefficient" : 13.0,
+      "constant" : 0.0,
+      "description" : "速度提升[13*LV]"
+    } ]
+  },
+  "4490011" : {
+    "id" : 4490011,
+    "schoolId" : "102",
+    "position" : 2,
+    "incrParam" : "法伤",
+    "oneCoefficient" : 7.8,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "物防",
+      "oneCoefficient" : 39.0,
+      "constant" : 0.0,
+      "description" : "外防提升[39*LV]"
+    }, {
+      "name" : "法防",
+      "oneCoefficient" : 39.0,
+      "constant" : 0.0,
+      "description" : "内防提升[39*LV]"
+    } ]
+  },
+  "4490012" : {
+    "id" : 4490012,
+    "schoolId" : "102",
+    "position" : 3,
+    "incrParam" : "物防",
+    "oneCoefficient" : 3.9,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "普陀奇穴3_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【云海潮生】时造成的伤害提升[5+0.5*LV]%"
+    }, {
+      "name" : "普陀奇穴3_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【云海潮生】时忽略目标[5+0.4*LV]%的内防"
+    } ]
+  },
+  "4490013" : {
+    "id" : 4490013,
+    "schoolId" : "102",
+    "position" : 4,
+    "incrParam" : "法防",
+    "oneCoefficient" : 3.9,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "普陀奇穴4_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【回风饮露】时[15+2.5*LV]%几率额外治疗1个目标"
+    }, {
+      "name" : "普陀奇穴4_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【回风饮露】时额外提升自身最大气血[1+0.2*LV]%的内伤"
+    } ]
+  },
+  "4490014" : {
+    "id" : 4490014,
+    "schoolId" : "102",
+    "position" : 5,
+    "incrParam" : "速度",
+    "oneCoefficient" : 1.0,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "普陀奇穴5_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【涤凡仙露】使目标获得“慈悲”效果，持续3回合，不可叠加：回合结束时回复气血（值为施法者内伤的[4.5+0.45*LV]%）"
+    }, {
+      "name" : "普陀奇穴5_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【涤凡仙露】时额外提升自身目标已损失气血[3.5+0.3*LV]%的内伤"
+    } ]
+  },
+  "4490015" : {
+    "id" : 4490015,
+    "schoolId" : "102",
+    "position" : 6,
+    "incrParam" : "招式力",
+    "oneCoefficient" : 3.0E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "普陀奇穴6_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【大慈心光渡】使目标获得“护佑”效果，持续2回合，不可叠加：受到的所有伤害降低[5+0.5*LV]%"
+    }, {
+      "name" : "普陀奇穴6_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【大慈心光灭】使目标获得“破妄”效果，持续2回合，不可叠加：使目标在气血回复时效果降低[40+3*LV]%"
+    } ]
+  },
+  "4490016" : {
+    "id" : 4490016,
+    "schoolId" : "102",
+    "position" : 7,
+    "incrParam" : "抵抗力",
+    "oneCoefficient" : 3.0E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "普陀奇穴7_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【莲华妙法】使目标获得“再生”效果，持续3回合，不可叠加：回合结束时回复自身[2+0.4*LV]%的气血"
+    }, {
+      "name" : "普陀奇穴7_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【莲华妙法】使目标获得“再临”效果，持续3回合，不可叠加：神佑率提升[1.5+0.3*LV]%"
+    } ]
+  },
+  "4490017" : {
+    "id" : 4490017,
+    "schoolId" : "102",
+    "position" : 8,
+    "incrParam" : "格挡率",
+    "oneCoefficient" : 7.5E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "普陀奇穴8_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "回合结束时获得“妙手”效果，持续2回合，可叠加：造成的治疗效果提升[0.6+0.06*LV]%"
+    }, {
+      "name" : "普陀奇穴8_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "招架率对内功伤害生效，且触发招架时伤害减免提升至[50+0.75*LV]%"
+    } ]
+  },
+  "4490018" : {
+    "id" : 4490018,
+    "schoolId" : "102",
+    "position" : 9,
+    "incrParam" : "幸运",
+    "oneCoefficient" : 2.3,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "普陀奇穴9_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "回合结束时[30+3.5*LV]%几率额外回复3点怒气（死亡时不生效）"
+    }, {
+      "name" : "普陀奇穴9_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "招架伤害时[50+2.5*LV]%几率额外回复10点怒气"
+    } ]
+  },
+  "4490019" : {
+    "id" : 4490019,
+    "schoolId" : "103",
+    "position" : 1,
+    "incrParam" : "最大生命",
+    "oneCoefficient" : 17.8,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "最大生命",
+      "oneCoefficient" : 217.0,
+      "constant" : 0.0,
+      "description" : "气血提升[217*LV]"
+    }, {
+      "name" : "速度",
+      "oneCoefficient" : 13.0,
+      "constant" : 0.0,
+      "description" : "速度提升[13*LV]"
+    } ]
+  },
+  "4490020" : {
+    "id" : 4490020,
+    "schoolId" : "103",
+    "position" : 2,
+    "incrParam" : "物伤",
+    "oneCoefficient" : 7.8,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "物防",
+      "oneCoefficient" : 39.0,
+      "constant" : 0.0,
+      "description" : "外防提升[39*LV]"
+    }, {
+      "name" : "法防",
+      "oneCoefficient" : 39.0,
+      "constant" : 0.0,
+      "description" : "内防提升[39*LV]"
+    } ]
+  },
+  "4490021" : {
+    "id" : 4490021,
+    "schoolId" : "103",
+    "position" : 3,
+    "incrParam" : "物防",
+    "oneCoefficient" : 3.9,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "盘丝奇穴3_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【穿花箭】时[4+0.4*LV]%几率附带“封魂咒”效果，持续1回合（无法对抵抗封印的目标生效）"
+    }, {
+      "name" : "盘丝奇穴3_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【穿花箭】时额外提升自身速度[25+2.5*LV]%的外伤"
+    } ]
+  },
+  "4490022" : {
+    "id" : 4490022,
+    "schoolId" : "103",
+    "position" : 4,
+    "incrParam" : "法防",
+    "oneCoefficient" : 3.9,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "盘丝奇穴4_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【封魂咒】未命中时[10+1.1*LV]%几率再释放一次（每回合只能触发一次）"
+    }, {
+      "name" : "盘丝奇穴4_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【封魂咒】或【万蛊噬心】造成的“持续伤害”[16+4.2*LV]%几率进行暴击判定，且额外提升5%暴击率"
+    } ]
+  },
+  "4490023" : {
+    "id" : 4490023,
+    "schoolId" : "103",
+    "position" : 5,
+    "incrParam" : "速度",
+    "oneCoefficient" : 1.0,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "盘丝奇穴5_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "回合结束时[20+1.5*LV]%几率解除自身携带的【封魂咒】或【万蛊噬心】造成的“封印”效果"
+    }, {
+      "name" : "盘丝奇穴5_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【封魂咒】或【万蛊噬心】造成的“持续伤害”[15+4.25*LV]%几率进行连击判定，且额外提升5%连击率"
+    } ]
+  },
+  "4490024" : {
+    "id" : 4490024,
+    "schoolId" : "103",
+    "position" : 6,
+    "incrParam" : "招式力",
+    "oneCoefficient" : 3.0E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "盘丝奇穴6_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【七煞诀】效果有[30+3.5*LV]%几率持续4回合"
+    }, {
+      "name" : "盘丝奇穴6_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【七煞诀】除“提升攻击与防御”效果外，再加入“提升[2+0.2*LV]%抵抗力”的效果"
+    } ]
+  },
+  "4490025" : {
+    "id" : 4490025,
+    "schoolId" : "103",
+    "position" : 7,
+    "incrParam" : "抵抗力",
+    "oneCoefficient" : 3.0E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "盘丝奇穴7_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【万蛊噬心】时[15+1.75*LV]%几率额外作用1个目标"
+    }, {
+      "name" : "盘丝奇穴7_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【万蛊噬心】时[30+3.5*LV]%几率无视目标的抵抗封印效果"
+    } ]
+  },
+  "4490026" : {
+    "id" : 4490026,
+    "schoolId" : "103",
+    "position" : 8,
+    "incrParam" : "吸血率",
+    "oneCoefficient" : 7.5E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "盘丝奇穴8_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【封魂咒】或【万蛊噬心】造成的“封印”效果会使目标在使用怒气技能时消耗提升[5+0.5*LV]%"
+    }, {
+      "name" : "盘丝奇穴8_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "带有【封魂咒】或【万蛊噬心】“封印”效果的目标在气血回复时效果降低[12+1.4*LV]%"
+    } ]
+  },
+  "4490027" : {
+    "id" : 4490027,
+    "schoolId" : "103",
+    "position" : 9,
+    "incrParam" : "幸运",
+    "oneCoefficient" : 2.3,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "盘丝奇穴9_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "回合结束时[15+1.75*LV]%几率额外回复1~9点怒气（死亡时不生效）"
+    }, {
+      "name" : "盘丝奇穴9_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "吸血时[30+3.5*LV]%几率回复2点怒气"
+    } ]
+  },
+  "4490028" : {
+    "id" : 4490028,
+    "schoolId" : "104",
+    "position" : 1,
+    "incrParam" : "最大生命",
+    "oneCoefficient" : 17.8,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "最大生命",
+      "oneCoefficient" : 217.0,
+      "constant" : 0.0,
+      "description" : "气血提升[217*LV]"
+    }, {
+      "name" : "速度",
+      "oneCoefficient" : 13.0,
+      "constant" : 0.0,
+      "description" : "速度提升[13*LV]"
+    } ]
+  },
+  "4490029" : {
+    "id" : 4490029,
+    "schoolId" : "104",
+    "position" : 2,
+    "incrParam" : "法伤",
+    "oneCoefficient" : 7.8,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "物防",
+      "oneCoefficient" : 39.0,
+      "constant" : 0.0,
+      "description" : "外防提升[39*LV]"
+    }, {
+      "name" : "法防",
+      "oneCoefficient" : 39.0,
+      "constant" : 0.0,
+      "description" : "内防提升[39*LV]"
+    } ]
+  },
+  "4490030" : {
+    "id" : 4490030,
+    "schoolId" : "104",
+    "position" : 3,
+    "incrParam" : "物防",
+    "oneCoefficient" : 3.9,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "五庄奇穴3_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【剑雨藏锋】时[25+3.75*LV]%几率额外攻击1个目标"
+    }, {
+      "name" : "五庄奇穴3_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【剑雨藏锋】时造成的伤害提升[4+0.6*LV]%"
+    } ]
+  },
+  "4490031" : {
+    "id" : 4490031,
+    "schoolId" : "104",
+    "position" : 4,
+    "incrParam" : "法防",
+    "oneCoefficient" : 3.9,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "五庄奇穴4_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【霜天剑舞】时[10+1*LV]%几率额外攻击1个目标"
+    }, {
+      "name" : "五庄奇穴4_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【霜天剑舞】时额外提升自身目标已损失气血[1+0.075*LV]%的内伤"
+    } ]
+  },
+  "4490032" : {
+    "id" : 4490032,
+    "schoolId" : "104",
+    "position" : 5,
+    "incrParam" : "速度",
+    "oneCoefficient" : 1.0,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "五庄奇穴5_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【御剑伏魔】时额外提升[5+LV]%连击率"
+    }, {
+      "name" : "五庄奇穴5_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "使用【御剑伏魔】时忽略目标[5+LV]%内防"
+    } ]
+  },
+  "4490033" : {
+    "id" : 4490033,
+    "schoolId" : "104",
+    "position" : 6,
+    "incrParam" : "招式力",
+    "oneCoefficient" : 3.0E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "五庄奇穴6_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【万化归一诀】技能伤害会在[90-1.5*LV]%~[110+2.5*LV]%之间波动"
+    }, {
+      "name" : "五庄奇穴6_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【万化归一诀】技能伤害随攻击次数变化：[70+0.5*LV]%/[90+0.5*LV]%/[110+0.5*LV]%/[130+0.5*LV]%"
+    } ]
+  },
+  "4490034" : {
+    "id" : 4490034,
+    "schoolId" : "104",
+    "position" : 7,
+    "incrParam" : "抵抗力",
+    "oneCoefficient" : 3.0E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "五庄奇穴7_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【八方湮灭】会消耗全部怒气：每额外消耗1点怒气，技能伤害提升[0.5+0.025*LV]%"
+    }, {
+      "name" : "五庄奇穴7_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "【八方湮灭】伤害造成的怒气回复降低[50+2.5*LV]%"
+    } ]
+  },
+  "4490035" : {
+    "id" : 4490035,
+    "schoolId" : "104",
+    "position" : 8,
+    "incrParam" : "连击率",
+    "oneCoefficient" : 7.5E-4,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "五庄奇穴8_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "释放技能时获得“混元”效果，持续3回合，可叠加3层：内伤提升[0.825+0.125*LV]%"
+    }, {
+      "name" : "五庄奇穴8_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "对宠物和怪物造成的伤害提升[2.5+0.375*LV]%"
+    } ]
+  },
+  "4490036" : {
+    "id" : 4490036,
+    "schoolId" : "104",
+    "position" : 9,
+    "incrParam" : "幸运",
+    "oneCoefficient" : 2.3,
+    "constant" : 0.0,
+    "talent" : [ {
+      "name" : "五庄奇穴9_甲",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "造成伤害时[25+2.5*LV]%几率回复1点怒气"
+    }, {
+      "name" : "五庄奇穴9_乙",
+      "oneCoefficient" : 1.0,
+      "constant" : 0.0,
+      "description" : "回合结束时如果自身死亡，则[40+3*LV]%几率回复6点怒气"
+    } ]
+  }
+}

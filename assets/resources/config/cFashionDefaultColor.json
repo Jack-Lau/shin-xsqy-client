@@ -1,0 +1,78 @@
+{
+  "4000005" : {
+    "id" : 4000005,
+    "part" : [ {
+      "id" : 1,
+      "color" : 245,
+      "saturation" : 30,
+      "brightness" : 40
+    }, {
+      "id" : 2,
+      "color" : 0,
+      "saturation" : 86,
+      "brightness" : 87
+    }, {
+      "id" : 3,
+      "color" : 233,
+      "saturation" : 46,
+      "brightness" : 61
+    } ]
+  },
+  "4000006" : {
+    "id" : 4000006,
+    "part" : [ {
+      "id" : 1,
+      "color" : 274,
+      "saturation" : 58,
+      "brightness" : 63
+    }, {
+      "id" : 2,
+      "color" : 0,
+      "saturation" : 84,
+      "brightness" : 91
+    }, {
+      "id" : 3,
+      "color" : 231,
+      "saturation" : 52,
+      "brightness" : 69
+    } ]
+  },
+  "4000007" : {
+    "id" : 4000007,
+    "part" : [ {
+      "id" : 1,
+      "color" : 360,
+      "saturation" : 91,
+      "brightness" : 87
+    }, {
+      "id" : 2,
+      "color" : 360,
+      "saturation" : 86,
+      "brightness" : 79
+    }, {
+      "id" : 3,
+      "color" : 231,
+      "saturation" : 53,
+      "brightness" : 56
+    } ]
+  },
+  "4000008" : {
+    "id" : 4000008,
+    "part" : [ {
+      "id" : 1,
+      "color" : 360,
+      "saturation" : 27,
+      "brightness" : 41
+    }, {
+      "id" : 2,
+      "color" : 0,
+      "saturation" : 81,
+      "brightness" : 65
+    }, {
+      "id" : 3,
+      "color" : 231,
+      "saturation" : 53,
+      "brightness" : 54
+    } ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "0" : {
+    "id" : 0,
+    "successRate" : 0.75,
+    "lowerPercent" : 0,
+    "upperPercent" : 0,
+    "repairPrice" : 100,
+    "sellKCShow" : 100,
+    "description" : "嘿~如果你不想要了我可以出100[CurrencyIcon_150]收回它。"
+  },
+  "1" : {
+    "id" : 1,
+    "successRate" : 0.65,
+    "lowerPercent" : 20,
+    "upperPercent" : 20,
+    "repairPrice" : 200,
+    "sellKCShow" : 250,
+    "description" : "这个古董我可以出\n250[CurrencyIcon_150]，不能再多了"
+  },
+  "2" : {
+    "id" : 2,
+    "successRate" : 0.6,
+    "lowerPercent" : 40,
+    "upperPercent" : 40,
+    "repairPrice" : 400,
+    "sellKCShow" : 660,
+    "description" : "这位侠士，不如660[CurrencyIcon_150]把它卖给我？"
+  },
+  "3" : {
+    "id" : 3,
+    "successRate" : 0.55,
+    "lowerPercent" : 60,
+    "upperPercent" : 60,
+    "repairPrice" : 600,
+    "sellKCShow" : 1720,
+    "description" : "我可以出1720[CurrencyIcon_150]买这个古董，你真的不考虑一下？"
+  },
+  "4" : {
+    "id" : 4,
+    "successRate" : 0.5,
+    "lowerPercent" : 80,
+    "upperPercent" : 80,
+    "repairPrice" : 1100,
+    "sellKCShow" : 4170,
+    "description" : "噢~它太棒了！4170[CurrencyIcon_150]卖给我行不行呐！"
+  },
+  "5" : {
+    "id" : 5,
+    "successRate" : 0.0,
+    "lowerPercent" : 100,
+    "upperPercent" : 100,
+    "repairPrice" : 0,
+    "sellKCShow" : 10540,
+    "description" : "噢！它太完美了！求你10540[CurrencyIcon_150]卖给我吧！"
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "100000" : {
+    "id" : 100000,
+    "name" : "太虚剑意",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 100101,
+      "name" : "火刃",
+      "abilityLvRequirement" : 0
+    }, {
+      "id" : 100201,
+      "name" : "旋风斩",
+      "abilityLvRequirement" : 0
+    } ]
+  },
+  "101100" : {
+    "id" : 101100,
+    "name" : "四边静",
+    "maxLevel" : 200,
+    "classification" : 2,
+    "skill" : [ {
+      "id" : 101101,
+      "name" : "四边静",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "只闻剑鸣，四方肃敛，气势压制对手。",
+    "passiveDescription" : "气血+[Math.floor(52.2*LV+520)]",
+    "activeDescription" : "对敌方4个目标造成强力外功伤害",
+    "consume" : "50点怒气"
+  },
+  "101200" : {
+    "id" : 101200,
+    "name" : "凝血刃",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 101201,
+      "name" : "凝血刃",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "以血凝兵刃，愈挫我愈勇。",
+    "passiveDescription" : "速度+[Math.floor(2.2*LV+20)]",
+    "activeDescription" : "对敌方单体造成外功伤害，目标当前气血比例越低，伤害越高",
+    "consume" : "固有技 无消耗"
+  },
+  "101300" : {
+    "id" : 101300,
+    "name" : "凌霄剑",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 101301,
+      "name" : "凌霄剑",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "英雄志凌云，剑气傲九霄。",
+    "passiveDescription" : "速度+[Math.floor(1.6*LV+15)]",
+    "activeDescription" : "对敌方2个目标造成外功伤害",
+    "consume" : "固有技 无消耗"
+  },
+  "101400" : {
+    "id" : 101400,
+    "name" : "鬼神泣",
+    "maxLevel" : 200,
+    "classification" : 2,
+    "skill" : [ {
+      "id" : 101401,
+      "name" : "鬼神泣",
+      "abilityLvRequirement" : 30
+    } ],
+    "commonDescription" : "鬼来杀鬼，神来弑神！",
+    "passiveDescription" : "外伤+[Math.floor(5.6*LV+55)]",
+    "activeDescription" : "对敌方单体进行5段攻击（该门派技能30级解锁）",
+    "consume" : "70点怒气"
+  },
+  "101500" : {
+    "id" : 101500,
+    "name" : "千钧击",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 101501,
+      "name" : "千钧击",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "以毁天遁地之势出招，重击敌方。",
+    "passiveDescription" : "外防+[Math.floor(6.8*LV+65)]",
+    "activeDescription" : "对敌方单体造成2次外功伤害",
+    "consume" : "固有技 无消耗"
+  },
+  "101600" : {
+    "id" : 101600,
+    "name" : "九天秘法",
+    "maxLevel" : 200,
+    "classification" : 1,
+    "commonDescription" : "传为九天战神提升战力的不传之秘。",
+    "passiveDescription" : "外伤+[Math.floor(7.8*LV+75)]",
+    "activeDescription" : "凌霄殿门派特色，提升自身外伤",
+    "consume" : "被动技 无消耗"
+  },
+  "101700" : {
+    "id" : 101700,
+    "name" : "藏龙剑气",
+    "maxLevel" : 200,
+    "classification" : 1,
+    "commonDescription" : "引神龙之息相助，威力大幅提升。",
+    "passiveDescription" : "内防+[Math.floor(6.8*LV+65)]",
+    "activeDescription" : "凌霄殿门派特色，提升自身暴击率",
+    "consume" : "被动技 无消耗"
+  },
+  "102100" : {
+    "id" : 102100,
+    "name" : "森罗万象",
+    "maxLevel" : 200,
+    "classification" : 1,
+    "commonDescription" : "森罗之万象，一法之所印。",
+    "passiveDescription" : "外防+[Math.floor(5*LV+50)]",
+    "activeDescription" : "普陀山门派特色，提升自身招架率",
+    "consume" : "被动技 无消耗"
+  },
+  "102200" : {
+    "id" : 102200,
+    "name" : "莲华妙法",
+    "maxLevel" : 200,
+    "classification" : 2,
+    "skill" : [ {
+      "id" : 102201,
+      "name" : "莲华妙法",
+      "abilityLvRequirement" : 30
+    } ],
+    "commonDescription" : "慈悲莲华池上绽，妙法无上度众生。",
+    "passiveDescription" : "气血+[Math.floor(51.6*LV+515)]",
+    "activeDescription" : "回复友方全体大量气血（该门派技能30级解锁）",
+    "consume" : "70点怒气"
+  },
+  "102300" : {
+    "id" : 102300,
+    "name" : "回风饮露",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 102301,
+      "name" : "回风饮露",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "餐风饮露，流雪回风，仙姿岸然，沉水润心。",
+    "passiveDescription" : "气血+[Math.floor(37.4*LV+370)]",
+    "activeDescription" : "为友方3个目标回复气血",
+    "consume" : "固有技 无消耗"
+  },
+  "102400" : {
+    "id" : 102400,
+    "name" : "云海潮生",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 102401,
+      "name" : "云海潮生",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "引海潮之力，蕴无上正气，灭一切邪道。",
+    "passiveDescription" : "内伤+[Math.floor(10.4*LV+100)]",
+    "activeDescription" : "对敌方3个目标造成内功伤害",
+    "consume" : "固有技 无消耗"
+  },
+  "102500" : {
+    "id" : 102500,
+    "name" : "返璞归真",
+    "maxLevel" : 200,
+    "classification" : 1,
+    "commonDescription" : "开悟天道，得无上法慧，归元守真。",
+    "passiveDescription" : "内防+[Math.floor(4.6*LV+45)]",
+    "activeDescription" : "普陀山门派特色，回合结束时回复自身气血",
+    "consume" : "被动技 无消耗"
+  },
+  "102600" : {
+    "id" : 102600,
+    "name" : "涤凡仙露",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 102601,
+      "name" : "涤凡仙露",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "梵音净世，仙露涤尘，万灵得长生。",
+    "passiveDescription" : "外防+[Math.floor(3.6*LV+35)]",
+    "activeDescription" : "为友方单体回复大量气血",
+    "consume" : "固有技 无消耗"
+  },
+  "102700" : {
+    "id" : 102700,
+    "name" : "大慈心光渡",
+    "maxLevel" : 200,
+    "classification" : 2,
+    "skill" : [ {
+      "id" : 102701,
+      "name" : "大慈心光渡",
+      "abilityLvRequirement" : 0
+    }, {
+      "id" : 102702,
+      "name" : "大慈心光灭",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "大慈与一切众生乐，大悲拔一切众生苦。",
+    "passiveDescription" : "速度+[Math.floor(3*LV+30)]",
+    "activeDescription" : "复活友方单体，或对敌方单体造成大量内功伤害",
+    "consume" : "50点怒气"
+  },
+  "103100" : {
+    "id" : 103100,
+    "name" : "万蛊噬心",
+    "maxLevel" : 200,
+    "classification" : 2,
+    "skill" : [ {
+      "id" : 103101,
+      "name" : "万蛊噬心",
+      "abilityLvRequirement" : 30
+    } ],
+    "commonDescription" : "中蛊者被魔蛊控制，丧失一定行动力。",
+    "passiveDescription" : "气血+[Math.floor(52.2*LV+520)]",
+    "activeDescription" : "对敌方3个目标释放封印并造成持续伤害，持续2回合（该门派技能30级解锁）",
+    "consume" : "70点怒气"
+  },
+  "103200" : {
+    "id" : 103200,
+    "name" : "六脉血逆",
+    "maxLevel" : 200,
+    "classification" : 2,
+    "skill" : [ {
+      "id" : 103201,
+      "name" : "六脉血逆",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "以秘咒催动六脉之力，祛毒辟毒，皆有神效。",
+    "passiveDescription" : "外伤+[Math.floor(10.4*LV+100)]",
+    "activeDescription" : "为友方单体解除封印效果并使其免疫封印，持续2回合",
+    "consume" : "固有技 无消耗"
+  },
+  "103300" : {
+    "id" : 103300,
+    "name" : "封魂咒",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 103301,
+      "name" : "封魂咒",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "禁困神魂之咒，令人神识大伤。",
+    "passiveDescription" : "内防+[Math.floor(5*LV+50)]",
+    "activeDescription" : "对敌方单体释放封印（封印固有技和普通攻击）并造成持续伤害，持续3回合",
+    "consume" : "固有技 无消耗"
+  },
+  "103400" : {
+    "id" : 103400,
+    "name" : "勾魂丝",
+    "maxLevel" : 200,
+    "classification" : 1,
+    "commonDescription" : "以蛛丝牵引敌方神魂，汲取精血。",
+    "passiveDescription" : "内防+[Math.floor(3.6*LV+35)]",
+    "activeDescription" : "盘丝洞门派特色，提升自身吸血率",
+    "consume" : "被动技 无消耗"
+  },
+  "103500" : {
+    "id" : 103500,
+    "name" : "七煞诀",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 103501,
+      "name" : "七煞诀",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "驱七煞之力，灭天地之灵。",
+    "passiveDescription" : "外防+[Math.floor(4.6*LV+45)]",
+    "activeDescription" : "大幅提升友方全体的攻击与防御，持续3回合",
+    "consume" : "50点怒气"
+  },
+  "103600" : {
+    "id" : 103600,
+    "name" : "雾里看花",
+    "maxLevel" : 200,
+    "classification" : 1,
+    "commonDescription" : "花似雾中看，影如眼前瞻。",
+    "passiveDescription" : "速度+[Math.floor(2.6*LV+25)]",
+    "activeDescription" : "盘丝洞门派特色，提升自身速度",
+    "consume" : "被动技 无消耗"
+  },
+  "103700" : {
+    "id" : 103700,
+    "name" : "穿花箭",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 103701,
+      "name" : "穿花箭",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "盘丝洞自制袖箭，透骨蚀心。",
+    "passiveDescription" : "速度+[Math.floor(1.8*LV+15)]",
+    "activeDescription" : "对敌方3个目标造成外功伤害（忽略目标外防）",
+    "consume" : "固有技 无消耗"
+  },
+  "104100" : {
+    "id" : 104100,
+    "name" : "万化归一诀",
+    "maxLevel" : 200,
+    "classification" : 2,
+    "skill" : [ {
+      "id" : 104101,
+      "name" : "万化归一诀",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "道家师门法诀，看似简单，却奥妙无穷。",
+    "passiveDescription" : "外防+[Math.floor(6.8*LV+65)]",
+    "activeDescription" : "连续4次随机选择敌方单个目标造成高额内功伤害",
+    "consume" : "50点怒气"
+  },
+  "104200" : {
+    "id" : 104200,
+    "name" : "剑雨藏锋",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 104201,
+      "name" : "剑雨藏锋",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "以真气化作万千剑雨，剑芒如雨直落。",
+    "passiveDescription" : "气血+[Math.floor(41*LV+410)]",
+    "activeDescription" : "对敌方4个目标造成内功伤害",
+    "consume" : "固有技 无消耗"
+  },
+  "104300" : {
+    "id" : 104300,
+    "name" : "道法自然",
+    "maxLevel" : 200,
+    "classification" : 1,
+    "commonDescription" : "大道无形，生育天地。大道无情，运行日月。",
+    "passiveDescription" : "内伤+[Math.floor(7.8*LV+75)]",
+    "activeDescription" : "五庄观门派特色，提升自身内伤",
+    "consume" : "被动技 无消耗"
+  },
+  "104400" : {
+    "id" : 104400,
+    "name" : "上善若水",
+    "maxLevel" : 200,
+    "classification" : 1,
+    "commonDescription" : "水善利万物而不争，处众人之所恶，故几于道。",
+    "passiveDescription" : "内防+[Math.floor(6.8*LV+65)]",
+    "activeDescription" : "五庄观门派特色，提升自身连击率",
+    "consume" : "被动技 无消耗"
+  },
+  "104500" : {
+    "id" : 104500,
+    "name" : "霜天剑舞",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 104501,
+      "name" : "霜天剑舞",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "剑舞破玄动八方，天地为之久低昂。",
+    "passiveDescription" : "内伤+[Math.floor(5.6*LV+55)]",
+    "activeDescription" : "对敌方气血最低的2个目标造成内功伤害",
+    "consume" : "固有技 无消耗"
+  },
+  "104600" : {
+    "id" : 104600,
+    "name" : "御剑伏魔",
+    "maxLevel" : 200,
+    "classification" : 0,
+    "skill" : [ {
+      "id" : 104601,
+      "name" : "御剑伏魔",
+      "abilityLvRequirement" : 0
+    } ],
+    "commonDescription" : "降魔绝招，以霸道剑气纵贯对手。",
+    "passiveDescription" : "气血+[Math.floor(29.6*LV+295)]",
+    "activeDescription" : "对敌方单体造成大量内功伤害",
+    "consume" : "固有技 无消耗"
+  },
+  "104700" : {
+    "id" : 104700,
+    "name" : "八方湮灭",
+    "maxLevel" : 200,
+    "classification" : 2,
+    "skill" : [ {
+      "id" : 104701,
+      "name" : "八方湮灭",
+      "abilityLvRequirement" : 30
+    } ],
+    "commonDescription" : "聚八方之灵发动剑阵，有以一敌百之力。",
+    "passiveDescription" : "速度+[Math.floor(3*LV+30)]",
+    "activeDescription" : "对敌方全体造成大量内功伤害（该门派技能30级解锁）",
+    "consume" : "70点怒气"
+  }
+}

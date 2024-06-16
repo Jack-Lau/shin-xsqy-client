@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "88478013-14fb-4665-bc09-7ac3322852cd",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "8c4c2763-11fd-459a-858f-caf1f19c7192",
+  "size": {
+    "width": 341,
+    "height": 248
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "矿山探宝改294、1134.png": {
+      "ver": "1.0.6",
+      "uuid": "f257bdfa-ba50-402b-a7ab-8feabadda68c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c4c2763-11fd-459a-858f-caf1f19c7192",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 339,
+      "height": 246,
+      "rawWidth": 339,
+      "rawHeight": 246,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

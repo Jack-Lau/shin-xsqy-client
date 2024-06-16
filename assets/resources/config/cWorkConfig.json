@@ -1,0 +1,507 @@
+{
+  "0" : {
+    "id" : 0,
+    "expPerMinute" : 300,
+    "goldPerMinute" : 2
+  },
+  "1" : {
+    "id" : 1,
+    "expPerMinute" : 300,
+    "goldPerMinute" : 2
+  },
+  "2" : {
+    "id" : 2,
+    "expPerMinute" : 310,
+    "goldPerMinute" : 2
+  },
+  "3" : {
+    "id" : 3,
+    "expPerMinute" : 320,
+    "goldPerMinute" : 2
+  },
+  "4" : {
+    "id" : 4,
+    "expPerMinute" : 330,
+    "goldPerMinute" : 2
+  },
+  "5" : {
+    "id" : 5,
+    "expPerMinute" : 340,
+    "goldPerMinute" : 2
+  },
+  "6" : {
+    "id" : 6,
+    "expPerMinute" : 350,
+    "goldPerMinute" : 2
+  },
+  "7" : {
+    "id" : 7,
+    "expPerMinute" : 360,
+    "goldPerMinute" : 2
+  },
+  "8" : {
+    "id" : 8,
+    "expPerMinute" : 370,
+    "goldPerMinute" : 2
+  },
+  "9" : {
+    "id" : 9,
+    "expPerMinute" : 380,
+    "goldPerMinute" : 2
+  },
+  "10" : {
+    "id" : 10,
+    "expPerMinute" : 390,
+    "goldPerMinute" : 2
+  },
+  "11" : {
+    "id" : 11,
+    "expPerMinute" : 400,
+    "goldPerMinute" : 2
+  },
+  "12" : {
+    "id" : 12,
+    "expPerMinute" : 410,
+    "goldPerMinute" : 2
+  },
+  "13" : {
+    "id" : 13,
+    "expPerMinute" : 420,
+    "goldPerMinute" : 2
+  },
+  "14" : {
+    "id" : 14,
+    "expPerMinute" : 430,
+    "goldPerMinute" : 2
+  },
+  "15" : {
+    "id" : 15,
+    "expPerMinute" : 440,
+    "goldPerMinute" : 2
+  },
+  "16" : {
+    "id" : 16,
+    "expPerMinute" : 450,
+    "goldPerMinute" : 2
+  },
+  "17" : {
+    "id" : 17,
+    "expPerMinute" : 460,
+    "goldPerMinute" : 2
+  },
+  "18" : {
+    "id" : 18,
+    "expPerMinute" : 470,
+    "goldPerMinute" : 2
+  },
+  "19" : {
+    "id" : 19,
+    "expPerMinute" : 480,
+    "goldPerMinute" : 2
+  },
+  "20" : {
+    "id" : 20,
+    "expPerMinute" : 490,
+    "goldPerMinute" : 2
+  },
+  "21" : {
+    "id" : 21,
+    "expPerMinute" : 500,
+    "goldPerMinute" : 2
+  },
+  "22" : {
+    "id" : 22,
+    "expPerMinute" : 510,
+    "goldPerMinute" : 2
+  },
+  "23" : {
+    "id" : 23,
+    "expPerMinute" : 520,
+    "goldPerMinute" : 2
+  },
+  "24" : {
+    "id" : 24,
+    "expPerMinute" : 530,
+    "goldPerMinute" : 2
+  },
+  "25" : {
+    "id" : 25,
+    "expPerMinute" : 540,
+    "goldPerMinute" : 2
+  },
+  "26" : {
+    "id" : 26,
+    "expPerMinute" : 550,
+    "goldPerMinute" : 2
+  },
+  "27" : {
+    "id" : 27,
+    "expPerMinute" : 560,
+    "goldPerMinute" : 2
+  },
+  "28" : {
+    "id" : 28,
+    "expPerMinute" : 570,
+    "goldPerMinute" : 2
+  },
+  "29" : {
+    "id" : 29,
+    "expPerMinute" : 580,
+    "goldPerMinute" : 2
+  },
+  "30" : {
+    "id" : 30,
+    "expPerMinute" : 590,
+    "goldPerMinute" : 2
+  },
+  "31" : {
+    "id" : 31,
+    "expPerMinute" : 600,
+    "goldPerMinute" : 2
+  },
+  "32" : {
+    "id" : 32,
+    "expPerMinute" : 610,
+    "goldPerMinute" : 2
+  },
+  "33" : {
+    "id" : 33,
+    "expPerMinute" : 620,
+    "goldPerMinute" : 2
+  },
+  "34" : {
+    "id" : 34,
+    "expPerMinute" : 630,
+    "goldPerMinute" : 2
+  },
+  "35" : {
+    "id" : 35,
+    "expPerMinute" : 640,
+    "goldPerMinute" : 2
+  },
+  "36" : {
+    "id" : 36,
+    "expPerMinute" : 650,
+    "goldPerMinute" : 2
+  },
+  "37" : {
+    "id" : 37,
+    "expPerMinute" : 660,
+    "goldPerMinute" : 2
+  },
+  "38" : {
+    "id" : 38,
+    "expPerMinute" : 670,
+    "goldPerMinute" : 2
+  },
+  "39" : {
+    "id" : 39,
+    "expPerMinute" : 680,
+    "goldPerMinute" : 2
+  },
+  "40" : {
+    "id" : 40,
+    "expPerMinute" : 700,
+    "goldPerMinute" : 2
+  },
+  "41" : {
+    "id" : 41,
+    "expPerMinute" : 805,
+    "goldPerMinute" : 2
+  },
+  "42" : {
+    "id" : 42,
+    "expPerMinute" : 910,
+    "goldPerMinute" : 2
+  },
+  "43" : {
+    "id" : 43,
+    "expPerMinute" : 1015,
+    "goldPerMinute" : 3
+  },
+  "44" : {
+    "id" : 44,
+    "expPerMinute" : 1120,
+    "goldPerMinute" : 3
+  },
+  "45" : {
+    "id" : 45,
+    "expPerMinute" : 1225,
+    "goldPerMinute" : 3
+  },
+  "46" : {
+    "id" : 46,
+    "expPerMinute" : 1330,
+    "goldPerMinute" : 4
+  },
+  "47" : {
+    "id" : 47,
+    "expPerMinute" : 1435,
+    "goldPerMinute" : 4
+  },
+  "48" : {
+    "id" : 48,
+    "expPerMinute" : 1540,
+    "goldPerMinute" : 4
+  },
+  "49" : {
+    "id" : 49,
+    "expPerMinute" : 1645,
+    "goldPerMinute" : 5
+  },
+  "50" : {
+    "id" : 50,
+    "expPerMinute" : 1750,
+    "goldPerMinute" : 5
+  },
+  "51" : {
+    "id" : 51,
+    "expPerMinute" : 1855,
+    "goldPerMinute" : 5
+  },
+  "52" : {
+    "id" : 52,
+    "expPerMinute" : 1960,
+    "goldPerMinute" : 6
+  },
+  "53" : {
+    "id" : 53,
+    "expPerMinute" : 2065,
+    "goldPerMinute" : 6
+  },
+  "54" : {
+    "id" : 54,
+    "expPerMinute" : 2170,
+    "goldPerMinute" : 6
+  },
+  "55" : {
+    "id" : 55,
+    "expPerMinute" : 2275,
+    "goldPerMinute" : 7
+  },
+  "56" : {
+    "id" : 56,
+    "expPerMinute" : 2380,
+    "goldPerMinute" : 7
+  },
+  "57" : {
+    "id" : 57,
+    "expPerMinute" : 2485,
+    "goldPerMinute" : 7
+  },
+  "58" : {
+    "id" : 58,
+    "expPerMinute" : 2590,
+    "goldPerMinute" : 8
+  },
+  "59" : {
+    "id" : 59,
+    "expPerMinute" : 2695,
+    "goldPerMinute" : 8
+  },
+  "60" : {
+    "id" : 60,
+    "expPerMinute" : 2800,
+    "goldPerMinute" : 8
+  },
+  "61" : {
+    "id" : 61,
+    "expPerMinute" : 2905,
+    "goldPerMinute" : 9
+  },
+  "62" : {
+    "id" : 62,
+    "expPerMinute" : 3010,
+    "goldPerMinute" : 9
+  },
+  "63" : {
+    "id" : 63,
+    "expPerMinute" : 3115,
+    "goldPerMinute" : 9
+  },
+  "64" : {
+    "id" : 64,
+    "expPerMinute" : 3220,
+    "goldPerMinute" : 10
+  },
+  "65" : {
+    "id" : 65,
+    "expPerMinute" : 3325,
+    "goldPerMinute" : 10
+  },
+  "66" : {
+    "id" : 66,
+    "expPerMinute" : 3430,
+    "goldPerMinute" : 10
+  },
+  "67" : {
+    "id" : 67,
+    "expPerMinute" : 3535,
+    "goldPerMinute" : 11
+  },
+  "68" : {
+    "id" : 68,
+    "expPerMinute" : 3640,
+    "goldPerMinute" : 11
+  },
+  "69" : {
+    "id" : 69,
+    "expPerMinute" : 3745,
+    "goldPerMinute" : 11
+  },
+  "70" : {
+    "id" : 70,
+    "expPerMinute" : 3850,
+    "goldPerMinute" : 12
+  },
+  "71" : {
+    "id" : 71,
+    "expPerMinute" : 3955,
+    "goldPerMinute" : 12
+  },
+  "72" : {
+    "id" : 72,
+    "expPerMinute" : 4060,
+    "goldPerMinute" : 12
+  },
+  "73" : {
+    "id" : 73,
+    "expPerMinute" : 4165,
+    "goldPerMinute" : 13
+  },
+  "74" : {
+    "id" : 74,
+    "expPerMinute" : 4270,
+    "goldPerMinute" : 13
+  },
+  "75" : {
+    "id" : 75,
+    "expPerMinute" : 4375,
+    "goldPerMinute" : 13
+  },
+  "76" : {
+    "id" : 76,
+    "expPerMinute" : 4480,
+    "goldPerMinute" : 14
+  },
+  "77" : {
+    "id" : 77,
+    "expPerMinute" : 4585,
+    "goldPerMinute" : 14
+  },
+  "78" : {
+    "id" : 78,
+    "expPerMinute" : 4690,
+    "goldPerMinute" : 14
+  },
+  "79" : {
+    "id" : 79,
+    "expPerMinute" : 4795,
+    "goldPerMinute" : 15
+  },
+  "80" : {
+    "id" : 80,
+    "expPerMinute" : 4900,
+    "goldPerMinute" : 15
+  },
+  "81" : {
+    "id" : 81,
+    "expPerMinute" : 5005,
+    "goldPerMinute" : 15
+  },
+  "82" : {
+    "id" : 82,
+    "expPerMinute" : 5110,
+    "goldPerMinute" : 16
+  },
+  "83" : {
+    "id" : 83,
+    "expPerMinute" : 5215,
+    "goldPerMinute" : 16
+  },
+  "84" : {
+    "id" : 84,
+    "expPerMinute" : 5320,
+    "goldPerMinute" : 16
+  },
+  "85" : {
+    "id" : 85,
+    "expPerMinute" : 5425,
+    "goldPerMinute" : 17
+  },
+  "86" : {
+    "id" : 86,
+    "expPerMinute" : 5530,
+    "goldPerMinute" : 17
+  },
+  "87" : {
+    "id" : 87,
+    "expPerMinute" : 5635,
+    "goldPerMinute" : 17
+  },
+  "88" : {
+    "id" : 88,
+    "expPerMinute" : 5740,
+    "goldPerMinute" : 18
+  },
+  "89" : {
+    "id" : 89,
+    "expPerMinute" : 5845,
+    "goldPerMinute" : 18
+  },
+  "90" : {
+    "id" : 90,
+    "expPerMinute" : 5950,
+    "goldPerMinute" : 18
+  },
+  "91" : {
+    "id" : 91,
+    "expPerMinute" : 6055,
+    "goldPerMinute" : 19
+  },
+  "92" : {
+    "id" : 92,
+    "expPerMinute" : 6160,
+    "goldPerMinute" : 19
+  },
+  "93" : {
+    "id" : 93,
+    "expPerMinute" : 6265,
+    "goldPerMinute" : 19
+  },
+  "94" : {
+    "id" : 94,
+    "expPerMinute" : 6370,
+    "goldPerMinute" : 20
+  },
+  "95" : {
+    "id" : 95,
+    "expPerMinute" : 6475,
+    "goldPerMinute" : 20
+  },
+  "96" : {
+    "id" : 96,
+    "expPerMinute" : 6580,
+    "goldPerMinute" : 20
+  },
+  "97" : {
+    "id" : 97,
+    "expPerMinute" : 6685,
+    "goldPerMinute" : 21
+  },
+  "98" : {
+    "id" : 98,
+    "expPerMinute" : 6790,
+    "goldPerMinute" : 21
+  },
+  "99" : {
+    "id" : 99,
+    "expPerMinute" : 6895,
+    "goldPerMinute" : 21
+  },
+  "100" : {
+    "id" : 100,
+    "expPerMinute" : 7000,
+    "goldPerMinute" : 22
+  }
+}

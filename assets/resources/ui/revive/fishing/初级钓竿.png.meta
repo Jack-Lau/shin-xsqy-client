@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0376b497-4f7b-4290-ba3c-00df91c528cd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 79,
+  "height": 82,
+  "platformSettings": {},
+  "subMetas": {
+    "初级钓竿": {
+      "ver": "1.0.6",
+      "uuid": "8a32999f-a1ff-486c-b0cd-34befa4c3af9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0376b497-4f7b-4290-ba3c-00df91c528cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 79,
+      "height": 80,
+      "rawWidth": 79,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

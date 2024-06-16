@@ -1,0 +1,78 @@
+{
+  "1" : {
+    "id" : 1,
+    "name" : "强化保护卡",
+    "currencyId" : 161,
+    "amount" : 1,
+    "broadcastId" : 3200058,
+    "sequence" : 1,
+    "exhibit" : 1,
+    "showResult" : 1
+  },
+  "2" : {
+    "id" : 2,
+    "name" : "元宝",
+    "currencyId" : 150,
+    "amount" : 2500,
+    "sequence" : 2,
+    "exhibit" : 0,
+    "showResult" : 0
+  },
+  "3" : {
+    "id" : 3,
+    "name" : "未鉴定宠物",
+    "currencyId" : 20057,
+    "amount" : 1,
+    "broadcastId" : 3200001,
+    "sequence" : 3,
+    "exhibit" : 1,
+    "showResult" : 1
+  },
+  "4" : {
+    "id" : 4,
+    "name" : "强化石",
+    "currencyId" : 154,
+    "amount" : 25,
+    "sequence" : 4,
+    "exhibit" : 0,
+    "showResult" : 0
+  },
+  "5" : {
+    "id" : 5,
+    "name" : "长乐贡牌",
+    "currencyId" : 194,
+    "amount" : 1,
+    "broadcastId" : 3200068,
+    "sequence" : 5,
+    "exhibit" : 1,
+    "showResult" : 1
+  },
+  "6" : {
+    "id" : 6,
+    "name" : "冲星灵丹",
+    "currencyId" : 158,
+    "amount" : 100,
+    "sequence" : 6,
+    "exhibit" : 0,
+    "showResult" : 0
+  },
+  "7" : {
+    "id" : 7,
+    "name" : "未鉴定装备",
+    "currencyId" : 20058,
+    "amount" : 1,
+    "broadcastId" : 3200002,
+    "sequence" : 7,
+    "exhibit" : 1,
+    "showResult" : 1
+  },
+  "8" : {
+    "id" : 8,
+    "name" : "九灵仙丹",
+    "currencyId" : 168,
+    "amount" : 25,
+    "sequence" : 8,
+    "exhibit" : 0,
+    "showResult" : 0
+  }
+}

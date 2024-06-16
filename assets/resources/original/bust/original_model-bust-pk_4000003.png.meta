@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d6817af2-3bbb-49f0-9dd6-a36399214d17",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 844,
+  "height": 587,
+  "platformSettings": {},
+  "subMetas": {
+    "original_model-bust-pk_4000003": {
+      "ver": "1.0.6",
+      "uuid": "379abd19-d360-4cb2-936c-bec4acedf9f9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d6817af2-3bbb-49f0-9dd6-a36399214d17",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 33.5,
+      "offsetY": -31,
+      "trimX": 71,
+      "trimY": 62,
+      "width": 769,
+      "height": 525,
+      "rawWidth": 844,
+      "rawHeight": 587,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

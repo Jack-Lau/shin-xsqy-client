@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "39a4bb6e-73c9-455b-b84b-ed07a35dda93",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "658c0415-1a06-4fe1-bf99-3df63f6c8cb2",
+  "size": {
+    "width": 374,
+    "height": 283
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "新蜘蛛网.png": {
+      "ver": "1.0.6",
+      "uuid": "9e8563fc-b5ae-4a09-851d-9fd0978557dd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "658c0415-1a06-4fe1-bf99-3df63f6c8cb2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9,
+      "offsetY": 8,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 372,
+      "height": 281,
+      "rawWidth": 390,
+      "rawHeight": 297,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

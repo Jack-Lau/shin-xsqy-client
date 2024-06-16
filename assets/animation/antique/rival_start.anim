@@ -1,0 +1,155 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rival_start",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "中间": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -773
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "中间/New Node": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "New Node/我方阵容/animItem1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 600
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "New Node/我方阵容/animItem2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 600
+            },
+            {
+              "frame": 0.2,
+              "value": 600
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "New Node/我方阵容/animItem3": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 600
+            },
+            {
+              "frame": 0.3,
+              "value": 600
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "New Node/敌方阵容/animItem4": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -600
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "New Node/敌方阵容/animItem5": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -600
+            },
+            {
+              "frame": 0.2,
+              "value": -600
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "New Node/敌方阵容/animItem6": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -600
+            },
+            {
+              "frame": 0.3,
+              "value": -600
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

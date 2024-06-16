@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "7a4de08c-e781-45ee-a1bc-6f23932cbeab",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "95b53820-440d-4c07-bea5-520955408a34",
+  "size": {
+    "width": 164,
+    "height": 237
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "梅花1.png": {
+      "ver": "1.0.6",
+      "uuid": "5e9a5e1a-409c-4c1d-9e5d-82b4a75e8670",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "95b53820-440d-4c07-bea5-520955408a34",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 9,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 162,
+      "height": 235,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

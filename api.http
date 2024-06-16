@@ -1,0 +1,484 @@
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/register/createTest HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+username=string
+&password=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/register/createByPhone HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+username=string
+&password=string
+&activationCode=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/register/requestPhoneActivation HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+phoneNumber=string
+&ticket=string
+&randStr=string
+---
+###
+GET http://192.168.0.138:8080/kxy-web/account/register/verifyPhoneActivation
+	?phoneNumber=string
+&activationCode=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/register/resetPassword HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+username=string
+&password=string
+&activationCode=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/register/createTicket HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+token=string
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/account/view/myself
+	?
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/login HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+username=string
+&password=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/login-weixin HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+code=string
+&from=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/logout HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/addPassword HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+username=string
+&password=string
+&activationCode=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/account/login-kexingqiu HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+ticketId=string
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/battle/start HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+battleDescriptorId=integer
+&oneshot=boolean
+---
+###
+GET http://192.168.0.138:8080/kxy-web/battle/view/{id}
+	?id=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/battle/action/{id}/nextTurn HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+id=integer
+&turnCount=integer
+&skillId=integer
+&targetId=integer
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/chat/sendMessage HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/chat/public/view
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/chat/private/incomingInfo
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/chat/private/conversation
+	?anotherAccountId=integer
+&page=integer
+&size=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/chat/private/markAlreadyRead HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+senderAccountId=integer
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/management/chat/sendGameMasterMessage HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/debug/setTimeOffset HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+offset=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/debug/resetToSystemTime HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/currency/view/{accountId}
+	?accountId=integer
+---
+###
+GET http://192.168.0.138:8080/kxy-web/currency/view/{accountId}/{currencyId}
+	?accountId=integer
+&currencyId=integer
+---
+###
+GET http://192.168.0.138:8080/kxy-web/currency/logs
+	?
+---
+###
+POST http://192.168.0.138:8080/kxy-web/currency/giveMeMoney HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+currencyId=integer
+&amount=integer
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/ethereumExchange/withdrawKuaibi HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+amount=integer
+&toAddress=string
+&ticket=string
+&randStr=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/ethereumExchange/depositKuaibi HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+amount=integer
+&fromAddress=string
+&ticket=string
+&randStr=string
+---
+###
+GET http://192.168.0.138:8080/kxy-web/ethereumExchange/viewPendingDepositRequests
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/ethereumExchange/viewPendingWithDrawRequests
+	?
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/kbdzp/view/myself
+	?
+---
+###
+POST http://192.168.0.138:8080/kxy-web/kbdzp/recoverEnergy HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/kbdzp/enableBooster1 HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+activationCode=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/kbdzp/enableBooster2 HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+activationCode=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/kbdzp/makeTurn HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/kbdzp/obtainAward HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/kbdzp/latestInterestingAwards
+	?
+---
+###
+POST http://192.168.0.138:8080/kxy-web/kbdzp/obtainInviteeBonus HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/management/kbdzp/view
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/management/kbdzp/fixRecords
+	?
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/yibenwanli/overrall
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/yibenwanli/view/myself
+	?
+---
+###
+POST http://192.168.0.138:8080/kxy-web/yibenwanli/purchase HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+activePointsToUse=integer
+&expectedPrice=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/yibenwanli/tryPublishLastChangeBroadcast HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/gift/redeem HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+code=string
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/management/gift/action/{giftDefinitionId}/init HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+giftDefinitionId=integer
+&prototypeCode=string
+&serialCodeBegin=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/management/gift/action/{giftDefinitionId}/generate HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+giftDefinitionId=integer
+&count=integer
+---
+###
+GET http://192.168.0.138:8080/kxy-web/management/gift/view/{giftDefinitionId}
+	?giftDefinitionId=integer
+---
+###
+GET http://192.168.0.138:8080/kxy-web/management/gift/view/{giftDefinitionId}/codes
+	?giftDefinitionId=integer
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/invitation/view/myself
+	?
+---
+###
+POST http://192.168.0.138:8080/kxy-web/invitation/create HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+invitationCode=string
+---
+###
+GET http://192.168.0.138:8080/kxy-web/invitation/verify
+	?invitationCode=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/invitation/resolveInvitationReward HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/invitation/obtainInvitationReward HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/invitation/todayInvitationRewardLogs
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/invitation/groupedKbdzpReward
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/invitation/groupedKuaibiRewardLogs
+	?
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/mail/view/mine
+	?page=integer
+&size=integer
+---
+###
+GET http://192.168.0.138:8080/kxy-web/mail/existsUnread
+	?
+---
+###
+POST http://192.168.0.138:8080/kxy-web/mail/action/{mailId}/markAlreadyRead HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+mailId=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/mail/action/{mailId}/obtainAttachment HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+mailId=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/mail/action/{mailId}/delete HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+mailId=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/mail/deleteNeedless HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/management/mail/sendMailToOne HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+accountId=integer
+&title=string
+&content=string
+&attachment=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/management/mail/sendMailToAll HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+title=string
+&content=string
+&attachment=string
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/player/view/myself
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/player/view/{id}
+	?id=integer
+---
+###
+GET http://192.168.0.138:8080/kxy-web/player/view/myself/detail
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/player/view/{id}/detail
+	?id=integer
+---
+###
+GET http://192.168.0.138:8080/kxy-web/player/viewRandom
+	?limit=integer
+---
+###
+GET http://192.168.0.138:8080/kxy-web/player/viewOnlineRandomExcludeSelf
+	?limit=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/player/create HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+playerName=string
+&prefabId=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/player/createWithInvitation HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+playerName=string
+&prefabId=integer
+&invitationCode=string
+---
+###
+GET http://192.168.0.138:8080/kxy-web/player/count
+	?
+---
+###
+POST http://192.168.0.138:8080/kxy-web/player/updateFc HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+
+
+---
+###
+GET http://192.168.0.138:8080/kxy-web/quest/view/myself
+	?
+---
+###
+GET http://192.168.0.138:8080/kxy-web/quest/view/myself/{questId}
+	?questId=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/quest/action/myself/{questId}/start HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+questId=integer
+---
+###
+POST http://192.168.0.138:8080/kxy-web/quest/action/myself/{questId}/achieveObjective HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+questId=integer
+&objectiveIndex=integer
+&args=string
+
+---
+###
+POST http://192.168.0.138:8080/kxy-web/management/quest/triggerReset HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+resetType=string
+---
+###
+POST http://192.168.0.138:8080/kxy-web/management/quest/tryPickupForAll HTTP/1.1 
+Content-Type: application/x-www-form-urlencoded
+
+questId=integer

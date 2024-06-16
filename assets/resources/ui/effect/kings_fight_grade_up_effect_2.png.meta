@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "31547343-8f7f-47ee-9d0a-65cad1794ad3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1501,
+  "height": 1808,
+  "platformSettings": {},
+  "subMetas": {
+    "kings_fight_grade_up_effect_2": {
+      "ver": "1.0.6",
+      "uuid": "87c645cc-38f9-446e-a433-aa611cf2eeb1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "31547343-8f7f-47ee-9d0a-65cad1794ad3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1499,
+      "height": 1806,
+      "rawWidth": 1501,
+      "rawHeight": 1808,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "3200000" : {
+    "id" : 3200000,
+    "name" : "真·仙石奇缘被邀请者加入游戏",
+    "external" : 1,
+    "description" : "少侠[00ff54]${playerName}[ffffff]接受[00ff54]${inviterName}[ffffff]的邀请加入了真·仙石奇缘，新的传说马上就要诞生了！",
+    "talkDescription" : "少侠[027422]${playerName}[ffffff]接受[027422]${inviterName}[ffffff]的邀请加入了真·仙石奇缘，新的传说马上就要诞生了！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200001" : {
+    "id" : 3200001,
+    "name" : "欢乐大转盘 未鉴定宠物广播",
+    "external" : 1,
+    "description" : "少侠[00ff54]${playerName}[ffffff]竟然在欢乐大转盘转出了[00ff54]未鉴定宠物[ffffff]！瞬间富甲一方！",
+    "talkDescription" : "少侠[027422]${playerName}[ffffff]竟然在欢乐大转盘转出了[027422]未鉴定宠物[ffffff]！瞬间富甲一方！",
+    "goto" : 1,
+    "parameter" : 1,
+    "upperLimit" : 0
+  },
+  "3200002" : {
+    "id" : 3200002,
+    "name" : "欢乐大转盘 未鉴定装备广播",
+    "external" : 1,
+    "description" : "少侠[00ff54]${playerName}[ffffff]竟然在欢乐大转盘转出了[00ff54]未鉴定装备[ffffff]！瞬间富甲一方！",
+    "talkDescription" : "少侠[027422]${playerName}[ffffff]竟然在欢乐大转盘转出了[027422]未鉴定装备[ffffff]！瞬间富甲一方！",
+    "goto" : 1,
+    "parameter" : 1,
+    "upperLimit" : 0
+  },
+  "3200003" : {
+    "id" : 3200003,
+    "name" : "一本万利一轮结束时开奖广播",
+    "external" : 1,
+    "description" : "恭喜[00ff54]${playerName}[ffffff]成功包揽本轮一本万利大奖，总计[00ff54]${topPrize}[ffffff]元宝！瞬间成为顶级富豪！",
+    "talkDescription" : "恭喜[027422]${playerName}[ffffff]成功包揽本轮一本万利大奖，总计[027422]${topPrize}[ffffff]元宝！瞬间成为顶级富豪！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200004" : {
+    "id" : 3200004,
+    "name" : "一本万利新一轮游戏开启广播",
+    "external" : 1,
+    "description" : "新一轮[00ff54]一本万利开始[ffffff]了！早买更划算，更有机会夺得[00ff54]海量元宝大奖[ffffff]，马上买起来！",
+    "talkDescription" : "新一轮[027422]一本万利开始了[ffffff]！早买更划算，更有机会夺得[027422]海量元宝大奖[ffffff]，马上买起来！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200005" : {
+    "id" : 3200005,
+    "name" : "一本万利奖池达到指定值时广播",
+    "external" : 1,
+    "description" : "一本万利总奖金已高达[00ff54]${jackpot}元宝[ffffff]！拭目以待谁能夺得最高奖励！",
+    "talkDescription" : "一本万利总奖金已高达[027422]${jackpot}[ffffff]元宝！拭目以待谁能夺得[027422]最高奖励[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200006" : {
+    "id" : 3200006,
+    "name" : "一本万利最后6小时每小时出现广播",
+    "external" : 1,
+    "description" : "竟然无人来争夺[00ff54]最后的机会[ffffff]，眼看本轮奖池60%的元宝大奖即将落入[00ff54]${playerName}[ffffff]之手！",
+    "talkDescription" : "竟然无人来争夺[027422]最后的机会[ffffff]，眼看本轮奖池60%的元宝大奖即将落入[027422]${playerName}[ffffff]之手！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200007" : {
+    "id" : 3200007,
+    "name" : "一本万利一轮结束时幸运奖广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]人品爆棚！成为一本万利幸运玩家，躺赢[00ff54]${luckyPrize}[ffffff]元宝！",
+    "talkDescription" : "[027422]${playerName}[ffffff]人品爆棚！成为一本万利幸运玩家，躺赢[027422]${luckyPrize}[ffffff]元宝！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200008" : {
+    "id" : 3200008,
+    "name" : "玩家打造出橙色装备的广播",
+    "external" : 1,
+    "description" : "震惊！少侠[00ff54]${playerName}[ffffff]打造出神级装备${equipment:EquipmentName}，上天入地，何人能阻！",
+    "talkDescription" : "震惊！少侠[027422]${playerName}[ffffff]打造出神级装备${equipment:EquipmentName}，上天入地，何人能阻！",
+    "goto" : 1,
+    "parameter" : 4,
+    "upperLimit" : 0
+  },
+  "3200009" : {
+    "id" : 3200009,
+    "name" : "金光塔30层",
+    "external" : 1,
+    "description" : "游侠[00ff54]${playerName}[ffffff]在金光塔中勇闯[00ff54]第三十层[ffffff]，真是胆识过人啊~！",
+    "talkDescription" : "游侠[027422]${playerName}[ffffff]在金光塔挑战中勇闯[027422]第三十层[ffffff]，真是胆识过人啊~！",
+    "goto" : 1,
+    "parameter" : 5,
+    "upperLimit" : 0
+  },
+  "3200010" : {
+    "id" : 3200010,
+    "name" : "金光塔40层",
+    "external" : 1,
+    "description" : "少侠[00ff54]${playerName}[ffffff]在金光塔中成功闯过[00ff54]第四十层[ffffff]！真是令人敬佩哪！",
+    "talkDescription" : "少侠[027422]${playerName}[ffffff]在金光塔中成功闯过[027422]第四十层[ffffff]！真是令人敬佩哪！",
+    "goto" : 1,
+    "parameter" : 5,
+    "upperLimit" : 0
+  },
+  "3200011" : {
+    "id" : 3200011,
+    "name" : "金光塔50层",
+    "external" : 1,
+    "description" : "难以置信！大侠[00ff54]${playerName}[ffffff]在金光塔中成功通关[00ff54]第五十层[ffffff]，傲视群雄！",
+    "talkDescription" : "难以置信！大侠[027422]${playerName}[ffffff]在金光塔中成功通关[027422]第五十层[ffffff]，傲视群雄！",
+    "goto" : 1,
+    "parameter" : 5,
+    "upperLimit" : 0
+  },
+  "3200012" : {
+    "id" : 3200012,
+    "name" : "扭蛋机中抽到橙色品质宠物广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]成功引起传说品质宠物的注意，在扭蛋机中抽得[00ff54]${petName}[ffffff]，令人惊叹！",
+    "talkDescription" : "[027422]${playerName}[ffffff]成功引起传说品质宠物的注意，在扭蛋机中抽得[027422]${petName}[ffffff]，令人惊叹！",
+    "goto" : 1,
+    "parameter" : 6,
+    "upperLimit" : 0
+  },
+  "3200013" : {
+    "id" : 3200013,
+    "name" : "装备强化到7级",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]成功将${equipment:EquipmentName}强化至[00ff54]7级[ffffff]！如虎添翼！",
+    "talkDescription" : "[027422]${playerName}[ffffff]成功将${equipment:EquipmentName}强化至[027422]7级[ffffff]！如虎添翼！",
+    "goto" : 1,
+    "parameter" : 7,
+    "upperLimit" : 0
+  },
+  "3200014" : {
+    "id" : 3200014,
+    "name" : "装备强化到10级",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]简直如遇神助，竟然成功将${equipment:EquipmentName}强化至[00ff54]10级[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]简直如遇神助，竟然成功将${equipment:EquipmentName}强化至[027422]10级[ffffff]！",
+    "goto" : 1,
+    "parameter" : 7,
+    "upperLimit" : 0
+  },
+  "3200015" : {
+    "id" : 3200015,
+    "name" : "金光塔60层",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]历经艰险，突破金光塔[00ff54]第六十层[ffffff]！实乃旷世奇侠啊！",
+    "talkDescription" : "[027422]${playerName}[ffffff]历经艰险，突破金光塔[027422]第六十层[ffffff]！实乃旷世奇侠啊！",
+    "goto" : 1,
+    "parameter" : 5,
+    "upperLimit" : 0
+  },
+  "3200016" : {
+    "id" : 3200016,
+    "name" : "金光塔70层",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]达成金光塔[00ff54]七十层[ffffff]的壮举！纵横四海，无人可敌！",
+    "talkDescription" : "[027422]${playerName}[ffffff]达成金光塔[027422]七十层[ffffff]的壮举！纵横四海，无人可敌！",
+    "goto" : 1,
+    "parameter" : 5,
+    "upperLimit" : 0
+  },
+  "3200017" : {
+    "id" : 3200017,
+    "name" : "三界经商（挂机挖矿）收获大奖的广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]财运亨通，委派[00ff54]${expeditionTeam}[ffffff]通过经商一下子赚到了[00ff54]${amount}${currency}[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]财运亨通，委派[027422]${expeditionTeam}[ffffff]通过经商一下子赚到了[027422]${amount}${currency}[ffffff]！",
+    "goto" : 1,
+    "parameter" : 8,
+    "upperLimit" : 0
+  },
+  "3200018" : {
+    "id" : 3200018,
+    "name" : "挖宝任务非元宝大奖广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]时来运转，竟然用藏宝图挖到了[00ff54]${amount}${currency}[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]时来运转，竟然用藏宝图挖到了[027422]${amount}${currency}[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200019" : {
+    "id" : 3200019,
+    "name" : "成功卖出古董、激活全服福利",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]成功将古董卖给西域商人，稳赚[00ff54]${amount}元宝[ffffff]，大家快来抢大佬发出的全服回馈呀！",
+    "talkDescription" : "[027422]${playerName}[ffffff]成功将古董卖给西域商人，稳赚[027422]${amount}元宝[ffffff]，大家快来抢大佬发出的全服回馈呀！",
+    "goto" : 1,
+    "parameter" : 2,
+    "upperLimit" : 0
+  },
+  "3200020" : {
+    "id" : 3200020,
+    "name" : "抢到回馈的大奖广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]眼疾手快，竟然在西域商人处的全服回馈中抢得[00ff54]100元宝[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]眼疾手快，竟然在西域商人处的全服回馈中抢得[027422]100元宝[ffffff]！",
+    "goto" : 1,
+    "parameter" : 2,
+    "upperLimit" : 0
+  },
+  "3200021" : {
+    "id" : 3200021,
+    "name" : "金光塔80层",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]横扫金光塔[00ff54]八十层[ffffff]！试问三界谁敌手！",
+    "talkDescription" : "[027422]${playerName}[ffffff]横扫金光塔[027422]八十层[ffffff]！试问三界谁敌手！",
+    "goto" : 1,
+    "parameter" : 5,
+    "upperLimit" : 0
+  },
+  "3200022" : {
+    "id" : 3200022,
+    "name" : "锦鲤上线广播",
+    "external" : 1,
+    "description" : "全服专宠的西游锦鲤[00ff54]${playerName}[ffffff]上线啦！大家快来吸一欧气，带来一天的好运气~！",
+    "talkDescription" : "全服专宠的西游锦鲤[027422]${playerName}[ffffff]上线啦！大家快来吸一口欧气，带来一天的好运气~！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 15
+  },
+  "3200023" : {
+    "id" : 3200023,
+    "name" : "拍卖-称号到达一定价格",
+    "external" : 1,
+    "description" : "称号[00ff54]${titleName}[ffffff]已在黑市拍卖中竞拍到[00ff54]${amount}元宝[ffffff]的天价！快来为[00ff54]${playerName}[ffffff]点赞吧！",
+    "talkDescription" : "称号[027422]${titleName}[ffffff]已在黑市拍卖中竞拍到[027422]${amount}元宝[ffffff]的天价！快来为[027422]${playerName}[ffffff]点赞吧！",
+    "goto" : 1,
+    "parameter" : 3,
+    "upperLimit" : 0
+  },
+  "3200024" : {
+    "id" : 3200024,
+    "name" : "拍卖-装备到达一定价格",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]在黑市拍卖中为${equipment:EquipmentName}喊出[00ff54]${amount}元宝[ffffff]的天价！还会有比他更高的竞拍者吗！",
+    "talkDescription" : "[027422]${playerName}[ffffff]在黑市拍卖中为${equipment:EquipmentName}喊出[027422]${amount}元宝[ffffff]的天价！还会有比他更高的竞拍者吗！",
+    "goto" : 1,
+    "parameter" : 3,
+    "upperLimit" : 0
+  },
+  "3200025" : {
+    "id" : 3200025,
+    "name" : "拍卖-宠物到达一定价格",
+    "external" : 1,
+    "description" : "稀世珍宠[00ff54]${petName}[ffffff]已在黑市拍卖中竞到[00ff54]${amount}元宝[ffffff]的天价！出价者[00ff54]${playerName}[ffffff]能否顺利成为它的主人？",
+    "talkDescription" : "稀世珍宠[027422]${petName}[ffffff]已在黑市拍卖中竞到[027422]${amount}元宝[ffffff]的天价！出价者[027422]${playerName}[ffffff]能否顺利成为它的主人？",
+    "goto" : 1,
+    "parameter" : 3,
+    "upperLimit" : 0
+  },
+  "3200026" : {
+    "id" : 3200026,
+    "name" : "拍卖-货币到达一定价格",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]出价[00ff54]${amount}元宝[ffffff]将要拍下[00ff54]1份${currency}[ffffff]！来为TA点赞吧！",
+    "talkDescription" : "[027422]${playerName}[ffffff]出价[027422]${amount}元宝[ffffff]将要拍下1份[027422]${currency}[ffffff]！来为TA点赞吧！",
+    "goto" : 1,
+    "parameter" : 3,
+    "upperLimit" : 0
+  },
+  "3200027" : {
+    "id" : 3200027,
+    "name" : "宠物冲星到7星级",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]家的宠物[00ff54]${petName}[ffffff]不负主人期望，成功冲星到[00ff54]7级[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]家的[027422]${petName}[ffffff]不负主人期望，成功冲星到[027422]7级[ffffff]！",
+    "goto" : 1,
+    "parameter" : 9,
+    "upperLimit" : 0
+  },
+  "3200028" : {
+    "id" : 3200028,
+    "name" : "宠物冲星到10星级",
+    "external" : 1,
+    "description" : "在[00ff54]${playerName}[ffffff]的精心栽培下，宠物[00ff54]${petName}[ffffff]成功冲上[00ff54]10星级[ffffff]！",
+    "talkDescription" : "在[027422]${playerName}[ffffff]的精心栽培下，[027422]${petName}[ffffff]成功冲上[027422]10星级[ffffff]！",
+    "goto" : 1,
+    "parameter" : 9,
+    "upperLimit" : 0
+  },
+  "3200029" : {
+    "id" : 3200029,
+    "name" : "神秘商人抽到大奖",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]在神秘商店中抽到了[00ff54]${amount}${currency}[ffffff]！真是可喜可贺！我也要来！→",
+    "talkDescription" : "[027422]${playerName}[ffffff]在神秘商店中抽到了[027422]${amount}${currency}[ffffff]！真是可喜可贺！我也要来！",
+    "goto" : 1,
+    "parameter" : 10,
+    "upperLimit" : 0
+  },
+  "3200030" : {
+    "id" : 3200030,
+    "name" : "师徒出师",
+    "external" : 1,
+    "description" : "恭喜[00ff54]${studentName}[ffffff]顺利出师！希望TA再接再厉，潜心修习，不忘师父[00ff54]${teacherName}[ffffff]的辛勤教导！",
+    "talkDescription" : "恭喜[027422]${studentName}[ffffff]顺利出师！希望TA再接再厉，潜心修习，不忘师父[027422]${teacherName}[ffffff]的辛勤教导！",
+    "goto" : 1,
+    "parameter" : 11,
+    "upperLimit" : 0
+  },
+  "3200031" : {
+    "id" : 3200031,
+    "name" : "乱斗大会（原擂台）广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]在乱斗大会中达到[00ff54]12胜场[ffffff]！实有斗战胜佛之姿！",
+    "talkDescription" : "[027422]${playerName}[ffffff]在乱斗大会中达到[027422]12胜场[ffffff]！实有斗战胜佛之姿！",
+    "goto" : 1,
+    "parameter" : 12,
+    "upperLimit" : 0
+  },
+  "3200032" : {
+    "id" : 3200032,
+    "name" : "西游摇翻天大奖广播1",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]在西游摇翻天中摇出“[00ff54]师徒四人[ffffff]”组合，赚得[00ff54]125元宝[ffffff]，马上来摇一盘→",
+    "talkDescription" : "[027422]${playerName}[ffffff]在西游摇翻天中摇出“[027422]师徒四人[ffffff]”组合，赚得[027422]125元宝[ffffff]，马上来摇一盘吧！",
+    "goto" : 1,
+    "parameter" : 13,
+    "upperLimit" : 0
+  },
+  "3200033" : {
+    "id" : 3200033,
+    "name" : "金光塔90层",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]横扫金光塔[00ff54]九十层[ffffff]！无敌的感觉真是寂寞啊~",
+    "talkDescription" : "[027422]${playerName}[ffffff]横扫金光塔[027422]九十层[ffffff]！无敌的感觉真是寂寞啊~",
+    "goto" : 1,
+    "parameter" : 5,
+    "upperLimit" : 0
+  },
+  "3200034" : {
+    "id" : 3200034,
+    "name" : "西游摇翻天大奖广播2",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]在西游摇翻天中摇出“[00ff54]四平八稳[ffffff]”组合！一下子赚得[00ff54]200元宝[ffffff]，马上来摇一盘→",
+    "talkDescription" : "[027422]${playerName}[ffffff]在西游摇翻天中摇出“[027422]四平八稳[ffffff]”组合！一下子赚得[027422]200元宝[ffffff]，马上来摇一盘吧！",
+    "goto" : 1,
+    "parameter" : 13,
+    "upperLimit" : 0
+  },
+  "3200035" : {
+    "id" : 3200035,
+    "name" : "西游摇翻天大奖广播3",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]在西游摇翻天中摇出“[00ff54]四大皆空[ffffff]”组合，这就赚到[00ff54]1000元宝[ffffff]了！我也要摇一盘！→",
+    "talkDescription" : "[027422]${playerName}[ffffff]在西游摇翻天中摇出“[027422]四大皆空[ffffff]”组合，这就赚到[027422]1000元宝[ffffff]了！一起来摇一盘吧！",
+    "goto" : 1,
+    "parameter" : 13,
+    "upperLimit" : 0
+  },
+  "3200036" : {
+    "id" : 3200036,
+    "name" : "王者决战【连胜】广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]在王者决战[00ff54]1V1[ffffff]中已经赢得[00ff54]${consecutiveWin}[ffffff]连胜，简直无人能敌了！",
+    "talkDescription" : "[027422]${playerName}[ffffff]在王者决战[027422]1V1[ffffff]中已经赢得[027422]${consecutiveWin}[ffffff]连胜，简直无人能敌了！",
+    "goto" : 1,
+    "parameter" : 14,
+    "upperLimit" : 0
+  },
+  "3200037" : {
+    "id" : 3200037,
+    "name" : "王者决战段位达到【传说王者】广播",
+    "external" : 1,
+    "description" : "经过重重浴血奋战，[00ff54]${playerName}[ffffff]在王者决战[00ff54]1V1[ffffff]中已达到[00ff54]传说王者[ffffff]段位，请接受吾等的膜拜吧！",
+    "talkDescription" : "经过重重浴血奋战，[027422]${playerName}[ffffff]在王者决战[027422]1V1[ffffff]中已达到[027422]传说王者[ffffff]段位，请接受吾等的膜拜吧！",
+    "goto" : 1,
+    "parameter" : 14,
+    "upperLimit" : 0
+  },
+  "3200038" : {
+    "id" : 3200038,
+    "name" : "战力排行榜第一上线广播",
+    "external" : 1,
+    "description" : "快看！全服综合战力评分第一的大侠[00ff54]${playerName}[ffffff]上线了！大家慕名前来膜拜！",
+    "talkDescription" : "快看！全服综合战力评分第一的大侠[027422]${playerName}[ffffff]上线了！大家慕名前来膜拜！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 15
+  },
+  "3200039" : {
+    "id" : 3200039,
+    "name" : "凌霄殿门派第一上线",
+    "external" : 1,
+    "description" : "凌霄殿排行第一的大侠[00ff54]${playerName}[ffffff]上线了！大伙纷纷给大佬递茶~",
+    "talkDescription" : "凌霄殿排行第一的大侠[027422]${playerName}[ffffff]上线了！大伙纷纷给大佬递茶~",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 15
+  },
+  "3200040" : {
+    "id" : 3200040,
+    "name" : "普陀山门派第一上线",
+    "external" : 1,
+    "description" : "普陀山排行第一的大侠[00ff54]${playerName}[ffffff]上线了！大伙纷纷给大佬递茶~",
+    "talkDescription" : "普陀山排行第一的大侠[027422]${playerName}[ffffff]上线了！大伙纷纷给大佬递茶~",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 15
+  },
+  "3200041" : {
+    "id" : 3200041,
+    "name" : "盘丝洞门派第一上线",
+    "external" : 1,
+    "description" : "盘丝洞排行第一的大侠[00ff54]${playerName}[ffffff]上线了！大伙纷纷给大佬递茶~",
+    "talkDescription" : "盘丝洞排行第一的大侠[027422]${playerName}[ffffff]上线了！大伙纷纷给大佬递茶~",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 15
+  },
+  "3200042" : {
+    "id" : 3200042,
+    "name" : "五庄观门派第一上线",
+    "external" : 1,
+    "description" : "五庄观排行第一的大侠[00ff54]${playerName}[ffffff]上线了！大伙纷纷给大佬递茶~",
+    "talkDescription" : "五庄观排行第一的大侠[027422]${playerName}[ffffff]上线了！大伙纷纷给大佬递茶~",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 15
+  },
+  "3200043" : {
+    "id" : 3200043,
+    "name" : "全服等级第一上线广播",
+    "external" : 1,
+    "description" : "全服等级第一的大侠[00ff54]${playerName}[ffffff]上线了！大佬你是我们努力的目标~！！",
+    "talkDescription" : "全服等级第一的大侠[027422]${playerName}[ffffff]上线了！大佬你是我们努力的目标~！！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 15
+  },
+  "3200044" : {
+    "id" : 3200044,
+    "name" : "全服装备评分第一上线广播",
+    "external" : 1,
+    "description" : "是什么闪瞎了我的狗眼？——原来是全服装备评分榜首的大佬[00ff54]${playerName}[ffffff]上线了！",
+    "talkDescription" : "是什么闪瞎了我的狗眼？——原来是全服装备评分榜首的大佬[027422]${playerName}[ffffff]上线了！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 15
+  },
+  "3200045" : {
+    "id" : 3200045,
+    "name" : "锦鲤支线大奖广播 强化保护卡",
+    "external" : 1,
+    "description" : "啊啊啊啊！[00ff54]${playerName}[ffffff]通关锦鲤支线，受到锦鲤祝福，收获了[00ff54]1张强化保护卡[ffffff]！",
+    "talkDescription" : "啊啊啊啊！[027422]${playerName}[ffffff]通关锦鲤支线，受到锦鲤祝福，收获了[027422]1张强化保护卡[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200046" : {
+    "id" : 3200046,
+    "name" : "锦鲤支线大奖广播 未鉴定宠物",
+    "external" : 1,
+    "description" : "啊啊啊啊！大侠[00ff54]${playerName}[ffffff]通关锦鲤支线，受到锦鲤祝福，收获了[00ff54]1只未鉴定宠物[ffffff]！",
+    "talkDescription" : "啊啊啊啊！大侠[027422]${playerName}[ffffff]通关锦鲤支线，受到锦鲤祝福，收获了[027422]1只未鉴定宠物[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200047" : {
+    "id" : 3200047,
+    "name" : "改名卡广播",
+    "external" : 1,
+    "description" : "游侠[00ff54]${playerName}[ffffff]使用改名卡，将昵称改为[00ff54]${newPlayerName}[ffffff]。",
+    "talkDescription" : "游侠[027422]${playerName}[ffffff]使用改名卡，将昵称改为[027422]${newPlayerName}[ffffff]。",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200048" : {
+    "id" : 3200048,
+    "name" : "矿山探宝（翻翻乐）广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]家里有矿！还在矿山探宝中成功挖掘出稀世宝藏[00ff54]${amount}${currency}[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]家里有矿！还在矿山探宝中成功挖掘出稀世宝藏[027422]${amount}${currency}[ffffff]！",
+    "goto" : 1,
+    "parameter" : 15,
+    "upperLimit" : 0
+  },
+  "3200049" : {
+    "id" : 3200049,
+    "name" : "神兽兑换广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]获得神兽的认可，成为[00ff54]${petName}[ffffff]之主，傲视天下！",
+    "talkDescription" : "[027422]${playerName}[ffffff]获得神兽的认可，成为[027422]${petName}[ffffff]之主，傲视天下！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200050" : {
+    "id" : 3200050,
+    "name" : "周末福袋大奖广播 神兽精魄",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]打开周末福袋获得[00ff54]神兽精魄[ffffff]，真是周末好运气呀~~！",
+    "talkDescription" : "[027422]${playerName}[ffffff]打开周末福袋获得[027422]神兽精魄[ffffff]，真是周末好运气呀~~！",
+    "goto" : 1,
+    "parameter" : 16,
+    "upperLimit" : 0
+  },
+  "3200051" : {
+    "id" : 3200051,
+    "name" : "金光塔一百层",
+    "external" : 1,
+    "description" : "玉皇大帝都震惊了！！奇人[00ff54]${playerName}[ffffff]涤荡金光塔[00ff54]一百层[ffffff]！此人莫不是天将下凡？",
+    "talkDescription" : "玉皇大帝都震惊了！！奇人[027422]${playerName}[ffffff]涤荡金光塔[027422]一百层[ffffff]！此人莫不是天将下凡？",
+    "goto" : 1,
+    "parameter" : 5,
+    "upperLimit" : 0
+  },
+  "3200052" : {
+    "id" : 3200052,
+    "name" : "周末福袋大奖广播 元宝",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]打开周末福袋获得[00ff54]1000元宝[ffffff]，真是周末好运气呀~~！",
+    "talkDescription" : "[027422]${playerName}[ffffff]打开周末福袋获得[027422]1000元宝[ffffff]，真是周末好运气呀~~！",
+    "goto" : 1,
+    "parameter" : 16,
+    "upperLimit" : 0
+  },
+  "3200053" : {
+    "id" : 3200053,
+    "name" : "周末福袋大奖广播 强化保护卡",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]打开周末福袋获得[00ff54]强化保护卡[ffffff]，真是周末好运气呀~~！",
+    "talkDescription" : "[027422]${playerName}[ffffff]打开周末福袋获得[027422]强化保护卡[ffffff]，真是周末好运气呀~~！",
+    "goto" : 1,
+    "parameter" : 16,
+    "upperLimit" : 0
+  },
+  "3200054" : {
+    "id" : 3200054,
+    "name" : "周末佳肴发出邀请",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]向各路大侠发出周末佳肴邀请，大家快来共享周末大餐吧~",
+    "talkDescription" : "[027422]${playerName}[ffffff]向各路大侠发出周末佳肴邀请，大家快来共享周末大餐吧~",
+    "goto" : 1,
+    "parameter" : 17,
+    "upperLimit" : 0
+  },
+  "3200055" : {
+    "id" : 3200055,
+    "name" : "周末佳肴礼包大奖",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]周末行好运，在周末佳肴礼包中喜获[00ff54]未鉴定装备[ffffff]，真是好兆头啊~",
+    "talkDescription" : "[027422]${playerName}[ffffff]周末行好运，在周末佳肴礼包中喜获[027422]未鉴定装备[ffffff]，真是好兆头啊~",
+    "goto" : 1,
+    "parameter" : 18,
+    "upperLimit" : 0
+  },
+  "3200056" : {
+    "id" : 3200056,
+    "name" : "周末赴宴礼包大奖",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]好运跨过周，在周末赴宴礼包中喜获[00ff54]未鉴定宠物[ffffff]，真是好福气啊~",
+    "talkDescription" : "[027422]${playerName}[ffffff]好运跨过周，在周末赴宴礼包中喜获[027422]未鉴定宠物[ffffff]，真是好福气啊~",
+    "goto" : 1,
+    "parameter" : 18,
+    "upperLimit" : 0
+  },
+  "3200057" : {
+    "id" : 3200057,
+    "name" : "欢乐筒筒广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]如有先知指点，在本轮欢乐筒筒中赢得[00ff54]${amount}元宝[ffffff]，收获十倍的快乐~！",
+    "talkDescription" : "[027422]${playerName}[ffffff]如有先知指点，在本轮欢乐筒筒中赢得[027422]${amount}元宝[ffffff]，收获十倍的快乐~！",
+    "goto" : 1,
+    "parameter" : 19,
+    "upperLimit" : 0
+  },
+  "3200058" : {
+    "id" : 3200058,
+    "name" : "欢乐大转盘 强化保护卡广播",
+    "external" : 1,
+    "description" : "少侠[00ff54]${playerName}[ffffff]红光满面，在欢乐大转盘中赚得了[00ff54]强化保护卡[ffffff]！",
+    "talkDescription" : "少侠[027422]${playerName}[ffffff]红光满面，在欢乐大转盘中赚得了[027422]强化保护卡[ffffff]！",
+    "goto" : 1,
+    "parameter" : 1,
+    "upperLimit" : 0
+  },
+  "3200059" : {
+    "id" : 3200059,
+    "name" : "挖宝任务元宝大奖广播",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]竟然成为了狗托，用藏宝图挖到了[00ff54]${amount}${currency}[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]竟然成为了狗托，用藏宝图挖到了[027422]${amount}${currency}[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200060" : {
+    "id" : 3200060,
+    "name" : "原石盒·般 大奖",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]鸿运当头，竟然在原石盒·般中切出一块[00ff54]翡翠原石·上[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]鸿运当头，竟然在原石盒·般中切出一块[027422]翡翠原石·上[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200061" : {
+    "id" : 3200061,
+    "name" : "原石盒·上 大奖",
+    "external" : 1,
+    "description" : "[00ff54]${playerName}[ffffff]欧皇附体，竟然在原石盒·上中切出一块[00ff54]翡翠原石·特[ffffff]！",
+    "talkDescription" : "[027422]${playerName}[ffffff]欧皇附体，竟然在原石盒·上中切出一块[027422]翡翠原石·特[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200062" : {
+    "id" : 3200062,
+    "name" : "原石盒·特 大奖",
+    "external" : 1,
+    "description" : "可怕！[00ff54]${playerName}[ffffff]成为了狗托，在原石盒·特中切出一块[00ff54]翡翠原石·凤[ffffff]！",
+    "talkDescription" : "可怕！[027422]${playerName}[ffffff]成为了狗托，在原石盒·特中切出一块[027422]翡翠原石·凤[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200063" : {
+    "id" : 3200063,
+    "name" : "钓到橙色鱼类",
+    "external" : 1,
+    "description" : "绝不空军！[00ff54]${playerName}[ffffff]钓到了一条重[00ff54]${gram}两[ffffff]的[00ff54]${fishName}[ffffff]，怒赚[00ff54]${currencyAmount}[ffffff]钓鱼点！",
+    "talkDescription" : "绝不空军！[027422]${playerName}[ffffff]钓到了一条重[027422]${gram}两[ffffff]的[027422]${fishName}[ffffff]，怒赚[027422]${currencyAmount}[ffffff]钓鱼点！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200064" : {
+    "id" : 3200064,
+    "name" : "钓到稀有鱼类",
+    "external" : 1,
+    "description" : "异兽现世！[00ff54]${playerName}[ffffff]钓到了一条重[00ff54]${gram}两[ffffff]的[00ff54]${fishName}[ffffff]，怒赚[00ff54]${currencyAmount}[ffffff]元宝！",
+    "talkDescription" : "异兽现世！[027422]${playerName}[ffffff]钓到了一条重[027422]${gram}两[ffffff]的[027422]${fishName}[ffffff]，怒赚[027422]${currencyAmount}[ffffff]元宝！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200065" : {
+    "id" : 3200065,
+    "name" : "红包六六六连续未成为福星",
+    "external" : 1,
+    "description" : "太可惜了= = [00ff54]${playerName}[ffffff]居然连续[00ff54]${combo}次[ffffff]没成为红包六六六的福星，运气还需要多加强鸭！",
+    "talkDescription" : "太可惜了= = [027422]${playerName}[ffffff]居然连续[027422]${combo}次[ffffff]没成为红包六六六的福星，运气还需要多加强鸭！",
+    "goto" : 1,
+    "parameter" : 20,
+    "upperLimit" : 0
+  },
+  "3200066" : {
+    "id" : 3200066,
+    "name" : "长乐聚宝盆获得高倍率宝气",
+    "external" : 1,
+    "description" : "聚宝盆显灵！[00ff54]${playerName}[ffffff]投入长乐贡牌时竟然超级加倍了[00ff54]${factor}倍[ffffff]！聚宝盆宝气增加了[00ff54]${contribution}点[ffffff]！",
+    "talkDescription" : "聚宝盆显灵！[027422]${playerName}[ffffff]投入长乐贡牌时竟然超级加倍了[027422]${factor}倍[ffffff]！聚宝盆宝气增加了[027422]${contribution}点[ffffff]！",
+    "goto" : 1,
+    "parameter" : 21,
+    "upperLimit" : 0
+  },
+  "3200067" : {
+    "id" : 3200067,
+    "name" : "扭蛋礼盒 大奖",
+    "external" : 1,
+    "description" : "喜从天降！[00ff54]${playerName}[ffffff]成为了狗托，打开扭蛋礼盒时发现了数个[00ff54]神兽精魄[ffffff]！",
+    "talkDescription" : "喜从天降！[027422]${playerName}[ffffff]成为了狗托，打开扭蛋礼盒时发现了数个[027422]神兽精魄[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200068" : {
+    "id" : 3200068,
+    "name" : "欢乐大转盘 长乐贡牌广播",
+    "external" : 1,
+    "description" : "少侠[00ff54]${playerName}[ffffff]红光满面，在欢乐大转盘中赚得了[00ff54]长乐贡牌[ffffff]！",
+    "talkDescription" : "少侠[027422]${playerName}[ffffff]红光满面，在欢乐大转盘中赚得了[027422]长乐贡牌[ffffff]！",
+    "goto" : 1,
+    "parameter" : 1,
+    "upperLimit" : 0
+  },
+  "3200069" : {
+    "id" : 3200069,
+    "name" : "装备附魂提升至10级或以上",
+    "external" : 1,
+    "description" : "毁天灭地！[00ff54]${playerName}[ffffff]成功将${equipment:EquipmentName}附魂至[00ff54]${soulLevel}级[ffffff]！",
+    "talkDescription" : "毁天灭地！[027422]${playerName}[ffffff]成功将${equipment:EquipmentName}附魂至[027422]${soulLevel}级[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200070" : {
+    "id" : 3200070,
+    "name" : "装备附魂出现三同属性",
+    "external" : 1,
+    "description" : "三同属性！[00ff54]${playerName}[ffffff]在对${equipment:EquipmentName}附魂时竟然出现三条[00ff54]${soulName}[ffffff]！",
+    "talkDescription" : "三同属性！[027422]${playerName}[ffffff]在对${equipment:EquipmentName}附魂时竟然出现三条[027422]${soulName}[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200071" : {
+    "id" : 3200071,
+    "name" : "装备附魂出现三橙属性",
+    "external" : 1,
+    "description" : "三橙之力！[00ff54]${playerName}[ffffff]在对${equipment:EquipmentName}附魂时竟然全部出现[00ff54]传说级别词条[ffffff]！",
+    "talkDescription" : "三橙之力！[027422]${playerName}[ffffff]在对${equipment:EquipmentName}附魂时竟然全部出现[027422]传说级别词条[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200072" : {
+    "id" : 3200072,
+    "name" : "宠物附魂提升至10级或以上",
+    "external" : 1,
+    "description" : "毁天灭地！[00ff54]${playerName}[ffffff]成功将[00ff54]${petName}[ffffff]附魂至[00ff54]${soulLevel}级[ffffff]！",
+    "talkDescription" : "毁天灭地！[027422]${playerName}[ffffff]成功将[027422]${petName}[ffffff]附魂至[027422]${soulLevel}级[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3200073" : {
+    "id" : 3200073,
+    "name" : "宠物附魂出现六橙属性",
+    "external" : 1,
+    "description" : "六橙之力！[00ff54]${playerName}[ffffff]在对[00ff54]${petName}[ffffff]附魂时竟然全部出现[00ff54]传说级别词条[ffffff]！",
+    "talkDescription" : "六橙之力！[027422]${playerName}[ffffff]在对[027422]${petName}[ffffff]附魂时竟然全部出现[027422]传说级别词条[ffffff]！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3290001" : {
+    "id" : 3290001,
+    "name" : "宝图界面广播",
+    "external" : 0,
+    "description" : "恭喜${playerName}挖宝获得${amount}${currency}！",
+    "talkDescription" : "恭喜${playerName}挖宝获得${amount}${currency}！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3290002" : {
+    "id" : 3290002,
+    "name" : "西域商人界面广播",
+    "external" : 0,
+    "description" : "${playerName}出售古董获得了${amount}元宝，真是赚大发了！",
+    "talkDescription" : "${playerName}出售古董获得了${amount}元宝，真是赚大发了！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3290003" : {
+    "id" : 3290003,
+    "name" : "西游摇翻天界面广播",
+    "external" : 0,
+    "description" : "恭喜${playerName}摇出稀世组合${groupName}！",
+    "talkDescription" : "恭喜${playerName}摇出稀世组合${groupName}！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3290004" : {
+    "id" : 3290004,
+    "name" : "矿山探宝（翻翻乐）广播",
+    "external" : 0,
+    "description" : "恭喜${playerName}挖出稀世宝藏${amount}${currency}！",
+    "talkDescription" : "恭喜${playerName}挖出稀世宝藏${amount}${currency}！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  },
+  "3290005" : {
+    "id" : 3290005,
+    "name" : "欢乐筒筒界面广播",
+    "external" : 0,
+    "description" : "恭喜${playerName}赢得${amount}元宝！",
+    "talkDescription" : "恭喜${playerName}赢得${amount}元宝！",
+    "goto" : 0,
+    "parameter" : 0,
+    "upperLimit" : 0
+  }
+}

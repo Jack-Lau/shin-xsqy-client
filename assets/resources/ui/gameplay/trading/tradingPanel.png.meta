@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c8272560-6214-4d0c-9587-de4e917acd57",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 806,
+  "height": 1398,
+  "platformSettings": {},
+  "subMetas": {
+    "tradingPanel": {
+      "ver": "1.0.6",
+      "uuid": "40635258-e4d3-4db4-96a7-e2f930888353",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c8272560-6214-4d0c-9587-de4e917acd57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 805,
+      "height": 1394,
+      "rawWidth": 806,
+      "rawHeight": 1398,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

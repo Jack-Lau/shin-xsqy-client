@@ -1,0 +1,37 @@
+{
+  "1" : {
+    "id" : 1,
+    "apprenticeproportion" : 0.024,
+    "masterProportion" : 0.05600000000000001
+  },
+  "2" : {
+    "id" : 2,
+    "apprenticeproportion" : 0.024,
+    "masterProportion" : 0.05600000000000001
+  },
+  "3" : {
+    "id" : 3,
+    "apprenticeproportion" : 0.024,
+    "masterProportion" : 0.05600000000000001
+  },
+  "4" : {
+    "id" : 4,
+    "apprenticeproportion" : 0.024,
+    "masterProportion" : 0.05600000000000001
+  },
+  "5" : {
+    "id" : 5,
+    "apprenticeproportion" : 0.024,
+    "masterProportion" : 0.05600000000000001
+  },
+  "6" : {
+    "id" : 6,
+    "apprenticeproportion" : 0.024,
+    "masterProportion" : 0.05600000000000001
+  },
+  "7" : {
+    "id" : 7,
+    "apprenticeproportion" : 0.036,
+    "masterProportion" : 0.08399999999999999
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "4430001" : {
+    "id" : 4430001,
+    "name" : "综合战力榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 1,
+    "reset" : 0,
+    "awardModel" : 44390001,
+    "mail" : 30
+  },
+  "4430002" : {
+    "id" : 4430002,
+    "name" : "凌霄战力榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 1,
+    "reset" : 0,
+    "awardModel" : 44390003,
+    "mail" : 31
+  },
+  "4430003" : {
+    "id" : 4430003,
+    "name" : "普陀战力榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 1,
+    "reset" : 0,
+    "awardModel" : 44390003,
+    "mail" : 32
+  },
+  "4430004" : {
+    "id" : 4430004,
+    "name" : "盘丝战力榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 1,
+    "reset" : 0,
+    "awardModel" : 44390003,
+    "mail" : 33
+  },
+  "4430005" : {
+    "id" : 4430005,
+    "name" : "五庄战力榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 1,
+    "reset" : 0,
+    "awardModel" : 44390003,
+    "mail" : 34
+  },
+  "4430006" : {
+    "id" : 4430006,
+    "name" : "等级战力榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 1,
+    "reset" : 0,
+    "awardModel" : 44390003,
+    "mail" : 35
+  },
+  "4430007" : {
+    "id" : 4430007,
+    "name" : "宠物战力榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 1,
+    "reset" : 0,
+    "awardModel" : 44390003,
+    "mail" : 36
+  },
+  "4430008" : {
+    "id" : 4430008,
+    "name" : "装备战力榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 1,
+    "reset" : 0,
+    "awardModel" : 44390003,
+    "mail" : 37
+  },
+  "4430009" : {
+    "id" : 4430009,
+    "name" : "王者对决1V1榜",
+    "quantityRestriction" : 100,
+    "triggerPoint" : 3,
+    "reset" : 1,
+    "awardModel" : 44390002,
+    "mail" : 53
+  }
+}

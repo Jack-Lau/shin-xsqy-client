@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "b4db08f5-bd25-4c62-b93b-6261df24e9a1",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "faed02f1-b53d-4513-b410-46230f488510",
+  "size": {
+    "width": 150,
+    "height": 175
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "来生决2.png": {
+      "ver": "1.0.6",
+      "uuid": "24e61651-c678-4bfe-b11c-6a3234a4cff7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "faed02f1-b53d-4513-b410-46230f488510",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8,
+      "offsetY": -32,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 148,
+      "height": 173,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

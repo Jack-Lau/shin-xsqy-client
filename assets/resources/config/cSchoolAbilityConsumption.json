@@ -1,0 +1,1007 @@
+{
+  "0" : {
+    "id" : 0,
+    "contribution" : 0,
+    "totalContribution" : 0
+  },
+  "1" : {
+    "id" : 1,
+    "contribution" : 1,
+    "totalContribution" : 1
+  },
+  "2" : {
+    "id" : 2,
+    "contribution" : 2,
+    "totalContribution" : 3
+  },
+  "3" : {
+    "id" : 3,
+    "contribution" : 3,
+    "totalContribution" : 6
+  },
+  "4" : {
+    "id" : 4,
+    "contribution" : 5,
+    "totalContribution" : 11
+  },
+  "5" : {
+    "id" : 5,
+    "contribution" : 7,
+    "totalContribution" : 18
+  },
+  "6" : {
+    "id" : 6,
+    "contribution" : 9,
+    "totalContribution" : 27
+  },
+  "7" : {
+    "id" : 7,
+    "contribution" : 12,
+    "totalContribution" : 39
+  },
+  "8" : {
+    "id" : 8,
+    "contribution" : 15,
+    "totalContribution" : 54
+  },
+  "9" : {
+    "id" : 9,
+    "contribution" : 19,
+    "totalContribution" : 73
+  },
+  "10" : {
+    "id" : 10,
+    "contribution" : 24,
+    "totalContribution" : 97
+  },
+  "11" : {
+    "id" : 11,
+    "contribution" : 29,
+    "totalContribution" : 126
+  },
+  "12" : {
+    "id" : 12,
+    "contribution" : 36,
+    "totalContribution" : 162
+  },
+  "13" : {
+    "id" : 13,
+    "contribution" : 44,
+    "totalContribution" : 206
+  },
+  "14" : {
+    "id" : 14,
+    "contribution" : 54,
+    "totalContribution" : 260
+  },
+  "15" : {
+    "id" : 15,
+    "contribution" : 68,
+    "totalContribution" : 328
+  },
+  "16" : {
+    "id" : 16,
+    "contribution" : 86,
+    "totalContribution" : 414
+  },
+  "17" : {
+    "id" : 17,
+    "contribution" : 105,
+    "totalContribution" : 519
+  },
+  "18" : {
+    "id" : 18,
+    "contribution" : 125,
+    "totalContribution" : 644
+  },
+  "19" : {
+    "id" : 19,
+    "contribution" : 145,
+    "totalContribution" : 789
+  },
+  "20" : {
+    "id" : 20,
+    "contribution" : 165,
+    "totalContribution" : 954
+  },
+  "21" : {
+    "id" : 21,
+    "contribution" : 185,
+    "totalContribution" : 1139
+  },
+  "22" : {
+    "id" : 22,
+    "contribution" : 205,
+    "totalContribution" : 1344
+  },
+  "23" : {
+    "id" : 23,
+    "contribution" : 226,
+    "totalContribution" : 1570
+  },
+  "24" : {
+    "id" : 24,
+    "contribution" : 247,
+    "totalContribution" : 1817
+  },
+  "25" : {
+    "id" : 25,
+    "contribution" : 269,
+    "totalContribution" : 2086
+  },
+  "26" : {
+    "id" : 26,
+    "contribution" : 291,
+    "totalContribution" : 2377
+  },
+  "27" : {
+    "id" : 27,
+    "contribution" : 313,
+    "totalContribution" : 2690
+  },
+  "28" : {
+    "id" : 28,
+    "contribution" : 335,
+    "totalContribution" : 3025
+  },
+  "29" : {
+    "id" : 29,
+    "contribution" : 357,
+    "totalContribution" : 3382
+  },
+  "30" : {
+    "id" : 30,
+    "contribution" : 379,
+    "totalContribution" : 3761
+  },
+  "31" : {
+    "id" : 31,
+    "contribution" : 417,
+    "totalContribution" : 4178
+  },
+  "32" : {
+    "id" : 32,
+    "contribution" : 468,
+    "totalContribution" : 4646
+  },
+  "33" : {
+    "id" : 33,
+    "contribution" : 503,
+    "totalContribution" : 5149
+  },
+  "34" : {
+    "id" : 34,
+    "contribution" : 571,
+    "totalContribution" : 5720
+  },
+  "35" : {
+    "id" : 35,
+    "contribution" : 640,
+    "totalContribution" : 6360
+  },
+  "36" : {
+    "id" : 36,
+    "contribution" : 693,
+    "totalContribution" : 7053
+  },
+  "37" : {
+    "id" : 37,
+    "contribution" : 763,
+    "totalContribution" : 7816
+  },
+  "38" : {
+    "id" : 38,
+    "contribution" : 850,
+    "totalContribution" : 8666
+  },
+  "39" : {
+    "id" : 39,
+    "contribution" : 921,
+    "totalContribution" : 9587
+  },
+  "40" : {
+    "id" : 40,
+    "contribution" : 1027,
+    "totalContribution" : 10614
+  },
+  "41" : {
+    "id" : 41,
+    "contribution" : 1099,
+    "totalContribution" : 11713
+  },
+  "42" : {
+    "id" : 42,
+    "contribution" : 1206,
+    "totalContribution" : 12919
+  },
+  "43" : {
+    "id" : 43,
+    "contribution" : 1331,
+    "totalContribution" : 14250
+  },
+  "44" : {
+    "id" : 44,
+    "contribution" : 1440,
+    "totalContribution" : 15690
+  },
+  "45" : {
+    "id" : 45,
+    "contribution" : 1705,
+    "totalContribution" : 17395
+  },
+  "46" : {
+    "id" : 46,
+    "contribution" : 1850,
+    "totalContribution" : 19245
+  },
+  "47" : {
+    "id" : 47,
+    "contribution" : 1997,
+    "totalContribution" : 21242
+  },
+  "48" : {
+    "id" : 48,
+    "contribution" : 2162,
+    "totalContribution" : 23404
+  },
+  "49" : {
+    "id" : 49,
+    "contribution" : 2329,
+    "totalContribution" : 25733
+  },
+  "50" : {
+    "id" : 50,
+    "contribution" : 2514,
+    "totalContribution" : 28247
+  },
+  "51" : {
+    "id" : 51,
+    "contribution" : 2701,
+    "totalContribution" : 30948
+  },
+  "52" : {
+    "id" : 52,
+    "contribution" : 2907,
+    "totalContribution" : 33855
+  },
+  "53" : {
+    "id" : 53,
+    "contribution" : 3132,
+    "totalContribution" : 36987
+  },
+  "54" : {
+    "id" : 54,
+    "contribution" : 3359,
+    "totalContribution" : 40346
+  },
+  "55" : {
+    "id" : 55,
+    "contribution" : 3606,
+    "totalContribution" : 43952
+  },
+  "56" : {
+    "id" : 56,
+    "contribution" : 3854,
+    "totalContribution" : 47806
+  },
+  "57" : {
+    "id" : 57,
+    "contribution" : 4122,
+    "totalContribution" : 51928
+  },
+  "58" : {
+    "id" : 58,
+    "contribution" : 4392,
+    "totalContribution" : 56320
+  },
+  "59" : {
+    "id" : 59,
+    "contribution" : 4700,
+    "totalContribution" : 61020
+  },
+  "60" : {
+    "id" : 60,
+    "contribution" : 290057,
+    "totalContribution" : 351077
+  },
+  "61" : {
+    "id" : 61,
+    "contribution" : 339174,
+    "totalContribution" : 690251
+  },
+  "62" : {
+    "id" : 62,
+    "contribution" : 378737,
+    "totalContribution" : 1068988
+  },
+  "63" : {
+    "id" : 63,
+    "contribution" : 422579,
+    "totalContribution" : 1491567
+  },
+  "64" : {
+    "id" : 64,
+    "contribution" : 472383,
+    "totalContribution" : 1963950
+  },
+  "65" : {
+    "id" : 65,
+    "contribution" : 525867,
+    "totalContribution" : 2489817
+  },
+  "66" : {
+    "id" : 66,
+    "contribution" : 583206,
+    "totalContribution" : 3073023
+  },
+  "67" : {
+    "id" : 67,
+    "contribution" : 646124,
+    "totalContribution" : 3719147
+  },
+  "68" : {
+    "id" : 68,
+    "contribution" : 716815,
+    "totalContribution" : 4435962
+  },
+  "69" : {
+    "id" : 69,
+    "contribution" : 794147,
+    "totalContribution" : 5230109
+  },
+  "70" : {
+    "id" : 70,
+    "contribution" : 876708,
+    "totalContribution" : 6106817
+  },
+  "71" : {
+    "id" : 71,
+    "contribution" : 968711,
+    "totalContribution" : 7075528
+  },
+  "72" : {
+    "id" : 72,
+    "contribution" : 1066742,
+    "totalContribution" : 8142270
+  },
+  "73" : {
+    "id" : 73,
+    "contribution" : 1173275,
+    "totalContribution" : 9315545
+  },
+  "74" : {
+    "id" : 74,
+    "contribution" : 1291043,
+    "totalContribution" : 10606588
+  },
+  "75" : {
+    "id" : 75,
+    "contribution" : 1418705,
+    "totalContribution" : 12025293
+  },
+  "76" : {
+    "id" : 76,
+    "contribution" : 1554351,
+    "totalContribution" : 13579644
+  },
+  "77" : {
+    "id" : 77,
+    "contribution" : 1703259,
+    "totalContribution" : 15282903
+  },
+  "78" : {
+    "id" : 78,
+    "contribution" : 1863904,
+    "totalContribution" : 17146807
+  },
+  "79" : {
+    "id" : 79,
+    "contribution" : 2039772,
+    "totalContribution" : 19186579
+  },
+  "80" : {
+    "id" : 80,
+    "contribution" : 2226176,
+    "totalContribution" : 21412755
+  },
+  "81" : {
+    "id" : 81,
+    "contribution" : 2426559,
+    "totalContribution" : 23839314
+  },
+  "82" : {
+    "id" : 82,
+    "contribution" : 2644833,
+    "totalContribution" : 26484147
+  },
+  "83" : {
+    "id" : 83,
+    "contribution" : 2881969,
+    "totalContribution" : 29366116
+  },
+  "84" : {
+    "id" : 84,
+    "contribution" : 3132525,
+    "totalContribution" : 32498641
+  },
+  "85" : {
+    "id" : 85,
+    "contribution" : 3404358,
+    "totalContribution" : 35902999
+  },
+  "86" : {
+    "id" : 86,
+    "contribution" : 3694758,
+    "totalContribution" : 39597757
+  },
+  "87" : {
+    "id" : 87,
+    "contribution" : 4012352,
+    "totalContribution" : 43610109
+  },
+  "88" : {
+    "id" : 88,
+    "contribution" : 4347401,
+    "totalContribution" : 47957510
+  },
+  "89" : {
+    "id" : 89,
+    "contribution" : 4706574,
+    "totalContribution" : 52664084
+  },
+  "90" : {
+    "id" : 90,
+    "contribution" : 5091752,
+    "totalContribution" : 57755836
+  },
+  "91" : {
+    "id" : 91,
+    "contribution" : 5501929,
+    "totalContribution" : 63257765
+  },
+  "92" : {
+    "id" : 92,
+    "contribution" : 5941389,
+    "totalContribution" : 69199154
+  },
+  "93" : {
+    "id" : 93,
+    "contribution" : 6405669,
+    "totalContribution" : 75604823
+  },
+  "94" : {
+    "id" : 94,
+    "contribution" : 6895271,
+    "totalContribution" : 82500094
+  },
+  "95" : {
+    "id" : 95,
+    "contribution" : 7411639,
+    "totalContribution" : 89911733
+  },
+  "96" : {
+    "id" : 96,
+    "contribution" : 7955040,
+    "totalContribution" : 97866773
+  },
+  "97" : {
+    "id" : 97,
+    "contribution" : 8527494,
+    "totalContribution" : 106394267
+  },
+  "98" : {
+    "id" : 98,
+    "contribution" : 9132520,
+    "totalContribution" : 115526787
+  },
+  "99" : {
+    "id" : 99,
+    "contribution" : 9766198,
+    "totalContribution" : 125292985
+  },
+  "100" : {
+    "id" : 100,
+    "contribution" : 10435714,
+    "totalContribution" : 135728699
+  },
+  "101" : {
+    "id" : 101,
+    "contribution" : 11152566,
+    "totalContribution" : 146881265
+  },
+  "102" : {
+    "id" : 102,
+    "contribution" : 11914940,
+    "totalContribution" : 158796205
+  },
+  "103" : {
+    "id" : 103,
+    "contribution" : 12724962,
+    "totalContribution" : 171521167
+  },
+  "104" : {
+    "id" : 104,
+    "contribution" : 13584821,
+    "totalContribution" : 185105988
+  },
+  "105" : {
+    "id" : 105,
+    "contribution" : 14496772,
+    "totalContribution" : 199602760
+  },
+  "106" : {
+    "id" : 106,
+    "contribution" : 15403580,
+    "totalContribution" : 215006340
+  },
+  "107" : {
+    "id" : 107,
+    "contribution" : 16363774,
+    "totalContribution" : 231370114
+  },
+  "108" : {
+    "id" : 108,
+    "contribution" : 17361710,
+    "totalContribution" : 248731824
+  },
+  "109" : {
+    "id" : 109,
+    "contribution" : 18398291,
+    "totalContribution" : 267130115
+  },
+  "110" : {
+    "id" : 110,
+    "contribution" : 19474431,
+    "totalContribution" : 286604546
+  },
+  "111" : {
+    "id" : 111,
+    "contribution" : 20591052,
+    "totalContribution" : 307195598
+  },
+  "112" : {
+    "id" : 112,
+    "contribution" : 21749088,
+    "totalContribution" : 328944686
+  },
+  "113" : {
+    "id" : 113,
+    "contribution" : 22949482,
+    "totalContribution" : 351894168
+  },
+  "114" : {
+    "id" : 114,
+    "contribution" : 24193190,
+    "totalContribution" : 376087358
+  },
+  "115" : {
+    "id" : 115,
+    "contribution" : 25481174,
+    "totalContribution" : 401568532
+  },
+  "116" : {
+    "id" : 116,
+    "contribution" : 26814409,
+    "totalContribution" : 428382941
+  },
+  "117" : {
+    "id" : 117,
+    "contribution" : 28193880,
+    "totalContribution" : 456576821
+  },
+  "118" : {
+    "id" : 118,
+    "contribution" : 29620580,
+    "totalContribution" : 486197401
+  },
+  "119" : {
+    "id" : 119,
+    "contribution" : 31095516,
+    "totalContribution" : 517292917
+  },
+  "120" : {
+    "id" : 120,
+    "contribution" : 32619702,
+    "totalContribution" : 549912619
+  },
+  "121" : {
+    "id" : 121,
+    "contribution" : 34194164,
+    "totalContribution" : 584106783
+  },
+  "122" : {
+    "id" : 122,
+    "contribution" : 35819936,
+    "totalContribution" : 619926719
+  },
+  "123" : {
+    "id" : 123,
+    "contribution" : 37498065,
+    "totalContribution" : 657424784
+  },
+  "124" : {
+    "id" : 124,
+    "contribution" : 39229605,
+    "totalContribution" : 696654389
+  },
+  "125" : {
+    "id" : 125,
+    "contribution" : 41015625,
+    "totalContribution" : 737670014
+  },
+  "126" : {
+    "id" : 126,
+    "contribution" : 42857198,
+    "totalContribution" : 780527212
+  },
+  "127" : {
+    "id" : 127,
+    "contribution" : 44755412,
+    "totalContribution" : 825282624
+  },
+  "128" : {
+    "id" : 128,
+    "contribution" : 46711364,
+    "totalContribution" : 871993988
+  },
+  "129" : {
+    "id" : 129,
+    "contribution" : 48726160,
+    "totalContribution" : 920720148
+  },
+  "130" : {
+    "id" : 130,
+    "contribution" : 50800917,
+    "totalContribution" : 971521065
+  },
+  "131" : {
+    "id" : 131,
+    "contribution" : 52936762,
+    "totalContribution" : 1024457827
+  },
+  "132" : {
+    "id" : 132,
+    "contribution" : 55134832,
+    "totalContribution" : 1079592659
+  },
+  "133" : {
+    "id" : 133,
+    "contribution" : 57396276,
+    "totalContribution" : 1136988935
+  },
+  "134" : {
+    "id" : 134,
+    "contribution" : 59722251,
+    "totalContribution" : 1196711186
+  },
+  "135" : {
+    "id" : 135,
+    "contribution" : 62113924,
+    "totalContribution" : 1258825110
+  },
+  "136" : {
+    "id" : 136,
+    "contribution" : 64572474,
+    "totalContribution" : 1323397584
+  },
+  "137" : {
+    "id" : 137,
+    "contribution" : 67099089,
+    "totalContribution" : 1390496673
+  },
+  "138" : {
+    "id" : 138,
+    "contribution" : 69694967,
+    "totalContribution" : 1460191640
+  },
+  "139" : {
+    "id" : 139,
+    "contribution" : 72361318,
+    "totalContribution" : 1532552958
+  },
+  "140" : {
+    "id" : 140,
+    "contribution" : 75099360,
+    "totalContribution" : 1607652318
+  },
+  "141" : {
+    "id" : 141,
+    "contribution" : 77910321,
+    "totalContribution" : 1685562639
+  },
+  "142" : {
+    "id" : 142,
+    "contribution" : 80795442,
+    "totalContribution" : 1766358081
+  },
+  "143" : {
+    "id" : 143,
+    "contribution" : 83755972,
+    "totalContribution" : 1850114053
+  },
+  "144" : {
+    "id" : 144,
+    "contribution" : 86793170,
+    "totalContribution" : 1936907223
+  },
+  "145" : {
+    "id" : 145,
+    "contribution" : 89908306,
+    "totalContribution" : 2026815529
+  },
+  "146" : {
+    "id" : 146,
+    "contribution" : 93102660,
+    "totalContribution" : 2119918189
+  },
+  "147" : {
+    "id" : 147,
+    "contribution" : 96377522,
+    "totalContribution" : 2147483647
+  },
+  "148" : {
+    "id" : 148,
+    "contribution" : 99734193,
+    "totalContribution" : 2147483647
+  },
+  "149" : {
+    "id" : 149,
+    "contribution" : 103173984,
+    "totalContribution" : 2147483647
+  },
+  "150" : {
+    "id" : 150,
+    "contribution" : 106698214,
+    "totalContribution" : 2147483647
+  },
+  "151" : {
+    "id" : 151,
+    "contribution" : 110308215,
+    "totalContribution" : 2147483647
+  },
+  "152" : {
+    "id" : 152,
+    "contribution" : 114005328,
+    "totalContribution" : 2147483647
+  },
+  "153" : {
+    "id" : 153,
+    "contribution" : 117790904,
+    "totalContribution" : 2147483647
+  },
+  "154" : {
+    "id" : 154,
+    "contribution" : 121666305,
+    "totalContribution" : 2147483647
+  },
+  "155" : {
+    "id" : 155,
+    "contribution" : 125632902,
+    "totalContribution" : 2147483647
+  },
+  "156" : {
+    "id" : 156,
+    "contribution" : 129692078,
+    "totalContribution" : 2147483647
+  },
+  "157" : {
+    "id" : 157,
+    "contribution" : 133845224,
+    "totalContribution" : 2147483647
+  },
+  "158" : {
+    "id" : 158,
+    "contribution" : 138093743,
+    "totalContribution" : 2147483647
+  },
+  "159" : {
+    "id" : 159,
+    "contribution" : 142439048,
+    "totalContribution" : 2147483647
+  },
+  "160" : {
+    "id" : 160,
+    "contribution" : 146882560,
+    "totalContribution" : 2147483647
+  },
+  "161" : {
+    "id" : 161,
+    "contribution" : 151425712,
+    "totalContribution" : 2147483647
+  },
+  "162" : {
+    "id" : 162,
+    "contribution" : 156069948,
+    "totalContribution" : 2147483647
+  },
+  "163" : {
+    "id" : 163,
+    "contribution" : 160816721,
+    "totalContribution" : 2147483647
+  },
+  "164" : {
+    "id" : 164,
+    "contribution" : 165667495,
+    "totalContribution" : 2147483647
+  },
+  "165" : {
+    "id" : 165,
+    "contribution" : 170623742,
+    "totalContribution" : 2147483647
+  },
+  "166" : {
+    "id" : 166,
+    "contribution" : 175686946,
+    "totalContribution" : 2147483647
+  },
+  "167" : {
+    "id" : 167,
+    "contribution" : 180858603,
+    "totalContribution" : 2147483647
+  },
+  "168" : {
+    "id" : 168,
+    "contribution" : 186140215,
+    "totalContribution" : 2147483647
+  },
+  "169" : {
+    "id" : 169,
+    "contribution" : 191533297,
+    "totalContribution" : 2147483647
+  },
+  "170" : {
+    "id" : 170,
+    "contribution" : 197039374,
+    "totalContribution" : 2147483647
+  },
+  "171" : {
+    "id" : 171,
+    "contribution" : 202659980,
+    "totalContribution" : 2147483647
+  },
+  "172" : {
+    "id" : 172,
+    "contribution" : 208396660,
+    "totalContribution" : 2147483647
+  },
+  "173" : {
+    "id" : 173,
+    "contribution" : 214250970,
+    "totalContribution" : 2147483647
+  },
+  "174" : {
+    "id" : 174,
+    "contribution" : 220224475,
+    "totalContribution" : 2147483647
+  },
+  "175" : {
+    "id" : 175,
+    "contribution" : 226318750,
+    "totalContribution" : 2147483647
+  },
+  "176" : {
+    "id" : 176,
+    "contribution" : 232535380,
+    "totalContribution" : 2147483647
+  },
+  "177" : {
+    "id" : 177,
+    "contribution" : 238875962,
+    "totalContribution" : 2147483647
+  },
+  "178" : {
+    "id" : 178,
+    "contribution" : 245342102,
+    "totalContribution" : 2147483647
+  },
+  "179" : {
+    "id" : 179,
+    "contribution" : 251935416,
+    "totalContribution" : 2147483647
+  },
+  "180" : {
+    "id" : 180,
+    "contribution" : 258657531,
+    "totalContribution" : 2147483647
+  },
+  "181" : {
+    "id" : 181,
+    "contribution" : 265510083,
+    "totalContribution" : 2147483647
+  },
+  "182" : {
+    "id" : 182,
+    "contribution" : 272494718,
+    "totalContribution" : 2147483647
+  },
+  "183" : {
+    "id" : 183,
+    "contribution" : 279613094,
+    "totalContribution" : 2147483647
+  },
+  "184" : {
+    "id" : 184,
+    "contribution" : 286866879,
+    "totalContribution" : 2147483647
+  },
+  "185" : {
+    "id" : 185,
+    "contribution" : 294257749,
+    "totalContribution" : 2147483647
+  },
+  "186" : {
+    "id" : 186,
+    "contribution" : 301787392,
+    "totalContribution" : 2147483647
+  },
+  "187" : {
+    "id" : 187,
+    "contribution" : 309457506,
+    "totalContribution" : 2147483647
+  },
+  "188" : {
+    "id" : 188,
+    "contribution" : 317269798,
+    "totalContribution" : 2147483647
+  },
+  "189" : {
+    "id" : 189,
+    "contribution" : 325225988,
+    "totalContribution" : 2147483647
+  },
+  "190" : {
+    "id" : 190,
+    "contribution" : 333327802,
+    "totalContribution" : 2147483647
+  },
+  "191" : {
+    "id" : 191,
+    "contribution" : 341576981,
+    "totalContribution" : 2147483647
+  },
+  "192" : {
+    "id" : 192,
+    "contribution" : 349975272,
+    "totalContribution" : 2147483647
+  },
+  "193" : {
+    "id" : 193,
+    "contribution" : 358524434,
+    "totalContribution" : 2147483647
+  },
+  "194" : {
+    "id" : 194,
+    "contribution" : 367226237,
+    "totalContribution" : 2147483647
+  },
+  "195" : {
+    "id" : 195,
+    "contribution" : 376082460,
+    "totalContribution" : 2147483647
+  },
+  "196" : {
+    "id" : 196,
+    "contribution" : 385094891,
+    "totalContribution" : 2147483647
+  },
+  "197" : {
+    "id" : 197,
+    "contribution" : 394265332,
+    "totalContribution" : 2147483647
+  },
+  "198" : {
+    "id" : 198,
+    "contribution" : 403595591,
+    "totalContribution" : 2147483647
+  },
+  "199" : {
+    "id" : 199,
+    "contribution" : 413087489,
+    "totalContribution" : 2147483647
+  },
+  "200" : {
+    "id" : 200,
+    "contribution" : 0,
+    "totalContribution" : 2147483647
+  }
+}

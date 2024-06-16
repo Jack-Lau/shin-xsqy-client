@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "e34c603b-43f4-4486-a6d1-b51246302b4c",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "16bd99b9-d854-43b2-a95c-22a15adc597c",
+  "size": {
+    "width": 322,
+    "height": 374
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "佛像.png": {
+      "ver": "1.0.6",
+      "uuid": "c6131250-fc99-4c2e-b569-4de2999aff54",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "16bd99b9-d854-43b2-a95c-22a15adc597c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 320,
+      "height": 372,
+      "rawWidth": 320,
+      "rawHeight": 372,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e7fcf792-05a4-4d32-8284-b91522c6aa9d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1724,
+  "height": 252,
+  "platformSettings": {},
+  "subMetas": {
+    "accountant_office_panel": {
+      "ver": "1.0.6",
+      "uuid": "de522c04-3f2d-4132-9097-08955de1ea91",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e7fcf792-05a4-4d32-8284-b91522c6aa9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 1720,
+      "height": 250,
+      "rawWidth": 1724,
+      "rawHeight": 252,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

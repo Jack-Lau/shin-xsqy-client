@@ -1,0 +1,59 @@
+{
+  "ver": "1.2.6",
+  "uuid": "f2c8e501-5b01-41f8-a7df-6d750377c679",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "92f6a68d-295f-4af1-ac8e-80fb563a1917",
+  "size": {
+    "width": 300,
+    "height": 100
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "bt_liabaoduihuanguanbi.png": {
+      "ver": "1.0.6",
+      "uuid": "9825e600-b91f-43f0-b025-e0e5390c3c71",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "92f6a68d-295f-4af1-ac8e-80fb563a1917",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": true,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 236,
+      "trimY": 1,
+      "width": 71,
+      "height": 63,
+      "rawWidth": 71,
+      "rawHeight": 63,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "bt_libaoduihuanqueren.png": {
+      "ver": "1.0.6",
+      "uuid": "ccc35a15-7d70-4401-a358-be59862ce55f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "92f6a68d-295f-4af1-ac8e-80fb563a1917",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -1,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 233,
+      "height": 98,
+      "rawWidth": 237,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

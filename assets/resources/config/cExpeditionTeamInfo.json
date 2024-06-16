@@ -1,0 +1,50 @@
+{
+  "4420001" : {
+    "id" : 4420001,
+    "name" : "街角小贩",
+    "hireCurrencyId" : 150,
+    "priceMultiple" : 1.0,
+    "floatingWeight" : 0,
+    "costPerformance" : 1.0
+  },
+  "4420002" : {
+    "id" : 4420002,
+    "name" : "行脚商人",
+    "hireCurrencyId" : 150,
+    "priceMultiple" : 2.0,
+    "floatingWeight" : 0,
+    "costPerformance" : 1.0
+  },
+  "4420003" : {
+    "id" : 4420003,
+    "name" : "四洲商队",
+    "hireCurrencyId" : 150,
+    "priceMultiple" : 6.0,
+    "floatingWeight" : 0,
+    "costPerformance" : 1.0
+  },
+  "4420004" : {
+    "id" : 4420004,
+    "name" : "商肆大亨",
+    "hireCurrencyId" : 150,
+    "priceMultiple" : 20.0,
+    "floatingWeight" : 0,
+    "costPerformance" : 1.0
+  },
+  "4420005" : {
+    "id" : 4420005,
+    "name" : "商会巨贾",
+    "hireCurrencyId" : 150,
+    "priceMultiple" : 40.0,
+    "floatingWeight" : 0,
+    "costPerformance" : 1.0
+  },
+  "4420006" : {
+    "id" : 4420006,
+    "name" : "三界财神",
+    "hireCurrencyId" : 150,
+    "priceMultiple" : 100.0,
+    "floatingWeight" : 0,
+    "costPerformance" : 1.0
+  }
+}

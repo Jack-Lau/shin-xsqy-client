@@ -1,0 +1,162 @@
+{
+  "4000001" : {
+    "id" : 4000001,
+    "name" : "主角男1",
+    "atkTotalFrames" : 31,
+    "atkCruxFrame" : 13,
+    "magTotalFrames" : 32,
+    "magCruxFrame" : 11
+  },
+  "4000002" : {
+    "id" : 4000002,
+    "name" : "主角女1",
+    "atkTotalFrames" : 28,
+    "atkCruxFrame" : 15,
+    "magTotalFrames" : 54,
+    "magCruxFrame" : 19
+  },
+  "4000003" : {
+    "id" : 4000003,
+    "name" : "主角男2",
+    "atkTotalFrames" : 34,
+    "atkCruxFrame" : 20,
+    "magTotalFrames" : 39,
+    "magCruxFrame" : 20
+  },
+  "4000004" : {
+    "id" : 4000004,
+    "name" : "主角女2",
+    "atkTotalFrames" : 26,
+    "atkCruxFrame" : 13,
+    "magTotalFrames" : 39,
+    "magCruxFrame" : 22
+  },
+  "4200002" : {
+    "id" : 4200002,
+    "name" : "敖君来",
+    "atkTotalFrames" : 16,
+    "atkCruxFrame" : 8,
+    "magTotalFrames" : 21,
+    "magCruxFrame" : 12
+  },
+  "4200003" : {
+    "id" : 4200003,
+    "name" : "包子",
+    "atkTotalFrames" : 16,
+    "atkCruxFrame" : 8,
+    "magTotalFrames" : 21,
+    "magCruxFrame" : 15
+  },
+  "4100001" : {
+    "id" : 4100001,
+    "name" : "迎庭",
+    "atkTotalFrames" : 14,
+    "atkCruxFrame" : 6,
+    "magTotalFrames" : 19,
+    "magCruxFrame" : 10
+  },
+  "4100002" : {
+    "id" : 4100002,
+    "name" : "金丝仓鼠",
+    "atkTotalFrames" : 16,
+    "atkCruxFrame" : 7,
+    "magTotalFrames" : 26,
+    "magCruxFrame" : 17
+  },
+  "4100003" : {
+    "id" : 4100003,
+    "name" : "踏雪猫妖",
+    "atkTotalFrames" : 16,
+    "atkCruxFrame" : 8,
+    "magTotalFrames" : 26,
+    "magCruxFrame" : 10
+  },
+  "4100004" : {
+    "id" : 4100004,
+    "name" : "三尾妖狐",
+    "atkTotalFrames" : 21,
+    "atkCruxFrame" : 7,
+    "magTotalFrames" : 25,
+    "magCruxFrame" : 17
+  },
+  "4100005" : {
+    "id" : 4100005,
+    "name" : "猪小罗",
+    "atkTotalFrames" : 17,
+    "atkCruxFrame" : 6,
+    "magTotalFrames" : 27,
+    "magCruxFrame" : 19
+  },
+  "4100006" : {
+    "id" : 4100006,
+    "name" : "兔萝萝",
+    "atkTotalFrames" : 16,
+    "atkCruxFrame" : 7,
+    "magTotalFrames" : 18,
+    "magCruxFrame" : 11
+  },
+  "4100007" : {
+    "id" : 4100007,
+    "name" : "蓝羽蝶",
+    "atkTotalFrames" : 18,
+    "atkCruxFrame" : 10,
+    "magTotalFrames" : 27,
+    "magCruxFrame" : 15
+  },
+  "4100008" : {
+    "id" : 4100008,
+    "name" : "玄蛇姬",
+    "atkTotalFrames" : 17,
+    "atkCruxFrame" : 8,
+    "magTotalFrames" : 29,
+    "magCruxFrame" : 22
+  },
+  "4100009" : {
+    "id" : 4100009,
+    "name" : "地界鬼吏",
+    "atkTotalFrames" : 16,
+    "atkCruxFrame" : 7,
+    "magTotalFrames" : 20,
+    "magCruxFrame" : 9
+  },
+  "4100010" : {
+    "id" : 4100010,
+    "name" : "地仙",
+    "atkTotalFrames" : 15,
+    "atkCruxFrame" : 8,
+    "magTotalFrames" : 22,
+    "magCruxFrame" : 10
+  },
+  "4100011" : {
+    "id" : 4100011,
+    "name" : "瑶姬",
+    "atkTotalFrames" : 13,
+    "atkCruxFrame" : 6,
+    "magTotalFrames" : 15,
+    "magCruxFrame" : 7
+  },
+  "4100012" : {
+    "id" : 4100012,
+    "name" : "穷奇",
+    "atkTotalFrames" : 21,
+    "atkCruxFrame" : 12,
+    "magTotalFrames" : 22,
+    "magCruxFrame" : 12
+  },
+  "4100013" : {
+    "id" : 4100013,
+    "name" : "腾根",
+    "atkTotalFrames" : 21,
+    "atkCruxFrame" : 12,
+    "magTotalFrames" : 22,
+    "magCruxFrame" : 12
+  },
+  "4100014" : {
+    "id" : 4100014,
+    "name" : "孙悟空",
+    "atkTotalFrames" : 23,
+    "atkCruxFrame" : 12,
+    "magTotalFrames" : 23,
+    "magCruxFrame" : 16
+  }
+}

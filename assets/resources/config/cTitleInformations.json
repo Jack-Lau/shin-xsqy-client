@@ -1,0 +1,747 @@
+{
+  "130000" : {
+    "id" : 130000,
+    "name" : "人间有真情",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 600.0
+    }, {
+      "name" : "幸运",
+      "value" : 50.0
+    } ],
+    "fc" : 120,
+    "description" : "人间有真情，人间有真爱！",
+    "recommendedPrice" : 0
+  },
+  "130001" : {
+    "id" : 130001,
+    "name" : "土豪",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130058,
+    "attribute" : [ {
+      "name" : "物防",
+      "value" : 275.0
+    }, {
+      "name" : "法防",
+      "value" : 275.0
+    } ],
+    "fc" : 700,
+    "description" : "土豪我们做朋友吧！",
+    "recommendedPrice" : 0
+  },
+  "130002" : {
+    "id" : 130002,
+    "name" : "霸道总裁",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130061,
+    "attribute" : [ {
+      "name" : "物伤",
+      "value" : 500.0
+    }, {
+      "name" : "法伤",
+      "value" : 500.0
+    } ],
+    "fc" : 1000,
+    "description" : "你这磨人的小妖精~",
+    "recommendedPrice" : 0
+  },
+  "130003" : {
+    "id" : 130003,
+    "name" : "有人替我撑腰",
+    "type" : 0,
+    "color" : 2,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 300.0
+    }, {
+      "name" : "幸运",
+      "value" : 50.0
+    } ],
+    "fc" : 50,
+    "description" : "累计邀请人数达到30人获得的称号",
+    "recommendedPrice" : 0
+  },
+  "130004" : {
+    "id" : 130004,
+    "name" : "我都转晕了",
+    "type" : 0,
+    "color" : 1,
+    "attribute" : [ {
+      "name" : "速度",
+      "value" : 5.0
+    }, {
+      "name" : "最大生命",
+      "value" : 100.0
+    } ],
+    "fc" : 30,
+    "description" : "欢乐大转盘累计转动88次获得的称号",
+    "recommendedPrice" : 0
+  },
+  "130005" : {
+    "id" : 130005,
+    "name" : "九天玄女好忙",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "物伤",
+      "value" : 68.0
+    }, {
+      "name" : "最大生命",
+      "value" : 200.0
+    } ],
+    "fc" : 100,
+    "description" : "完成门派任务时一定概率可获得该称号",
+    "recommendedPrice" : 0
+  },
+  "130006" : {
+    "id" : 130006,
+    "name" : "挖穿地球",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "幸运",
+      "value" : 100.0
+    }, {
+      "name" : "速度",
+      "value" : 20.0
+    } ],
+    "fc" : 120,
+    "description" : "使用宝图挖宝时一定概率挖得该称号",
+    "recommendedPrice" : 0
+  },
+  "130007" : {
+    "id" : 130007,
+    "name" : "爬得腿都软了",
+    "type" : 0,
+    "color" : 2,
+    "attribute" : [ {
+      "name" : "物防",
+      "value" : 20.0
+    }, {
+      "name" : "法防",
+      "value" : 20.0
+    } ],
+    "fc" : 50,
+    "description" : "通关金光塔挑战时一定概率获得该称号",
+    "recommendedPrice" : 0
+  },
+  "130008" : {
+    "id" : 130008,
+    "name" : "树大招风",
+    "type" : 0,
+    "color" : 2,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 200.0
+    }, {
+      "name" : "物防",
+      "value" : 20.0
+    } ],
+    "fc" : 50,
+    "description" : "进行抢占摇钱树挑战时一定概率获得该称号",
+    "recommendedPrice" : 0
+  },
+  "130009" : {
+    "id" : 130009,
+    "name" : "奸商哪里跑？",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 200.0
+    }, {
+      "name" : "法防",
+      "value" : 20.0
+    } ],
+    "fc" : 50,
+    "description" : "售出一个修复进度≥70的古董获得的称号",
+    "recommendedPrice" : 0
+  },
+  "130010" : {
+    "id" : 130010,
+    "name" : "观音姐姐好忙",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "法伤",
+      "value" : 68.0
+    }, {
+      "name" : "最大生命",
+      "value" : 200.0
+    } ],
+    "fc" : 100,
+    "description" : "完成门派任务时一定概率可获得该称号",
+    "recommendedPrice" : 0
+  },
+  "130011" : {
+    "id" : 130011,
+    "name" : "五毒大仙好忙",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "物伤",
+      "value" : 68.0
+    }, {
+      "name" : "最大生命",
+      "value" : 200.0
+    } ],
+    "fc" : 100,
+    "description" : "完成门派任务时一定概率可获得该称号",
+    "recommendedPrice" : 0
+  },
+  "130012" : {
+    "id" : 130012,
+    "name" : "镇元大仙好忙",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "法伤",
+      "value" : 68.0
+    }, {
+      "name" : "最大生命",
+      "value" : 200.0
+    } ],
+    "fc" : 100,
+    "description" : "完成门派任务时一定概率可获得该称号",
+    "recommendedPrice" : 0
+  },
+  "130013" : {
+    "id" : 130013,
+    "name" : "除魔卫道",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130031,
+    "attribute" : [ {
+      "name" : "法伤",
+      "value" : 350.0
+    }, {
+      "name" : "速度",
+      "value" : 100.0
+    } ],
+    "fc" : 700,
+    "description" : "除殃遣鬼魔 以求大道玄",
+    "recommendedPrice" : 0
+  },
+  "130014" : {
+    "id" : 130014,
+    "name" : "剑啸九州",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130002,
+    "attribute" : [ {
+      "name" : "物伤",
+      "value" : 350.0
+    }, {
+      "name" : "速度",
+      "value" : 100.0
+    } ],
+    "fc" : 700,
+    "description" : "傲剑啸天穹 大义贯九州",
+    "recommendedPrice" : 0
+  },
+  "130015" : {
+    "id" : 130015,
+    "name" : "西游大锦鲤",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "幸运",
+      "value" : 168.0
+    }, {
+      "name" : "最大生命",
+      "value" : 5.0
+    } ],
+    "fc" : 588,
+    "description" : "全服独宠一人的锦鲤大人专属称号",
+    "recommendedPrice" : 0
+  },
+  "130016" : {
+    "id" : 130016,
+    "name" : "哥不只是传说",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 355.0
+    }, {
+      "name" : "速度",
+      "value" : 15.0
+    } ],
+    "fc" : 90,
+    "description" : "哥才不稀罕什么传说王者",
+    "recommendedPrice" : 0
+  },
+  "130017" : {
+    "id" : 130017,
+    "name" : "神勇盖世",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130030,
+    "attribute" : [ {
+      "name" : "吸血率",
+      "value" : 0.05
+    }, {
+      "name" : "幸运",
+      "value" : 200.0
+    } ],
+    "fc" : 1000,
+    "description" : "百战唯英豪 神勇无可匹",
+    "recommendedPrice" : 0
+  },
+  "130018" : {
+    "id" : 130018,
+    "name" : "西游大文豪",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "物伤",
+      "value" : 350.0
+    }, {
+      "name" : "法伤",
+      "value" : 350.0
+    } ],
+    "fc" : 700,
+    "description" : "君不见龙门探奇气益壮 文豪千载同翱翔",
+    "recommendedPrice" : 0
+  },
+  "130019" : {
+    "id" : 130019,
+    "name" : "妙笔生花",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "物伤",
+      "value" : 175.0
+    }, {
+      "name" : "法伤",
+      "value" : 175.0
+    } ],
+    "fc" : 350,
+    "description" : "年少忽梦笔生花 诗文盛名贯天下",
+    "recommendedPrice" : 0
+  },
+  "130020" : {
+    "id" : 130020,
+    "name" : "猪事顺利",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "幸运",
+      "value" : 15.0
+    }, {
+      "name" : "速度",
+      "value" : 15.0
+    } ],
+    "fc" : 85,
+    "description" : "2019，“猪”事顺遂，阖家幸福！",
+    "recommendedPrice" : 0
+  },
+  "130021" : {
+    "id" : 130021,
+    "name" : "六道至尊",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130001,
+    "attribute" : [ {
+      "name" : "招式力",
+      "value" : 0.03
+    }, {
+      "name" : "抵抗力",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "多情自古空余恨",
+    "recommendedPrice" : 0
+  },
+  "130022" : {
+    "id" : 130022,
+    "name" : "纵横四海",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130003,
+    "attribute" : [ {
+      "name" : "招式力",
+      "value" : 0.03
+    }, {
+      "name" : "速度",
+      "value" : 100.0
+    } ],
+    "fc" : 700,
+    "description" : "生死不相干 此情未有绝",
+    "recommendedPrice" : 0
+  },
+  "130023" : {
+    "id" : 130023,
+    "name" : "江湖任我行",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130004,
+    "attribute" : [ {
+      "name" : "抵抗力",
+      "value" : 0.03
+    }, {
+      "name" : "最大生命",
+      "value" : 1500.0
+    } ],
+    "fc" : 700,
+    "description" : "繁华红尘任逍遥 把酒天涯尽欢笑",
+    "recommendedPrice" : 0
+  },
+  "130024" : {
+    "id" : 130024,
+    "name" : "天下无双",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130005,
+    "attribute" : [ {
+      "name" : "神佑率",
+      "value" : 0.03
+    }, {
+      "name" : "格挡率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "旷世此一人 无双傲群雄",
+    "recommendedPrice" : 0
+  },
+  "130025" : {
+    "id" : 130025,
+    "name" : "叱咤风云",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130006,
+    "attribute" : [ {
+      "name" : "额外闪避率",
+      "value" : 0.03
+    }, {
+      "name" : "物伤",
+      "value" : 300.0
+    } ],
+    "fc" : 700,
+    "description" : "几度风云变 我辈人才出",
+    "recommendedPrice" : 0
+  },
+  "130026" : {
+    "id" : 130026,
+    "name" : "气吞山河",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130007,
+    "attribute" : [ {
+      "name" : "格挡率",
+      "value" : 0.03
+    }, {
+      "name" : "法伤",
+      "value" : 300.0
+    } ],
+    "fc" : 700,
+    "description" : "山河星斗转 浩气吞日月",
+    "recommendedPrice" : 0
+  },
+  "130027" : {
+    "id" : 130027,
+    "name" : "剑倾天下",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130008,
+    "attribute" : [ {
+      "name" : "物伤",
+      "value" : 450.0
+    }, {
+      "name" : "暴击率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "凌霄殿上古称号，已失踪数十年",
+    "recommendedPrice" : 0
+  },
+  "130028" : {
+    "id" : 130028,
+    "name" : "天地圣手",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130009,
+    "attribute" : [ {
+      "name" : "法伤",
+      "value" : 450.0
+    }, {
+      "name" : "格挡率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "普陀山上古称号，已失踪数十年",
+    "recommendedPrice" : 0
+  },
+  "130029" : {
+    "id" : 130029,
+    "name" : "千机毒圣",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130010,
+    "attribute" : [ {
+      "name" : "物伤",
+      "value" : 450.0
+    }, {
+      "name" : "吸血率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "盘丝洞上古称号，已失踪数十年",
+    "recommendedPrice" : 0
+  },
+  "130030" : {
+    "id" : 130030,
+    "name" : "道门仙尊",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130011,
+    "attribute" : [ {
+      "name" : "法伤",
+      "value" : 450.0
+    }, {
+      "name" : "连击率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "五庄观上古称号，已失踪数十年",
+    "recommendedPrice" : 0
+  },
+  "130031" : {
+    "id" : 130031,
+    "name" : "斗神",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130022,
+    "attribute" : [ {
+      "name" : "额外命中率",
+      "value" : 0.03
+    }, {
+      "name" : "额外闪避率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "斗神降临 万化俱宁",
+    "recommendedPrice" : 0
+  },
+  "130032" : {
+    "id" : 130032,
+    "name" : "斗圣",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130023,
+    "attribute" : [ {
+      "name" : "额外命中率",
+      "value" : 0.03
+    }, {
+      "name" : "物防",
+      "value" : 200.0
+    } ],
+    "fc" : 700,
+    "description" : "斗圣现世 望尘莫及",
+    "recommendedPrice" : 0
+  },
+  "130033" : {
+    "id" : 130033,
+    "name" : "斗王",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130024,
+    "attribute" : [ {
+      "name" : "额外闪避率",
+      "value" : 0.03
+    }, {
+      "name" : "法防",
+      "value" : 200.0
+    } ],
+    "fc" : 700,
+    "description" : "斗王既出 众士称臣",
+    "recommendedPrice" : 0
+  },
+  "130034" : {
+    "id" : 130034,
+    "name" : "深藏功与名",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130026,
+    "attribute" : [ {
+      "name" : "暴击率",
+      "value" : 0.03
+    }, {
+      "name" : "暴击效果",
+      "value" : 0.06
+    } ],
+    "fc" : 700,
+    "description" : "事了拂衣去 深藏功与名",
+    "recommendedPrice" : 0
+  },
+  "130035" : {
+    "id" : 130035,
+    "name" : "义薄云天",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130027,
+    "attribute" : [ {
+      "name" : "暴击率",
+      "value" : 0.03
+    }, {
+      "name" : "物防",
+      "value" : 200.0
+    } ],
+    "fc" : 700,
+    "description" : "英辞润金石 高义薄云天",
+    "recommendedPrice" : 0
+  },
+  "130036" : {
+    "id" : 130036,
+    "name" : "侠肝义胆",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130028,
+    "attribute" : [ {
+      "name" : "暴击效果",
+      "value" : 0.06
+    }, {
+      "name" : "法防",
+      "value" : 200.0
+    } ],
+    "fc" : 700,
+    "description" : "孤胆单刀 义勇无双",
+    "recommendedPrice" : 0
+  },
+  "130037" : {
+    "id" : 130037,
+    "name" : "魔道尊主",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130034,
+    "attribute" : [ {
+      "name" : "连击率",
+      "value" : 0.03
+    }, {
+      "name" : "吸血率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "我独为尊！",
+    "recommendedPrice" : 0
+  },
+  "130038" : {
+    "id" : 130038,
+    "name" : "我行我素",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130060,
+    "attribute" : [ {
+      "name" : "连击率",
+      "value" : 0.03
+    }, {
+      "name" : "额外闪避率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "有钱真好",
+    "recommendedPrice" : 0
+  },
+  "130039" : {
+    "id" : 130039,
+    "name" : "目标一个亿",
+    "type" : 1,
+    "color" : 5,
+    "picId" : 130062,
+    "attribute" : [ {
+      "name" : "连击率",
+      "value" : 0.03
+    }, {
+      "name" : "额外命中率",
+      "value" : 0.03
+    } ],
+    "fc" : 1000,
+    "description" : "我有一个小目标",
+    "recommendedPrice" : 0
+  },
+  "130040" : {
+    "id" : 130040,
+    "name" : "有钱任性",
+    "type" : 1,
+    "color" : 4,
+    "picId" : 130059,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 888.0
+    }, {
+      "name" : "幸运",
+      "value" : 666.0
+    } ],
+    "fc" : 700,
+    "description" : "有钱，是我任性的资本，而你呢？",
+    "recommendedPrice" : 0
+  },
+  "130041" : {
+    "id" : 130041,
+    "name" : "钓·筑根",
+    "type" : 0,
+    "color" : 2,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 375.0
+    }, {
+      "name" : "速度",
+      "value" : 25.0
+    } ],
+    "fc" : 175,
+    "description" : "入我门来 生死莫怨",
+    "recommendedPrice" : 0
+  },
+  "130042" : {
+    "id" : 130042,
+    "name" : "钓·心转手",
+    "type" : 0,
+    "color" : 3,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 750.0
+    }, {
+      "name" : "速度",
+      "value" : 50.0
+    } ],
+    "fc" : 350,
+    "description" : "钓技渐长 逐至人杆一体之境",
+    "recommendedPrice" : 0
+  },
+  "130043" : {
+    "id" : 130043,
+    "name" : "钓·上层",
+    "type" : 0,
+    "color" : 4,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 1125.0
+    }, {
+      "name" : "速度",
+      "value" : 75.0
+    } ],
+    "fc" : 525,
+    "description" : "上层和鬼神之间的差距 犹如天堑",
+    "recommendedPrice" : 0
+  },
+  "130044" : {
+    "id" : 130044,
+    "name" : "钓·鬼神",
+    "type" : 0,
+    "color" : 5,
+    "attribute" : [ {
+      "name" : "最大生命",
+      "value" : 1500.0
+    }, {
+      "name" : "速度",
+      "value" : 100.0
+    } ],
+    "fc" : 700,
+    "description" : "今天 我绝不空军！",
+    "recommendedPrice" : 0
+  }
+}

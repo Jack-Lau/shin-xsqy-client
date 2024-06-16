@@ -1,0 +1,82 @@
+{
+  "700009" : {
+    "id" : 700009,
+    "questTypeResource" : 1,
+    "questNameResource" : 700009
+  },
+  "700040" : {
+    "id" : 700040,
+    "questTypeResource" : 2,
+    "questNameResource" : 700040
+  },
+  "700056" : {
+    "id" : 700056,
+    "questTypeResource" : 3,
+    "questNameResource" : 700056
+  },
+  "700071" : {
+    "id" : 700071,
+    "questTypeResource" : 4,
+    "questNameResource" : 700071
+  },
+  "700088" : {
+    "id" : 700088,
+    "questTypeResource" : 5,
+    "questNameResource" : 700088
+  },
+  "700104" : {
+    "id" : 700104,
+    "questTypeResource" : 6,
+    "questNameResource" : 700104
+  },
+  "700121" : {
+    "id" : 700121,
+    "questTypeResource" : 7,
+    "questNameResource" : 700121
+  },
+  "700137" : {
+    "id" : 700137,
+    "questTypeResource" : 8,
+    "questNameResource" : 700137
+  },
+  "710029" : {
+    "id" : 710029,
+    "questTypeResource" : 101,
+    "questNameResource" : 710029
+  },
+  "710034" : {
+    "id" : 710034,
+    "questTypeResource" : 101,
+    "questNameResource" : 710029
+  },
+  "710056" : {
+    "id" : 710056,
+    "questTypeResource" : 101,
+    "questNameResource" : 710056
+  },
+  "710064" : {
+    "id" : 710064,
+    "questTypeResource" : 101,
+    "questNameResource" : 710056
+  },
+  "710089" : {
+    "id" : 710089,
+    "questTypeResource" : 101,
+    "questNameResource" : 710089
+  },
+  "710115" : {
+    "id" : 710115,
+    "questTypeResource" : 101,
+    "questNameResource" : 710115
+  },
+  "710143" : {
+    "id" : 710143,
+    "questTypeResource" : 101,
+    "questNameResource" : 710143
+  },
+  "710160" : {
+    "id" : 710160,
+    "questTypeResource" : 101,
+    "questNameResource" : 710160
+  }
+}

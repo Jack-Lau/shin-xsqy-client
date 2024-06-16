@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "d25f830d-ed73-453f-9d5a-957134f160a7",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "84e6a8fa-a8c7-4ec7-bbdd-03ee10f34867",
+  "size": {
+    "width": 132,
+    "height": 209
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "今生诀2.png": {
+      "ver": "1.0.6",
+      "uuid": "4fedaee7-177f-4015-b2b4-298a3ca540e5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "84e6a8fa-a8c7-4ec7-bbdd-03ee10f34867",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 6,
+      "offsetY": -9,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 130,
+      "height": 207,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hspm_hotest_icon",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 5
+        },
+        {
+          "frame": 0.25,
+          "value": 25
+        },
+        {
+          "frame": 0.5,
+          "value": 5
+        }
+      ]
+    }
+  },
+  "events": []
+}

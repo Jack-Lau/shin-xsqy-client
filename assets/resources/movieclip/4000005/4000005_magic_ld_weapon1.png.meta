@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "75257706-64ea-4cb8-9977-446ce17e6358",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 502,
+  "platformSettings": {},
+  "subMetas": {
+    "4000005_magic_ld_weapon1": {
+      "ver": "1.0.6",
+      "uuid": "a5e134b7-2df5-412d-a1fe-f39a0db8641b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "75257706-64ea-4cb8-9977-446ce17e6358",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 254,
+      "height": 500,
+      "rawWidth": 256,
+      "rawHeight": 502,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

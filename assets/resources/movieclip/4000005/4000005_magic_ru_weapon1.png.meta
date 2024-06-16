@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "33131e24-a727-46a4-a18a-64198a090d33",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 490,
+  "height": 264,
+  "platformSettings": {},
+  "subMetas": {
+    "4000005_magic_ru_weapon1": {
+      "ver": "1.0.6",
+      "uuid": "6514679b-2d37-4a22-bb16-7f7b60712f83",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "33131e24-a727-46a4-a18a-64198a090d33",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 488,
+      "height": 262,
+      "rawWidth": 490,
+      "rawHeight": 264,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

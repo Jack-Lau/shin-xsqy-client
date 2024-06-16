@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1619f55d-292e-4a9b-ba84-fd402a05482c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 464,
+  "height": 240,
+  "platformSettings": {},
+  "subMetas": {
+    "4000006_run_ru_weapon1": {
+      "ver": "1.0.6",
+      "uuid": "1c637e3d-1498-4b98-ab63-0ec046519760",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1619f55d-292e-4a9b-ba84-fd402a05482c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 459,
+      "height": 236,
+      "rawWidth": 464,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

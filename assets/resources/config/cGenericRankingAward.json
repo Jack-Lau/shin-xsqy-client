@@ -1,0 +1,1902 @@
+{
+  "1" : {
+    "id" : 1,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.04957999999999929"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "100000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "30000"
+    } ]
+  },
+  "2" : {
+    "id" : 2,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.045770000000000005"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "99500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "29800"
+    } ]
+  },
+  "3" : {
+    "id" : 3,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.04245"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "99000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "29600"
+    } ]
+  },
+  "4" : {
+    "id" : 4,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.03914"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "98500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "29400"
+    } ]
+  },
+  "5" : {
+    "id" : 5,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.03583"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "98000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "29200"
+    } ]
+  },
+  "6" : {
+    "id" : 6,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.03251"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "97500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "29000"
+    } ]
+  },
+  "7" : {
+    "id" : 7,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0292"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "97000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "28800"
+    } ]
+  },
+  "8" : {
+    "id" : 8,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.02589"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "96500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "28600"
+    } ]
+  },
+  "9" : {
+    "id" : 9,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.02257"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "96000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "28400"
+    } ]
+  },
+  "10" : {
+    "id" : 10,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.019260000000000003"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "95500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "28200"
+    } ]
+  },
+  "11" : {
+    "id" : 11,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01877"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "95000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "28000"
+    } ]
+  },
+  "12" : {
+    "id" : 12,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01828"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "94500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "27800"
+    } ]
+  },
+  "13" : {
+    "id" : 13,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01779"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "94000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "27600"
+    } ]
+  },
+  "14" : {
+    "id" : 14,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0173"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "93500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "27400"
+    } ]
+  },
+  "15" : {
+    "id" : 15,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01681"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "93000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "27200"
+    } ]
+  },
+  "16" : {
+    "id" : 16,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01632"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "92500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "27000"
+    } ]
+  },
+  "17" : {
+    "id" : 17,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01583"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "92000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "26800"
+    } ]
+  },
+  "18" : {
+    "id" : 18,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01533"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "91500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "26600"
+    } ]
+  },
+  "19" : {
+    "id" : 19,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.014839999999999999"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "91000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "26400"
+    } ]
+  },
+  "20" : {
+    "id" : 20,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01435"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "90500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "26200"
+    } ]
+  },
+  "21" : {
+    "id" : 21,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.013859999999999999"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "90000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "26000"
+    } ]
+  },
+  "22" : {
+    "id" : 22,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01337"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "89500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "25800"
+    } ]
+  },
+  "23" : {
+    "id" : 23,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01288"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "89000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "25600"
+    } ]
+  },
+  "24" : {
+    "id" : 24,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01239"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "88500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "25400"
+    } ]
+  },
+  "25" : {
+    "id" : 25,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0119"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "88000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "25200"
+    } ]
+  },
+  "26" : {
+    "id" : 26,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01141"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "87500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "25000"
+    } ]
+  },
+  "27" : {
+    "id" : 27,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01092"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "87000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "24800"
+    } ]
+  },
+  "28" : {
+    "id" : 28,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.01043"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "86500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "24600"
+    } ]
+  },
+  "29" : {
+    "id" : 29,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00993"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "86000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "24400"
+    } ]
+  },
+  "30" : {
+    "id" : 30,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.009439999999999999"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "85500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "24200"
+    } ]
+  },
+  "31" : {
+    "id" : 31,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.009300000000000001"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "85000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "24000"
+    } ]
+  },
+  "32" : {
+    "id" : 32,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00915"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "84500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "23800"
+    } ]
+  },
+  "33" : {
+    "id" : 33,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.009"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "84000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "23600"
+    } ]
+  },
+  "34" : {
+    "id" : 34,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00885"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "83500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "23400"
+    } ]
+  },
+  "35" : {
+    "id" : 35,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00871"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "83000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "23200"
+    } ]
+  },
+  "36" : {
+    "id" : 36,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00856"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "82500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "23000"
+    } ]
+  },
+  "37" : {
+    "id" : 37,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00841"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "82000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "22800"
+    } ]
+  },
+  "38" : {
+    "id" : 38,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00827"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "81500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "22600"
+    } ]
+  },
+  "39" : {
+    "id" : 39,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.008119999999999999"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "81000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "22400"
+    } ]
+  },
+  "40" : {
+    "id" : 40,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00797"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "80500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "22200"
+    } ]
+  },
+  "41" : {
+    "id" : 41,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00782"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "80000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "22000"
+    } ]
+  },
+  "42" : {
+    "id" : 42,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.007679999999999999"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "79500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "21800"
+    } ]
+  },
+  "43" : {
+    "id" : 43,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00753"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "79000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "21600"
+    } ]
+  },
+  "44" : {
+    "id" : 44,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00738"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "78500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "21400"
+    } ]
+  },
+  "45" : {
+    "id" : 45,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00724"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "78000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "21200"
+    } ]
+  },
+  "46" : {
+    "id" : 46,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00709"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "77500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "21000"
+    } ]
+  },
+  "47" : {
+    "id" : 47,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00694"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "77000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "20800"
+    } ]
+  },
+  "48" : {
+    "id" : 48,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00679"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "76500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "20600"
+    } ]
+  },
+  "49" : {
+    "id" : 49,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0066500000000000005"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "76000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "20400"
+    } ]
+  },
+  "50" : {
+    "id" : 50,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0065"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "75500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "20200"
+    } ]
+  },
+  "51" : {
+    "id" : 51,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00635"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "75000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "20000"
+    } ]
+  },
+  "52" : {
+    "id" : 52,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0062"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "74500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "19800"
+    } ]
+  },
+  "53" : {
+    "id" : 53,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.006059999999999999"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "74000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "19600"
+    } ]
+  },
+  "54" : {
+    "id" : 54,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00591"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "73500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "19400"
+    } ]
+  },
+  "55" : {
+    "id" : 55,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0057599999999999995"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "73000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "19200"
+    } ]
+  },
+  "56" : {
+    "id" : 56,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00562"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "72500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "19000"
+    } ]
+  },
+  "57" : {
+    "id" : 57,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00547"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "72000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "18800"
+    } ]
+  },
+  "58" : {
+    "id" : 58,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00532"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "71500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "18600"
+    } ]
+  },
+  "59" : {
+    "id" : 59,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00517"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "71000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "18400"
+    } ]
+  },
+  "60" : {
+    "id" : 60,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.005030000000000001"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "70500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "18200"
+    } ]
+  },
+  "61" : {
+    "id" : 61,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00498"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "70000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "18000"
+    } ]
+  },
+  "62" : {
+    "id" : 62,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0049299999999999995"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "69500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "17800"
+    } ]
+  },
+  "63" : {
+    "id" : 63,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00488"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "69000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "17600"
+    } ]
+  },
+  "64" : {
+    "id" : 64,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00483"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "68500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "17400"
+    } ]
+  },
+  "65" : {
+    "id" : 65,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00478"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "68000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "17200"
+    } ]
+  },
+  "66" : {
+    "id" : 66,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.004730000000000001"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "67500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "17000"
+    } ]
+  },
+  "67" : {
+    "id" : 67,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00468"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "67000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "16800"
+    } ]
+  },
+  "68" : {
+    "id" : 68,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00463"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "66500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "16600"
+    } ]
+  },
+  "69" : {
+    "id" : 69,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00458"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "66000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "16400"
+    } ]
+  },
+  "70" : {
+    "id" : 70,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00454"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "65500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "16200"
+    } ]
+  },
+  "71" : {
+    "id" : 71,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00449"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "65000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "16000"
+    } ]
+  },
+  "72" : {
+    "id" : 72,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00444"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "64500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "15800"
+    } ]
+  },
+  "73" : {
+    "id" : 73,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00439"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "64000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "15600"
+    } ]
+  },
+  "74" : {
+    "id" : 74,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00434"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "63500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "15400"
+    } ]
+  },
+  "75" : {
+    "id" : 75,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00429"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "63000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "15200"
+    } ]
+  },
+  "76" : {
+    "id" : 76,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00424"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "62500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "15000"
+    } ]
+  },
+  "77" : {
+    "id" : 77,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00419"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "62000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "14800"
+    } ]
+  },
+  "78" : {
+    "id" : 78,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00414"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "61500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "14600"
+    } ]
+  },
+  "79" : {
+    "id" : 79,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00409"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "61000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "14400"
+    } ]
+  },
+  "80" : {
+    "id" : 80,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00404"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "60500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "14200"
+    } ]
+  },
+  "81" : {
+    "id" : 81,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.004"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "60000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "14000"
+    } ]
+  },
+  "82" : {
+    "id" : 82,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00395"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "59500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "13800"
+    } ]
+  },
+  "83" : {
+    "id" : 83,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0039"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "59000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "13600"
+    } ]
+  },
+  "84" : {
+    "id" : 84,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00385"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "58500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "13400"
+    } ]
+  },
+  "85" : {
+    "id" : 85,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0038"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "58000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "13200"
+    } ]
+  },
+  "86" : {
+    "id" : 86,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00375"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "57500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "13000"
+    } ]
+  },
+  "87" : {
+    "id" : 87,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0037"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "57000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "12800"
+    } ]
+  },
+  "88" : {
+    "id" : 88,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00365"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "56500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "12600"
+    } ]
+  },
+  "89" : {
+    "id" : 89,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0036"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "56000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "12400"
+    } ]
+  },
+  "90" : {
+    "id" : 90,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0035499999999999998"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "55500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "12200"
+    } ]
+  },
+  "91" : {
+    "id" : 91,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0035"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "55000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "12000"
+    } ]
+  },
+  "92" : {
+    "id" : 92,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00346"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "54500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "11800"
+    } ]
+  },
+  "93" : {
+    "id" : 93,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0034100000000000003"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "54000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "11600"
+    } ]
+  },
+  "94" : {
+    "id" : 94,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0033599999999999997"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "53500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "11400"
+    } ]
+  },
+  "95" : {
+    "id" : 95,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00331"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "53000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "11200"
+    } ]
+  },
+  "96" : {
+    "id" : 96,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00326"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "52500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "11000"
+    } ]
+  },
+  "97" : {
+    "id" : 97,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00321"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "52000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "10800"
+    } ]
+  },
+  "98" : {
+    "id" : 98,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00316"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "51500000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "10600"
+    } ]
+  },
+  "99" : {
+    "id" : 99,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.00311"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "51000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "10400"
+    } ]
+  },
+  "100" : {
+    "id" : 100,
+    "model" : [ {
+      "Id" : 44390001,
+      "way" : 1,
+      "currency1" : 151,
+      "parameter1" : "0.0030600000000000002"
+    }, {
+      "Id" : 44390002,
+      "way" : 2,
+      "currency1" : 151,
+      "parameter1" : "50000000"
+    }, {
+      "Id" : 44390003,
+      "way" : 2,
+      "currency1" : 150,
+      "parameter1" : "10000"
+    } ]
+  }
+}

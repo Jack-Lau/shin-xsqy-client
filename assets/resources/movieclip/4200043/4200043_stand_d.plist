@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>jubaopen.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>anchor</key>
+                <string>{0.638298,0.203593}</string>
+                <key>spriteOffset</key>
+                <string>{2,-6}</string>
+                <key>spriteSize</key>
+                <string>{366,308}</string>
+                <key>spriteSourceSize</key>
+                <string>{376,334}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{366,308}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>4200043_stand_d.png</string>
+            <key>size</key>
+            <string>{368,310}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:50f990d89c70e5b9ec1aad3967d61ef6:5107e1b26ae5104299b6dd4942bafd2c:b117e2888d75fd243a261623a7431e7a$</string>
+            <key>textureFileName</key>
+            <string>4200043_stand_d.png</string>
+        </dict>
+    </dict>
+</plist>

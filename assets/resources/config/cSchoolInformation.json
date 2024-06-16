@@ -1,0 +1,114 @@
+{
+  "100" : {
+    "id" : 100,
+    "school" : "无门派",
+    "ability" : [ {
+      "abilityId" : 100000,
+      "abilityName" : "太虚剑意"
+    } ]
+  },
+  "101" : {
+    "id" : 101,
+    "school" : "凌霄殿",
+    "ability" : [ {
+      "abilityId" : 101100,
+      "abilityName" : "四边静"
+    }, {
+      "abilityId" : 101200,
+      "abilityName" : "凝血刃"
+    }, {
+      "abilityId" : 101300,
+      "abilityName" : "凌霄剑"
+    }, {
+      "abilityId" : 101400,
+      "abilityName" : "鬼神泣"
+    }, {
+      "abilityId" : 101500,
+      "abilityName" : "千钧击"
+    }, {
+      "abilityId" : 101600,
+      "abilityName" : "九天秘法"
+    }, {
+      "abilityId" : 101700,
+      "abilityName" : "藏龙剑气"
+    } ]
+  },
+  "102" : {
+    "id" : 102,
+    "school" : "普陀山",
+    "ability" : [ {
+      "abilityId" : 102700,
+      "abilityName" : "大慈心光渡"
+    }, {
+      "abilityId" : 102400,
+      "abilityName" : "云海潮生"
+    }, {
+      "abilityId" : 102300,
+      "abilityName" : "回风饮露"
+    }, {
+      "abilityId" : 102200,
+      "abilityName" : "莲华妙法"
+    }, {
+      "abilityId" : 102500,
+      "abilityName" : "返璞归真"
+    }, {
+      "abilityId" : 102600,
+      "abilityName" : "涤凡仙露"
+    }, {
+      "abilityId" : 102100,
+      "abilityName" : "森罗万象"
+    } ]
+  },
+  "103" : {
+    "id" : 103,
+    "school" : "盘丝洞",
+    "ability" : [ {
+      "abilityId" : 103500,
+      "abilityName" : "七煞诀"
+    }, {
+      "abilityId" : 103400,
+      "abilityName" : "勾魂丝"
+    }, {
+      "abilityId" : 103300,
+      "abilityName" : "封魂咒"
+    }, {
+      "abilityId" : 103100,
+      "abilityName" : "万蛊噬心"
+    }, {
+      "abilityId" : 103200,
+      "abilityName" : "六脉血逆"
+    }, {
+      "abilityId" : 103600,
+      "abilityName" : "雾里看花"
+    }, {
+      "abilityId" : 103700,
+      "abilityName" : "穿花箭"
+    } ]
+  },
+  "104" : {
+    "id" : 104,
+    "school" : "五庄观",
+    "ability" : [ {
+      "abilityId" : 104100,
+      "abilityName" : "万化归一诀"
+    }, {
+      "abilityId" : 104200,
+      "abilityName" : "剑雨藏锋"
+    }, {
+      "abilityId" : 104300,
+      "abilityName" : "道法自然"
+    }, {
+      "abilityId" : 104700,
+      "abilityName" : "八方湮灭"
+    }, {
+      "abilityId" : 104500,
+      "abilityName" : "霜天剑舞"
+    }, {
+      "abilityId" : 104600,
+      "abilityName" : "御剑伏魔"
+    }, {
+      "abilityId" : 104400,
+      "abilityName" : "上善若水"
+    } ]
+  }
+}

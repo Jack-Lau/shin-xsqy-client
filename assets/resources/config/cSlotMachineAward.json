@@ -1,0 +1,83 @@
+{
+  "1" : {
+    "id" : 1,
+    "awardName" : "平平无奇",
+    "award" : 4023,
+    "topPrize" : 0,
+    "icon" : 20028,
+    "showBorderEffect" : 0,
+    "currencyId" : 20028,
+    "amount" : 1,
+    "condition" : "摇出不触发任何另外6种组合的卡"
+  },
+  "2" : {
+    "id" : 2,
+    "awardName" : "双喜临门",
+    "award" : 4024,
+    "topPrize" : 0,
+    "icon" : 4410005,
+    "showBorderEffect" : 0,
+    "currencyId" : 151,
+    "amount" : 12,
+    "condition" : "仅摇出1种有两张相同且不为空的卡"
+  },
+  "3" : {
+    "id" : 3,
+    "awardName" : "三阳开泰",
+    "award" : 4025,
+    "topPrize" : 0,
+    "icon" : 4410006,
+    "showBorderEffect" : 0,
+    "currencyId" : 151,
+    "amount" : 50,
+    "condition" : "摇出3张完全一样且不为空的卡"
+  },
+  "4" : {
+    "id" : 4,
+    "awardName" : "双双两两",
+    "award" : 4026,
+    "interfaceBroadcast" : 3290003,
+    "topPrize" : 0,
+    "icon" : 4410007,
+    "showBorderEffect" : 0,
+    "currencyId" : 151,
+    "amount" : 75,
+    "condition" : "仅摇出2种不为空的卡，每种各有2张"
+  },
+  "5" : {
+    "id" : 5,
+    "awardName" : "师徒四人",
+    "award" : 4027,
+    "interfaceBroadcast" : 3290003,
+    "topPrize" : 1,
+    "icon" : 4410010,
+    "showBorderEffect" : 1,
+    "currencyId" : 151,
+    "amount" : 125,
+    "condition" : "摇到4张都不相同且不为空的卡"
+  },
+  "6" : {
+    "id" : 6,
+    "awardName" : "四平八稳",
+    "award" : 4028,
+    "interfaceBroadcast" : 3290003,
+    "topPrize" : 1,
+    "icon" : 4410008,
+    "showBorderEffect" : 1,
+    "currencyId" : 151,
+    "amount" : 200,
+    "condition" : "摇到4张完全一样且不为空卡的卡"
+  },
+  "7" : {
+    "id" : 7,
+    "awardName" : "四大皆空",
+    "award" : 4029,
+    "interfaceBroadcast" : 3290003,
+    "topPrize" : 1,
+    "icon" : 4410009,
+    "showBorderEffect" : 1,
+    "currencyId" : 151,
+    "amount" : 1000,
+    "condition" : "摇出4张空卡"
+  }
+}

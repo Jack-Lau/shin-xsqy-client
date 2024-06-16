@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.Material",
+  "_name": "FashionMaterial",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "cfa4cd03-860d-4b65-9633-97b3925119fb"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {},
+      "defines": {}
+    }
+  }
+}

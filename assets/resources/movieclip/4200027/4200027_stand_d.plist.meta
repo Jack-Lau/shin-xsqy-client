@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "a4d5c99b-d0c5-449b-b5bd-b3c0f5b07ebc",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "0cb321c2-34b2-421f-9437-11d4be0c54e3",
+  "size": {
+    "width": 206,
+    "height": 161
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "香炉.png": {
+      "ver": "1.0.6",
+      "uuid": "3cacce65-ef76-47a0-bd03-68cdfc6f1c49",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0cb321c2-34b2-421f-9437-11d4be0c54e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -32,
+      "offsetY": -19,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 204,
+      "height": 159,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

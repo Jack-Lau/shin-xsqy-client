@@ -1,0 +1,149 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "main_ui_fold",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "awardBtn": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 172
+            },
+            {
+              "frame": 0.5,
+              "value": 250
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "mailBtn": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 72
+            },
+            {
+              "frame": 0.5,
+              "value": 250
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "rankBtn": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -28
+            },
+            {
+              "frame": 0.5,
+              "value": 250
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "hongbaoBtn": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -128
+            },
+            {
+              "frame": 0.5,
+              "value": 250
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "settingBtn": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -228
+            },
+            {
+              "frame": 0.5,
+              "value": 250
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "foldBtn": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -180
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,167 @@
+{
+  "4400001" : {
+    "id" : 4400001,
+    "name" : "装备打造",
+    "currency" : 150,
+    "start" : 5000,
+    "cromoteCondition" : 100,
+    "cromoteValue" : 50,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0.0003",
+    "min" : 5000
+  },
+  "4400002" : {
+    "id" : 4400002,
+    "name" : "宠物获得",
+    "currency" : 150,
+    "start" : 5000,
+    "cromoteCondition" : 100,
+    "cromoteValue" : 50,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0.0003",
+    "min" : 5000
+  },
+  "4400003" : {
+    "id" : 4400003,
+    "name" : "经验抽奖",
+    "currency" : 153,
+    "start" : 10000000,
+    "cromoteCondition" : 100,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 10000000
+  },
+  "4402000" : {
+    "id" : 4402000,
+    "name" : "建邺",
+    "currency" : 150,
+    "start" : 500,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4402001" : {
+    "id" : 4402001,
+    "name" : "普陀",
+    "currency" : 150,
+    "start" : 500,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4402002" : {
+    "id" : 4402002,
+    "name" : "蓬莱",
+    "currency" : 150,
+    "start" : 500,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4402003" : {
+    "id" : 4402003,
+    "name" : "北俱",
+    "currency" : 150,
+    "start" : 500,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4402004" : {
+    "id" : 4402004,
+    "name" : "五庄观",
+    "currency" : 150,
+    "start" : 500,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4402005" : {
+    "id" : 4402005,
+    "name" : "野外",
+    "currency" : 150,
+    "start" : 500,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4401000" : {
+    "id" : 4401000,
+    "name" : "建邺",
+    "currency" : 151,
+    "start" : 500000,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4401001" : {
+    "id" : 4401001,
+    "name" : "普陀",
+    "currency" : 151,
+    "start" : 500000,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4401002" : {
+    "id" : 4401002,
+    "name" : "蓬莱",
+    "currency" : 151,
+    "start" : 500000,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4401003" : {
+    "id" : 4401003,
+    "name" : "北俱",
+    "currency" : 151,
+    "start" : 500000,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4401004" : {
+    "id" : 4401004,
+    "name" : "五庄观",
+    "currency" : 151,
+    "start" : 500000,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  },
+  "4401005" : {
+    "id" : 4401005,
+    "name" : "野外",
+    "currency" : 151,
+    "start" : 500000,
+    "cromoteCondition" : 1000,
+    "cromoteValue" : 0,
+    "reduceCondition" : 86400,
+    "reduceValue" : "0",
+    "min" : 0
+  }
+}

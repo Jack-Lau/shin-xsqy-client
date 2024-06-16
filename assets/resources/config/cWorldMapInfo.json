@@ -1,0 +1,102 @@
+{
+  "1" : {
+    "id" : 1,
+    "name" : "建邺城",
+    "mapId" : 1,
+    "buttonX" : 513,
+    "buttonY" : 428,
+    "nameX" : 671,
+    "nameY" : 436,
+    "isFlipHorizontal" : 0
+  },
+  "2" : {
+    "id" : 2,
+    "name" : "郊外",
+    "mapId" : 2,
+    "buttonX" : 314,
+    "buttonY" : 522,
+    "nameX" : 276,
+    "nameY" : 471,
+    "isFlipHorizontal" : 0
+  },
+  "3" : {
+    "id" : 3,
+    "name" : "凌霄殿",
+    "mapId" : 3,
+    "buttonX" : 309,
+    "buttonY" : 321,
+    "nameX" : 436,
+    "nameY" : 252,
+    "isFlipHorizontal" : 1
+  },
+  "4" : {
+    "id" : 4,
+    "name" : "五庄观",
+    "mapId" : 4,
+    "buttonX" : 132,
+    "buttonY" : 645,
+    "nameX" : 98,
+    "nameY" : 590,
+    "isFlipHorizontal" : 1
+  },
+  "5" : {
+    "id" : 5,
+    "name" : "普陀山",
+    "mapId" : 5,
+    "buttonX" : 526,
+    "buttonY" : 697,
+    "nameX" : 635,
+    "nameY" : 641,
+    "isFlipHorizontal" : 0
+  },
+  "6" : {
+    "id" : 6,
+    "name" : "盘丝洞",
+    "mapId" : 6,
+    "buttonX" : 58,
+    "buttonY" : 429,
+    "nameX" : 151,
+    "nameY" : 364,
+    "isFlipHorizontal" : 1
+  },
+  "7" : {
+    "id" : 7,
+    "name" : "蓬莱",
+    "mapId" : 7,
+    "buttonX" : 552,
+    "buttonY" : 271,
+    "nameX" : 681,
+    "nameY" : 211,
+    "isFlipHorizontal" : 0
+  },
+  "8" : {
+    "id" : 8,
+    "name" : "北俱芦洲",
+    "mapId" : 8,
+    "buttonX" : 185,
+    "buttonY" : 210,
+    "nameX" : 132,
+    "nameY" : 165,
+    "isFlipHorizontal" : 1
+  },
+  "9" : {
+    "id" : 9,
+    "name" : "地府",
+    "mapId" : 9,
+    "buttonX" : 278,
+    "buttonY" : 867,
+    "nameX" : 399,
+    "nameY" : 791,
+    "isFlipHorizontal" : 1
+  },
+  "10" : {
+    "id" : 10,
+    "name" : "尊王坛",
+    "mapId" : 10,
+    "buttonX" : 408,
+    "buttonY" : 161,
+    "nameX" : 389,
+    "nameY" : 123,
+    "isFlipHorizontal" : 0
+  }
+}

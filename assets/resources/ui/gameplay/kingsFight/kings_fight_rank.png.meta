@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ce7b0dbb-d44d-4b48-ae23-718d095ef760",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 937,
+  "height": 507,
+  "platformSettings": {},
+  "subMetas": {
+    "kings_fight_rank": {
+      "ver": "1.0.6",
+      "uuid": "e22415ea-9fb6-43e3-8e1b-e126466d949e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ce7b0dbb-d44d-4b48-ae23-718d095ef760",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 933,
+      "height": 502,
+      "rawWidth": 937,
+      "rawHeight": 507,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

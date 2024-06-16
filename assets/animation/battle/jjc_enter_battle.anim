@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jjc_enter_battle",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "original_model-bust-pk_4000002": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1068
+            },
+            {
+              "frame": 0.5,
+              "value": 300
+            },
+            {
+              "frame": 0.75,
+              "value": 300
+            },
+            {
+              "frame": 1.25,
+              "value": -468
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,290 @@
+{
+  "1" : {
+    "id" : 1,
+    "name" : "建邺城",
+    "produceCurrencyId" : 196,
+    "currencyName" : "门贡",
+    "expeditionTeam" : [ {
+      "id" : 4420001,
+      "efficiency" : 1000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420002,
+      "efficiency" : 2000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420003,
+      "efficiency" : 6000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420004,
+      "efficiency" : 20000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420005,
+      "efficiency" : 40000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420006,
+      "efficiency" : 100000,
+      "totalTime" : 86400
+    } ],
+    "kcUnitTime" : 3600,
+    "goldUnitTime" : 3600,
+    "kcFloatingPrice" : 4401000,
+    "goldFloatingPrice" : 4402000,
+    "expeditionRequireLevel" : 40
+  },
+  "2" : {
+    "id" : 2,
+    "name" : "野外",
+    "produceCurrencyId" : 153,
+    "currencyName" : "经验",
+    "expeditionTeam" : [ {
+      "id" : 4420001,
+      "efficiency" : 100000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420002,
+      "efficiency" : 200000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420003,
+      "efficiency" : 600000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420004,
+      "efficiency" : 2000000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420005,
+      "efficiency" : 4000000,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420006,
+      "efficiency" : 10000000,
+      "totalTime" : 86400
+    } ],
+    "kcUnitTime" : 3600,
+    "goldUnitTime" : 3600,
+    "kcFloatingPrice" : 4401000,
+    "goldFloatingPrice" : 4402000,
+    "expeditionRequireLevel" : 70
+  },
+  "3" : {
+    "id" : 3,
+    "name" : "凌霄殿",
+    "produceCurrencyId" : 185,
+    "currencyName" : "金坷垃",
+    "expeditionTeam" : [ {
+      "id" : 4420001,
+      "efficiency" : 5,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420002,
+      "efficiency" : 10,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420003,
+      "efficiency" : 30,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420004,
+      "efficiency" : 100,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420005,
+      "efficiency" : 200,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420006,
+      "efficiency" : 500,
+      "totalTime" : 86400
+    } ],
+    "kcUnitTime" : 3600,
+    "goldUnitTime" : 3600,
+    "kcFloatingPrice" : 4401000,
+    "goldFloatingPrice" : 4402000,
+    "expeditionRequireLevel" : 80
+  },
+  "4" : {
+    "id" : 4,
+    "name" : "五庄观",
+    "produceCurrencyId" : 168,
+    "currencyName" : "九灵仙丹",
+    "expeditionTeam" : [ {
+      "id" : 4420001,
+      "efficiency" : 10,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420002,
+      "efficiency" : 20,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420003,
+      "efficiency" : 60,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420004,
+      "efficiency" : 200,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420005,
+      "efficiency" : 400,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420006,
+      "efficiency" : 1000,
+      "totalTime" : 86400
+    } ],
+    "kcUnitTime" : 3600,
+    "goldUnitTime" : 3600,
+    "kcFloatingPrice" : 4401000,
+    "goldFloatingPrice" : 4402000,
+    "expeditionRequireLevel" : 60
+  },
+  "5" : {
+    "id" : 5,
+    "name" : "普陀",
+    "produceCurrencyId" : 160,
+    "currencyName" : "灵宠要诀",
+    "expeditionTeam" : [ {
+      "id" : 4420001,
+      "efficiency" : 20,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420002,
+      "efficiency" : 40,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420003,
+      "efficiency" : 120,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420004,
+      "efficiency" : 400,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420005,
+      "efficiency" : 800,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420006,
+      "efficiency" : 2000,
+      "totalTime" : 86400
+    } ],
+    "kcUnitTime" : 3600,
+    "goldUnitTime" : 3600,
+    "kcFloatingPrice" : 4401000,
+    "goldFloatingPrice" : 4402000,
+    "expeditionRequireLevel" : 40
+  },
+  "7" : {
+    "id" : 7,
+    "name" : "蓬莱",
+    "produceCurrencyId" : 158,
+    "currencyName" : "冲星灵丹",
+    "expeditionTeam" : [ {
+      "id" : 4420001,
+      "efficiency" : 40,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420002,
+      "efficiency" : 80,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420003,
+      "efficiency" : 240,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420004,
+      "efficiency" : 800,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420005,
+      "efficiency" : 1600,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420006,
+      "efficiency" : 4000,
+      "totalTime" : 86400
+    } ],
+    "kcUnitTime" : 3600,
+    "goldUnitTime" : 3600,
+    "kcFloatingPrice" : 4401000,
+    "goldFloatingPrice" : 4402000,
+    "expeditionRequireLevel" : 40
+  },
+  "8" : {
+    "id" : 8,
+    "name" : "北俱",
+    "produceCurrencyId" : 154,
+    "currencyName" : "强化石",
+    "expeditionTeam" : [ {
+      "id" : 4420001,
+      "efficiency" : 10,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420002,
+      "efficiency" : 20,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420003,
+      "efficiency" : 60,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420004,
+      "efficiency" : 200,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420005,
+      "efficiency" : 400,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420006,
+      "efficiency" : 1000,
+      "totalTime" : 86400
+    } ],
+    "kcUnitTime" : 3600,
+    "goldUnitTime" : 3600,
+    "kcFloatingPrice" : 4401000,
+    "goldFloatingPrice" : 4402000,
+    "expeditionRequireLevel" : 40
+  },
+  "9" : {
+    "id" : 9,
+    "name" : "地府",
+    "produceCurrencyId" : 195,
+    "currencyName" : "魂晶",
+    "expeditionTeam" : [ {
+      "id" : 4420001,
+      "efficiency" : 2,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420002,
+      "efficiency" : 4,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420003,
+      "efficiency" : 12,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420004,
+      "efficiency" : 40,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420005,
+      "efficiency" : 80,
+      "totalTime" : 86400
+    }, {
+      "id" : 4420006,
+      "efficiency" : 200,
+      "totalTime" : 86400
+    } ],
+    "kcUnitTime" : 3600,
+    "goldUnitTime" : 3600,
+    "kcFloatingPrice" : 4401000,
+    "goldFloatingPrice" : 4402000,
+    "expeditionRequireLevel" : 90
+  }
+}

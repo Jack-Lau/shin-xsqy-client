@@ -1,0 +1,178 @@
+{
+  "300018" : {
+    "id" : 300018,
+    "advancedId" : 300019,
+    "cost" : [ {
+      "currencyId" : 180,
+      "amount" : 2
+    }, {
+      "currencyId" : 181,
+      "amount" : 2
+    }, {
+      "currencyId" : 182,
+      "amount" : 2
+    }, {
+      "currencyId" : 183,
+      "amount" : 2
+    }, {
+      "currencyId" : 184,
+      "amount" : 2
+    } ],
+    "getAbility" : 310115,
+    "promoteAptitude" : 20
+  },
+  "300019" : {
+    "id" : 300019,
+    "advancedId" : 300020,
+    "cost" : [ {
+      "currencyId" : 180,
+      "amount" : 4
+    }, {
+      "currencyId" : 181,
+      "amount" : 4
+    }, {
+      "currencyId" : 182,
+      "amount" : 4
+    }, {
+      "currencyId" : 183,
+      "amount" : 4
+    }, {
+      "currencyId" : 184,
+      "amount" : 4
+    } ],
+    "getAbility" : 310116,
+    "promoteAptitude" : 20
+  },
+  "300020" : {
+    "id" : 300020,
+    "advancedId" : 300021,
+    "cost" : [ {
+      "currencyId" : 180,
+      "amount" : 6
+    }, {
+      "currencyId" : 181,
+      "amount" : 6
+    }, {
+      "currencyId" : 182,
+      "amount" : 6
+    }, {
+      "currencyId" : 183,
+      "amount" : 6
+    }, {
+      "currencyId" : 184,
+      "amount" : 6
+    } ],
+    "getAbility" : 310117,
+    "promoteAptitude" : 20
+  },
+  "300021" : {
+    "id" : 300021,
+    "advancedId" : 300022,
+    "cost" : [ {
+      "currencyId" : 180,
+      "amount" : 8
+    }, {
+      "currencyId" : 181,
+      "amount" : 8
+    }, {
+      "currencyId" : 182,
+      "amount" : 8
+    }, {
+      "currencyId" : 183,
+      "amount" : 8
+    }, {
+      "currencyId" : 184,
+      "amount" : 8
+    } ],
+    "getAbility" : 310128,
+    "promoteAptitude" : 20
+  },
+  "300023" : {
+    "id" : 300023,
+    "advancedId" : 300024,
+    "cost" : [ {
+      "currencyId" : 175,
+      "amount" : 2
+    }, {
+      "currencyId" : 176,
+      "amount" : 2
+    }, {
+      "currencyId" : 177,
+      "amount" : 2
+    }, {
+      "currencyId" : 178,
+      "amount" : 2
+    }, {
+      "currencyId" : 179,
+      "amount" : 2
+    } ],
+    "getAbility" : 310115,
+    "promoteAptitude" : 20
+  },
+  "300024" : {
+    "id" : 300024,
+    "advancedId" : 300025,
+    "cost" : [ {
+      "currencyId" : 175,
+      "amount" : 4
+    }, {
+      "currencyId" : 176,
+      "amount" : 4
+    }, {
+      "currencyId" : 177,
+      "amount" : 4
+    }, {
+      "currencyId" : 178,
+      "amount" : 4
+    }, {
+      "currencyId" : 179,
+      "amount" : 4
+    } ],
+    "getAbility" : 310116,
+    "promoteAptitude" : 20
+  },
+  "300025" : {
+    "id" : 300025,
+    "advancedId" : 300026,
+    "cost" : [ {
+      "currencyId" : 175,
+      "amount" : 6
+    }, {
+      "currencyId" : 176,
+      "amount" : 6
+    }, {
+      "currencyId" : 177,
+      "amount" : 6
+    }, {
+      "currencyId" : 178,
+      "amount" : 6
+    }, {
+      "currencyId" : 179,
+      "amount" : 6
+    } ],
+    "getAbility" : 310117,
+    "promoteAptitude" : 20
+  },
+  "300026" : {
+    "id" : 300026,
+    "advancedId" : 300027,
+    "cost" : [ {
+      "currencyId" : 175,
+      "amount" : 8
+    }, {
+      "currencyId" : 176,
+      "amount" : 8
+    }, {
+      "currencyId" : 177,
+      "amount" : 8
+    }, {
+      "currencyId" : 178,
+      "amount" : 8
+    }, {
+      "currencyId" : 179,
+      "amount" : 8
+    } ],
+    "getAbility" : 310128,
+    "promoteAptitude" : 20
+  }
+}

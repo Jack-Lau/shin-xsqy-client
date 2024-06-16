@@ -1,0 +1,170 @@
+{
+  "1" : {
+    "id" : 1,
+    "exampleId" : 4000005,
+    "alwayUse" : 1,
+    "part" : [ {
+      "id" : 1,
+      "color" : 360,
+      "saturation" : 71,
+      "brightness" : 65
+    }, {
+      "id" : 2,
+      "color" : 32,
+      "saturation" : 98,
+      "brightness" : 94
+    }, {
+      "id" : 3,
+      "color" : 3,
+      "saturation" : 80,
+      "brightness" : 72
+    } ]
+  },
+  "2" : {
+    "id" : 2,
+    "exampleId" : 4000005,
+    "alwayUse" : 2,
+    "part" : [ {
+      "id" : 1,
+      "color" : 314,
+      "saturation" : 57,
+      "brightness" : 59
+    }, {
+      "id" : 2,
+      "color" : 339,
+      "saturation" : 55,
+      "brightness" : 38
+    }, {
+      "id" : 3,
+      "color" : 0,
+      "saturation" : 67,
+      "brightness" : 11
+    } ]
+  },
+  "3" : {
+    "id" : 3,
+    "exampleId" : 4000006,
+    "alwayUse" : 1,
+    "part" : [ {
+      "id" : 1,
+      "color" : 360,
+      "saturation" : 72,
+      "brightness" : 67
+    }, {
+      "id" : 2,
+      "color" : 291,
+      "saturation" : 38,
+      "brightness" : 100
+    }, {
+      "id" : 3,
+      "color" : 318,
+      "saturation" : 69,
+      "brightness" : 60
+    } ]
+  },
+  "4" : {
+    "id" : 4,
+    "exampleId" : 4000006,
+    "alwayUse" : 2,
+    "part" : [ {
+      "id" : 1,
+      "color" : 355,
+      "saturation" : 74,
+      "brightness" : 63
+    }, {
+      "id" : 2,
+      "color" : 218,
+      "saturation" : 97,
+      "brightness" : 100
+    }, {
+      "id" : 3,
+      "color" : 227,
+      "saturation" : 23,
+      "brightness" : 93
+    } ]
+  },
+  "5" : {
+    "id" : 5,
+    "exampleId" : 4000007,
+    "alwayUse" : 1,
+    "part" : [ {
+      "id" : 1,
+      "color" : 117,
+      "saturation" : 82,
+      "brightness" : 100
+    }, {
+      "id" : 2,
+      "color" : 110,
+      "saturation" : 80,
+      "brightness" : 54
+    }, {
+      "id" : 3,
+      "color" : 334,
+      "saturation" : 80,
+      "brightness" : 80
+    } ]
+  },
+  "6" : {
+    "id" : 6,
+    "exampleId" : 4000007,
+    "alwayUse" : 2,
+    "part" : [ {
+      "id" : 1,
+      "color" : 212,
+      "saturation" : 0,
+      "brightness" : 100
+    }, {
+      "id" : 2,
+      "color" : 208,
+      "saturation" : 1,
+      "brightness" : 100
+    }, {
+      "id" : 3,
+      "color" : 353,
+      "saturation" : 78,
+      "brightness" : 13
+    } ]
+  },
+  "7" : {
+    "id" : 7,
+    "exampleId" : 4000008,
+    "alwayUse" : 1,
+    "part" : [ {
+      "id" : 1,
+      "color" : 322,
+      "saturation" : 80,
+      "brightness" : 80
+    }, {
+      "id" : 2,
+      "color" : 50,
+      "saturation" : 97,
+      "brightness" : 79
+    }, {
+      "id" : 3,
+      "color" : 299,
+      "saturation" : 75,
+      "brightness" : 16
+    } ]
+  },
+  "8" : {
+    "id" : 8,
+    "exampleId" : 4000008,
+    "alwayUse" : 2,
+    "part" : [ {
+      "id" : 1,
+      "color" : 347,
+      "saturation" : 80,
+      "brightness" : 80
+    }, {
+      "id" : 2,
+      "color" : 46,
+      "saturation" : 100,
+      "brightness" : 85
+    }, {
+      "id" : 3,
+      "color" : 119,
+      "saturation" : 84,
+      "brightness" : 45
+    } ]
+  }
+}

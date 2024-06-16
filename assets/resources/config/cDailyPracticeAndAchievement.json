@@ -1,0 +1,1422 @@
+{
+  "4478001" : {
+    "id" : 4478001,
+    "name" : "每日转转",
+    "icon" : 101,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "今日累计转动10次欢乐大转盘",
+    "feedback" : "点击主界面【欢乐大转盘】前往转动吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478002" : {
+    "id" : 4478002,
+    "name" : "宠物扭蛋",
+    "icon" : 102,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "在扭蛋机中抽取1次宠物",
+    "feedback" : "点击主界面【宠物扭蛋】前往抽一次吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478003" : {
+    "id" : 4478003,
+    "name" : "金光闪闪",
+    "icon" : 103,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "今日金光塔挑战达到30层或以上",
+    "feedback" : "点击主界面【金光塔】开始挑战吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478004" : {
+    "id" : 4478004,
+    "name" : "每日摇钱",
+    "icon" : 104,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "在抢占摇钱树中挑战对手获胜",
+    "feedback" : "点击主界面【抢占摇钱树】挑战玩家吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478005" : {
+    "id" : 4478005,
+    "name" : "每日寻宝",
+    "icon" : 105,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "完成今日的寻宝任务",
+    "feedback" : "点击主界面【藏宝图】点击获得宝图领取任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478006" : {
+    "id" : 4478006,
+    "name" : "经商委派",
+    "icon" : 106,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "今日累计派遣经商2次",
+    "feedback" : "点击主界面下方【经商】按钮开始经商吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478007" : {
+    "id" : 4478007,
+    "name" : "装备打造",
+    "icon" : 107,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "打造一件装备",
+    "feedback" : "点击主界面下方【装备】按钮开始打造吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478008" : {
+    "id" : 4478008,
+    "name" : "装备强化",
+    "icon" : 107,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "成功通过装备强化提升1件装备的星级",
+    "feedback" : "点击主界面下方【装备—强化】开始强化",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478009" : {
+    "id" : 4478009,
+    "name" : "宠物技能",
+    "icon" : 108,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "成功让一只宠物学习到新的普通技能",
+    "feedback" : "点击主界面下方【宠物—技能】学习技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478010" : {
+    "id" : 4478010,
+    "name" : "宠物冲星",
+    "icon" : 108,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "成功提升1只宠物的星阶",
+    "feedback" : "点击主界面下方【宠物—冲星】为爱宠冲星",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478011" : {
+    "id" : 4478011,
+    "name" : "队伍组成",
+    "icon" : 109,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "通过助战组成3人队伍",
+    "feedback" : "点击主界面下方【助战】按钮匹配助战吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4478012" : {
+    "id" : 4478012,
+    "name" : "每日问候",
+    "icon" : 110,
+    "type" : 2,
+    "award" : 5060,
+    "description" : "给一个好友发送聊天信息",
+    "feedback" : "点击主界面右侧【好友】选择一个好友开聊吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 10000
+  },
+  "4470001" : {
+    "id" : 4470001,
+    "name" : "我要转大钱",
+    "icon" : 1,
+    "type" : 1,
+    "award" : 5001,
+    "description" : "通过欢乐大转盘获得1次奖励",
+    "feedback" : "点击主界面【欢乐大转盘】前往转动吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 6
+    }, {
+      "id" : 153,
+      "amount" : 10000
+    } ],
+    "priority" : 9991
+  },
+  "4470002" : {
+    "id" : 4470002,
+    "name" : "转盘小红手",
+    "icon" : 1,
+    "type" : 1,
+    "award" : 5002,
+    "description" : "通过欢乐大转盘获得10次奖励",
+    "feedback" : "点击主界面【欢乐大转盘】前往转动吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9965
+  },
+  "4470003" : {
+    "id" : 4470003,
+    "name" : "呼朋唤友",
+    "icon" : 2,
+    "type" : 1,
+    "award" : 5003,
+    "description" : "邀请1名其他玩家成功加入游戏",
+    "feedback" : "点击主界面【邀请】分享邀请码邀请玩家吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 6
+    }, {
+      "id" : 153,
+      "amount" : 10000
+    } ],
+    "priority" : 9990
+  },
+  "4470004" : {
+    "id" : 4470004,
+    "name" : "把酒言欢",
+    "icon" : 2,
+    "type" : 1,
+    "award" : 5004,
+    "description" : "邀请2名其他玩家成功加入游戏",
+    "feedback" : "点击主界面【邀请】分享邀请码邀请玩家吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9984
+  },
+  "4470005" : {
+    "id" : 4470005,
+    "name" : "刚好凑一桌",
+    "icon" : 2,
+    "type" : 1,
+    "award" : 5005,
+    "description" : "邀请3名其他玩家成功加入游戏",
+    "feedback" : "点击主界面【邀请】分享邀请码邀请玩家吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9964
+  },
+  "4470006" : {
+    "id" : 4470006,
+    "name" : "人多才热闹",
+    "icon" : 2,
+    "type" : 1,
+    "award" : 5006,
+    "description" : "邀请5名其他玩家成功加入游戏",
+    "feedback" : "点击主界面【邀请】分享邀请码邀请玩家吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9949
+  },
+  "4470007" : {
+    "id" : 4470007,
+    "name" : "座位不够了",
+    "icon" : 2,
+    "type" : 1,
+    "award" : 5007,
+    "description" : "增加1个邀请位",
+    "feedback" : "点击主界面【邀请】点击“+”增加邀请位",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9983
+  },
+  "4470008" : {
+    "id" : 4470008,
+    "name" : "礼尚往来",
+    "icon" : 2,
+    "type" : 1,
+    "award" : 5008,
+    "description" : "通过邀请功能获得仙石奖励",
+    "feedback" : "在邀请与分享界面【领取奖励】吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 6
+    }, {
+      "id" : 153,
+      "amount" : 10000
+    } ],
+    "priority" : 9989
+  },
+  "4470009" : {
+    "id" : 4470009,
+    "name" : "扭一扭",
+    "icon" : 3,
+    "type" : 1,
+    "award" : 5009,
+    "description" : "在宠物扭蛋机中累计抽取1次宠物",
+    "feedback" : "点击主界面【宠物扭蛋】前往抽一次吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9982
+  },
+  "4470010" : {
+    "id" : 4470010,
+    "name" : "扭来扭去",
+    "icon" : 3,
+    "type" : 1,
+    "award" : 5010,
+    "description" : "在宠物扭蛋机中累计抽取3次宠物",
+    "feedback" : "点击主界面【宠物扭蛋】前往抽取宠物吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9963
+  },
+  "4470011" : {
+    "id" : 4470011,
+    "name" : "扭上瘾了",
+    "icon" : 3,
+    "type" : 1,
+    "award" : 5011,
+    "description" : "在宠物扭蛋机中累计抽取10次宠物",
+    "feedback" : "点击主界面【宠物扭蛋】前往抽取宠物吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9948
+  },
+  "4470012" : {
+    "id" : 4470012,
+    "name" : "金光扫地僧",
+    "icon" : 4,
+    "type" : 1,
+    "award" : 5012,
+    "description" : "今天在金光塔挑战记录达到20层或以上",
+    "feedback" : "点击主界面【金光塔】往更高层数挑战吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 6
+    }, {
+      "id" : 153,
+      "amount" : 10000
+    } ],
+    "priority" : 9988
+  },
+  "4470013" : {
+    "id" : 4470013,
+    "name" : "金光大侠客",
+    "icon" : 4,
+    "type" : 1,
+    "award" : 5013,
+    "description" : "今天在金光塔挑战记录达到50层或以上",
+    "feedback" : "点击主界面【金光塔】往更高层数挑战吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9962
+  },
+  "4470014" : {
+    "id" : 4470014,
+    "name" : "摇出币啦",
+    "icon" : 5,
+    "type" : 1,
+    "award" : 5014,
+    "description" : "从抢占摇钱树中领取到仙石收益",
+    "feedback" : "在【抢占摇钱树】主界面下方领取奖励吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "amount" : 7000
+    } ],
+    "priority" : 9999
+  },
+  "4470015" : {
+    "id" : 4470015,
+    "name" : "小铁锹",
+    "icon" : 6,
+    "type" : 1,
+    "award" : 5015,
+    "description" : "累计使用藏宝图挖宝1次",
+    "feedback" : "获得宝图后在背包中点击使用即可挖宝",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "amount" : 7000
+    } ],
+    "priority" : 9998
+  },
+  "4470016" : {
+    "id" : 4470016,
+    "name" : "大罗盘",
+    "icon" : 6,
+    "type" : 1,
+    "award" : 5016,
+    "description" : "累计使用藏宝图挖宝3次",
+    "feedback" : "从寻宝任务获得更多藏宝图来挖宝吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 6
+    }, {
+      "id" : 153,
+      "amount" : 10000
+    } ],
+    "priority" : 9987
+  },
+  "4470017" : {
+    "id" : 4470017,
+    "name" : "宝山来客",
+    "icon" : 6,
+    "type" : 1,
+    "award" : 5017,
+    "description" : "累计使用藏宝图挖宝10次",
+    "feedback" : "完成每日寻宝任务获得更多藏宝图来挖宝",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9981
+  },
+  "4470018" : {
+    "id" : 4470018,
+    "name" : "无敌钻地鼠",
+    "icon" : 6,
+    "type" : 1,
+    "award" : 5018,
+    "description" : "累计使用藏宝图挖宝20次",
+    "feedback" : "完成每日寻宝任务获得更多藏宝图来挖宝",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9961
+  },
+  "4470019" : {
+    "id" : 4470019,
+    "name" : "商路拓展",
+    "icon" : 7,
+    "type" : 1,
+    "award" : 5019,
+    "description" : "增加一个经商位置",
+    "feedback" : "在【经商】界面点击增加经商位置",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9980
+  },
+  "4470020" : {
+    "id" : 4470020,
+    "name" : "经商头脑",
+    "icon" : 7,
+    "type" : 1,
+    "award" : 5020,
+    "description" : "消耗仙石进行一次三界经商",
+    "feedback" : "在【经商】中选择更高性价比的商人经商",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9979
+  },
+  "4470021" : {
+    "id" : 4470021,
+    "name" : "真的好优秀",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5021,
+    "description" : "装备一套绿色品质或以上装备",
+    "feedback" : "获得一套绿色品质装备并穿戴",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "amount" : 7000
+    } ],
+    "priority" : 9997
+  },
+  "4470022" : {
+    "id" : 4470022,
+    "name" : "精良的做工",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5022,
+    "description" : "装备一套蓝色品质或以上装备",
+    "feedback" : "获得一套蓝色品质装备并穿戴",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9978
+  },
+  "4470023" : {
+    "id" : 4470023,
+    "name" : "史诗级装备",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5023,
+    "description" : "装备一套紫色品质或以上装备",
+    "feedback" : "获得一套紫色品质装备并穿戴",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9960
+  },
+  "4470024" : {
+    "id" : 4470024,
+    "name" : "哥只是传说",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5024,
+    "description" : "装备一套橙色品质装备",
+    "feedback" : "获得一套橙色品质装备并穿戴",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9947
+  },
+  "4470025" : {
+    "id" : 4470025,
+    "name" : "冶铁匠",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5025,
+    "description" : "打造一件装备",
+    "feedback" : "点击主界面下方【装备】按钮开始打造吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9977
+  },
+  "4470026" : {
+    "id" : 4470026,
+    "name" : "锻铁师",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5026,
+    "description" : "累计打造6次装备",
+    "feedback" : "点击主界面下方【装备】按钮开始打造吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9959
+  },
+  "4470027" : {
+    "id" : 4470027,
+    "name" : "欧冶子",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5027,
+    "description" : "累计打造30次装备",
+    "feedback" : "点击主界面下方【装备】按钮开始打造吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9946
+  },
+  "4470028" : {
+    "id" : 4470028,
+    "name" : "强化学徒",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5028,
+    "description" : "拥有1件强化等级≥4星的装备",
+    "feedback" : "点击主界面下方【装备—强化】开始强化",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9976
+  },
+  "4470029" : {
+    "id" : 4470029,
+    "name" : "强化大师",
+    "icon" : 8,
+    "type" : 1,
+    "award" : 5029,
+    "description" : "拥有1件强化等级≥7星的装备",
+    "feedback" : "点击主界面下方【装备—强化】开始强化",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9945
+  },
+  "4470030" : {
+    "id" : 4470030,
+    "name" : "勤学的灵宠",
+    "icon" : 9,
+    "type" : 1,
+    "award" : 5030,
+    "description" : "拥有一只当前技能数≥5的宠物（不包括冲星激活的技能）",
+    "feedback" : "点击主界面下方【宠物—技能】学习技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9975
+  },
+  "4470031" : {
+    "id" : 4470031,
+    "name" : "学霸级宠物",
+    "icon" : 9,
+    "type" : 1,
+    "award" : 5031,
+    "description" : "拥有一只当前技能数≥10的宠物（不包括冲星激活的技能）",
+    "feedback" : "点击主界面下方【宠物—技能】学习技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9944
+  },
+  "4470032" : {
+    "id" : 4470032,
+    "name" : "星光闪闪",
+    "icon" : 9,
+    "type" : 1,
+    "award" : 5032,
+    "description" : "拥有一只星级≥4星的宠物",
+    "feedback" : "点击主界面下方【宠物—冲星】为爱宠冲星",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9974
+  },
+  "4470033" : {
+    "id" : 4470033,
+    "name" : "星光璀璨",
+    "icon" : 9,
+    "type" : 1,
+    "award" : 5033,
+    "description" : "拥有一只星级≥7星的宠物",
+    "feedback" : "点击主界面下方【宠物—冲星】为爱宠冲星",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9943
+  },
+  "4470034" : {
+    "id" : 4470034,
+    "name" : "两肋插刀",
+    "icon" : 10,
+    "type" : 1,
+    "award" : 5034,
+    "description" : "当前有玩家为你助战",
+    "feedback" : "点击主界面下方【助战】按钮匹配助战吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "amount" : 7000
+    } ],
+    "priority" : 9996
+  },
+  "4470035" : {
+    "id" : 4470035,
+    "name" : "门派跑腿的",
+    "icon" : 11,
+    "type" : 1,
+    "award" : 5035,
+    "description" : "全部门派技能提升到15级",
+    "feedback" : "点击主界面下方【切换-门派】升级门派技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "amount" : 7000
+    } ],
+    "priority" : 9995
+  },
+  "4470036" : {
+    "id" : 4470036,
+    "name" : "门派守门员",
+    "icon" : 11,
+    "type" : 1,
+    "award" : 5036,
+    "description" : "全部门派技能提升到25级",
+    "feedback" : "点击主界面下方【切换-门派】升级门派技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "amount" : 7000
+    } ],
+    "priority" : 9994
+  },
+  "4470037" : {
+    "id" : 4470037,
+    "name" : "门派乖徒儿",
+    "icon" : 11,
+    "type" : 1,
+    "award" : 5037,
+    "description" : "全部门派技能提升到35级",
+    "feedback" : "点击主界面下方【切换-门派】升级门派技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 6
+    }, {
+      "id" : 153,
+      "amount" : 10000
+    } ],
+    "priority" : 9986
+  },
+  "4470038" : {
+    "id" : 4470038,
+    "name" : "门派好弟子",
+    "icon" : 11,
+    "type" : 1,
+    "award" : 5038,
+    "description" : "全部门派技能提升到45级",
+    "feedback" : "点击主界面下方【门派】按钮升级门派技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9973
+  },
+  "4470039" : {
+    "id" : 4470039,
+    "name" : "门派佼佼者",
+    "icon" : 11,
+    "type" : 1,
+    "award" : 5039,
+    "description" : "全部门派技能提升到55级",
+    "feedback" : "点击主界面下方【门派】按钮升级门派技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9958
+  },
+  "4470040" : {
+    "id" : 4470040,
+    "name" : "门派股肱",
+    "icon" : 11,
+    "type" : 1,
+    "award" : 5040,
+    "description" : "全部门派技能提升到65级",
+    "feedback" : "点击主界面下方【门派】按钮升级门派技能吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9942
+  },
+  "4470041" : {
+    "id" : 4470041,
+    "name" : "第一桶金",
+    "icon" : 12,
+    "type" : 1,
+    "award" : 5041,
+    "description" : "成功在交易行中卖出一件商品",
+    "feedback" : "点击主界面下方【交易-我的】去上架商品吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9972
+  },
+  "4470042" : {
+    "id" : 4470042,
+    "name" : "宠物上架",
+    "icon" : 12,
+    "type" : 1,
+    "award" : 5042,
+    "description" : "成功在交易行上架一只宠物",
+    "feedback" : "点击主界面下方【交易-我的】去上架商品吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9971
+  },
+  "4470043" : {
+    "id" : 4470043,
+    "name" : "装备上架",
+    "icon" : 12,
+    "type" : 1,
+    "award" : 5043,
+    "description" : "成功在交易行上架一件装备",
+    "feedback" : "点击主界面下方【交易-我的】去上架商品吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9970
+  },
+  "4470044" : {
+    "id" : 4470044,
+    "name" : "我要赚大钱",
+    "icon" : 12,
+    "type" : 1,
+    "award" : 5044,
+    "description" : "成功在交易行中卖出五件商品",
+    "feedback" : "点击主界面下方【交易-我的】去上架商品吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9957
+  },
+  "4470045" : {
+    "id" : 4470045,
+    "name" : "氪宠物",
+    "icon" : 12,
+    "type" : 1,
+    "award" : 5045,
+    "description" : "在交易行成功购买到一只宠物",
+    "feedback" : "点击主界面下方【交易】去购买商品吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9956
+  },
+  "4470046" : {
+    "id" : 4470046,
+    "name" : "氪装备",
+    "icon" : 12,
+    "type" : 1,
+    "award" : 5046,
+    "description" : "在交易行成功购买到一件装备",
+    "feedback" : "点击主界面下方【交易】去购买商品吧",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9955
+  },
+  "4470047" : {
+    "id" : 4470047,
+    "name" : "初入江湖",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5047,
+    "description" : "通关第一章主线剧情",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "amount" : 7000
+    } ],
+    "priority" : 9993
+  },
+  "4470048" : {
+    "id" : 4470048,
+    "name" : "小试牛刀",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5048,
+    "description" : "通关第二章主线剧情",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 1
+    }, {
+      "id" : 153,
+      "amount" : 7000
+    } ],
+    "priority" : 9992
+  },
+  "4470049" : {
+    "id" : 4470049,
+    "name" : "渐入佳境",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5049,
+    "description" : "通关第三章主线剧情",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 6
+    }, {
+      "id" : 153,
+      "amount" : 10000
+    } ],
+    "priority" : 9985
+  },
+  "4470050" : {
+    "id" : 4470050,
+    "name" : "百战不殆",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5050,
+    "description" : "通关第四章主线剧情",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9969
+  },
+  "4470051" : {
+    "id" : 4470051,
+    "name" : "势如破竹",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5051,
+    "description" : "通关第五章主线剧情",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9954
+  },
+  "4470052" : {
+    "id" : 4470052,
+    "name" : "名震江湖",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5052,
+    "description" : "通关第六章主线剧情",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9953
+  },
+  "4470053" : {
+    "id" : 4470053,
+    "name" : "口是心非",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5053,
+    "description" : "通关支线剧情《小六传》",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9952
+  },
+  "4470054" : {
+    "id" : 4470054,
+    "name" : "生死相许",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5054,
+    "description" : "通关支线剧情《冯达传》",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9951
+  },
+  "4470055" : {
+    "id" : 4470055,
+    "name" : "已成陌路",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5055,
+    "description" : "通关支线剧情《牛河传》",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9968
+  },
+  "4470056" : {
+    "id" : 4470056,
+    "name" : "多情种子",
+    "icon" : 13,
+    "type" : 1,
+    "award" : 5056,
+    "description" : "通关支线剧情《夫少传》",
+    "feedback" : "点击左上角【活动-剧情-前往】追踪该任务",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9967
+  },
+  "4470057" : {
+    "id" : 4470057,
+    "name" : "高山流水",
+    "icon" : 14,
+    "type" : 1,
+    "award" : 5057,
+    "description" : "拥有3名好友",
+    "feedback" : "点击主界面右侧【好友】添加好友吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 9
+    }, {
+      "id" : 153,
+      "amount" : 25000
+    } ],
+    "priority" : 9966
+  },
+  "4470058" : {
+    "id" : 4470058,
+    "name" : "胜友如云",
+    "icon" : 14,
+    "type" : 1,
+    "award" : 5058,
+    "description" : "拥有10名好友",
+    "feedback" : "点击主界面右侧【好友】添加好友吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 20
+    }, {
+      "id" : 153,
+      "amount" : 50000
+    } ],
+    "priority" : 9950
+  },
+  "4470059" : {
+    "id" : 4470059,
+    "name" : "高朋满座",
+    "icon" : 14,
+    "type" : 1,
+    "award" : 5059,
+    "description" : "拥有20名好友",
+    "feedback" : "点击主界面右侧【好友】添加好友吧！",
+    "showAward" : [ {
+      "id" : 152,
+      "amount" : 100
+    }, {
+      "id" : 163,
+      "amount" : 30
+    }, {
+      "id" : 153,
+      "amount" : 75000
+    } ],
+    "priority" : 9941
+  }
+}

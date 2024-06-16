@@ -1,0 +1,1622 @@
+{
+  "870065" : {
+    "id" : 870065,
+    "name" : "[门派]拜访老友",
+    "description" : "许久未见[ffff00]周瑾[ffffff]，帮忙带个口信过去吧！",
+    "fixBehaviors" : "1_169_1713_1715",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870066" : {
+    "id" : 870066,
+    "name" : "[门派]拜访老友",
+    "description" : "许久未见[ffff00]云中仙子[ffffff]，帮忙带个口信过去吧！",
+    "fixBehaviors" : "1_429_1716_1718",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870067" : {
+    "id" : 870067,
+    "name" : "[门派]师门传信",
+    "description" : "将门派近期的消息传达给在外历练的[ffff00]弟子[ffffff]。",
+    "fixBehaviors" : "1_127_1719_1721",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870068" : {
+    "id" : 870068,
+    "name" : "[门派]师门传信",
+    "description" : "将门派近期的消息传达给在外历练的[ffff00]弟子[ffffff]。",
+    "fixBehaviors" : "1_128_1722_1724",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870069" : {
+    "id" : 870069,
+    "name" : "[门派]师门传信",
+    "description" : "将门派近期的消息传达给在外历练的[ffff00]弟子[ffffff]。",
+    "fixBehaviors" : "1_129_1725_1727",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870070" : {
+    "id" : 870070,
+    "name" : "[门派]师门传信",
+    "description" : "将门派的消息传达给在外护法的[ffff00]长老[ffffff]。",
+    "fixBehaviors" : "1_130_1728_1730",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870071" : {
+    "id" : 870071,
+    "name" : "[门派]师门传信",
+    "description" : "将门派的消息传达给在外护法的[ffff00]长老[ffffff]。",
+    "fixBehaviors" : "1_131_1731_1733",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870072" : {
+    "id" : 870072,
+    "name" : "[门派]唤醒弟子",
+    "description" : "唤醒下山守门睡着的[ffff00]弟子[ffffff]。",
+    "fixBehaviors" : "1_132_1734_1736",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870073" : {
+    "id" : 870073,
+    "name" : "[门派]寻访故人",
+    "description" : "寻访门派[ffff00]故友[ffffff]，邀请其上门作客。",
+    "fixBehaviors" : "1_133_1737_1739",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870074" : {
+    "id" : 870074,
+    "name" : "[门派]寻访故人",
+    "description" : "寻访门派[ffff00]故友[ffffff]，邀请其上门作客。",
+    "fixBehaviors" : "1_134_1740_1742",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870075" : {
+    "id" : 870075,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_135_1623_1624",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870076" : {
+    "id" : 870076,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_136_1631_1632",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870077" : {
+    "id" : 870077,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_137_1639_1640",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870078" : {
+    "id" : 870078,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_138_1641_1642",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870079" : {
+    "id" : 870079,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_139_1649_1650",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870080" : {
+    "id" : 870080,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_140_1657_1658",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870081" : {
+    "id" : 870081,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_141_1661_1662",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870082" : {
+    "id" : 870082,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_142_1665_1666",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870083" : {
+    "id" : 870083,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_143_1673_1674",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870084" : {
+    "id" : 870084,
+    "name" : "[门派]回答问题",
+    "description" : "[ffff00]正确回答[ffffff]斑竹刃提出的[ffff00]问题[ffffff]，不然它不让你过去。",
+    "fixBehaviors" : "1_144_1677_1678",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870085" : {
+    "id" : 870085,
+    "name" : "[门派]清扫据点",
+    "description" : "简单[ffff00]打扫[ffffff]建邺城中门派据点，修饰门面。",
+    "fixBehaviors" : "2_145_1703_1703_22",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870086" : {
+    "id" : 870086,
+    "name" : "[门派]温习心法",
+    "description" : "门派长老让你[ffff00]背诵[ffffff]近期学习的[ffff00]修炼心法[ffffff]。",
+    "fixBehaviors" : "2_146_1704_1704_23",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870087" : {
+    "id" : 870087,
+    "name" : "[门派]温习心法",
+    "description" : "门派长老让你[ffff00]背诵[ffffff]近期学习的[ffff00]修炼心法[ffffff]。",
+    "fixBehaviors" : "2_147_1705_1705_24",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870088" : {
+    "id" : 870088,
+    "name" : "[门派]汇报成果",
+    "description" : "向[ffff00]门派长老[ffffff]汇报近期弟子修炼成果。",
+    "fixBehaviors" : "2_148_1706_1706_25",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870089" : {
+    "id" : 870089,
+    "name" : "[门派]汇报成果",
+    "description" : "向[ffff00]门派长老[ffffff]汇报近期弟子修炼成果。",
+    "fixBehaviors" : "2_149_1707_1707_26",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870090" : {
+    "id" : 870090,
+    "name" : "[门派]引水救灾",
+    "description" : "用法术[ffff00]引水[ffffff]帮助受旱灾的百姓。",
+    "fixBehaviors" : "2_150_1708_1708_27",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870091" : {
+    "id" : 870091,
+    "name" : "[门派]加固法阵",
+    "description" : "[ffff00]施法加固[ffffff]门派在此地设下的[ffff00]守护法阵[ffffff]。",
+    "fixBehaviors" : "2_151_1709_1709_28",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870092" : {
+    "id" : 870092,
+    "name" : "[门派]加固法阵",
+    "description" : "[ffff00]施法加固[ffffff]门派在此地设下的[ffff00]守护法阵[ffffff]。",
+    "fixBehaviors" : "2_152_1710_1710_29",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870093" : {
+    "id" : 870093,
+    "name" : "[门派]加固法阵",
+    "description" : "[ffff00]施法加固[ffffff]门派在此地设下的[ffff00]守护法阵[ffffff]。",
+    "fixBehaviors" : "2_153_1711_1711_30",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870094" : {
+    "id" : 870094,
+    "name" : "[门派]滋养神树",
+    "description" : "不得了，神树落了片叶子，赶紧[ffff00]施法滋养[ffffff]一下。",
+    "fixBehaviors" : "2_154_1712_1712_31",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870095" : {
+    "id" : 870095,
+    "name" : "[门派]狐妖作乱",
+    "description" : "有[ffff00]狐妖[ffffff]在建邺城作乱，前去消灭它们！",
+    "fixBehaviors" : "1_155_1683_1683",
+    "fixConditions" : "1040013_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870096" : {
+    "id" : 870096,
+    "name" : "[门派]教训幼妖",
+    "description" : "教训捣乱的[ffff00]幼妖[ffffff]。",
+    "fixBehaviors" : "1_156_1684_1684",
+    "fixConditions" : "1040013_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870097" : {
+    "id" : 870097,
+    "name" : "[门派]群妖乱舞",
+    "description" : "[ffff00]清除[ffffff]在此为害的[ffff00]群妖[ffffff]。",
+    "fixBehaviors" : "1_157_1685_1685",
+    "fixConditions" : "1040013_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870098" : {
+    "id" : 870098,
+    "name" : "[门派]妖群为祸",
+    "description" : "[ffff00]清除[ffffff]在此为祸的[ffff00]群妖[ffffff]。",
+    "fixBehaviors" : "1_158_1686_1686",
+    "fixConditions" : "1040013_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870099" : {
+    "id" : 870099,
+    "name" : "[门派]强盗作乱",
+    "description" : "有[ffff00]强盗[ffffff]在建邺城作乱，前去消灭它们！",
+    "fixBehaviors" : "1_159_1687_1687",
+    "fixConditions" : "1040014_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870100" : {
+    "id" : 870100,
+    "name" : "[门派]土匪作乱",
+    "description" : "有[ffff00]土匪[ffffff]在建邺城作乱，前去消灭它们！",
+    "fixBehaviors" : "1_160_1688_1688",
+    "fixConditions" : "1040014_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870101" : {
+    "id" : 870101,
+    "name" : "[门派]逃兵作乱",
+    "description" : "有[ffff00]逃兵[ffffff]在建邺城作乱，前去消灭它们！",
+    "fixBehaviors" : "1_161_1689_1689",
+    "fixConditions" : "1040014_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870102" : {
+    "id" : 870102,
+    "name" : "[门派]教训懒鬼",
+    "description" : "训导不做早课、懒于修行的[ffff00]弟子[ffffff]。",
+    "fixBehaviors" : "1_162_1690_1690",
+    "fixConditions" : "1040015_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870103" : {
+    "id" : 870103,
+    "name" : "[门派]切磋提升",
+    "description" : "与[ffff00]同门弟子[ffffff]切磋提升自己的实力。",
+    "fixBehaviors" : "1_163_1691_1691",
+    "fixConditions" : "1040015_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870104" : {
+    "id" : 870104,
+    "name" : "[门派]切磋提升",
+    "description" : "与[ffff00]同门弟子[ffffff]切磋一番。",
+    "fixBehaviors" : "1_164_1692_1692",
+    "fixConditions" : "1040015_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870105" : {
+    "id" : 870105,
+    "name" : "[门派]捉拿叛徒",
+    "description" : "去往捉拿叛逃出师门的弟子。",
+    "fixBehaviors" : "1_165_1693_1693",
+    "fixConditions" : "1040016_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870106" : {
+    "id" : 870106,
+    "name" : "[门派]清理门户",
+    "description" : "[ffff00]除掉[ffffff]杀害同门、背叛师门的弟子。",
+    "fixBehaviors" : "1_166_1694_1694",
+    "fixConditions" : "1040016_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870107" : {
+    "id" : 870107,
+    "name" : "[门派]清剿魔修",
+    "description" : "发现[ffff00]魔修[ffffff]老巢，速度前往清剿！",
+    "fixBehaviors" : "1_167_1695_1695",
+    "fixConditions" : "1040016_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870108" : {
+    "id" : 870108,
+    "name" : "[门派]消灭鬼魅",
+    "description" : "消灭害人的[ffff00]鬼魅[ffffff]。",
+    "fixBehaviors" : "1_171_1696_1696",
+    "fixConditions" : "1040017_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870109" : {
+    "id" : 870109,
+    "name" : "[门派]消灭妖孽",
+    "description" : "消灭害人的[ffff00]妖孽[ffffff]。",
+    "fixBehaviors" : "1_172_1697_1697",
+    "fixConditions" : "1040017_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870110" : {
+    "id" : 870110,
+    "name" : "[门派]消灭邪魔",
+    "description" : "消灭害人的[ffff00]邪魔[ffffff]。",
+    "fixBehaviors" : "1_173_1698_1698",
+    "fixConditions" : "1040017_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870111" : {
+    "id" : 870111,
+    "name" : "[门派]消灭妖魔",
+    "description" : "消灭害人的[ffff00]妖魔[ffffff]。",
+    "fixBehaviors" : "1_175_1699_1699",
+    "fixConditions" : "1040017_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870112" : {
+    "id" : 870112,
+    "name" : "[门派]铲除魔教",
+    "description" : "驱邪行动收尾，前往铲除[ffff00]邪教头子[ffffff]。",
+    "fixBehaviors" : "1_176_1700_1700",
+    "fixConditions" : "1040018_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870113" : {
+    "id" : 870113,
+    "name" : "[门派]抓捕余孽",
+    "description" : "抓捕逃跑中的[ffff00]邪教余孽[ffffff]。",
+    "fixBehaviors" : "1_177_1701_1701",
+    "fixConditions" : "1040018_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870114" : {
+    "id" : 870114,
+    "name" : "[门派]清涤蛊惑",
+    "description" : "教训蛊惑平民、谋财害命的[ffff00]异教徒[ffffff]。",
+    "fixBehaviors" : "1_178_1702_1702",
+    "fixConditions" : "1040018_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870115" : {
+    "id" : 870115,
+    "name" : "[门派]清理山魅",
+    "description" : "清理隐匿形迹于[ffff00]蓬莱[ffffff]的[ffff00]山魅[ffffff]。",
+    "fixBehaviors" : "3_7_4",
+    "fixConditions" : "1040019_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870116" : {
+    "id" : 870116,
+    "name" : "[门派]清除山贼",
+    "description" : "于[ffff00]野外[ffffff]清除藏匿的[ffff00]山贼[ffffff]。",
+    "fixBehaviors" : "3_2_3",
+    "fixConditions" : "1040019_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870117" : {
+    "id" : 870117,
+    "name" : "[门派]清除山贼",
+    "description" : "于[ffff00]野外[ffffff]清除藏匿的[ffff00]山贼[ffffff]。",
+    "fixBehaviors" : "3_2_4",
+    "fixConditions" : "1040019_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870118" : {
+    "id" : 870118,
+    "name" : "[门派]教训精怪",
+    "description" : "于[ffff00]蓬莱[ffffff]寻觅并教训戏弄人的精怪。",
+    "fixBehaviors" : "3_7_3",
+    "fixConditions" : "1040019_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870119" : {
+    "id" : 870119,
+    "name" : "[门派]清理妖邪",
+    "description" : "找出隐身于[ffff00]北俱芦洲[ffffff]的[ffff00]妖邪[ffffff]。",
+    "fixBehaviors" : "3_8_4",
+    "fixConditions" : "1040020_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870120" : {
+    "id" : 870120,
+    "name" : "[门派]清除妖物",
+    "description" : "前往[ffff00]野外[ffffff]清除妖物。",
+    "fixBehaviors" : "3_2_3",
+    "fixConditions" : "1040020_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870121" : {
+    "id" : 870121,
+    "name" : "[门派]清除妖物",
+    "description" : "前往[ffff00]北俱芦洲[ffffff]清除妖物。",
+    "fixBehaviors" : "3_8_4",
+    "fixConditions" : "1040020_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870122" : {
+    "id" : 870122,
+    "name" : "[门派]城中巡视",
+    "description" : "前往[ffff00]建邺城[ffffff]巡逻。",
+    "fixBehaviors" : "3_1_3",
+    "fixConditions" : "1040021_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870123" : {
+    "id" : 870123,
+    "name" : "[门派]引出恶灵",
+    "description" : "引出藏身[ffff00]地府[ffffff]的[ffff00]恶灵[ffffff]并清除它。",
+    "fixBehaviors" : "3_9_4",
+    "fixConditions" : "1040021_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870124" : {
+    "id" : 870124,
+    "name" : "[门派]引渡死灵",
+    "description" : "引渡[ffff00]地府[ffffff]中不愿入轮回的[ffff00]死灵[ffffff]。",
+    "fixBehaviors" : "3_9_3",
+    "fixConditions" : "1040021_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870125" : {
+    "id" : 870125,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打败[ffff00]盗宝的胖子[ffffff]。",
+    "fixBehaviors" : "1_372_2870_2870",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870126" : {
+    "id" : 870126,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打败[ffff00]盗宝的胖子[ffffff]。",
+    "fixBehaviors" : "1_373_2871_2871",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870127" : {
+    "id" : 870127,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打败[ffff00]盗宝的胖子[ffffff]。",
+    "fixBehaviors" : "1_374_2872_2872",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870128" : {
+    "id" : 870128,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打败[ffff00]盗宝的胖子[ffffff]。",
+    "fixBehaviors" : "1_375_2873_2873",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870129" : {
+    "id" : 870129,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打败[ffff00]小偷[ffffff]，搜刮脏物。",
+    "fixBehaviors" : "1_376_2874_2874",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870130" : {
+    "id" : 870130,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打败[ffff00]小偷[ffffff]，搜刮脏物。",
+    "fixBehaviors" : "1_377_2875_2875",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870131" : {
+    "id" : 870131,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打败[ffff00]小偷[ffffff]，搜刮脏物。",
+    "fixBehaviors" : "1_378_2876_2876",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870132" : {
+    "id" : 870132,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打败[ffff00]小偷[ffffff]，搜刮脏物。",
+    "fixBehaviors" : "1_379_2877_2877",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870133" : {
+    "id" : 870133,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]贪婪的胖子[ffffff]。",
+    "fixBehaviors" : "1_380_2878_2878",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870134" : {
+    "id" : 870134,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]贪婪的胖子[ffffff]。",
+    "fixBehaviors" : "1_381_2879_2879",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870135" : {
+    "id" : 870135,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]贪婪的胖子[ffffff]。",
+    "fixBehaviors" : "1_382_2880_2880",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870136" : {
+    "id" : 870136,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]强盗[ffffff]，看他手上是否有宝图的讯息。",
+    "fixBehaviors" : "1_389_2881_2881",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870137" : {
+    "id" : 870137,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]强盗[ffffff]，看他手上是否有宝图的讯息。",
+    "fixBehaviors" : "1_390_2882_2882",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870138" : {
+    "id" : 870138,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]强盗[ffffff]，看他手上是否有宝图的讯息。",
+    "fixBehaviors" : "1_391_2883_2883",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870139" : {
+    "id" : 870139,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]强盗[ffffff]，看他手上是否有宝图的讯息。",
+    "fixBehaviors" : "1_392_2884_2884",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870140" : {
+    "id" : 870140,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]土匪[ffffff]，看他手上是否有宝图的讯息。",
+    "fixBehaviors" : "1_393_2885_2885",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870141" : {
+    "id" : 870141,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]土匪[ffffff]，看他手上是否有宝图的讯息。",
+    "fixBehaviors" : "1_394_2886_2886",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870142" : {
+    "id" : 870142,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]土匪[ffffff]，看他手上是否有宝图的讯息。",
+    "fixBehaviors" : "1_395_2887_2887",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870143" : {
+    "id" : 870143,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]土匪[ffffff]，看他手上是否有宝图的讯息。",
+    "fixBehaviors" : "1_396_2888_2888",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870144" : {
+    "id" : 870144,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]盗宝的瘦子[ffffff]，勒令他交出脏物。",
+    "fixBehaviors" : "1_397_2889_2889",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870145" : {
+    "id" : 870145,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]盗宝的瘦子[ffffff]，勒令他交出脏物。",
+    "fixBehaviors" : "1_398_2890_2890",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870146" : {
+    "id" : 870146,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]盗宝的瘦子[ffffff]，勒令他交出脏物。",
+    "fixBehaviors" : "1_399_2891_2891",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870147" : {
+    "id" : 870147,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训[ffff00]盗宝的瘦子[ffffff]，勒令他交出脏物。",
+    "fixBehaviors" : "1_400_2892_2892",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870148" : {
+    "id" : 870148,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训抢人财宝的[ffff00]小混混[ffffff]。",
+    "fixBehaviors" : "1_401_2893_2893",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870149" : {
+    "id" : 870149,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训抢人财宝的[ffff00]小混混[ffffff]。",
+    "fixBehaviors" : "1_402_2894_2894",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870150" : {
+    "id" : 870150,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训抢人财宝的[ffff00]小混混[ffffff]。",
+    "fixBehaviors" : "1_404_2895_2895",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870151" : {
+    "id" : 870151,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "教训抢人财宝的[ffff00]小混混[ffffff]。",
+    "fixBehaviors" : "1_405_2896_2896",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870152" : {
+    "id" : 870152,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]拾荒者[ffffff]手里也许有来路不明的宝图。",
+    "fixBehaviors" : "1_406_2897_2897",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870153" : {
+    "id" : 870153,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]拾荒者[ffffff]手里也许有来路不明的宝图。",
+    "fixBehaviors" : "1_407_2898_2898",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870154" : {
+    "id" : 870154,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]拾荒者[ffffff]手里也许有来路不明的宝图。",
+    "fixBehaviors" : "1_408_2899_2899",
+    "fixConditions" : "1040074_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870155" : {
+    "id" : 870155,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "降服[ffff00]夺宝小妖[ffffff]。",
+    "fixBehaviors" : "1_410_2900_2900",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870156" : {
+    "id" : 870156,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "降服[ffff00]夺宝小妖[ffffff]。",
+    "fixBehaviors" : "1_412_2901_2901",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870157" : {
+    "id" : 870157,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "降服[ffff00]夺宝小妖[ffffff]。",
+    "fixBehaviors" : "1_413_2902_2902",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870158" : {
+    "id" : 870158,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打倒[ffff00]抢钱山猪[ffffff]，不能让它放肆了！",
+    "fixBehaviors" : "1_414_2903_2903",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870159" : {
+    "id" : 870159,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打倒[ffff00]抢钱山猪[ffffff]，不能让它放肆了！",
+    "fixBehaviors" : "1_415_2904_2904",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870160" : {
+    "id" : 870160,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "打倒[ffff00]抢钱山猪[ffffff]，不能让它放肆了！",
+    "fixBehaviors" : "1_416_2905_2905",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870161" : {
+    "id" : 870161,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]成精了的兔子[ffffff]曾经抢走过别人的宝图！",
+    "fixBehaviors" : "1_417_2906_2906",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870162" : {
+    "id" : 870162,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]成精了的兔子[ffffff]曾经抢走过别人的宝图！",
+    "fixBehaviors" : "1_418_2907_2907",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870163" : {
+    "id" : 870163,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]成精了的兔子[ffffff]曾经抢走过别人的宝图！",
+    "fixBehaviors" : "1_419_2908_2908",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870164" : {
+    "id" : 870164,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]兔几[ffffff]就爱小偷小摸，也许宝图就是它摸走的！",
+    "fixBehaviors" : "1_420_2909_2909",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870165" : {
+    "id" : 870165,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]兔几[ffffff]就爱小偷小摸，也许宝图就是它摸走的！",
+    "fixBehaviors" : "1_421_2910_2910",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870166" : {
+    "id" : 870166,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]兔几[ffffff]就爱小偷小摸，也许宝图就是它摸走的！",
+    "fixBehaviors" : "1_422_2911_2911",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870167" : {
+    "id" : 870167,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "听闻[ffff00]江洋大盗[ffffff]月黑风高盗走过宝图！",
+    "fixBehaviors" : "1_432_2912_2912",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870168" : {
+    "id" : 870168,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "听闻[ffff00]江洋大盗[ffffff]月黑风高盗走过宝图！",
+    "fixBehaviors" : "1_433_2913_2913",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870169" : {
+    "id" : 870169,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "听闻[ffff00]江洋大盗[ffffff]月黑风高盗走过宝图！",
+    "fixBehaviors" : "1_434_2914_2914",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870170" : {
+    "id" : 870170,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "听闻[ffff00]江洋大盗[ffffff]月黑风高盗走过宝图！",
+    "fixBehaviors" : "1_435_2915_2915",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870171" : {
+    "id" : 870171,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]仓鼠[ffffff]拿着像宝图一样的东西，嚣张地对着你拍屁股！",
+    "fixBehaviors" : "1_436_2916_2916",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870172" : {
+    "id" : 870172,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]仓鼠[ffffff]拿着像宝图一样的东西，嚣张地对着你拍屁股！",
+    "fixBehaviors" : "1_437_2917_2917",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870173" : {
+    "id" : 870173,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]仓鼠[ffffff]拿着像宝图一样的东西，嚣张地对着你拍屁股！",
+    "fixBehaviors" : "1_438_2918_2918",
+    "fixConditions" : "1040079_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870174" : {
+    "id" : 870174,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]小猫咪[ffffff]抓着宝图一样的东西，死活不肯还给你~",
+    "fixBehaviors" : "1_439_2919_2919",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870175" : {
+    "id" : 870175,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]小猫咪[ffffff]抓着宝图一样的东西，死活不肯还给你~",
+    "fixBehaviors" : "1_440_2920_2920",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870176" : {
+    "id" : 870176,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]小猫咪[ffffff]抓着宝图一样的东西，死活不肯还给你~",
+    "fixBehaviors" : "1_441_2921_2921",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870177" : {
+    "id" : 870177,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]小猫咪[ffffff]抓着宝图一样的东西，死活不肯还给你~",
+    "fixBehaviors" : "1_442_2922_2922",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870178" : {
+    "id" : 870178,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]狗子[ffffff]以为宝图能吃，居然把它叼走了！",
+    "fixBehaviors" : "1_443_2923_2923",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870179" : {
+    "id" : 870179,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]狗子[ffffff]以为宝图能吃，居然把它叼走了！",
+    "fixBehaviors" : "1_444_2924_2924",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870180" : {
+    "id" : 870180,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "那条[ffff00]大黄[ffffff]趁人不备，狗狗祟祟地叼走了什么！",
+    "fixBehaviors" : "1_445_2925_2925",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870181" : {
+    "id" : 870181,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]狗子[ffffff]以为宝图能吃，居然把它叼走了！",
+    "fixBehaviors" : "1_446_2926_2926",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870182" : {
+    "id" : 870182,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]无赖[ffffff]骗走了别人的财物。",
+    "fixBehaviors" : "1_447_2927_2927",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870183" : {
+    "id" : 870183,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]无赖[ffffff]骗走了别人的财物。",
+    "fixBehaviors" : "1_448_2928_2928",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870184" : {
+    "id" : 870184,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]无赖[ffffff]骗走了别人的财物。",
+    "fixBehaviors" : "1_449_2929_2929",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870185" : {
+    "id" : 870185,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]混混[ffffff]声称打赢他的人能获得奖赏。",
+    "fixBehaviors" : "1_450_2930_2930",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870186" : {
+    "id" : 870186,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]混混[ffffff]声称打赢他的人能获得奖赏。",
+    "fixBehaviors" : "1_451_2931_2931",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870187" : {
+    "id" : 870187,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]混混[ffffff]声称打赢他的人能获得奖赏。",
+    "fixBehaviors" : "1_452_2932_2932",
+    "fixConditions" : "1040076_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870188" : {
+    "id" : 870188,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]调皮的山神[ffffff]没事就喜欢捉弄凡人……",
+    "fixBehaviors" : "1_459_2933_2933",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870189" : {
+    "id" : 870189,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff01]调皮的山神[ffffff]没事就喜欢捉弄凡人……",
+    "fixBehaviors" : "1_460_2934_2934",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870190" : {
+    "id" : 870190,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff02]调皮的山神[ffffff]没事就喜欢捉弄凡人……",
+    "fixBehaviors" : "1_461_2935_2935",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870191" : {
+    "id" : 870191,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff02]调皮的山神[ffffff]没事就喜欢捉弄凡人……",
+    "fixBehaviors" : "1_462_2936_2936",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870192" : {
+    "id" : 870192,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "收服[ffff00]山鬼[ffffff]经常会有意外收获。",
+    "fixBehaviors" : "1_463_2937_2937",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870193" : {
+    "id" : 870193,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "收服[ffff00]山鬼[ffffff]经常会有意外收获。",
+    "fixBehaviors" : "1_464_2938_2938",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870194" : {
+    "id" : 870194,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "收服[ffff00]山鬼[ffffff]经常会有意外收获。",
+    "fixBehaviors" : "1_465_2939_2939",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870195" : {
+    "id" : 870195,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]土灵[ffffff]好斗又喜欢珍藏宝物，找它切磋一番？",
+    "fixBehaviors" : "1_466_2940_2940",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870196" : {
+    "id" : 870196,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]土灵[ffffff]好斗又喜欢珍藏宝物，找它切磋一番？",
+    "fixBehaviors" : "1_467_2941_2941",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870197" : {
+    "id" : 870197,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]土灵[ffffff]好斗又喜欢珍藏宝物，找它切磋一番？",
+    "fixBehaviors" : "1_468_2942_2942",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870198" : {
+    "id" : 870198,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]狐妖[ffffff]邪魅一笑，趁人不备夺走宝物。",
+    "fixBehaviors" : "1_469_2943_2943",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870199" : {
+    "id" : 870199,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]狐妖[ffffff]邪魅一笑，趁人不备夺走宝物。",
+    "fixBehaviors" : "1_470_2944_2944",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870200" : {
+    "id" : 870200,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]狐妖[ffffff]邪魅一笑，趁人不备夺走宝物。",
+    "fixBehaviors" : "1_471_2945_2945",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870201" : {
+    "id" : 870201,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]狐妖[ffffff]邪魅一笑，趁人不备夺走宝物。",
+    "fixBehaviors" : "1_472_2946_2946",
+    "fixConditions" : "1040077_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870202" : {
+    "id" : 870202,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]盗墓贼[ffffff]鬼鬼祟祟，肯定又干了坏事！",
+    "fixBehaviors" : "1_473_2947_2947",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870203" : {
+    "id" : 870203,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]盗墓贼[ffffff]鬼鬼祟祟，肯定又干了坏事！",
+    "fixBehaviors" : "1_474_2948_2948",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870204" : {
+    "id" : 870204,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]盗墓贼[ffffff]鬼鬼祟祟，肯定又干了坏事！",
+    "fixBehaviors" : "1_475_2949_2949",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870205" : {
+    "id" : 870205,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大坏人[ffffff]人如其名，不可放过。",
+    "fixBehaviors" : "1_476_2950_2950",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870206" : {
+    "id" : 870206,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大坏人[ffffff]人如其名，不可放过。",
+    "fixBehaviors" : "1_477_2951_2951",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870207" : {
+    "id" : 870207,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大坏人[ffffff]人如其名，不可放过。",
+    "fixBehaviors" : "1_478_2952_2952",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870208" : {
+    "id" : 870208,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大坏人[ffffff]人如其名，不可放过。",
+    "fixBehaviors" : "1_479_2953_2953",
+    "fixConditions" : "1040078_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870209" : {
+    "id" : 870209,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "制服[ffff00]盗宝匪徒[ffffff]！",
+    "fixBehaviors" : "1_486_2954_2954",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870210" : {
+    "id" : 870210,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "制服[ffff00]盗宝匪徒[ffffff]！",
+    "fixBehaviors" : "1_487_2955_2955",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870211" : {
+    "id" : 870211,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "制服[ffff00]盗宝匪徒[ffffff]！",
+    "fixBehaviors" : "1_488_2956_2956",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870212" : {
+    "id" : 870212,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "制服[ffff00]盗宝匪徒[ffffff]！",
+    "fixBehaviors" : "1_489_2957_2957",
+    "fixConditions" : "1040075_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870213" : {
+    "id" : 870213,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]有钱人[ffffff]好像有话要跟你说。",
+    "fixBehaviors" : "1_383_2966_2968",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870214" : {
+    "id" : 870214,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]有钱人[ffffff]好像有话要跟你说。",
+    "fixBehaviors" : "1_384_2969_2971",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870215" : {
+    "id" : 870215,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]有钱人[ffffff]好像有话要跟你说。",
+    "fixBehaviors" : "1_385_2972_2974",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870216" : {
+    "id" : 870216,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]更有钱的人[ffffff]有东西想送给你~",
+    "fixBehaviors" : "1_386_2975_2977",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870217" : {
+    "id" : 870217,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]更有钱的人[ffffff]有东西想送给你~",
+    "fixBehaviors" : "1_387_2978_2980",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870218" : {
+    "id" : 870218,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]更有钱的人[ffffff]有东西想送给你~",
+    "fixBehaviors" : "1_388_2981_2983",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870219" : {
+    "id" : 870219,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大小姐[ffffff]今天心情不错~",
+    "fixBehaviors" : "1_423_2984_2988",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870220" : {
+    "id" : 870220,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大小姐[ffffff]今天心情不错~",
+    "fixBehaviors" : "1_424_2989_2993",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870221" : {
+    "id" : 870221,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大小姐[ffffff]今天心情不错~",
+    "fixBehaviors" : "1_425_2994_2998",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870222" : {
+    "id" : 870222,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]败家子[ffffff]从来不在意家里的宝物……",
+    "fixBehaviors" : "1_426_2999_3001",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870223" : {
+    "id" : 870223,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]败家子[ffffff]从来不在意家里的宝物……",
+    "fixBehaviors" : "1_430_3002_3004",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870224" : {
+    "id" : 870224,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]败家子[ffffff]从来不在意家里的宝物……",
+    "fixBehaviors" : "1_431_3005_3007",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870225" : {
+    "id" : 870225,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大少[ffffff]从来不会自己动手挖宝……",
+    "fixBehaviors" : "1_453_3008_3010",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870226" : {
+    "id" : 870226,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大少[ffffff]从来不会自己动手挖宝……",
+    "fixBehaviors" : "1_454_3011_3013",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870227" : {
+    "id" : 870227,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大少[ffffff]从来不会自己动手挖宝……",
+    "fixBehaviors" : "1_455_3014_3016",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870228" : {
+    "id" : 870228,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]土豪[ffffff]不差钱，问问他关于宝图的消息？",
+    "fixBehaviors" : "1_456_3017_3020",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870229" : {
+    "id" : 870229,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]土豪[ffffff]不差钱，问问他关于宝图的消息？",
+    "fixBehaviors" : "1_457_3021_3024",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870230" : {
+    "id" : 870230,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]土豪[ffffff]不差钱，问问他关于宝图的消息？",
+    "fixBehaviors" : "1_458_3025_3028",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870231" : {
+    "id" : 870231,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]西域商人[ffffff]挣了钱，找你报恩来了~",
+    "fixBehaviors" : "1_480_3029_3032",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870232" : {
+    "id" : 870232,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]西域商人[ffffff]挣了钱，找你报恩来了~",
+    "fixBehaviors" : "1_481_3033_3036",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870233" : {
+    "id" : 870233,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]西域商人[ffffff]挣了钱，找你报恩来了~",
+    "fixBehaviors" : "1_482_3037_3040",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870234" : {
+    "id" : 870234,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大好人[ffffff]做好事，四处派发福利了！",
+    "fixBehaviors" : "1_483_3041_3044",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870235" : {
+    "id" : 870235,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大好人[ffffff]做好事，四处派发福利了！",
+    "fixBehaviors" : "1_484_3045_3048",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870236" : {
+    "id" : 870236,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "[ffff00]大好人[ffffff]做好事，四处派发福利了！",
+    "fixBehaviors" : "1_485_3049_3052",
+    "fixConditions" : "无_A",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870237" : {
+    "id" : 870237,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "眼见宝图在前，混世魔王抢先一步夺走了它！",
+    "fixBehaviors" : "1_490_2958_2958",
+    "fixConditions" : "1040080_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870238" : {
+    "id" : 870238,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "眼见宝图在前，混世魔王抢先一步夺走了它！",
+    "fixBehaviors" : "1_491_2959_2959",
+    "fixConditions" : "1040080_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870239" : {
+    "id" : 870239,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "宝图在魔怪手上，只有打败他们才能获得！",
+    "fixBehaviors" : "1_492_2960_2960",
+    "fixConditions" : "1040080_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870240" : {
+    "id" : 870240,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "宝图在魔怪手上，只有打败他们才能获得！",
+    "fixBehaviors" : "1_493_2961_2961",
+    "fixConditions" : "1040080_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870241" : {
+    "id" : 870241,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "园丁答应你，赶跑汲取摇钱树神力的妖物就送你宝图。",
+    "fixBehaviors" : "1_494_2962_2962",
+    "fixConditions" : "1040081_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870242" : {
+    "id" : 870242,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "园丁答应你，赶跑汲取摇钱树神力的妖物就送你宝图。",
+    "fixBehaviors" : "1_495_2963_2963",
+    "fixConditions" : "1040081_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870243" : {
+    "id" : 870243,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "宝图在妖巢内，轰跑这些妖物才能夺得宝图。",
+    "fixBehaviors" : "1_496_2964_2964",
+    "fixConditions" : "1040081_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  },
+  "870244" : {
+    "id" : 870244,
+    "name" : "[寻宝]寻找宝图",
+    "description" : "宝图在妖巢内，轰跑这些妖物才能夺得宝图。",
+    "fixBehaviors" : "1_497_2965_2965",
+    "fixConditions" : "1040081_A_B",
+    "showQuestChase" : "1",
+    "navigation" : "1"
+  }
+}

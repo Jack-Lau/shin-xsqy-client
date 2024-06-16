@@ -1,0 +1,194 @@
+{
+  "500" : {
+    "id" : 500,
+    "name" : "四边静强化",
+    "parameter" : "四边静强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[四边静]对选中目标追加一次伤害"
+  },
+  "501" : {
+    "id" : 501,
+    "name" : "藏龙剑气强化",
+    "parameter" : "藏龙剑气强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[藏龙剑气]额外提升5%暴击率"
+  },
+  "502" : {
+    "id" : 502,
+    "name" : "鬼神泣强化",
+    "parameter" : "鬼神泣强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[鬼神泣]技能暴击率提升10%"
+  },
+  "503" : {
+    "id" : 503,
+    "name" : "凝血刃强化",
+    "parameter" : "凝血刃强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[凝血刃]提升技能的基础伤害值"
+  },
+  "504" : {
+    "id" : 504,
+    "name" : "凌霄剑强化",
+    "parameter" : "凌霄剑强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[凌霄剑]技能伤害提升8%"
+  },
+  "505" : {
+    "id" : 505,
+    "name" : "千钧击强化",
+    "parameter" : "千钧击强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[千钧击]造成伤害时无视目标7.5%外防"
+  },
+  "506" : {
+    "id" : 506,
+    "name" : "大慈心光渡强化",
+    "parameter" : "大慈心光渡强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[大慈心光渡]技能释放后再释放一次，效果为首次的25%"
+  },
+  "507" : {
+    "id" : 507,
+    "name" : "返璞归真强化",
+    "parameter" : "返璞归真强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[返璞归真]提升0.03的技能基础系数"
+  },
+  "508" : {
+    "id" : 508,
+    "name" : "莲华妙法强化",
+    "parameter" : "莲华妙法强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[莲华妙法]气血回复量提升10%"
+  },
+  "509" : {
+    "id" : 509,
+    "name" : "涤凡仙露强化",
+    "parameter" : "涤凡仙露强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[涤凡仙露]提升0.07的技能基础系数"
+  },
+  "510" : {
+    "id" : 510,
+    "name" : "回风饮露强化",
+    "parameter" : "回风饮露强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[回风饮露]气血回复量提升15%"
+  },
+  "511" : {
+    "id" : 511,
+    "name" : "云海潮生强化",
+    "parameter" : "云海潮生强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[云海潮生]造成伤害时无视目标7.5%内防"
+  },
+  "512" : {
+    "id" : 512,
+    "name" : "七煞诀强化",
+    "parameter" : "七煞诀强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[七煞诀]增加气盾效果，使受到的伤害降低16%"
+  },
+  "513" : {
+    "id" : 513,
+    "name" : "勾魂丝强化",
+    "parameter" : "勾魂丝强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[勾魂丝]额外提升5%吸血率"
+  },
+  "514" : {
+    "id" : 514,
+    "name" : "万蛊噬心强化",
+    "parameter" : "万蛊噬心强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[万蛊噬心]造成的每回合持续伤害值提升（外伤*0.04)"
+  },
+  "515" : {
+    "id" : 515,
+    "name" : "六脉血逆强化",
+    "parameter" : "六脉血逆强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[六脉血逆]释放时额外提升（外伤*0.03+技能等级+20）点外防与内防"
+  },
+  "516" : {
+    "id" : 516,
+    "name" : "封魂咒强化",
+    "parameter" : "封魂咒强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[封魂咒]提升5%的技能封印命中率"
+  },
+  "517" : {
+    "id" : 517,
+    "name" : "穿花箭强化",
+    "parameter" : "穿花箭强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[穿花箭]技能伤害提升8%"
+  },
+  "518" : {
+    "id" : 518,
+    "name" : "万化归一诀强化",
+    "parameter" : "万化归一诀强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[万化归一诀]技能攻击次数+1"
+  },
+  "519" : {
+    "id" : 519,
+    "name" : "上善若水强化",
+    "parameter" : "上善若水强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[上善若水]额外提升5%连击率"
+  },
+  "520" : {
+    "id" : 520,
+    "name" : "八方湮灭强化",
+    "parameter" : "八方湮灭强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[八方湮灭]技能伤害提升10%"
+  },
+  "521" : {
+    "id" : 521,
+    "name" : "御剑伏魔强化",
+    "parameter" : "御剑伏魔强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[御剑伏魔]提升技能50%的暴击伤害"
+  },
+  "522" : {
+    "id" : 522,
+    "name" : "剑雨藏锋强化",
+    "parameter" : "剑雨藏锋强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[剑雨藏锋]提升技能10%的连击率"
+  },
+  "523" : {
+    "id" : 523,
+    "name" : "霜天剑舞强化",
+    "parameter" : "霜天剑舞强化",
+    "fc" : 2100,
+    "recommendedPrice" : 0,
+    "description" : "[霜天剑舞]技能伤害提升7.5%"
+  }
+}

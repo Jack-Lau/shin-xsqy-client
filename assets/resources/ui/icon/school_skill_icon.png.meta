@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7f202678-d72d-453f-84da-24cf3dba695c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 810,
+  "height": 243,
+  "platformSettings": {},
+  "subMetas": {
+    "school_skill_icon": {
+      "ver": "1.0.6",
+      "uuid": "8233fbf0-23d6-4adf-bfc1-eab77587d911",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7f202678-d72d-453f-84da-24cf3dba695c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 810,
+      "height": 243,
+      "rawWidth": 810,
+      "rawHeight": 243,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

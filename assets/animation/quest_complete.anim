@@ -1,0 +1,201 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "quest_complete",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4.666666666666667,
+  "sample": 60,
+  "speed": 1.5,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "左水纹": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -236.6
+            },
+            {
+              "frame": 3,
+              "value": -206.6
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "右水纹": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 236.6
+            },
+            {
+              "frame": 3,
+              "value": 206.6
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_zhangjiedi": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "右云": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 215
+            },
+            {
+              "frame": 3,
+              "value": 235
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "左云": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -215
+            },
+            {
+              "frame": 3,
+              "value": -235
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_lianhuadeng": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_juqingdi": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bg_wan": {
+        "props": {
+          "scale": [
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 4,
+          "value": 255
+        },
+        {
+          "frame": 4.666666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

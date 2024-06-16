@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "c74aef8a-b67b-4c08-bda8-02f60713bb3e",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "42ca0c53-5b15-4f10-8e66-8861d270cdbd",
+  "size": {
+    "width": 126,
+    "height": 189
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "前生诀2.png": {
+      "ver": "1.0.6",
+      "uuid": "fd6e2c71-8b24-4098-9aba-9b05f9619906",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "42ca0c53-5b15-4f10-8e66-8861d270cdbd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -18,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 124,
+      "height": 187,
+      "rawWidth": 268,
+      "rawHeight": 363,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

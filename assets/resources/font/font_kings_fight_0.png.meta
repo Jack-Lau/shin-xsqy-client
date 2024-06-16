@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "af59f7e6-cd3a-4068-adce-61648b5c8e5f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "font_kings_fight_0": {
+      "ver": "1.0.6",
+      "uuid": "ecd06c17-6c4b-450f-a816-74a9fbce8633",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "af59f7e6-cd3a-4068-adce-61648b5c8e5f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 32.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 124,
+      "height": 63,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

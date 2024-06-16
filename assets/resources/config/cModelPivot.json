@@ -1,0 +1,3368 @@
+{
+  "1" : {
+    "id" : 1,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.44667,
+    "pivotY" : 0.22333
+  },
+  "2" : {
+    "id" : 2,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.49667,
+    "pivotY" : 0.15333
+  },
+  "3" : {
+    "id" : 3,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.50667,
+    "pivotY" : 0.17333
+  },
+  "4" : {
+    "id" : 4,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.45634,
+    "pivotY" : 0.2169
+  },
+  "5" : {
+    "id" : 5,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.56667,
+    "pivotY" : 0.25667
+  },
+  "6" : {
+    "id" : 6,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "run",
+    "orientation" : "u",
+    "pivotX" : 0.49667,
+    "pivotY" : 0.29667
+  },
+  "7" : {
+    "id" : 7,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "run",
+    "orientation" : "d",
+    "pivotX" : 0.49667,
+    "pivotY" : 0.29667
+  },
+  "8" : {
+    "id" : 8,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "run",
+    "orientation" : "r",
+    "pivotX" : 0.46,
+    "pivotY" : 0.28667
+  },
+  "9" : {
+    "id" : 9,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "run",
+    "orientation" : "ru",
+    "pivotX" : 0.46667,
+    "pivotY" : 0.27333
+  },
+  "10" : {
+    "id" : 10,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "run",
+    "orientation" : "rd",
+    "pivotX" : 0.5,
+    "pivotY" : 0.33333
+  },
+  "11" : {
+    "id" : 11,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.64912,
+    "pivotY" : 0.22807
+  },
+  "12" : {
+    "id" : 12,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.35077,
+    "pivotY" : 0.31385
+  },
+  "13" : {
+    "id" : 13,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.705,
+    "pivotY" : 0.3175
+  },
+  "14" : {
+    "id" : 14,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.50704,
+    "pivotY" : 0.32113
+  },
+  "15" : {
+    "id" : 15,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.64,
+    "pivotY" : 0.21
+  },
+  "16" : {
+    "id" : 16,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.4725,
+    "pivotY" : 0.215
+  },
+  "17" : {
+    "id" : 17,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.64,
+    "pivotY" : 0.29
+  },
+  "18" : {
+    "id" : 18,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.40845,
+    "pivotY" : 0.31549
+  },
+  "19" : {
+    "id" : 19,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.63944,
+    "pivotY" : 0.54085
+  },
+  "20" : {
+    "id" : 20,
+    "modelId" : 4000001,
+    "modelName" : "男1",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.32836,
+    "pivotY" : 0.24478
+  },
+  "21" : {
+    "id" : 21,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.45098,
+    "pivotY" : 0.20392
+  },
+  "22" : {
+    "id" : 22,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.50588,
+    "pivotY" : 0.2902
+  },
+  "23" : {
+    "id" : 23,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.42745,
+    "pivotY" : 0.23529
+  },
+  "24" : {
+    "id" : 24,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.38039,
+    "pivotY" : 0.2549
+  },
+  "25" : {
+    "id" : 25,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.52941,
+    "pivotY" : 0.21569
+  },
+  "26" : {
+    "id" : 26,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "run",
+    "orientation" : "u",
+    "pivotX" : 0.44314,
+    "pivotY" : 0.23922
+  },
+  "27" : {
+    "id" : 27,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "run",
+    "orientation" : "d",
+    "pivotX" : 0.58431,
+    "pivotY" : 0.26275
+  },
+  "28" : {
+    "id" : 28,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "run",
+    "orientation" : "r",
+    "pivotX" : 0.43137,
+    "pivotY" : 0.21176
+  },
+  "29" : {
+    "id" : 29,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "run",
+    "orientation" : "ru",
+    "pivotX" : 0.37647,
+    "pivotY" : 0.2549
+  },
+  "30" : {
+    "id" : 30,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "run",
+    "orientation" : "rd",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.23922
+  },
+  "31" : {
+    "id" : 31,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.49123,
+    "pivotY" : 0.30526
+  },
+  "32" : {
+    "id" : 32,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.41053,
+    "pivotY" : 0.27018
+  },
+  "33" : {
+    "id" : 33,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.48615,
+    "pivotY" : 0.26769
+  },
+  "34" : {
+    "id" : 34,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.44615,
+    "pivotY" : 0.23077
+  },
+  "35" : {
+    "id" : 35,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.49067,
+    "pivotY" : 0.10933
+  },
+  "36" : {
+    "id" : 36,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.51268,
+    "pivotY" : 0.09859
+  },
+  "37" : {
+    "id" : 37,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.49014,
+    "pivotY" : 0.34085
+  },
+  "38" : {
+    "id" : 38,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.48451,
+    "pivotY" : 0.33803
+  },
+  "39" : {
+    "id" : 39,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.62769,
+    "pivotY" : 0.33231
+  },
+  "40" : {
+    "id" : 40,
+    "modelId" : 4000002,
+    "modelName" : "女1",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.41408,
+    "pivotY" : 0.33239
+  },
+  "41" : {
+    "id" : 41,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.42154,
+    "pivotY" : 0.31692
+  },
+  "42" : {
+    "id" : 42,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.58028,
+    "pivotY" : 0.35211
+  },
+  "43" : {
+    "id" : 43,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.48732,
+    "pivotY" : 0.4169
+  },
+  "44" : {
+    "id" : 44,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.38592,
+    "pivotY" : 0.40845
+  },
+  "45" : {
+    "id" : 45,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.64615,
+    "pivotY" : 0.42769
+  },
+  "46" : {
+    "id" : 46,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "run",
+    "orientation" : "u",
+    "pivotX" : 0.33333,
+    "pivotY" : 0.36842
+  },
+  "47" : {
+    "id" : 47,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "run",
+    "orientation" : "d",
+    "pivotX" : 0.49804,
+    "pivotY" : 0.18431
+  },
+  "48" : {
+    "id" : 48,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "run",
+    "orientation" : "r",
+    "pivotX" : 0.61333,
+    "pivotY" : 0.39667
+  },
+  "49" : {
+    "id" : 49,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "run",
+    "orientation" : "ru",
+    "pivotX" : 0.46462,
+    "pivotY" : 0.5
+  },
+  "50" : {
+    "id" : 50,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "run",
+    "orientation" : "rd",
+    "pivotX" : 0.66316,
+    "pivotY" : 0.28772
+  },
+  "51" : {
+    "id" : 51,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.40351,
+    "pivotY" : 0.27368
+  },
+  "52" : {
+    "id" : 52,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.50462,
+    "pivotY" : 0.40308
+  },
+  "53" : {
+    "id" : 53,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.64533,
+    "pivotY" : 0.3487
+  },
+  "54" : {
+    "id" : 54,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.32267,
+    "pivotY" : 0.28
+  },
+  "55" : {
+    "id" : 55,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.50141,
+    "pivotY" : 0.17183
+  },
+  "56" : {
+    "id" : 56,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.59529,
+    "pivotY" : 0.22824
+  },
+  "57" : {
+    "id" : 57,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.41569,
+    "pivotY" : 0.20784
+  },
+  "58" : {
+    "id" : 58,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.49859,
+    "pivotY" : 0.35493
+  },
+  "59" : {
+    "id" : 59,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.60158,
+    "pivotY" : 0.34035
+  },
+  "60" : {
+    "id" : 60,
+    "modelId" : 4000003,
+    "modelName" : "主角男2",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.34648,
+    "pivotY" : 0.33333
+  },
+  "61" : {
+    "id" : 61,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.32549,
+    "pivotY" : 0.11765
+  },
+  "62" : {
+    "id" : 62,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.59608,
+    "pivotY" : 0.20392
+  },
+  "63" : {
+    "id" : 63,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.42745,
+    "pivotY" : 0.27059
+  },
+  "64" : {
+    "id" : 64,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.32157,
+    "pivotY" : 0.14902
+  },
+  "65" : {
+    "id" : 65,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.55686,
+    "pivotY" : 0.15294
+  },
+  "66" : {
+    "id" : 66,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "run",
+    "orientation" : "u",
+    "pivotX" : 0.41961,
+    "pivotY" : 0.2
+  },
+  "67" : {
+    "id" : 67,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "run",
+    "orientation" : "d",
+    "pivotX" : 0.62745,
+    "pivotY" : 0.21569
+  },
+  "68" : {
+    "id" : 68,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "run",
+    "orientation" : "r",
+    "pivotX" : 0.23137,
+    "pivotY" : 0.25098
+  },
+  "69" : {
+    "id" : 69,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "run",
+    "orientation" : "ru",
+    "pivotX" : 0.27451,
+    "pivotY" : 0.17255
+  },
+  "70" : {
+    "id" : 70,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "run",
+    "orientation" : "rd",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.27451
+  },
+  "71" : {
+    "id" : 71,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.55439,
+    "pivotY" : 0.15789
+  },
+  "72" : {
+    "id" : 72,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.38769,
+    "pivotY" : 0.2
+  },
+  "73" : {
+    "id" : 73,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.4675,
+    "pivotY" : 0.25067
+  },
+  "74" : {
+    "id" : 74,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.48235,
+    "pivotY" : 0.18678
+  },
+  "75" : {
+    "id" : 75,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.47013,
+    "pivotY" : 0.08571
+  },
+  "76" : {
+    "id" : 76,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.5025,
+    "pivotY" : 0.1925
+  },
+  "77" : {
+    "id" : 77,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.52982,
+    "pivotY" : 0.14386
+  },
+  "78" : {
+    "id" : 78,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.45,
+    "pivotY" : 0.12333
+  },
+  "79" : {
+    "id" : 79,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.605,
+    "pivotY" : 0.23137
+  },
+  "80" : {
+    "id" : 80,
+    "modelId" : 4000004,
+    "modelName" : "主角女2",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.31385,
+    "pivotY" : 0.30822
+  },
+  "3001" : {
+    "id" : 3001,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.44667,
+    "pivotY" : 0.22333
+  },
+  "3002" : {
+    "id" : 3002,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.49667,
+    "pivotY" : 0.15333
+  },
+  "3003" : {
+    "id" : 3003,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.50667,
+    "pivotY" : 0.17333
+  },
+  "3004" : {
+    "id" : 3004,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.45634,
+    "pivotY" : 0.2169
+  },
+  "3005" : {
+    "id" : 3005,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.56667,
+    "pivotY" : 0.25667
+  },
+  "3006" : {
+    "id" : 3006,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "run",
+    "orientation" : "u",
+    "pivotX" : 0.49667,
+    "pivotY" : 0.29667
+  },
+  "3007" : {
+    "id" : 3007,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "run",
+    "orientation" : "d",
+    "pivotX" : 0.49667,
+    "pivotY" : 0.29667
+  },
+  "3008" : {
+    "id" : 3008,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "run",
+    "orientation" : "r",
+    "pivotX" : 0.46,
+    "pivotY" : 0.28667
+  },
+  "3009" : {
+    "id" : 3009,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "run",
+    "orientation" : "ru",
+    "pivotX" : 0.46667,
+    "pivotY" : 0.27333
+  },
+  "3010" : {
+    "id" : 3010,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "run",
+    "orientation" : "rd",
+    "pivotX" : 0.5,
+    "pivotY" : 0.33333
+  },
+  "3011" : {
+    "id" : 3011,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.64912,
+    "pivotY" : 0.22807
+  },
+  "3012" : {
+    "id" : 3012,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.35077,
+    "pivotY" : 0.31385
+  },
+  "3013" : {
+    "id" : 3013,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.705,
+    "pivotY" : 0.3175
+  },
+  "3014" : {
+    "id" : 3014,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.50704,
+    "pivotY" : 0.32113
+  },
+  "3015" : {
+    "id" : 3015,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.64,
+    "pivotY" : 0.21
+  },
+  "3016" : {
+    "id" : 3016,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.4725,
+    "pivotY" : 0.215
+  },
+  "3017" : {
+    "id" : 3017,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.64,
+    "pivotY" : 0.29
+  },
+  "3018" : {
+    "id" : 3018,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.40845,
+    "pivotY" : 0.31549
+  },
+  "3019" : {
+    "id" : 3019,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.63944,
+    "pivotY" : 0.54085
+  },
+  "3020" : {
+    "id" : 3020,
+    "modelId" : 4301001,
+    "modelName" : "剑 绿色品质",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.32836,
+    "pivotY" : 0.24478
+  },
+  "3021" : {
+    "id" : 3021,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.45098,
+    "pivotY" : 0.20392
+  },
+  "3022" : {
+    "id" : 3022,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.50588,
+    "pivotY" : 0.2902
+  },
+  "3023" : {
+    "id" : 3023,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.42745,
+    "pivotY" : 0.23529
+  },
+  "3024" : {
+    "id" : 3024,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.38039,
+    "pivotY" : 0.2549
+  },
+  "3025" : {
+    "id" : 3025,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.52941,
+    "pivotY" : 0.21569
+  },
+  "3026" : {
+    "id" : 3026,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "run",
+    "orientation" : "u",
+    "pivotX" : 0.44314,
+    "pivotY" : 0.23922
+  },
+  "3027" : {
+    "id" : 3027,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "run",
+    "orientation" : "d",
+    "pivotX" : 0.58431,
+    "pivotY" : 0.26275
+  },
+  "3028" : {
+    "id" : 3028,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "run",
+    "orientation" : "r",
+    "pivotX" : 0.43137,
+    "pivotY" : 0.21176
+  },
+  "3029" : {
+    "id" : 3029,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "run",
+    "orientation" : "ru",
+    "pivotX" : 0.37647,
+    "pivotY" : 0.2549
+  },
+  "3030" : {
+    "id" : 3030,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "run",
+    "orientation" : "rd",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.23922
+  },
+  "3031" : {
+    "id" : 3031,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.49123,
+    "pivotY" : 0.30526
+  },
+  "3032" : {
+    "id" : 3032,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.41053,
+    "pivotY" : 0.27018
+  },
+  "3033" : {
+    "id" : 3033,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.48615,
+    "pivotY" : 0.26769
+  },
+  "3034" : {
+    "id" : 3034,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.44615,
+    "pivotY" : 0.23077
+  },
+  "3035" : {
+    "id" : 3035,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.49067,
+    "pivotY" : 0.10933
+  },
+  "3036" : {
+    "id" : 3036,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.51268,
+    "pivotY" : 0.09859
+  },
+  "3037" : {
+    "id" : 3037,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.49014,
+    "pivotY" : 0.34085
+  },
+  "3038" : {
+    "id" : 3038,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.48451,
+    "pivotY" : 0.33803
+  },
+  "3039" : {
+    "id" : 3039,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.62769,
+    "pivotY" : 0.33231
+  },
+  "3040" : {
+    "id" : 3040,
+    "modelId" : 4302001,
+    "modelName" : "琴 绿色品质",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.41408,
+    "pivotY" : 0.33239
+  },
+  "3041" : {
+    "id" : 3041,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.42154,
+    "pivotY" : 0.31692
+  },
+  "3042" : {
+    "id" : 3042,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.58028,
+    "pivotY" : 0.35211
+  },
+  "3043" : {
+    "id" : 3043,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.48732,
+    "pivotY" : 0.4169
+  },
+  "3044" : {
+    "id" : 3044,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.38592,
+    "pivotY" : 0.40845
+  },
+  "3045" : {
+    "id" : 3045,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.64615,
+    "pivotY" : 0.42769
+  },
+  "3046" : {
+    "id" : 3046,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "run",
+    "orientation" : "u",
+    "pivotX" : 0.33333,
+    "pivotY" : 0.36842
+  },
+  "3047" : {
+    "id" : 3047,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "run",
+    "orientation" : "d",
+    "pivotX" : 0.49804,
+    "pivotY" : 0.18431
+  },
+  "3048" : {
+    "id" : 3048,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "run",
+    "orientation" : "r",
+    "pivotX" : 0.61333,
+    "pivotY" : 0.39667
+  },
+  "3049" : {
+    "id" : 3049,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "run",
+    "orientation" : "ru",
+    "pivotX" : 0.46462,
+    "pivotY" : 0.5
+  },
+  "3050" : {
+    "id" : 3050,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "run",
+    "orientation" : "rd",
+    "pivotX" : 0.66316,
+    "pivotY" : 0.28772
+  },
+  "3051" : {
+    "id" : 3051,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.40351,
+    "pivotY" : 0.27368
+  },
+  "3052" : {
+    "id" : 3052,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.50462,
+    "pivotY" : 0.40308
+  },
+  "3053" : {
+    "id" : 3053,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.64533,
+    "pivotY" : 0.3487
+  },
+  "3054" : {
+    "id" : 3054,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.32267,
+    "pivotY" : 0.28
+  },
+  "3055" : {
+    "id" : 3055,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.50141,
+    "pivotY" : 0.17183
+  },
+  "3056" : {
+    "id" : 3056,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.59529,
+    "pivotY" : 0.22824
+  },
+  "3057" : {
+    "id" : 3057,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.41569,
+    "pivotY" : 0.20784
+  },
+  "3058" : {
+    "id" : 3058,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.49859,
+    "pivotY" : 0.35493
+  },
+  "3059" : {
+    "id" : 3059,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.60158,
+    "pivotY" : 0.34035
+  },
+  "3060" : {
+    "id" : 3060,
+    "modelId" : 4303001,
+    "modelName" : "枪 绿色品质",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.34648,
+    "pivotY" : 0.33333
+  },
+  "3061" : {
+    "id" : 3061,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.32549,
+    "pivotY" : 0.11765
+  },
+  "3062" : {
+    "id" : 3062,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.59608,
+    "pivotY" : 0.20392
+  },
+  "3063" : {
+    "id" : 3063,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.42745,
+    "pivotY" : 0.27059
+  },
+  "3064" : {
+    "id" : 3064,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.32157,
+    "pivotY" : 0.14902
+  },
+  "3065" : {
+    "id" : 3065,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.55686,
+    "pivotY" : 0.15294
+  },
+  "3066" : {
+    "id" : 3066,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "run",
+    "orientation" : "u",
+    "pivotX" : 0.41961,
+    "pivotY" : 0.2
+  },
+  "3067" : {
+    "id" : 3067,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "run",
+    "orientation" : "d",
+    "pivotX" : 0.62745,
+    "pivotY" : 0.21569
+  },
+  "3068" : {
+    "id" : 3068,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "run",
+    "orientation" : "r",
+    "pivotX" : 0.23137,
+    "pivotY" : 0.25098
+  },
+  "3069" : {
+    "id" : 3069,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "run",
+    "orientation" : "ru",
+    "pivotX" : 0.27451,
+    "pivotY" : 0.17255
+  },
+  "3070" : {
+    "id" : 3070,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "run",
+    "orientation" : "rd",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.27451
+  },
+  "3071" : {
+    "id" : 3071,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.55439,
+    "pivotY" : 0.15789
+  },
+  "3072" : {
+    "id" : 3072,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.38769,
+    "pivotY" : 0.2
+  },
+  "3073" : {
+    "id" : 3073,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.4675,
+    "pivotY" : 0.25067
+  },
+  "3074" : {
+    "id" : 3074,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.48235,
+    "pivotY" : 0.18678
+  },
+  "3075" : {
+    "id" : 3075,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.47013,
+    "pivotY" : 0.08571
+  },
+  "3076" : {
+    "id" : 3076,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.5025,
+    "pivotY" : 0.1925
+  },
+  "3077" : {
+    "id" : 3077,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.52982,
+    "pivotY" : 0.14386
+  },
+  "3078" : {
+    "id" : 3078,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.45,
+    "pivotY" : 0.12333
+  },
+  "3079" : {
+    "id" : 3079,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.605,
+    "pivotY" : 0.23137
+  },
+  "3080" : {
+    "id" : 3080,
+    "modelId" : 4304001,
+    "modelName" : "杖 绿色品质",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.31385,
+    "pivotY" : 0.30822
+  },
+  "2001" : {
+    "id" : 2001,
+    "modelId" : 4200001,
+    "modelName" : "水华夫人",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.48889,
+    "pivotY" : 0.20889
+  },
+  "2002" : {
+    "id" : 2002,
+    "modelId" : 4200001,
+    "modelName" : "水华夫人",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.48889,
+    "pivotY" : 0.21333
+  },
+  "2003" : {
+    "id" : 2003,
+    "modelId" : 4200001,
+    "modelName" : "水华夫人",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.48889,
+    "pivotY" : 0.22667
+  },
+  "2004" : {
+    "id" : 2004,
+    "modelId" : 4200001,
+    "modelName" : "水华夫人",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.44444,
+    "pivotY" : 0.23556
+  },
+  "2005" : {
+    "id" : 2005,
+    "modelId" : 4200001,
+    "modelName" : "水华夫人",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.49333,
+    "pivotY" : 0.25333
+  },
+  "2006" : {
+    "id" : 2006,
+    "modelId" : 4200002,
+    "modelName" : "敖君来",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.475,
+    "pivotY" : 0.185
+  },
+  "2007" : {
+    "id" : 2007,
+    "modelId" : 4200002,
+    "modelName" : "敖君来",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.465,
+    "pivotY" : 0.17
+  },
+  "2008" : {
+    "id" : 2008,
+    "modelId" : 4200002,
+    "modelName" : "敖君来",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.52,
+    "pivotY" : 0.155
+  },
+  "2009" : {
+    "id" : 2009,
+    "modelId" : 4200002,
+    "modelName" : "敖君来",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.515,
+    "pivotY" : 0.185
+  },
+  "2010" : {
+    "id" : 2010,
+    "modelId" : 4200002,
+    "modelName" : "敖君来",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.51,
+    "pivotY" : 0.165
+  },
+  "2011" : {
+    "id" : 2011,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.48,
+    "pivotY" : 0.165
+  },
+  "2012" : {
+    "id" : 2012,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.49189,
+    "pivotY" : 0.11351
+  },
+  "2013" : {
+    "id" : 2013,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.52973,
+    "pivotY" : 0.14054
+  },
+  "2014" : {
+    "id" : 2014,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.4973,
+    "pivotY" : 0.14054
+  },
+  "2015" : {
+    "id" : 2015,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.52432,
+    "pivotY" : 0.11351
+  },
+  "2016" : {
+    "id" : 2016,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.465,
+    "pivotY" : 0.14
+  },
+  "2017" : {
+    "id" : 2017,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.52,
+    "pivotY" : 0.17
+  },
+  "2018" : {
+    "id" : 2018,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.60635,
+    "pivotY" : 0.30741
+  },
+  "2019" : {
+    "id" : 2019,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.45,
+    "pivotY" : 0.23137
+  },
+  "2020" : {
+    "id" : 2020,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.58824,
+    "pivotY" : 0.20784
+  },
+  "2021" : {
+    "id" : 2021,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.50877,
+    "pivotY" : 0.15789
+  },
+  "2022" : {
+    "id" : 2022,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.48163,
+    "pivotY" : 0.2
+  },
+  "2023" : {
+    "id" : 2023,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.51837,
+    "pivotY" : 0.22041
+  },
+  "2024" : {
+    "id" : 2024,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.47719,
+    "pivotY" : 0.2386
+  },
+  "2025" : {
+    "id" : 2025,
+    "modelId" : 4200003,
+    "modelName" : "包子",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.52281,
+    "pivotY" : 0.35789
+  },
+  "2026" : {
+    "id" : 2026,
+    "modelId" : 4200004,
+    "modelName" : "大叔",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.48649,
+    "pivotY" : 0.12432
+  },
+  "2027" : {
+    "id" : 2027,
+    "modelId" : 4200004,
+    "modelName" : "大叔",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.48108,
+    "pivotY" : 0.11892
+  },
+  "2028" : {
+    "id" : 2028,
+    "modelId" : 4200004,
+    "modelName" : "大叔",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.55676,
+    "pivotY" : 0.11892
+  },
+  "2029" : {
+    "id" : 2029,
+    "modelId" : 4200004,
+    "modelName" : "大叔",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.5027,
+    "pivotY" : 0.13514
+  },
+  "2030" : {
+    "id" : 2030,
+    "modelId" : 4200004,
+    "modelName" : "大叔",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.51892,
+    "pivotY" : 0.1027
+  },
+  "2031" : {
+    "id" : 2031,
+    "modelId" : 4200005,
+    "modelName" : "独孤老人",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.52549,
+    "pivotY" : 0.2
+  },
+  "2032" : {
+    "id" : 2032,
+    "modelId" : 4200005,
+    "modelName" : "独孤老人",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.49804,
+    "pivotY" : 0.15686
+  },
+  "2033" : {
+    "id" : 2033,
+    "modelId" : 4200005,
+    "modelName" : "独孤老人",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.56491,
+    "pivotY" : 0.21053
+  },
+  "2034" : {
+    "id" : 2034,
+    "modelId" : 4200005,
+    "modelName" : "独孤老人",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.52632,
+    "pivotY" : 0.25263
+  },
+  "2035" : {
+    "id" : 2035,
+    "modelId" : 4200005,
+    "modelName" : "独孤老人",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.55789,
+    "pivotY" : 0.18947
+  },
+  "2036" : {
+    "id" : 2036,
+    "modelId" : 4200006,
+    "modelName" : "慕容",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.48889,
+    "pivotY" : 0.19111
+  },
+  "2037" : {
+    "id" : 2037,
+    "modelId" : 4200006,
+    "modelName" : "慕容",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.53333,
+    "pivotY" : 0.21961
+  },
+  "2038" : {
+    "id" : 2038,
+    "modelId" : 4200006,
+    "modelName" : "慕容",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.54222,
+    "pivotY" : 0.20889
+  },
+  "2039" : {
+    "id" : 2039,
+    "modelId" : 4200006,
+    "modelName" : "慕容",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.48889,
+    "pivotY" : 0.19556
+  },
+  "2040" : {
+    "id" : 2040,
+    "modelId" : 4200006,
+    "modelName" : "慕容",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.52889,
+    "pivotY" : 0.22222
+  },
+  "2041" : {
+    "id" : 2041,
+    "modelId" : 4200007,
+    "modelName" : "天枢子",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.50556,
+    "pivotY" : 0.15
+  },
+  "2042" : {
+    "id" : 2042,
+    "modelId" : 4200007,
+    "modelName" : "天枢子",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.47778,
+    "pivotY" : 0.11667
+  },
+  "2043" : {
+    "id" : 2043,
+    "modelId" : 4200007,
+    "modelName" : "天枢子",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.55,
+    "pivotY" : 0.12222
+  },
+  "2044" : {
+    "id" : 2044,
+    "modelId" : 4200007,
+    "modelName" : "天枢子",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.5,
+    "pivotY" : 0.13889
+  },
+  "2045" : {
+    "id" : 2045,
+    "modelId" : 4200007,
+    "modelName" : "天枢子",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.53514,
+    "pivotY" : 0.13514
+  },
+  "2046" : {
+    "id" : 2046,
+    "modelId" : 4200008,
+    "modelName" : "凌香",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.535,
+    "pivotY" : 0.19
+  },
+  "2047" : {
+    "id" : 2047,
+    "modelId" : 4200008,
+    "modelName" : "凌香",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.45,
+    "pivotY" : 0.14
+  },
+  "2048" : {
+    "id" : 2048,
+    "modelId" : 4200008,
+    "modelName" : "凌香",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.565,
+    "pivotY" : 0.19
+  },
+  "2049" : {
+    "id" : 2049,
+    "modelId" : 4200008,
+    "modelName" : "凌香",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.67,
+    "pivotY" : 0.175
+  },
+  "2050" : {
+    "id" : 2050,
+    "modelId" : 4200008,
+    "modelName" : "凌香",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.515,
+    "pivotY" : 0.155
+  },
+  "2051" : {
+    "id" : 2051,
+    "modelId" : 4200009,
+    "modelName" : "告示牌",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.48563,
+    "pivotY" : 0.20968
+  },
+  "2052" : {
+    "id" : 2052,
+    "modelId" : 4200010,
+    "modelName" : "三生石",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.51119,
+    "pivotY" : 0.25344
+  },
+  "2053" : {
+    "id" : 2053,
+    "modelId" : 4200011,
+    "modelName" : "宝箱",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.4403,
+    "pivotY" : 0.25344
+  },
+  "2054" : {
+    "id" : 2054,
+    "modelId" : 4200012,
+    "modelName" : "前生诀",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.50373,
+    "pivotY" : 0.26722
+  },
+  "2055" : {
+    "id" : 2055,
+    "modelId" : 4200013,
+    "modelName" : "今生诀",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.51493,
+    "pivotY" : 0.2562
+  },
+  "2056" : {
+    "id" : 2056,
+    "modelId" : 4200014,
+    "modelName" : "来生诀",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.51866,
+    "pivotY" : 0.26171
+  },
+  "2057" : {
+    "id" : 2057,
+    "modelId" : 4200015,
+    "modelName" : "逍遥石",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.49627,
+    "pivotY" : 0.23416
+  },
+  "2058" : {
+    "id" : 2058,
+    "modelId" : 4200016,
+    "modelName" : "水桶",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.48881,
+    "pivotY" : 0.26722
+  },
+  "2059" : {
+    "id" : 2059,
+    "modelId" : 4200017,
+    "modelName" : "酒坛",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.48387,
+    "pivotY" : 0.17188
+  },
+  "2060" : {
+    "id" : 2060,
+    "modelId" : 4200018,
+    "modelName" : "卷轴",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.6129,
+    "pivotY" : 0.41406
+  },
+  "2061" : {
+    "id" : 2061,
+    "modelId" : 4200019,
+    "modelName" : "召雨令",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.57836,
+    "pivotY" : 0.36088
+  },
+  "2062" : {
+    "id" : 2062,
+    "modelId" : 4200020,
+    "modelName" : "梅花",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.50373,
+    "pivotY" : 0.25344
+  },
+  "2063" : {
+    "id" : 2063,
+    "modelId" : 4200021,
+    "modelName" : "矿石",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.52239,
+    "pivotY" : 0.26997
+  },
+  "2064" : {
+    "id" : 2064,
+    "modelId" : 4200022,
+    "modelName" : "荷花",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.55224,
+    "pivotY" : 0.27824
+  },
+  "2065" : {
+    "id" : 2065,
+    "modelId" : 4200023,
+    "modelName" : "传送法阵",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.52239,
+    "pivotY" : 0.31956
+  },
+  "2066" : {
+    "id" : 2066,
+    "modelId" : 4200024,
+    "modelName" : "蜘蛛网",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.4149,
+    "pivotY" : 0.175
+  },
+  "2067" : {
+    "id" : 2067,
+    "modelId" : 4200025,
+    "modelName" : "石中猴",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.50107,
+    "pivotY" : 0.0
+  },
+  "1001" : {
+    "id" : 1001,
+    "modelId" : 4100001,
+    "modelName" : "迎庭",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.44444,
+    "pivotY" : 0.18889
+  },
+  "1002" : {
+    "id" : 1002,
+    "modelId" : 4100001,
+    "modelName" : "迎庭",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.56111,
+    "pivotY" : 0.24444
+  },
+  "1003" : {
+    "id" : 1003,
+    "modelId" : 4100001,
+    "modelName" : "迎庭",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.5,
+    "pivotY" : 0.23889
+  },
+  "1004" : {
+    "id" : 1004,
+    "modelId" : 4100001,
+    "modelName" : "迎庭",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.50556,
+    "pivotY" : 0.25556
+  },
+  "1005" : {
+    "id" : 1005,
+    "modelId" : 4100001,
+    "modelName" : "迎庭",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.42222,
+    "pivotY" : 0.27778
+  },
+  "1006" : {
+    "id" : 1006,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.50303,
+    "pivotY" : 0.13939
+  },
+  "1007" : {
+    "id" : 1007,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.50909,
+    "pivotY" : 0.25455
+  },
+  "1008" : {
+    "id" : 1008,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.47273,
+    "pivotY" : 0.20606
+  },
+  "1009" : {
+    "id" : 1009,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.47879,
+    "pivotY" : 0.22424
+  },
+  "1010" : {
+    "id" : 1010,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.53939,
+    "pivotY" : 0.21212
+  },
+  "1011" : {
+    "id" : 1011,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.49697,
+    "pivotY" : 0.29697
+  },
+  "1012" : {
+    "id" : 1012,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.47879,
+    "pivotY" : 0.24242
+  },
+  "1013" : {
+    "id" : 1013,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.54545,
+    "pivotY" : 0.27273
+  },
+  "1014" : {
+    "id" : 1014,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.46667,
+    "pivotY" : 0.22424
+  },
+  "1015" : {
+    "id" : 1015,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.62963,
+    "pivotY" : 0.09524
+  },
+  "1016" : {
+    "id" : 1016,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.4303,
+    "pivotY" : 0.08571
+  },
+  "1017" : {
+    "id" : 1017,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.43636,
+    "pivotY" : 0.24848
+  },
+  "1018" : {
+    "id" : 1018,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.48485,
+    "pivotY" : 0.27879
+  },
+  "1019" : {
+    "id" : 1019,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.55758,
+    "pivotY" : 0.29697
+  },
+  "1020" : {
+    "id" : 1020,
+    "modelId" : 4100002,
+    "modelName" : "金丝仓鼠",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.45455,
+    "pivotY" : 0.33333
+  },
+  "1021" : {
+    "id" : 1021,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.5098,
+    "pivotY" : 0.27451
+  },
+  "1022" : {
+    "id" : 1022,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.49804,
+    "pivotY" : 0.25882
+  },
+  "1023" : {
+    "id" : 1023,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.53725,
+    "pivotY" : 0.28235
+  },
+  "1024" : {
+    "id" : 1024,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.52549,
+    "pivotY" : 0.28235
+  },
+  "1025" : {
+    "id" : 1025,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.52549,
+    "pivotY" : 0.26667
+  },
+  "1026" : {
+    "id" : 1026,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.28627
+  },
+  "1027" : {
+    "id" : 1027,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.60784,
+    "pivotY" : 0.30588
+  },
+  "1028" : {
+    "id" : 1028,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.28627
+  },
+  "1029" : {
+    "id" : 1029,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.55294,
+    "pivotY" : 0.31373
+  },
+  "1030" : {
+    "id" : 1030,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.28627
+  },
+  "1031" : {
+    "id" : 1031,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.5451,
+    "pivotY" : 0.31373
+  },
+  "1032" : {
+    "id" : 1032,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.28627
+  },
+  "1033" : {
+    "id" : 1033,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.55294,
+    "pivotY" : 0.31373
+  },
+  "1034" : {
+    "id" : 1034,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.47451,
+    "pivotY" : 0.27627
+  },
+  "1035" : {
+    "id" : 1035,
+    "modelId" : 4100003,
+    "modelName" : "踏雪猫妖",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.55294,
+    "pivotY" : 0.31373
+  },
+  "1036" : {
+    "id" : 1036,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.48627,
+    "pivotY" : 0.23137
+  },
+  "1037" : {
+    "id" : 1037,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.49804,
+    "pivotY" : 0.23529
+  },
+  "1038" : {
+    "id" : 1038,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.50196,
+    "pivotY" : 0.22353
+  },
+  "1039" : {
+    "id" : 1039,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.54902,
+    "pivotY" : 0.19608
+  },
+  "1040" : {
+    "id" : 1040,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.53333,
+    "pivotY" : 0.18039
+  },
+  "1041" : {
+    "id" : 1041,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.58824,
+    "pivotY" : 0.27451
+  },
+  "1042" : {
+    "id" : 1042,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.45098,
+    "pivotY" : 0.19608
+  },
+  "1043" : {
+    "id" : 1043,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.46667,
+    "pivotY" : 0.37647
+  },
+  "1044" : {
+    "id" : 1044,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.57647,
+    "pivotY" : 0.27059
+  },
+  "1045" : {
+    "id" : 1045,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.44706,
+    "pivotY" : 0.22353
+  },
+  "1046" : {
+    "id" : 1046,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.57647,
+    "pivotY" : 0.27059
+  },
+  "1047" : {
+    "id" : 1047,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.45098,
+    "pivotY" : 0.19608
+  },
+  "1048" : {
+    "id" : 1048,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.58039,
+    "pivotY" : 0.29412
+  },
+  "1049" : {
+    "id" : 1049,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.39608,
+    "pivotY" : 0.1098
+  },
+  "1050" : {
+    "id" : 1050,
+    "modelId" : 4100004,
+    "modelName" : "三尾妖狐",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.53333,
+    "pivotY" : 0.15294
+  },
+  "1051" : {
+    "id" : 1051,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.46275,
+    "pivotY" : 0.2
+  },
+  "1052" : {
+    "id" : 1052,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.51765,
+    "pivotY" : 0.27059
+  },
+  "1053" : {
+    "id" : 1053,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.49412,
+    "pivotY" : 0.2549
+  },
+  "1054" : {
+    "id" : 1054,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.4902,
+    "pivotY" : 0.22745
+  },
+  "1055" : {
+    "id" : 1055,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.54118,
+    "pivotY" : 0.29412
+  },
+  "1056" : {
+    "id" : 1056,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.51373,
+    "pivotY" : 0.23529
+  },
+  "1057" : {
+    "id" : 1057,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.43529,
+    "pivotY" : 0.21569
+  },
+  "1058" : {
+    "id" : 1058,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.69804,
+    "pivotY" : 0.24314
+  },
+  "1059" : {
+    "id" : 1059,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.32549,
+    "pivotY" : 0.24314
+  },
+  "1060" : {
+    "id" : 1060,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.61176,
+    "pivotY" : 0.21961
+  },
+  "1061" : {
+    "id" : 1061,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.35686,
+    "pivotY" : 0.11373
+  },
+  "1062" : {
+    "id" : 1062,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.49412,
+    "pivotY" : 0.2902
+  },
+  "1063" : {
+    "id" : 1063,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.49412,
+    "pivotY" : 0.27059
+  },
+  "1064" : {
+    "id" : 1064,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.39608,
+    "pivotY" : 0.18182
+  },
+  "1065" : {
+    "id" : 1065,
+    "modelId" : 4100005,
+    "modelName" : "猪小罗",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.60784,
+    "pivotY" : 0.27451
+  },
+  "1066" : {
+    "id" : 1066,
+    "modelId" : 4100006,
+    "modelName" : "兔萝萝",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.44706,
+    "pivotY" : 0.28235
+  },
+  "1067" : {
+    "id" : 1067,
+    "modelId" : 4100006,
+    "modelName" : "兔萝萝",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.46667,
+    "pivotY" : 0.24314
+  },
+  "1068" : {
+    "id" : 1068,
+    "modelId" : 4100006,
+    "modelName" : "兔萝萝",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.4902,
+    "pivotY" : 0.33333
+  },
+  "1069" : {
+    "id" : 1069,
+    "modelId" : 4100006,
+    "modelName" : "兔萝萝",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.44706,
+    "pivotY" : 0.37647
+  },
+  "1070" : {
+    "id" : 1070,
+    "modelId" : 4100006,
+    "modelName" : "兔萝萝",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.48627,
+    "pivotY" : 0.26275
+  },
+  "1071" : {
+    "id" : 1071,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.4902,
+    "pivotY" : 0.23137
+  },
+  "1072" : {
+    "id" : 1072,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.50588,
+    "pivotY" : 0.23529
+  },
+  "1073" : {
+    "id" : 1073,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.49412,
+    "pivotY" : 0.23137
+  },
+  "1074" : {
+    "id" : 1074,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.48627,
+    "pivotY" : 0.14902
+  },
+  "1075" : {
+    "id" : 1075,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.50196,
+    "pivotY" : 0.23137
+  },
+  "1076" : {
+    "id" : 1076,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.49804,
+    "pivotY" : 0.24314
+  },
+  "1077" : {
+    "id" : 1077,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.41961,
+    "pivotY" : 0.0902
+  },
+  "1078" : {
+    "id" : 1078,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.46667,
+    "pivotY" : 0.35439
+  },
+  "1079" : {
+    "id" : 1079,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.75789,
+    "pivotY" : 0.41404
+  },
+  "1080" : {
+    "id" : 1080,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.43922,
+    "pivotY" : 0.15686
+  },
+  "1081" : {
+    "id" : 1081,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.63922,
+    "pivotY" : 0.23529
+  },
+  "1082" : {
+    "id" : 1082,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.49804,
+    "pivotY" : 0.24706
+  },
+  "1083" : {
+    "id" : 1083,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.51373,
+    "pivotY" : 0.25098
+  },
+  "1084" : {
+    "id" : 1084,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.48627,
+    "pivotY" : 0.12157
+  },
+  "1085" : {
+    "id" : 1085,
+    "modelId" : 4100007,
+    "modelName" : "蓝羽蝶",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.50196,
+    "pivotY" : 0.22745
+  },
+  "1086" : {
+    "id" : 1086,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.50588,
+    "pivotY" : 0.36078
+  },
+  "1087" : {
+    "id" : 1087,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.48235,
+    "pivotY" : 0.3098
+  },
+  "1088" : {
+    "id" : 1088,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.48627,
+    "pivotY" : 0.25882
+  },
+  "1089" : {
+    "id" : 1089,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.49804,
+    "pivotY" : 0.21569
+  },
+  "1090" : {
+    "id" : 1090,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.54118,
+    "pivotY" : 0.29804
+  },
+  "1091" : {
+    "id" : 1091,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.62667,
+    "pivotY" : 0.32267
+  },
+  "1092" : {
+    "id" : 1092,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.58361,
+    "pivotY" : 0.26557
+  },
+  "1093" : {
+    "id" : 1093,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.44333,
+    "pivotY" : 0.23
+  },
+  "1094" : {
+    "id" : 1094,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.56667,
+    "pivotY" : 0.39333
+  },
+  "1095" : {
+    "id" : 1095,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.54118,
+    "pivotY" : 0.21961
+  },
+  "1096" : {
+    "id" : 1096,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.54902,
+    "pivotY" : 0.2549
+  },
+  "1097" : {
+    "id" : 1097,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.54118,
+    "pivotY" : 0.17647
+  },
+  "1098" : {
+    "id" : 1098,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.53725,
+    "pivotY" : 0.26275
+  },
+  "1099" : {
+    "id" : 1099,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.46479,
+    "pivotY" : 0.26479
+  },
+  "1100" : {
+    "id" : 1100,
+    "modelId" : 4100008,
+    "modelName" : "玄蛇姬",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.49296,
+    "pivotY" : 0.24507
+  },
+  "1101" : {
+    "id" : 1101,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.49,
+    "pivotY" : 0.16
+  },
+  "1102" : {
+    "id" : 1102,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.51,
+    "pivotY" : 0.125
+  },
+  "1103" : {
+    "id" : 1103,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.53,
+    "pivotY" : 0.155
+  },
+  "1104" : {
+    "id" : 1104,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.48,
+    "pivotY" : 0.195
+  },
+  "1105" : {
+    "id" : 1105,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.525,
+    "pivotY" : 0.125
+  },
+  "1106" : {
+    "id" : 1106,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.51556,
+    "pivotY" : 0.23556
+  },
+  "1107" : {
+    "id" : 1107,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.45333,
+    "pivotY" : 0.23111
+  },
+  "1108" : {
+    "id" : 1108,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.5625,
+    "pivotY" : 0.4025
+  },
+  "1109" : {
+    "id" : 1109,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.53143,
+    "pivotY" : 0.29143
+  },
+  "1110" : {
+    "id" : 1110,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.52157,
+    "pivotY" : 0.20392
+  },
+  "1111" : {
+    "id" : 1111,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.43509,
+    "pivotY" : 0.29123
+  },
+  "1112" : {
+    "id" : 1112,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.61404,
+    "pivotY" : 0.25614
+  },
+  "1113" : {
+    "id" : 1113,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.47368,
+    "pivotY" : 0.23158
+  },
+  "1114" : {
+    "id" : 1114,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.52632,
+    "pivotY" : 0.22807
+  },
+  "1115" : {
+    "id" : 1115,
+    "modelId" : 4100009,
+    "modelName" : "地界鬼吏",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.41053,
+    "pivotY" : 0.25263
+  },
+  "1116" : {
+    "id" : 1116,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.47843,
+    "pivotY" : 0.21961
+  },
+  "1117" : {
+    "id" : 1117,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.4902,
+    "pivotY" : 0.16863
+  },
+  "1118" : {
+    "id" : 1118,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.50588,
+    "pivotY" : 0.22745
+  },
+  "1119" : {
+    "id" : 1119,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.50588,
+    "pivotY" : 0.22745
+  },
+  "1120" : {
+    "id" : 1120,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.52157,
+    "pivotY" : 0.13725
+  },
+  "1121" : {
+    "id" : 1121,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.50196,
+    "pivotY" : 0.21569
+  },
+  "1122" : {
+    "id" : 1122,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.50588,
+    "pivotY" : 0.21569
+  },
+  "1123" : {
+    "id" : 1123,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.60313,
+    "pivotY" : 0.23125
+  },
+  "1124" : {
+    "id" : 1124,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.51875,
+    "pivotY" : 0.27812
+  },
+  "1125" : {
+    "id" : 1125,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.52759,
+    "pivotY" : 0.15517
+  },
+  "1126" : {
+    "id" : 1126,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.54386,
+    "pivotY" : 0.18947
+  },
+  "1127" : {
+    "id" : 1127,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.53455,
+    "pivotY" : 0.25091
+  },
+  "1128" : {
+    "id" : 1128,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.48,
+    "pivotY" : 0.26545
+  },
+  "1129" : {
+    "id" : 1129,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.65161,
+    "pivotY" : 0.34839
+  },
+  "1130" : {
+    "id" : 1130,
+    "modelId" : 4100010,
+    "modelName" : "地仙",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.42903,
+    "pivotY" : 0.26129
+  },
+  "1131" : {
+    "id" : 1131,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "stand",
+    "orientation" : "u",
+    "pivotX" : 0.49552,
+    "pivotY" : 0.2209
+  },
+  "1132" : {
+    "id" : 1132,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "stand",
+    "orientation" : "d",
+    "pivotX" : 0.51343,
+    "pivotY" : 0.2
+  },
+  "1133" : {
+    "id" : 1133,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "stand",
+    "orientation" : "r",
+    "pivotX" : 0.48955,
+    "pivotY" : 0.29552
+  },
+  "1134" : {
+    "id" : 1134,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "stand",
+    "orientation" : "ru",
+    "pivotX" : 0.47164,
+    "pivotY" : 0.28657
+  },
+  "1135" : {
+    "id" : 1135,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.49254,
+    "pivotY" : 0.24478
+  },
+  "1136" : {
+    "id" : 1136,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "idle",
+    "orientation" : "ld",
+    "pivotX" : 0.49552,
+    "pivotY" : 0.17313
+  },
+  "1137" : {
+    "id" : 1137,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "idle",
+    "orientation" : "ru",
+    "pivotX" : 0.47761,
+    "pivotY" : 0.1403
+  },
+  "1138" : {
+    "id" : 1138,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "attack",
+    "orientation" : "ld",
+    "pivotX" : 0.50448,
+    "pivotY" : 0.15522
+  },
+  "1139" : {
+    "id" : 1139,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "attack",
+    "orientation" : "ru",
+    "pivotX" : 0.51343,
+    "pivotY" : 0.11642
+  },
+  "1140" : {
+    "id" : 1140,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "magic",
+    "orientation" : "ld",
+    "pivotX" : 0.53731,
+    "pivotY" : 0.12469
+  },
+  "1141" : {
+    "id" : 1141,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "magic",
+    "orientation" : "ru",
+    "pivotX" : 0.53134,
+    "pivotY" : 0.1125
+  },
+  "1142" : {
+    "id" : 1142,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "hit",
+    "orientation" : "ld",
+    "pivotX" : 0.52239,
+    "pivotY" : 0.15821
+  },
+  "1143" : {
+    "id" : 1143,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "hit",
+    "orientation" : "ru",
+    "pivotX" : 0.48955,
+    "pivotY" : 0.2597
+  },
+  "1144" : {
+    "id" : 1144,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "die",
+    "orientation" : "ld",
+    "pivotX" : 0.4806,
+    "pivotY" : 0.20597
+  },
+  "1145" : {
+    "id" : 1145,
+    "modelId" : 4100011,
+    "modelName" : "瑶姬",
+    "action" : "die",
+    "orientation" : "ru",
+    "pivotX" : 0.53731,
+    "pivotY" : 0.20896
+  },
+  "1146" : {
+    "id" : 1146,
+    "modelId" : 4100012,
+    "modelName" : "穷奇",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.55,
+    "pivotY" : 0.27917
+  },
+  "1147" : {
+    "id" : 1147,
+    "modelId" : 4100013,
+    "modelName" : "腾根",
+    "action" : "stand",
+    "orientation" : "rd",
+    "pivotX" : 0.38305,
+    "pivotY" : 0.20789
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "god_beast_show",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.9333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "font_gongxihuode": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              }
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "bg_houzi2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "font_liuermihouw": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
